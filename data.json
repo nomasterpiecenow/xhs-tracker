@@ -34399,24 +34399,23 @@
         "theme": "高铁车厢沉浸式美妆与个人护理",
         "category": "theme",
         "sourceEventId": null,
-        "evidenceCount": 6,
+        "evidenceCount": 4,
         "momentum": "new",
-        "momentumDelta": "信号笔记 近7天6 vs 前23天0",
+        "momentumDelta": "信号笔记 近7天4 vs 前23天0",
         "sampleNoteIds": [
-          "6a801c5400000000050331d5",
-          "6a75a04400000000280091dc",
           "6a715bd2000000000600425a",
           "6a75aa3e0000000028002c1c",
-          "6a6dc6a70000000028004f95",
-          "6a8034a40000000025002b6c"
+          "6a8034a40000000025002b6c",
+          "6a7ae3370000000032031376"
         ],
         "_description": "捕捉旅客将高铁车厢作为美妆展示与个人护理场景，强调沉浸式体验与快手换头的现象。",
         "relations": [
           {
             "toThemeKey": "exquisite_train_lifestyle",
             "toThemeName": "高铁出行精致生活方式与好物分享",
-            "desc": "车厢美妆与个人护理是精致出行生活方式的延伸与具体表现",
-            "confidence": 0.8
+            "desc": "车厢美妆与吃喝好物均将列车视为生活秀场，相互叠加放大精致人设。",
+            "implication": "可合并高铁沉浸式体验标签，提供图文一键发布模板。",
+            "confidence": 0.85
           }
         ],
         "why": "近7天新增6条信号笔记而前23天为0，高铁车厢内沉浸式美妆与护理成为新兴出行生活方式，反映了用户对长途旅行舒适度的自我提升。",
@@ -34430,23 +34429,23 @@
         "theme": "车厢儿童噪音冲突与静音博弈",
         "category": "theme",
         "sourceEventId": null,
-        "evidenceCount": 6,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天3 vs 前23天3",
+        "evidenceCount": 5,
+        "momentum": "rising",
+        "momentumDelta": "信号笔记 近7天4 vs 前23天1",
         "sampleNoteIds": [
           "6a5f71ca000000002201b9b9",
-          "6a71b86500000000080122a8",
-          "6a69f3fb000000000f009719",
           "6a6dee82000000002500080a",
-          "6a50823b000000001003d129",
-          "6a7536b10000000005029082"
+          "6a71b86500000000080122a8",
+          "douyin:7662701664772367729",
+          "douyin:7671983955709104362"
         ],
         "_description": "捕捉围绕高铁儿童噪音、熊孩子行为及静音车厢规则引发的冲突、应对策略与情绪共鸣现象。",
         "relations": [
           {
             "toThemeKey": "seat_space_boundary",
             "toThemeName": "密闭空间座位边界与规则争议",
-            "desc": "儿童噪音与占座冲突均源于密闭公共空间内的规则边界模糊与个人素质差异",
+            "desc": "熊孩子吵闹常伴随踢椅背或抢占座位，引发空间与噪音的双重边界摩擦。",
+            "implication": "可开发一键呼叫乘务或匿名投诉的快捷服务入口。",
             "confidence": 0.9
           }
         ],
@@ -34461,14 +34460,13 @@
         "theme": "绿皮列车复古情怀与慢生活治愈",
         "category": "theme",
         "sourceEventId": null,
-        "evidenceCount": 6,
+        "evidenceCount": 5,
         "momentum": "new",
-        "momentumDelta": "信号笔记 近7天6 vs 前23天0",
+        "momentumDelta": "信号笔记 近7天5 vs 前23天0",
         "sampleNoteIds": [
           "6a7ab63a0000000029031500",
           "6a633b5e000000001c00f8f8",
           "douyin:7672975237676009083",
-          "douyin:7673107162859605299",
           "6a76165c000000002603789b",
           "6a7021d2000000003302e45d"
         ],
@@ -34477,8 +34475,9 @@
           {
             "toThemeKey": "exquisite_train_lifestyle",
             "toThemeName": "高铁出行精致生活方式与好物分享",
-            "desc": "两者均将列车出行本身作为体验主体，但前者侧重慢速怀旧，后者侧重现代精致",
-            "confidence": 0.7
+            "desc": "绿皮车怀旧氛围与车厢内精致吃喝形成反差，用户倾向记录此反差生活。",
+            "implication": "可针对慢火车推出慢时光好物专属话题或特色带货专区。",
+            "confidence": 0.75
           }
         ],
         "why": "近7天新增6条信号笔记而前23天为0，绿皮列车的复古情怀与慢生活体验成为新晋热门话题，体现了部分用户对非效率导向旅行的情感需求。",
@@ -34492,24 +34491,23 @@
         "theme": "密闭空间座位边界与规则争议",
         "category": "theme",
         "sourceEventId": null,
-        "evidenceCount": 6,
+        "evidenceCount": 4,
         "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天3 vs 前23天3",
+        "momentumDelta": "信号笔记 近7天2 vs 前23天2",
         "sampleNoteIds": [
-          "6a6589d3000000000301e957",
-          "6a7a99bf0000000005032347",
-          "6a7a680f0000000028007ba8",
           "6a63759d000000000f011201",
+          "douyin:7672235255659463665",
           "douyin:7664541883155365482",
-          "douyin:7672235255659463665"
+          "6a7a99bf0000000005032347"
         ],
         "_description": "捕捉聚焦于列车密闭空间内座位使用权、空间边界引发的规则探讨与人际摩擦现象。",
         "relations": [
           {
-            "toThemeKey": "cabin_noise_and_children",
-            "toThemeName": "车厢儿童噪音冲突与静音博弈",
-            "desc": "座位边界争议与儿童噪音冲突同属密闭空间内的公共秩序与规则博弈",
-            "confidence": 0.9
+            "toThemeKey": "railway_rules_and_hacks",
+            "toThemeName": "铁路票务规则科普与出行避坑指南",
+            "desc": "乘客对换座或儿童免票规则认知模糊，常需通过规则科普厘清座位争议。",
+            "implication": "可在购票后自动推送座位规则与边界指南，前置减少纠纷。",
+            "confidence": 0.8
           }
         ],
         "why": "近7天3条信号笔记与前23天3条持平，密闭空间内的座位边界与规则争议持续存在，反映出用户对私人空间与公共规则平衡的长期关注。",
@@ -34523,26 +34521,18 @@
         "theme": "高铁出行精致生活方式与好物分享",
         "category": "theme",
         "sourceEventId": null,
-        "evidenceCount": 6,
-        "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天2 vs 前23天4",
+        "evidenceCount": 5,
+        "momentum": "rising",
+        "momentumDelta": "信号笔记 近7天3 vs 前23天2",
         "sampleNoteIds": [
-          "6a60bd87000000000301db0a",
+          "6a801c5400000000050331d5",
+          "6a7850a2000000002201012f",
           "6a803a56000000000503013d",
-          "6a5d8f8e000000000e037b4a",
           "6a5611690000000011015762",
-          "6a6c764a00000000330343e1",
           "6a4b6e92000000000702e28e"
         ],
         "_description": "捕捉将高铁出行视为展示精致生活方式、分享出行好物与极限吃喝体验的场景化现象。",
-        "relations": [
-          {
-            "toThemeKey": "train_cabin_makeup",
-            "toThemeName": "高铁车厢沉浸式美妆与个人护理",
-            "desc": "精致生活方式涵盖了车厢美妆，两者共同构建了高铁出行作为个人秀场的现象",
-            "confidence": 0.8
-          }
-        ],
+        "relations": [],
         "why": "近7天信号笔记降至2，少于前23天的4，高铁精致生活与好物分享的热度正在褪去，可能是相关内容已进入长尾期或缺乏新的刺激点。",
         "productImplication": "暂不建议动作",
         "firstSeen": "2026-08-17",
@@ -34554,26 +34544,17 @@
         "theme": "铁路票务规则科普与出行避坑指南",
         "category": "theme",
         "sourceEventId": null,
-        "evidenceCount": 6,
+        "evidenceCount": 4,
         "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天5",
+        "momentumDelta": "信号笔记 近7天1 vs 前23天3",
         "sampleNoteIds": [
-          "6a671b4c000000000301d591",
           "6a63321d000000001101b7d6",
-          "6a4dec1f00000000220083f6",
-          "6a62ea27000000000101f2f6",
           "douyin:7674184971791154277",
-          "6a4b8429000000000802588e"
+          "6a61d5fb000000000c015314",
+          "6a671b4c000000000301d591"
         ],
         "_description": "捕捉旅客对12306隐藏功能、票务规则、退改签政策及禁带物品等出行常识的探讨、科普与避坑经验分享现象。",
-        "relations": [
-          {
-            "toThemeKey": "seat_space_boundary",
-            "toThemeName": "密闭空间座位边界与规则争议",
-            "desc": "票务规则与座位边界争议均涉及对铁路乘车契约与空间使用权的界定",
-            "confidence": 0.7
-          }
-        ],
+        "relations": [],
         "why": "近7天信号笔记降至1，远少于前23天的5，铁路规则科普与避坑指南的讨论热度明显衰退，说明常规规则科普内容已相对饱和。",
         "productImplication": "暂不建议动作",
         "firstSeen": "2026-08-17",
@@ -34581,7 +34562,7 @@
         "lastSeen": "2026-08-17"
       }
     ],
-    "generatedAt": "2026-08-17 20:33:47",
+    "generatedAt": "2026-08-17 20:55:57",
     "history": [
       {
         "date": "2026-08-13",
@@ -36139,24 +36120,23 @@
             "theme": "高铁车厢沉浸式美妆与个人护理",
             "category": "theme",
             "sourceEventId": null,
-            "evidenceCount": 6,
+            "evidenceCount": 4,
             "momentum": "new",
-            "momentumDelta": "信号笔记 近7天6 vs 前23天0",
+            "momentumDelta": "信号笔记 近7天4 vs 前23天0",
             "sampleNoteIds": [
-              "6a801c5400000000050331d5",
-              "6a75a04400000000280091dc",
               "6a715bd2000000000600425a",
               "6a75aa3e0000000028002c1c",
-              "6a6dc6a70000000028004f95",
-              "6a8034a40000000025002b6c"
+              "6a8034a40000000025002b6c",
+              "6a7ae3370000000032031376"
             ],
             "_description": "捕捉旅客将高铁车厢作为美妆展示与个人护理场景，强调沉浸式体验与快手换头的现象。",
             "relations": [
               {
                 "toThemeKey": "exquisite_train_lifestyle",
                 "toThemeName": "高铁出行精致生活方式与好物分享",
-                "desc": "车厢美妆与个人护理是精致出行生活方式的延伸与具体表现",
-                "confidence": 0.8
+                "desc": "车厢美妆与吃喝好物均将列车视为生活秀场，相互叠加放大精致人设。",
+                "implication": "可合并高铁沉浸式体验标签，提供图文一键发布模板。",
+                "confidence": 0.85
               }
             ],
             "why": "近7天新增6条信号笔记而前23天为0，高铁车厢内沉浸式美妆与护理成为新兴出行生活方式，反映了用户对长途旅行舒适度的自我提升。",
@@ -36170,23 +36150,23 @@
             "theme": "车厢儿童噪音冲突与静音博弈",
             "category": "theme",
             "sourceEventId": null,
-            "evidenceCount": 6,
-            "momentum": "stable",
-            "momentumDelta": "信号笔记 近7天3 vs 前23天3",
+            "evidenceCount": 5,
+            "momentum": "rising",
+            "momentumDelta": "信号笔记 近7天4 vs 前23天1",
             "sampleNoteIds": [
               "6a5f71ca000000002201b9b9",
-              "6a71b86500000000080122a8",
-              "6a69f3fb000000000f009719",
               "6a6dee82000000002500080a",
-              "6a50823b000000001003d129",
-              "6a7536b10000000005029082"
+              "6a71b86500000000080122a8",
+              "douyin:7662701664772367729",
+              "douyin:7671983955709104362"
             ],
             "_description": "捕捉围绕高铁儿童噪音、熊孩子行为及静音车厢规则引发的冲突、应对策略与情绪共鸣现象。",
             "relations": [
               {
                 "toThemeKey": "seat_space_boundary",
                 "toThemeName": "密闭空间座位边界与规则争议",
-                "desc": "儿童噪音与占座冲突均源于密闭公共空间内的规则边界模糊与个人素质差异",
+                "desc": "熊孩子吵闹常伴随踢椅背或抢占座位，引发空间与噪音的双重边界摩擦。",
+                "implication": "可开发一键呼叫乘务或匿名投诉的快捷服务入口。",
                 "confidence": 0.9
               }
             ],
@@ -36201,14 +36181,13 @@
             "theme": "绿皮列车复古情怀与慢生活治愈",
             "category": "theme",
             "sourceEventId": null,
-            "evidenceCount": 6,
+            "evidenceCount": 5,
             "momentum": "new",
-            "momentumDelta": "信号笔记 近7天6 vs 前23天0",
+            "momentumDelta": "信号笔记 近7天5 vs 前23天0",
             "sampleNoteIds": [
               "6a7ab63a0000000029031500",
               "6a633b5e000000001c00f8f8",
               "douyin:7672975237676009083",
-              "douyin:7673107162859605299",
               "6a76165c000000002603789b",
               "6a7021d2000000003302e45d"
             ],
@@ -36217,8 +36196,9 @@
               {
                 "toThemeKey": "exquisite_train_lifestyle",
                 "toThemeName": "高铁出行精致生活方式与好物分享",
-                "desc": "两者均将列车出行本身作为体验主体，但前者侧重慢速怀旧，后者侧重现代精致",
-                "confidence": 0.7
+                "desc": "绿皮车怀旧氛围与车厢内精致吃喝形成反差，用户倾向记录此反差生活。",
+                "implication": "可针对慢火车推出慢时光好物专属话题或特色带货专区。",
+                "confidence": 0.75
               }
             ],
             "why": "近7天新增6条信号笔记而前23天为0，绿皮列车的复古情怀与慢生活体验成为新晋热门话题，体现了部分用户对非效率导向旅行的情感需求。",
@@ -36232,24 +36212,23 @@
             "theme": "密闭空间座位边界与规则争议",
             "category": "theme",
             "sourceEventId": null,
-            "evidenceCount": 6,
+            "evidenceCount": 4,
             "momentum": "stable",
-            "momentumDelta": "信号笔记 近7天3 vs 前23天3",
+            "momentumDelta": "信号笔记 近7天2 vs 前23天2",
             "sampleNoteIds": [
-              "6a6589d3000000000301e957",
-              "6a7a99bf0000000005032347",
-              "6a7a680f0000000028007ba8",
               "6a63759d000000000f011201",
+              "douyin:7672235255659463665",
               "douyin:7664541883155365482",
-              "douyin:7672235255659463665"
+              "6a7a99bf0000000005032347"
             ],
             "_description": "捕捉聚焦于列车密闭空间内座位使用权、空间边界引发的规则探讨与人际摩擦现象。",
             "relations": [
               {
-                "toThemeKey": "cabin_noise_and_children",
-                "toThemeName": "车厢儿童噪音冲突与静音博弈",
-                "desc": "座位边界争议与儿童噪音冲突同属密闭空间内的公共秩序与规则博弈",
-                "confidence": 0.9
+                "toThemeKey": "railway_rules_and_hacks",
+                "toThemeName": "铁路票务规则科普与出行避坑指南",
+                "desc": "乘客对换座或儿童免票规则认知模糊，常需通过规则科普厘清座位争议。",
+                "implication": "可在购票后自动推送座位规则与边界指南，前置减少纠纷。",
+                "confidence": 0.8
               }
             ],
             "why": "近7天3条信号笔记与前23天3条持平，密闭空间内的座位边界与规则争议持续存在，反映出用户对私人空间与公共规则平衡的长期关注。",
@@ -36263,26 +36242,18 @@
             "theme": "高铁出行精致生活方式与好物分享",
             "category": "theme",
             "sourceEventId": null,
-            "evidenceCount": 6,
-            "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天2 vs 前23天4",
+            "evidenceCount": 5,
+            "momentum": "rising",
+            "momentumDelta": "信号笔记 近7天3 vs 前23天2",
             "sampleNoteIds": [
-              "6a60bd87000000000301db0a",
+              "6a801c5400000000050331d5",
+              "6a7850a2000000002201012f",
               "6a803a56000000000503013d",
-              "6a5d8f8e000000000e037b4a",
               "6a5611690000000011015762",
-              "6a6c764a00000000330343e1",
               "6a4b6e92000000000702e28e"
             ],
             "_description": "捕捉将高铁出行视为展示精致生活方式、分享出行好物与极限吃喝体验的场景化现象。",
-            "relations": [
-              {
-                "toThemeKey": "train_cabin_makeup",
-                "toThemeName": "高铁车厢沉浸式美妆与个人护理",
-                "desc": "精致生活方式涵盖了车厢美妆，两者共同构建了高铁出行作为个人秀场的现象",
-                "confidence": 0.8
-              }
-            ],
+            "relations": [],
             "why": "近7天信号笔记降至2，少于前23天的4，高铁精致生活与好物分享的热度正在褪去，可能是相关内容已进入长尾期或缺乏新的刺激点。",
             "productImplication": "暂不建议动作",
             "firstSeen": "2026-08-17",
@@ -36294,26 +36265,17 @@
             "theme": "铁路票务规则科普与出行避坑指南",
             "category": "theme",
             "sourceEventId": null,
-            "evidenceCount": 6,
+            "evidenceCount": 4,
             "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天1 vs 前23天5",
+            "momentumDelta": "信号笔记 近7天1 vs 前23天3",
             "sampleNoteIds": [
-              "6a671b4c000000000301d591",
               "6a63321d000000001101b7d6",
-              "6a4dec1f00000000220083f6",
-              "6a62ea27000000000101f2f6",
               "douyin:7674184971791154277",
-              "6a4b8429000000000802588e"
+              "6a61d5fb000000000c015314",
+              "6a671b4c000000000301d591"
             ],
             "_description": "捕捉旅客对12306隐藏功能、票务规则、退改签政策及禁带物品等出行常识的探讨、科普与避坑经验分享现象。",
-            "relations": [
-              {
-                "toThemeKey": "seat_space_boundary",
-                "toThemeName": "密闭空间座位边界与规则争议",
-                "desc": "票务规则与座位边界争议均涉及对铁路乘车契约与空间使用权的界定",
-                "confidence": 0.7
-              }
-            ],
+            "relations": [],
             "why": "近7天信号笔记降至1，远少于前23天的5，铁路规则科普与避坑指南的讨论热度明显衰退，说明常规规则科普内容已相对饱和。",
             "productImplication": "暂不建议动作",
             "firstSeen": "2026-08-17",
@@ -36438,7 +36400,7 @@
           "theme": "车厢儿童噪音冲突与静音博弈",
           "category": "theme",
           "mentions": 1,
-          "latestMomentum": "stable"
+          "latestMomentum": "rising"
         },
         {
           "theme": "绿皮列车复古情怀与慢生活治愈",
@@ -36456,7 +36418,7 @@
           "theme": "高铁出行精致生活方式与好物分享",
           "category": "theme",
           "mentions": 1,
-          "latestMomentum": "fading"
+          "latestMomentum": "rising"
         },
         {
           "theme": "铁路票务规则科普与出行避坑指南",
@@ -36472,13 +36434,14 @@
         "theme": "高铁车厢沉浸式美妆与个人护理",
         "description": "捕捉旅客将高铁车厢作为美妆展示与个人护理场景，强调沉浸式体验与快手换头的现象。",
         "lastSeen": "2026-08-17",
-        "heat": 6,
+        "heat": 4,
         "relations": [
           {
             "toThemeKey": "exquisite_train_lifestyle",
             "toThemeName": "高铁出行精致生活方式与好物分享",
-            "desc": "车厢美妆与个人护理是精致出行生活方式的延伸与具体表现",
-            "confidence": 0.8
+            "desc": "车厢美妆与吃喝好物均将列车视为生活秀场，相互叠加放大精致人设。",
+            "implication": "可合并高铁沉浸式体验标签，提供图文一键发布模板。",
+            "confidence": 0.85
           }
         ]
       },
@@ -36487,12 +36450,13 @@
         "theme": "车厢儿童噪音冲突与静音博弈",
         "description": "捕捉围绕高铁儿童噪音、熊孩子行为及静音车厢规则引发的冲突、应对策略与情绪共鸣现象。",
         "lastSeen": "2026-08-17",
-        "heat": 6,
+        "heat": 5,
         "relations": [
           {
             "toThemeKey": "seat_space_boundary",
             "toThemeName": "密闭空间座位边界与规则争议",
-            "desc": "儿童噪音与占座冲突均源于密闭公共空间内的规则边界模糊与个人素质差异",
+            "desc": "熊孩子吵闹常伴随踢椅背或抢占座位，引发空间与噪音的双重边界摩擦。",
+            "implication": "可开发一键呼叫乘务或匿名投诉的快捷服务入口。",
             "confidence": 0.9
           }
         ]
@@ -36502,13 +36466,14 @@
         "theme": "绿皮列车复古情怀与慢生活治愈",
         "description": "捕捉将绿皮火车或慢速列车作为体验慢生活、怀旧复古情怀和获取情绪治愈载体的现象。",
         "lastSeen": "2026-08-17",
-        "heat": 6,
+        "heat": 5,
         "relations": [
           {
             "toThemeKey": "exquisite_train_lifestyle",
             "toThemeName": "高铁出行精致生活方式与好物分享",
-            "desc": "两者均将列车出行本身作为体验主体，但前者侧重慢速怀旧，后者侧重现代精致",
-            "confidence": 0.7
+            "desc": "绿皮车怀旧氛围与车厢内精致吃喝形成反差，用户倾向记录此反差生活。",
+            "implication": "可针对慢火车推出慢时光好物专属话题或特色带货专区。",
+            "confidence": 0.75
           }
         ]
       },
@@ -36517,13 +36482,14 @@
         "theme": "密闭空间座位边界与规则争议",
         "description": "捕捉聚焦于列车密闭空间内座位使用权、空间边界引发的规则探讨与人际摩擦现象。",
         "lastSeen": "2026-08-17",
-        "heat": 6,
+        "heat": 4,
         "relations": [
           {
-            "toThemeKey": "cabin_noise_and_children",
-            "toThemeName": "车厢儿童噪音冲突与静音博弈",
-            "desc": "座位边界争议与儿童噪音冲突同属密闭空间内的公共秩序与规则博弈",
-            "confidence": 0.9
+            "toThemeKey": "railway_rules_and_hacks",
+            "toThemeName": "铁路票务规则科普与出行避坑指南",
+            "desc": "乘客对换座或儿童免票规则认知模糊，常需通过规则科普厘清座位争议。",
+            "implication": "可在购票后自动推送座位规则与边界指南，前置减少纠纷。",
+            "confidence": 0.8
           }
         ]
       },
@@ -36532,30 +36498,16 @@
         "theme": "高铁出行精致生活方式与好物分享",
         "description": "捕捉将高铁出行视为展示精致生活方式、分享出行好物与极限吃喝体验的场景化现象。",
         "lastSeen": "2026-08-17",
-        "heat": 6,
-        "relations": [
-          {
-            "toThemeKey": "train_cabin_makeup",
-            "toThemeName": "高铁车厢沉浸式美妆与个人护理",
-            "desc": "精致生活方式涵盖了车厢美妆，两者共同构建了高铁出行作为个人秀场的现象",
-            "confidence": 0.8
-          }
-        ]
+        "heat": 5,
+        "relations": []
       },
       "railway_rules_and_hacks": {
         "firstSeen": "2026-08-17",
         "theme": "铁路票务规则科普与出行避坑指南",
         "description": "捕捉旅客对12306隐藏功能、票务规则、退改签政策及禁带物品等出行常识的探讨、科普与避坑经验分享现象。",
         "lastSeen": "2026-08-17",
-        "heat": 6,
-        "relations": [
-          {
-            "toThemeKey": "seat_space_boundary",
-            "toThemeName": "密闭空间座位边界与规则争议",
-            "desc": "票务规则与座位边界争议均涉及对铁路乘车契约与空间使用权的界定",
-            "confidence": 0.7
-          }
-        ]
+        "heat": 4,
+        "relations": []
       }
     }
   }
