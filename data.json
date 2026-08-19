@@ -36872,7 +36872,7 @@
         "lastSeen": "2026-08-19"
       }
     ],
-    "generatedAt": "2026-08-19 07:51",
+    "generatedAt": "2026-08-19 11:06:42",
     "history": [
       {
         "date": "2026-08-13",
@@ -39416,145 +39416,388 @@
       }
     ],
     "weekly": {
-      "generatedAt": "2026-08-17",
+      "generatedAt": "2026-08-19",
+      "summary": "本周趋势信号详见下方明细（AI 综述暂未生成）。",
       "items": [
         {
+          "key": "ev:占座__李权哲",
           "theme": "李权哲",
           "category": "event",
-          "mentions": 5,
-          "latestMomentum": "rising"
+          "mentions": 7,
+          "latestMomentum": "fading",
+          "evidenceCount": 16,
+          "why": "讨论量近7天68条 vs 前23天26条，公众人物相关的占座事件引发了极高的网络关注与情绪共鸣，值得PM关注以防范或应对类似舆情。",
+          "productImplication": "在购票或乘车页面增加规范占座的趣味提示，或优化选座时的同行人连座推荐逻辑以减少占座纠纷。",
+          "relations": [],
+          "overview": ""
         },
         {
-          "theme": "12306新生预约购票",
-          "category": "event",
-          "mentions": 5,
-          "latestMomentum": "rising"
-        },
-        {
-          "theme": "00后列车员发试卷静音",
-          "category": "event",
-          "mentions": 5,
-          "latestMomentum": "rising"
-        },
-        {
-          "theme": "暴雨致列车停运",
-          "category": "event",
-          "mentions": 5,
-          "latestMomentum": "rising"
-        },
-        {
-          "theme": "台风停运",
-          "category": "event",
-          "mentions": 5,
-          "latestMomentum": "rising"
-        },
-        {
-          "theme": "高铁打火机",
-          "category": "event",
-          "mentions": 5,
-          "latestMomentum": "rising"
-        },
-        {
-          "theme": "台风白海豚致列车停运",
-          "category": "event",
-          "mentions": 5,
-          "latestMomentum": "new"
-        },
-        {
+          "key": "ev:占座__免票儿童挤双人座",
           "theme": "免票儿童挤双人座",
           "category": "event",
-          "mentions": 5,
-          "latestMomentum": "new"
+          "mentions": 7,
+          "latestMomentum": "new",
+          "evidenceCount": 9,
+          "why": "讨论量近7天9条 vs 前23天0条，暴露出当前儿童免票规则在物理空间分配上的矛盾，极易引发同排旅客投诉与体验下降。",
+          "productImplication": "优化带儿童旅客的购票选座逻辑，优先推荐宽座或同排多座，并在购票须知中明确免票儿童的空间使用规则。",
+          "relations": [],
+          "overview": ""
         },
         {
+          "key": "ev:晚点__台风停运",
+          "theme": "台风停运",
+          "category": "event",
+          "mentions": 7,
+          "latestMomentum": "fading",
+          "evidenceCount": 4,
+          "why": "讨论量近7天15条 vs 前23天2条，突发天气导致的列车大面积停运直接影响用户行程，短期内聚集了大量受阻旅客的焦虑情绪。",
+          "productImplication": "强化极端天气下的停运退改签自动化处理与主动消息推送能力，减少用户手动操作成本并安抚焦躁情绪。",
+          "relations": [],
+          "overview": ""
+        },
+        {
+          "key": "ev:停运__台风白海豚致列车停运",
+          "theme": "台风白海豚致列车停运",
+          "category": "event",
+          "mentions": 7,
+          "latestMomentum": "fading",
+          "evidenceCount": 4,
+          "why": "讨论量近7天10条 vs 前23天0条，属于突发性极端天气事件，属于新增舆情热点，需重点关注受阻旅客的应急诉求。",
+          "productImplication": "针对特定台风或暴雨事件建立专项应急服务落地页，集中展示受影响车次、退改规则及安置指南。",
+          "relations": [],
+          "overview": ""
+        },
+        {
+          "key": "ev:票价__12306新生预约购票",
+          "theme": "12306新生预约购票",
+          "category": "event",
+          "mentions": 7,
+          "latestMomentum": "fading",
+          "evidenceCount": 3,
+          "why": "讨论量近7天18条 vs 前23天7条，正值开学季新生预约购票政策落地期，用户关注度快速攀升，是拉新和提升活跃的关键节点。",
+          "productImplication": "在APP首页增加新生购票专区或优化新生资质核验与预约购票的引导流程，提供一站式迎新出行服务。",
+          "relations": [],
+          "overview": ""
+        },
+        {
+          "key": "ev:安检__高铁打火机",
+          "theme": "高铁打火机",
+          "category": "event",
+          "mentions": 7,
+          "latestMomentum": "fading",
+          "evidenceCount": 2,
+          "why": "讨论量近7天9条 vs 前23天1条，说明旅客对禁带物品的具体规定仍存在认知盲区，容易在安检口引发摩擦与误车风险。",
+          "productImplication": "在订单支付后或出行前通过Push或短信推送定制化的安检禁带物品趣味科普或查询入口。",
+          "relations": [],
+          "overview": ""
+        },
+        {
+          "key": "ev:静音车厢__00后列车员发试卷静音",
+          "theme": "00后列车员发试卷静音",
+          "category": "event",
+          "mentions": 6,
+          "latestMomentum": "rising",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
+        },
+        {
+          "key": "ev:停运__暴雨致列车停运",
+          "theme": "暴雨致列车停运",
+          "category": "event",
+          "mentions": 6,
+          "latestMomentum": "rising",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
+        },
+        {
+          "key": "ev:抢票__预约购票",
           "theme": "预约购票",
           "category": "event",
           "mentions": 5,
-          "latestMomentum": "fading"
+          "latestMomentum": "fading",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         },
         {
+          "key": "ev:维权__65岁女老板跨省追讨仅退款",
           "theme": "65岁女老板跨省追讨仅退款",
           "category": "event",
           "mentions": 4,
-          "latestMomentum": "new"
+          "latestMomentum": "new",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         },
         {
+          "key": "th:cabin_grooming",
           "theme": "车厢内个人护理与形象管理",
           "category": "theme",
           "mentions": 4,
-          "latestMomentum": "rising"
+          "latestMomentum": "rising",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         },
         {
+          "key": "th:child_behavior_boundary",
           "theme": "公共空间儿童行为边界与应对",
           "category": "theme",
           "mentions": 4,
-          "latestMomentum": "rising"
+          "latestMomentum": "rising",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         },
         {
+          "key": "th:extreme_dining_experience",
           "theme": "旅途夸张餐饮与猎奇饮食体验",
           "category": "theme",
           "mentions": 4,
-          "latestMomentum": "fading"
+          "latestMomentum": "fading",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         },
         {
+          "key": "th:cross_dimension_commute",
           "theme": "跨次元角色的接地气通勤脑洞",
           "category": "theme",
           "mentions": 4,
-          "latestMomentum": "new"
+          "latestMomentum": "new",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         },
         {
+          "key": "th:humanized_railway_service",
           "theme": "铁路服务的人性化与规则外温情",
           "category": "theme",
           "mentions": 4,
-          "latestMomentum": "rising"
+          "latestMomentum": "rising",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         },
         {
+          "key": "ev:投诉__北京火车站无障碍设施",
+          "theme": "北京火车站无障碍设施",
+          "category": "event",
+          "mentions": 3,
+          "latestMomentum": "new",
+          "evidenceCount": 7,
+          "why": "讨论量近7天7条 vs 前23天0条，反映出重点枢纽的无障碍服务存在短板，损害了特殊群体的出行体验与品牌温度。",
+          "productImplication": "在重点车站的站内导航或行程服务中，完善无障碍设施的精准标注与重点提示。",
+          "relations": [],
+          "overview": ""
+        },
+        {
+          "key": "th:train_cabin_makeup",
+          "theme": "高铁车厢沉浸式美妆与个人护理",
+          "category": "theme",
+          "mentions": 3,
+          "latestMomentum": "new",
+          "evidenceCount": 5,
+          "why": "讨论量近7天6条 vs 前23天0条，反映出部分旅客将高铁视为个人护理的延伸场景，对车厢环境细节有潜在需求。",
+          "productImplication": "暂不建议动作",
+          "relations": [
+            {
+              "toThemeKey": "exquisite_train_lifestyle",
+              "toThemeName": "高铁出行精致生活方式与好物分享",
+              "desc": "车厢翻包分享常包含美妆工具，精致好物展示是沉浸式美妆的前置环节。",
+              "implication": "可在出行好物模块增加“高铁美妆/洗漱收纳”专区。",
+              "confidence": 0.8
+            }
+          ],
+          "overview": ""
+        },
+        {
+          "key": "th:cabin_noise_and_children",
+          "theme": "车厢儿童噪音冲突与静音博弈",
+          "category": "theme",
+          "mentions": 3,
+          "latestMomentum": "fading",
+          "evidenceCount": 5,
+          "why": "讨论量近7天2条 vs 前23天4条，热度正在衰退，说明前期的静音车厢推广或社会讨论已告一段落，但底层矛盾依然存在。",
+          "productImplication": "暂不建议动作",
+          "relations": [
+            {
+              "toThemeKey": "seat_space_boundary",
+              "toThemeName": "密闭空间座位边界与规则争议",
+              "desc": "儿童踢座或挤座引发的噪音，常同时触发对座位空间侵占的边界争议。",
+              "implication": "可在选座时增加“带娃/静音”标签及防噪提示引导。",
+              "confidence": 0.9
+            }
+          ],
+          "overview": ""
+        },
+        {
+          "key": "th:seat_space_boundary",
+          "theme": "密闭空间座位边界与规则争议",
+          "category": "theme",
+          "mentions": 3,
+          "latestMomentum": "fading",
+          "evidenceCount": 5,
+          "why": "讨论量近7天1条 vs 前23天2条，热度逐渐平息，但密闭空间内的规则模糊地带仍是引发纠纷的隐患。",
+          "productImplication": "暂不建议动作",
+          "relations": [
+            {
+              "toThemeKey": "railway_rules_and_hacks",
+              "toThemeName": "铁路票务规则科普与出行避坑指南",
+              "desc": "占座或让座争议中，用户常通过科普免票儿童及选座规则来论证边界。",
+              "implication": "可在选座或乘车页面植入“座位权益与儿童票规则”智能问答。",
+              "confidence": 0.85
+            }
+          ],
+          "overview": ""
+        },
+        {
+          "key": "th:exquisite_train_lifestyle",
+          "theme": "高铁出行精致生活方式与好物分享",
+          "category": "theme",
+          "mentions": 3,
+          "latestMomentum": "fading",
+          "evidenceCount": 5,
+          "why": "讨论量近7天3条 vs 前23天3条，热度平稳，说明高铁出行已成为用户展示精致生活方式的固定场景，相关需求具有长尾特征。",
+          "productImplication": "在行程详情页或候车服务中，引入高铁餐饮、周边好物或出行用品的精选推荐与购买入口。",
+          "relations": [
+            {
+              "toThemeKey": "train_cabin_makeup",
+              "toThemeName": "高铁车厢沉浸式美妆与个人护理",
+              "desc": "极限吃喝与好物翻包常作为车厢沉浸式美妆或护理场景的背景元素。",
+              "implication": "可合并“车厢好物”与“美妆洗漱”为统一的“精致出行”场景。",
+              "confidence": 0.75
+            }
+          ],
+          "overview": ""
+        },
+        {
+          "key": "th:railway_rules_and_hacks",
+          "theme": "铁路票务规则科普与出行避坑指南",
+          "category": "theme",
+          "mentions": 3,
+          "latestMomentum": "fading",
+          "evidenceCount": 5,
+          "why": "讨论量近7天1条 vs 前23天5条，热度快速衰退，可能因为12306近期的规则优化或前期科普已较为充分，用户认知壁垒降低。",
+          "productImplication": "暂不建议动作",
+          "relations": [
+            {
+              "toThemeKey": "seat_space_boundary",
+              "toThemeName": "密闭空间座位边界与规则争议",
+              "desc": "对12306隐藏功能与退改签规则的挖掘，常源于对座位分配争议的避坑需求。",
+              "implication": "可在订单页提供“退改签/选座规则”的一键科普与智能客服入口。",
+              "confidence": 0.8
+            }
+          ],
+          "overview": ""
+        },
+        {
+          "key": "th:slow_train_nostalgia",
+          "theme": "绿皮列车复古情怀与慢生活治愈",
+          "category": "theme",
+          "mentions": 3,
+          "latestMomentum": "dormant",
+          "evidenceCount": 0,
+          "why": "讨论量近7天6条 vs 前23天0条，表明慢火车在年轻群体中演变为一种文旅体验产品，具有独特的情绪价值与破圈潜力。",
+          "productImplication": "探索推出慢火车或绿皮车专属文旅购票专区或纪念票根产品，满足用户的复古情怀与打卡需求。",
+          "relations": [
+            {
+              "toThemeKey": "exquisite_train_lifestyle",
+              "toThemeName": "高铁出行精致生活方式与好物分享",
+              "desc": "绿皮车的慢节奏体验常与卧铺好物及车厢吃喝结合，强化情绪治愈感。",
+              "implication": "可开发绿皮火车慢游路线或卧铺好物清单等专题内容聚合页，提升转化。",
+              "confidence": 0.8
+            }
+          ],
+          "overview": ""
+        },
+        {
+          "key": "ev:温情__高铁破例等候9分钟",
+          "theme": "高铁破例等候9分钟",
+          "category": "event",
+          "mentions": 2,
+          "latestMomentum": "rising",
+          "evidenceCount": 4,
+          "why": "讨论量近7天6条 vs 前23天0条，体现了用户对人性化服务的极高赞誉，属于偶发性温情事件，是提升品牌好感度的绝佳契机。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": ""
+        },
+        {
+          "key": "th:green_train_nostalgia",
           "theme": "绿皮火车的怀旧情怀与情感投射",
           "category": "theme",
           "mentions": 2,
-          "latestMomentum": "new"
+          "latestMomentum": "new",
+          "evidenceCount": 0,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         },
         {
-          "theme": "北京火车站无障碍设施",
+          "key": "th:acg_ip_train_meme",
+          "theme": "二次元与影视IP的高铁脑洞玩梗",
+          "category": "theme",
+          "mentions": 1,
+          "latestMomentum": "new",
+          "evidenceCount": 5,
+          "why": "",
+          "productImplication": "",
+          "relations": [
+            {
+              "toThemeKey": "slow_train_nostalgia",
+              "toThemeName": "绿皮列车复古情怀与慢生活治愈",
+              "desc": "IP神仙脑洞与绿皮车怀旧，均将列车作为脱离现实的沉浸式情绪载体。",
+              "implication": "可推出“高铁次元/情怀”专属主题皮肤或AR互动彩蛋。",
+              "confidence": 0.7
+            }
+          ],
+          "overview": ""
+        },
+        {
+          "key": "ev:设施__瑞龙智行智能动车组",
+          "theme": "瑞龙智行智能动车组",
           "category": "event",
           "mentions": 1,
-          "latestMomentum": "new"
+          "latestMomentum": "fading",
+          "evidenceCount": 2,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         },
         {
-          "theme": "高铁车厢沉浸式美妆与个人护理",
-          "category": "theme",
+          "key": "ev:停运__北京市郊铁路临时停运",
+          "theme": "北京市郊铁路临时停运",
+          "category": "event",
           "mentions": 1,
-          "latestMomentum": "new"
-        },
-        {
-          "theme": "车厢儿童噪音冲突与静音博弈",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "rising"
-        },
-        {
-          "theme": "绿皮列车复古情怀与慢生活治愈",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "new"
-        },
-        {
-          "theme": "密闭空间座位边界与规则争议",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "stable"
-        },
-        {
-          "theme": "高铁出行精致生活方式与好物分享",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "rising"
-        },
-        {
-          "theme": "铁路票务规则科普与出行避坑指南",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "fading"
+          "latestMomentum": "new",
+          "evidenceCount": 2,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": ""
         }
       ]
     },
@@ -39671,6 +39914,394 @@
           }
         ]
       }
-    }
+    },
+    "weeklyHistory": [
+      {
+        "generatedAt": "2026-08-19",
+        "summary": "本周趋势信号详见下方明细（AI 综述暂未生成）。",
+        "items": [
+          {
+            "key": "ev:占座__李权哲",
+            "theme": "李权哲",
+            "category": "event",
+            "mentions": 7,
+            "latestMomentum": "fading",
+            "evidenceCount": 16,
+            "why": "讨论量近7天68条 vs 前23天26条，公众人物相关的占座事件引发了极高的网络关注与情绪共鸣，值得PM关注以防范或应对类似舆情。",
+            "productImplication": "在购票或乘车页面增加规范占座的趣味提示，或优化选座时的同行人连座推荐逻辑以减少占座纠纷。",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:占座__免票儿童挤双人座",
+            "theme": "免票儿童挤双人座",
+            "category": "event",
+            "mentions": 7,
+            "latestMomentum": "new",
+            "evidenceCount": 9,
+            "why": "讨论量近7天9条 vs 前23天0条，暴露出当前儿童免票规则在物理空间分配上的矛盾，极易引发同排旅客投诉与体验下降。",
+            "productImplication": "优化带儿童旅客的购票选座逻辑，优先推荐宽座或同排多座，并在购票须知中明确免票儿童的空间使用规则。",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:晚点__台风停运",
+            "theme": "台风停运",
+            "category": "event",
+            "mentions": 7,
+            "latestMomentum": "fading",
+            "evidenceCount": 4,
+            "why": "讨论量近7天15条 vs 前23天2条，突发天气导致的列车大面积停运直接影响用户行程，短期内聚集了大量受阻旅客的焦虑情绪。",
+            "productImplication": "强化极端天气下的停运退改签自动化处理与主动消息推送能力，减少用户手动操作成本并安抚焦躁情绪。",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:停运__台风白海豚致列车停运",
+            "theme": "台风白海豚致列车停运",
+            "category": "event",
+            "mentions": 7,
+            "latestMomentum": "fading",
+            "evidenceCount": 4,
+            "why": "讨论量近7天10条 vs 前23天0条，属于突发性极端天气事件，属于新增舆情热点，需重点关注受阻旅客的应急诉求。",
+            "productImplication": "针对特定台风或暴雨事件建立专项应急服务落地页，集中展示受影响车次、退改规则及安置指南。",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:票价__12306新生预约购票",
+            "theme": "12306新生预约购票",
+            "category": "event",
+            "mentions": 7,
+            "latestMomentum": "fading",
+            "evidenceCount": 3,
+            "why": "讨论量近7天18条 vs 前23天7条，正值开学季新生预约购票政策落地期，用户关注度快速攀升，是拉新和提升活跃的关键节点。",
+            "productImplication": "在APP首页增加新生购票专区或优化新生资质核验与预约购票的引导流程，提供一站式迎新出行服务。",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:安检__高铁打火机",
+            "theme": "高铁打火机",
+            "category": "event",
+            "mentions": 7,
+            "latestMomentum": "fading",
+            "evidenceCount": 2,
+            "why": "讨论量近7天9条 vs 前23天1条，说明旅客对禁带物品的具体规定仍存在认知盲区，容易在安检口引发摩擦与误车风险。",
+            "productImplication": "在订单支付后或出行前通过Push或短信推送定制化的安检禁带物品趣味科普或查询入口。",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:静音车厢__00后列车员发试卷静音",
+            "theme": "00后列车员发试卷静音",
+            "category": "event",
+            "mentions": 6,
+            "latestMomentum": "rising",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:停运__暴雨致列车停运",
+            "theme": "暴雨致列车停运",
+            "category": "event",
+            "mentions": 6,
+            "latestMomentum": "rising",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:抢票__预约购票",
+            "theme": "预约购票",
+            "category": "event",
+            "mentions": 5,
+            "latestMomentum": "fading",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:维权__65岁女老板跨省追讨仅退款",
+            "theme": "65岁女老板跨省追讨仅退款",
+            "category": "event",
+            "mentions": 4,
+            "latestMomentum": "new",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "th:cabin_grooming",
+            "theme": "车厢内个人护理与形象管理",
+            "category": "theme",
+            "mentions": 4,
+            "latestMomentum": "rising",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "th:child_behavior_boundary",
+            "theme": "公共空间儿童行为边界与应对",
+            "category": "theme",
+            "mentions": 4,
+            "latestMomentum": "rising",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "th:extreme_dining_experience",
+            "theme": "旅途夸张餐饮与猎奇饮食体验",
+            "category": "theme",
+            "mentions": 4,
+            "latestMomentum": "fading",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "th:cross_dimension_commute",
+            "theme": "跨次元角色的接地气通勤脑洞",
+            "category": "theme",
+            "mentions": 4,
+            "latestMomentum": "new",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "th:humanized_railway_service",
+            "theme": "铁路服务的人性化与规则外温情",
+            "category": "theme",
+            "mentions": 4,
+            "latestMomentum": "rising",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:投诉__北京火车站无障碍设施",
+            "theme": "北京火车站无障碍设施",
+            "category": "event",
+            "mentions": 3,
+            "latestMomentum": "new",
+            "evidenceCount": 7,
+            "why": "讨论量近7天7条 vs 前23天0条，反映出重点枢纽的无障碍服务存在短板，损害了特殊群体的出行体验与品牌温度。",
+            "productImplication": "在重点车站的站内导航或行程服务中，完善无障碍设施的精准标注与重点提示。",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "th:train_cabin_makeup",
+            "theme": "高铁车厢沉浸式美妆与个人护理",
+            "category": "theme",
+            "mentions": 3,
+            "latestMomentum": "new",
+            "evidenceCount": 5,
+            "why": "讨论量近7天6条 vs 前23天0条，反映出部分旅客将高铁视为个人护理的延伸场景，对车厢环境细节有潜在需求。",
+            "productImplication": "暂不建议动作",
+            "relations": [
+              {
+                "toThemeKey": "exquisite_train_lifestyle",
+                "toThemeName": "高铁出行精致生活方式与好物分享",
+                "desc": "车厢翻包分享常包含美妆工具，精致好物展示是沉浸式美妆的前置环节。",
+                "implication": "可在出行好物模块增加“高铁美妆/洗漱收纳”专区。",
+                "confidence": 0.8
+              }
+            ],
+            "overview": ""
+          },
+          {
+            "key": "th:cabin_noise_and_children",
+            "theme": "车厢儿童噪音冲突与静音博弈",
+            "category": "theme",
+            "mentions": 3,
+            "latestMomentum": "fading",
+            "evidenceCount": 5,
+            "why": "讨论量近7天2条 vs 前23天4条，热度正在衰退，说明前期的静音车厢推广或社会讨论已告一段落，但底层矛盾依然存在。",
+            "productImplication": "暂不建议动作",
+            "relations": [
+              {
+                "toThemeKey": "seat_space_boundary",
+                "toThemeName": "密闭空间座位边界与规则争议",
+                "desc": "儿童踢座或挤座引发的噪音，常同时触发对座位空间侵占的边界争议。",
+                "implication": "可在选座时增加“带娃/静音”标签及防噪提示引导。",
+                "confidence": 0.9
+              }
+            ],
+            "overview": ""
+          },
+          {
+            "key": "th:seat_space_boundary",
+            "theme": "密闭空间座位边界与规则争议",
+            "category": "theme",
+            "mentions": 3,
+            "latestMomentum": "fading",
+            "evidenceCount": 5,
+            "why": "讨论量近7天1条 vs 前23天2条，热度逐渐平息，但密闭空间内的规则模糊地带仍是引发纠纷的隐患。",
+            "productImplication": "暂不建议动作",
+            "relations": [
+              {
+                "toThemeKey": "railway_rules_and_hacks",
+                "toThemeName": "铁路票务规则科普与出行避坑指南",
+                "desc": "占座或让座争议中，用户常通过科普免票儿童及选座规则来论证边界。",
+                "implication": "可在选座或乘车页面植入“座位权益与儿童票规则”智能问答。",
+                "confidence": 0.85
+              }
+            ],
+            "overview": ""
+          },
+          {
+            "key": "th:exquisite_train_lifestyle",
+            "theme": "高铁出行精致生活方式与好物分享",
+            "category": "theme",
+            "mentions": 3,
+            "latestMomentum": "fading",
+            "evidenceCount": 5,
+            "why": "讨论量近7天3条 vs 前23天3条，热度平稳，说明高铁出行已成为用户展示精致生活方式的固定场景，相关需求具有长尾特征。",
+            "productImplication": "在行程详情页或候车服务中，引入高铁餐饮、周边好物或出行用品的精选推荐与购买入口。",
+            "relations": [
+              {
+                "toThemeKey": "train_cabin_makeup",
+                "toThemeName": "高铁车厢沉浸式美妆与个人护理",
+                "desc": "极限吃喝与好物翻包常作为车厢沉浸式美妆或护理场景的背景元素。",
+                "implication": "可合并“车厢好物”与“美妆洗漱”为统一的“精致出行”场景。",
+                "confidence": 0.75
+              }
+            ],
+            "overview": ""
+          },
+          {
+            "key": "th:railway_rules_and_hacks",
+            "theme": "铁路票务规则科普与出行避坑指南",
+            "category": "theme",
+            "mentions": 3,
+            "latestMomentum": "fading",
+            "evidenceCount": 5,
+            "why": "讨论量近7天1条 vs 前23天5条，热度快速衰退，可能因为12306近期的规则优化或前期科普已较为充分，用户认知壁垒降低。",
+            "productImplication": "暂不建议动作",
+            "relations": [
+              {
+                "toThemeKey": "seat_space_boundary",
+                "toThemeName": "密闭空间座位边界与规则争议",
+                "desc": "对12306隐藏功能与退改签规则的挖掘，常源于对座位分配争议的避坑需求。",
+                "implication": "可在订单页提供“退改签/选座规则”的一键科普与智能客服入口。",
+                "confidence": 0.8
+              }
+            ],
+            "overview": ""
+          },
+          {
+            "key": "th:slow_train_nostalgia",
+            "theme": "绿皮列车复古情怀与慢生活治愈",
+            "category": "theme",
+            "mentions": 3,
+            "latestMomentum": "dormant",
+            "evidenceCount": 0,
+            "why": "讨论量近7天6条 vs 前23天0条，表明慢火车在年轻群体中演变为一种文旅体验产品，具有独特的情绪价值与破圈潜力。",
+            "productImplication": "探索推出慢火车或绿皮车专属文旅购票专区或纪念票根产品，满足用户的复古情怀与打卡需求。",
+            "relations": [
+              {
+                "toThemeKey": "exquisite_train_lifestyle",
+                "toThemeName": "高铁出行精致生活方式与好物分享",
+                "desc": "绿皮车的慢节奏体验常与卧铺好物及车厢吃喝结合，强化情绪治愈感。",
+                "implication": "可开发绿皮火车慢游路线或卧铺好物清单等专题内容聚合页，提升转化。",
+                "confidence": 0.8
+              }
+            ],
+            "overview": ""
+          },
+          {
+            "key": "ev:温情__高铁破例等候9分钟",
+            "theme": "高铁破例等候9分钟",
+            "category": "event",
+            "mentions": 2,
+            "latestMomentum": "rising",
+            "evidenceCount": 4,
+            "why": "讨论量近7天6条 vs 前23天0条，体现了用户对人性化服务的极高赞誉，属于偶发性温情事件，是提升品牌好感度的绝佳契机。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "th:green_train_nostalgia",
+            "theme": "绿皮火车的怀旧情怀与情感投射",
+            "category": "theme",
+            "mentions": 2,
+            "latestMomentum": "new",
+            "evidenceCount": 0,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "th:acg_ip_train_meme",
+            "theme": "二次元与影视IP的高铁脑洞玩梗",
+            "category": "theme",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 5,
+            "why": "",
+            "productImplication": "",
+            "relations": [
+              {
+                "toThemeKey": "slow_train_nostalgia",
+                "toThemeName": "绿皮列车复古情怀与慢生活治愈",
+                "desc": "IP神仙脑洞与绿皮车怀旧，均将列车作为脱离现实的沉浸式情绪载体。",
+                "implication": "可推出“高铁次元/情怀”专属主题皮肤或AR互动彩蛋。",
+                "confidence": 0.7
+              }
+            ],
+            "overview": ""
+          },
+          {
+            "key": "ev:设施__瑞龙智行智能动车组",
+            "theme": "瑞龙智行智能动车组",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "fading",
+            "evidenceCount": 2,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          },
+          {
+            "key": "ev:停运__北京市郊铁路临时停运",
+            "theme": "北京市郊铁路临时停运",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 2,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": ""
+          }
+        ]
+      }
+    ]
   }
 }
