@@ -193,6 +193,7 @@
   <div class="viewtabs">
     <button class="vt active" data-view="notes">📋 爆款笔记</button>
     <button class="vt" data-view="insights">💡 趋势洞察</button>
+    <button class="vt" data-view="weekly">📅 每周总结</button>
   </div>
   <div id="view-notes">
   <div class="nav">
@@ -333,6 +334,10 @@
         <div id="eventCol" class="ins-col-body"></div>
       </div>
     </div>
+  </div><!-- /view-insights -->
+
+  <div id="view-weekly" style="display:none">
+    <div class="tip">📅 <b>每周总结</b>由 AI 每周一自动生成：<b>本周综述</b>归纳当周共性主线（周期监控价值），<b>热点明细</b>列出每个热点"发生了什么 / 为什么 / 产品启示"（方便回溯）。可切换查看历史各周。</div>
     <div class="weekly-hist" id="weeklyHistWrap" style="display:none">
       <label>历史周报：</label>
       <select id="weeklyHistSel"></select>
@@ -836,7 +841,6 @@ function renderInsights() {
     themeCol.innerHTML = themes.length ? themes.map(cardHtml).join('') : '<div class="empty">暂无跨事件主题。</div>';
     eventCol.innerHTML = events.length ? events.map(cardHtml).join('') : '<div class="empty">暂无事件热点。</div>';
   }
-  setupWeekly(ins);
 }
 
 function renderWeekly(snap) {
@@ -879,7 +883,9 @@ document.querySelectorAll('.vt').forEach(b => b.addEventListener('click', () => 
   b.classList.add('active');
   document.getElementById('view-notes').style.display = (v === 'notes') ? '' : 'none';
   document.getElementById('view-insights').style.display = (v === 'insights') ? '' : 'none';
+  document.getElementById('view-weekly').style.display = (v === 'weekly') ? '' : 'none';
   if (v === 'insights') renderInsights();
+  if (v === 'weekly') setupWeekly((typeof INSIGHTS !== 'undefined') ? INSIGHTS : {daily: []});
 }));
 // 趋势洞察卡片：点击展开/收起具体新闻明细（类似事件聚合交互）
 document.getElementById('view-insights').addEventListener('click', e => {
