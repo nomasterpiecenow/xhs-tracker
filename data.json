@@ -1,6 +1,6 @@
 {
-  "keyword": "功能热点 3 + 场景灵感 3",
-  "lastCrawledAt": "2026-08-25 16:02:43",
+  "keyword": "功能热点 15 + 场景灵感 22",
+  "lastCrawledAt": "2026-08-25 16:44:31",
   "notes": {
     "6a671b4c000000000301d591": {
       "noteId": "6a671b4c000000000301d591",
@@ -21,8 +21,8 @@
       "popularityScore": 3.0,
       "recencyScore": 1.0,
       "firstSeen": "2026-08-03 11:46:32",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 44,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 46,
       "matchedKeywords": [
         "高铁",
         "高铁票"
@@ -45,7 +45,7 @@
       "eventTitle": "高铁坐过站补票",
       "_brand": null,
       "_relevant": true,
-      "_sentiment": "pos",
+      "_sentiment": "neu",
       "_pains": [],
       "_sig": "62f108c01be4"
     },
@@ -358,7 +358,7 @@
       "commentsCount": "2296",
       "sharedCount": "4393",
       "totalScore": 13.09,
-      "relevanceScore": 9.59,
+      "relevanceScore": 3.84,
       "popularityScore": 2.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -369,8 +369,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-03 13:17:23",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 19,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 20,
       "desc": "男生坐高铁时一直被后座小孩踢座位，忍无可忍找家长沟通，结果对面直接一个耳光，给小哥整消气了，网友：明事理的家长真的能化解很多纠纷",
       "platform": "xhs",
       "dupCount": 1,
@@ -388,8 +388,8 @@
       "_relevant": true,
       "_sentiment": "neg",
       "_pains": [
-        "小孩踢座",
-        "家长打人"
+        "小孩踢座位",
+        "家长不讲理"
       ],
       "_sig": "c7b2999ab4be"
     },
@@ -696,8 +696,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-03 13:17:23",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 36,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 38,
       "desc": "#高铁 #高铁占座 #抢票 #12306",
       "platform": "xhs",
       "dupCount": 1,
@@ -712,8 +712,11 @@
       "eventTitle": "12306占座",
       "_brand": "12306",
       "_relevant": true,
-      "_sentiment": "neu",
-      "_pains": [],
+      "_sentiment": "neg",
+      "_pains": [
+        "抢票",
+        "占座"
+      ],
       "_sig": "931060d2c7ba"
     },
     "6a63321d000000001101b7d6": {
@@ -728,10 +731,10 @@
       "interactiveCount": "3w+",
       "likedCount": "2w+",
       "collectedCount": "5000+",
-      "commentsCount": "427",
+      "commentsCount": "428",
       "sharedCount": "3004",
-      "totalScore": 13.45,
-      "relevanceScore": 9.95,
+      "totalScore": 13.44,
+      "relevanceScore": 9.94,
       "popularityScore": 2.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -741,8 +744,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-03 13:17:23",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 18,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 19,
       "desc": "这些宝藏功能谁用过啊！#看什么书不如看萌叔 #12306 #打开格局",
       "platform": "xhs",
       "dupCount": 1,
@@ -1586,11 +1589,12 @@
       ],
       "dimensions": [
         "出行服务",
+        "票务规则",
         "选座车厢"
       ],
       "firstSeen": "2026-08-03 14:45:11",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 27,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 28,
       "platform": "xhs",
       "dupCount": 1,
       "sources": [
@@ -1607,7 +1611,7 @@
       "_relevant": true,
       "_sentiment": "neg",
       "_pains": [
-        "高铁占座"
+        "被指占座"
       ],
       "_sig": "566e7764d6f8"
     },
@@ -1640,8 +1644,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-03 14:45:11",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 27,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 28,
       "platform": "xhs",
       "dupCount": 1,
       "sources": [
@@ -1658,8 +1662,7 @@
       "_relevant": true,
       "_sentiment": "neg",
       "_pains": [
-        "霸座占座",
-        "座位变更"
+        "恶意占座"
       ],
       "_sig": "5ec681d08020"
     },
@@ -1881,8 +1884,8 @@
       "collectedCount": "3129",
       "commentsCount": "2000",
       "sharedCount": "1555",
-      "totalScore": 8.49,
-      "relevanceScore": 4.49,
+      "totalScore": 8.48,
+      "relevanceScore": 4.48,
       "popularityScore": 3.0,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -1893,8 +1896,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-03 14:45:11",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 15,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 16,
       "platform": "xhs",
       "dupCount": 1,
       "sources": [
@@ -1910,9 +1913,7 @@
       "_brand": "12306",
       "_relevant": true,
       "_sentiment": "neg",
-      "_pains": [
-        "高铁占座"
-      ],
+      "_pains": [],
       "_sig": "def6085dd196"
     },
     "6a50e0fe0000000011006e0a": {
@@ -7599,8 +7600,8 @@
         "火车停运"
       ],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 24,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 25,
       "dupCount": 1,
       "sources": [
         {
@@ -7782,8 +7783,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 12,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -7827,11 +7828,11 @@
       "_sentiment": "neg",
       "_pains": [
         "不文明行为",
-        "车厢卫生"
+        "车厢吵闹"
       ],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 12,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -7862,8 +7863,8 @@
       "collectedCount": "1469",
       "commentsCount": "306",
       "sharedCount": "1293",
-      "totalScore": 13.35,
-      "relevanceScore": 3.94,
+      "totalScore": 13.36,
+      "relevanceScore": 9.86,
       "popularityScore": 2.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -7874,11 +7875,11 @@
         "场景灵感"
       ],
       "_brand": null,
-      "_sentiment": "neg",
+      "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 11,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 12,
       "dupCount": 1,
       "sources": [
         {
@@ -8016,11 +8017,11 @@
       "_brand": null,
       "_sentiment": "neg",
       "_pains": [
-        "不文明行为"
+        "素质低下"
       ],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 12,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -8063,8 +8064,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 13,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 14,
       "dupCount": 1,
       "sources": [
         {
@@ -8109,8 +8110,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 12,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -8150,13 +8151,11 @@
         "场景灵感"
       ],
       "_brand": null,
-      "_sentiment": "neg",
-      "_pains": [
-        "熊孩子吵闹"
-      ],
+      "_sentiment": "pos",
+      "_pains": [],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 12,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -8199,12 +8198,11 @@
       "_brand": null,
       "_sentiment": "neg",
       "_pains": [
-        "喧哗吵闹",
-        "素质低下"
+        "大声喧哗"
       ],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 12,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -8295,8 +8293,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-11 14:28:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 12,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -25063,8 +25061,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-13 08:52:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 10,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -25107,8 +25105,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-13 08:52:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 10,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -25148,11 +25146,11 @@
         "场景灵感"
       ],
       "_brand": null,
-      "_sentiment": "neu",
+      "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-13 08:52:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 10,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -25195,8 +25193,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-13 08:52:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 10,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -25225,8 +25223,8 @@
       "collectedCount": "223",
       "commentsCount": "4107",
       "sharedCount": "257",
-      "totalScore": 12.7,
-      "relevanceScore": 9.7,
+      "totalScore": 9.0,
+      "relevanceScore": 6.0,
       "popularityScore": 1.5,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -25241,12 +25239,12 @@
       "_brand": null,
       "_sentiment": "neg",
       "_pains": [
-        "座位拥挤",
-        "儿童票规则"
+        "座位被挤占",
+        "舒适度差"
       ],
       "firstSeen": "2026-08-13 08:52:15",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 19,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 21,
       "dupCount": 1,
       "sources": [
         {
@@ -26765,10 +26763,10 @@
       "collectedCount": "164",
       "commentsCount": "635",
       "sharedCount": "1178",
-      "totalScore": 6.74,
+      "totalScore": 6.24,
       "relevanceScore": 4.24,
       "popularityScore": 1.0,
-      "recencyScore": 1.5,
+      "recencyScore": 1.0,
       "matchedKeywords": [
         "12306"
       ],
@@ -26779,12 +26777,12 @@
       "_brand": null,
       "_sentiment": "neu",
       "_pains": [
-        "列车晚点",
-        "列车停运"
+        "列车停运",
+        "列车晚点"
       ],
       "firstSeen": "2026-08-14 08:51:58",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 9,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -26829,12 +26827,12 @@
       "_brand": "12306",
       "_sentiment": "neg",
       "_pains": [
-        "安检规定",
+        "规定死板",
         "物品被扣"
       ],
       "firstSeen": "2026-08-14 08:51:58",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 9,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -27515,8 +27513,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-15 08:51:22",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 8,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -27559,8 +27557,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-15 08:51:22",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 8,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -29059,11 +29057,11 @@
       "_brand": null,
       "_sentiment": "neg",
       "_pains": [
-        "素质低下"
+        "乘车素质"
       ],
       "firstSeen": "2026-08-16 08:52:40",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 7,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -30086,8 +30084,8 @@
         "不文明行为"
       ],
       "firstSeen": "2026-08-17 08:51:10",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 6,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -30130,8 +30128,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-17 08:51:10",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 6,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -34343,8 +34341,8 @@
       "collectedCount": "156",
       "commentsCount": "5000+",
       "sharedCount": "256",
-      "totalScore": 13.39,
-      "relevanceScore": 9.89,
+      "totalScore": 13.4,
+      "relevanceScore": 9.9,
       "popularityScore": 2.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -34360,12 +34358,11 @@
       "_brand": null,
       "_sentiment": "neg",
       "_pains": [
-        "带娃难",
-        "静音车厢"
+        "母婴服务差"
       ],
       "firstSeen": "2026-08-18 07:50:21",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 9,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -34409,8 +34406,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-18 07:50:21",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 5,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -34715,11 +34712,11 @@
         "场景灵感"
       ],
       "_brand": null,
-      "_sentiment": "pos",
+      "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-18 07:50:21",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 6,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -34756,6 +34753,7 @@
         "12306"
       ],
       "dimensions": [
+        "出行服务",
         "票务规则",
         "购票抢票"
       ],
@@ -34763,8 +34761,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-18 07:50:21",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 5,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -35776,8 +35774,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-19 07:51:31",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 4,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -35820,8 +35818,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-19 07:51:31",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 4,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -38271,8 +38269,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -38311,6 +38309,7 @@
         "火车票"
       ],
       "dimensions": [
+        "出行服务",
         "票务规则",
         "选座车厢"
       ],
@@ -38318,8 +38317,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -38350,8 +38349,8 @@
       "collectedCount": "151",
       "commentsCount": "1848",
       "sharedCount": "254",
-      "totalScore": 12.81,
-      "relevanceScore": 9.81,
+      "totalScore": 12.82,
+      "relevanceScore": 9.82,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -38365,8 +38364,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 3,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -38412,8 +38411,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -38444,8 +38443,8 @@
       "collectedCount": "34",
       "commentsCount": "2226",
       "sharedCount": "32",
-      "totalScore": 7.33,
-      "relevanceScore": 4.33,
+      "totalScore": 7.32,
+      "relevanceScore": 4.32,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -38456,12 +38455,10 @@
       ],
       "_brand": null,
       "_sentiment": "neg",
-      "_pains": [
-        "占座浪费"
-      ],
+      "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -38492,8 +38489,8 @@
       "collectedCount": "20",
       "commentsCount": "1138",
       "sharedCount": "51",
-      "totalScore": 6.97,
-      "relevanceScore": 3.97,
+      "totalScore": 6.96,
+      "relevanceScore": 3.96,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -38508,8 +38505,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 3,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -38554,8 +38551,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -38646,8 +38643,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -38736,8 +38733,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -38781,8 +38778,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 3,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -38825,8 +38822,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -38869,8 +38866,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -38886,7 +38883,7 @@
     },
     "6a85445f0000000033013364": {
       "noteId": "6a85445f0000000033013364",
-      "title": "被全网骂高铁熊孩子，哭闹根源原来是口粮…",
+      "title": "在高铁被骂熊孩子，哭闹根源原来是口粮…",
       "desc": "被全网骂高铁熊孩子，哭闹根源原来是口粮…\n前几天坐高铁，邻座的宝宝几乎哭了一整段路程。\n妈妈全程抱着来回哄，想尽各种办法安抚，急得脸都红了，周围却满是侧目，还夹杂着细碎的抱怨。看着她手足无措的模样，我特别能体会那份窒息感🤯一边心疼身体难受的孩子，一边还要承受陌生人的不满，被夹在中间，满是无力与委屈。\n\t\n后来简单聊了几句，奶也喂过、尿不湿也换好了，可宝宝依旧止不住哭闹。宝妈说在家也会闹，但出门之后反应会格外强烈，大概率是肚肚肚肚不舒服，宝宝肚肚本身就很脆弱，一旦口粮不适应，肚肚不舒服、吐奶、拉肚子就会轮番找上门。再遇上出门嘈杂颠簸的环境，身体的不舒服还会加倍放大，哭闹也就停不下来。\n\t\n想要宝宝少因为肚肚难受遭罪，选对口粮就显得尤为重要，这也是我一直选择 a2 紫白金的原因✔️\n\t\n✅a2紫白金是珍稀a2 源乳，来自新西兰黄金奶源带，只含纯正 A2 型 β‑酪蛋白，更亲和宝宝娇嫩肚肚，宝宝不容易闹肚；再搭配百种 GOS 益生元，能维护宝宝肚肚环境，助力营养更好吸收。宝宝肚肚舒服了，自然就少了莫名哭闹，营养也能更好吸收。\n\t\n✅大品牌给的安全感也很戳我，近期新华社也报道过a2的TRUE a2™全链路管控，做到批批严检。从奶源、生产罐装再到检测全流程可追溯，每一罐都可以扫码，直接调取对应批次完整检测报告，给宝宝喝进嘴里的每一口，都足够踏实放心。\n\t\n我家宝宝已经喝了快半年，肚肚状态一直很稳定😊很少肚肚鼓鼓、闹肚子。每次体检各项指标都达标，小肉肉长得扎扎实实，长肉看得见。 现在坐高铁出行，大多时候吃睡安稳，就算环境嘈杂，也很少再出现长时间哭闹不止的情况，带娃出行我也省心不少✌️\n\t\n想对各位妈妈说：不用凡事都苛责自己。宝宝哭闹很多时候不是带得不好，而是身体发出的信号。选对适配的口粮，宝宝肚肚舒服，出行从容，长肉也更省心。\n\t\n也想对路人说一句：希望大家可以给带娃出行的宝妈多一点理解与包容。婴儿哭闹是生理本能，真的不是熊孩子的错🙏\n\t\n#a2让安心有据可查 #批批严检 #新华社#高铁带娃 #宝宝哭闹 #婴儿奶粉 #A2紫白金 #宝宝肚肚舒服 #宝妈育儿 #选奶攻略 #暑假出行 #养娃不焦虑",
       "authorNickname": "三月的泡泡（家有小月龄）",
       "authorId": "63e21f4b0000000026012ea5",
@@ -38894,10 +38891,10 @@
       "createTime": "2026-08-19 17:16:00",
       "noteLink": "https://www.xiaohongshu.com/explore/6a85445f0000000033013364",
       "authorLink": "https://www.xiaohongshu.com/user/profile/63e21f4b0000000026012ea5",
-      "interactiveCount": "1446",
-      "likedCount": "887",
-      "collectedCount": "536",
-      "commentsCount": "23",
+      "interactiveCount": "1444",
+      "likedCount": "886",
+      "collectedCount": "534",
+      "commentsCount": "24",
       "sharedCount": "3",
       "totalScore": 12.57,
       "relevanceScore": 3.83,
@@ -38912,11 +38909,12 @@
       "_brand": null,
       "_sentiment": "pos",
       "_pains": [
-        "宝宝哭闹"
+        "宝宝哭闹",
+        "肚肚不适"
       ],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -38926,7 +38924,7 @@
         }
       ],
       "_relevant": true,
-      "_sig": "1abf4160b89e",
+      "_sig": "8780871e04a2",
       "platform": "xhs",
       "eventId": null
     },
@@ -38988,9 +38986,9 @@
       "authorLink": "https://www.xiaohongshu.com/user/profile/602771b1000000000101f8fc",
       "interactiveCount": "2w+",
       "likedCount": "5000+",
-      "collectedCount": "436",
+      "collectedCount": "430",
       "commentsCount": "1w+",
-      "sharedCount": "1756",
+      "sharedCount": "1757",
       "totalScore": 13.94,
       "relevanceScore": 9.44,
       "popularityScore": 2.5,
@@ -38999,14 +38997,15 @@
         "12306"
       ],
       "dimensions": [
-        "票务规则"
+        "票务规则",
+        "选座车厢"
       ],
       "_brand": "12306",
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -39037,8 +39036,8 @@
       "collectedCount": "220",
       "commentsCount": "1w+",
       "sharedCount": "621",
-      "totalScore": 13.62,
-      "relevanceScore": 9.62,
+      "totalScore": 13.51,
+      "relevanceScore": 9.51,
       "popularityScore": 2.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -39046,14 +39045,15 @@
         "占座"
       ],
       "dimensions": [
-        "票务规则"
+        "票务规则",
+        "选座车厢"
       ],
       "_brand": "12306",
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 2,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 3,
       "dupCount": 2,
       "sources": [
         {
@@ -39097,14 +39097,15 @@
         "12306"
       ],
       "dimensions": [
-        "票务规则"
+        "票务规则",
+        "选座车厢"
       ],
       "_brand": "12306",
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -39130,11 +39131,11 @@
       "createTime": "2026-08-20 15:16:45",
       "noteLink": "https://www.xiaohongshu.com/explore/6a86a9dd000000000c02712c",
       "authorLink": "https://www.xiaohongshu.com/user/profile/6235c2f50000000010009b58",
-      "interactiveCount": "2294",
-      "likedCount": "810",
-      "collectedCount": "73",
-      "commentsCount": "1411",
-      "sharedCount": "121",
+      "interactiveCount": "2301",
+      "likedCount": "813",
+      "collectedCount": "75",
+      "commentsCount": "1413",
+      "sharedCount": "123",
       "totalScore": 12.74,
       "relevanceScore": 9.74,
       "popularityScore": 1.0,
@@ -39143,14 +39144,15 @@
         "12306"
       ],
       "dimensions": [
-        "票务规则"
+        "票务规则",
+        "选座车厢"
       ],
       "_brand": "12306",
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -39176,11 +39178,11 @@
       "createTime": "2026-08-18 17:18:42",
       "noteLink": "https://www.xiaohongshu.com/explore/6a842372000000002402772b",
       "authorLink": "https://www.xiaohongshu.com/user/profile/64489498000000001400f2f2",
-      "interactiveCount": "1031",
-      "likedCount": "494",
-      "collectedCount": "438",
-      "commentsCount": "99",
-      "sharedCount": "216",
+      "interactiveCount": "1099",
+      "likedCount": "529",
+      "collectedCount": "465",
+      "commentsCount": "105",
+      "sharedCount": "226",
       "totalScore": 12.62,
       "relevanceScore": 9.62,
       "popularityScore": 1.0,
@@ -39192,11 +39194,11 @@
         "退改签报销"
       ],
       "_brand": "12306",
-      "_sentiment": "pos",
+      "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -39233,14 +39235,15 @@
         "12306"
       ],
       "dimensions": [
-        "票务规则"
+        "票务规则",
+        "选座车厢"
       ],
       "_brand": "12306",
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -39266,31 +39269,32 @@
       "createTime": "2026-08-23 09:09:52",
       "noteLink": "https://www.xiaohongshu.com/explore/6a8a484e000000003301a22b",
       "authorLink": "https://www.xiaohongshu.com/user/profile/6235c2f50000000010009b58",
-      "interactiveCount": "4w+",
+      "interactiveCount": "5w+",
       "likedCount": "3w+",
-      "collectedCount": "1351",
+      "collectedCount": "1550",
       "commentsCount": "1w+",
-      "sharedCount": "2619",
-      "totalScore": 8.94,
-      "relevanceScore": 4.44,
-      "popularityScore": 2.5,
+      "sharedCount": "2911",
+      "totalScore": 9.43,
+      "relevanceScore": 4.43,
+      "popularityScore": 3.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
         "儿童票"
       ],
       "dimensions": [
+        "出行服务",
         "票务规则",
-        "出行服务"
+        "选座车厢"
       ],
       "_brand": null,
       "_sentiment": "neu",
       "_pains": [
-        "儿童单独购票难",
-        "缺乏陪伴托管"
+        "儿童无法单独购票",
+        "缺乏陪护服务"
       ],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-08-24 14:43:18",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -47732,18 +47736,15 @@
         "火车票"
       ],
       "dimensions": [
-        "选座车厢",
-        "票务规则"
+        "票务规则",
+        "选座车厢"
       ],
       "_brand": null,
-      "_sentiment": "neg",
-      "_pains": [
-        "空座放零食",
-        "无座票"
-      ],
+      "_sentiment": "neu",
+      "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -47782,18 +47783,17 @@
         "火车票"
       ],
       "dimensions": [
-        "退改签报销",
-        "票务规则"
+        "票务规则",
+        "退改签报销"
       ],
       "_brand": null,
       "_sentiment": "neg",
       "_pains": [
-        "退不了票",
-        "占座争议"
+        "退不了票"
       ],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -47838,8 +47838,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -47882,8 +47882,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -47923,11 +47923,11 @@
         "场景灵感"
       ],
       "_brand": null,
-      "_sentiment": "pos",
+      "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -47964,15 +47964,15 @@
         "高铁"
       ],
       "dimensions": [
-        "购票抢票",
-        "场景灵感"
+        "场景灵感",
+        "购票抢票"
       ],
       "_brand": null,
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -48009,14 +48009,15 @@
         "高铁"
       ],
       "dimensions": [
-        "出行服务"
+        "出行服务",
+        "票务规则"
       ],
       "_brand": null,
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -48048,7 +48049,7 @@
       "commentsCount": "509",
       "sharedCount": "555",
       "totalScore": 13.23,
-      "relevanceScore": 3.89,
+      "relevanceScore": 9.73,
       "popularityScore": 1.5,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -48058,11 +48059,11 @@
         "出行服务"
       ],
       "_brand": null,
-      "_sentiment": "pos",
+      "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -48105,8 +48106,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -48149,8 +48150,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -48180,7 +48181,7 @@
       "commentsCount": "1164",
       "sharedCount": "3160",
       "totalScore": 13.03,
-      "relevanceScore": 3.81,
+      "relevanceScore": 9.53,
       "popularityScore": 2.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -48193,8 +48194,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -48237,8 +48238,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -48275,15 +48276,15 @@
         "高铁"
       ],
       "dimensions": [
-        "选座车厢",
-        "出行服务"
+        "出行服务",
+        "选座车厢"
       ],
       "_brand": null,
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -48326,8 +48327,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-08-25 16:02:43",
-      "crawlCount": 1,
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -48663,6 +48664,188 @@
       "_relevant": true,
       "_sig": "e9cffb67ac0a",
       "eventId": null
+    },
+    "6a8be6950000000016022dd7": {
+      "noteId": "6a8be6950000000016022dd7",
+      "title": "刚刚，12306回应无座与二等座同价",
+      "desc": "12306就“无座与二等座同价”问题回复了中新经纬记者：\n\t\n1.无座票的全称为“无固定座位票”，与二等座属于同一席别、同一等级，因此价格一致，目前无法单独降低无座票票价。\n\t\n2.高铁座位上设有指示灯，绿色和黄色代表该座位暂无人乘坐或尚未售出，无座乘客可临时休息，但持票乘客上车后需要让座。\n\t\n此外，并非所有高铁二等座都发售无座票，仅在部分线路和运营高峰期，为保障旅客出行需求，会适量发售少量无座票，数量通常不大。\n#无座与二等座同价 #12306回应无座与二等座同价",
+      "authorNickname": "刚刚！",
+      "authorId": "58cb896e50c4b46d79cc24b5",
+      "authorFans": "4731",
+      "createTime": "2026-08-24 14:37:09",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a8be6950000000016022dd7",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/58cb896e50c4b46d79cc24b5",
+      "interactiveCount": "5000+",
+      "likedCount": "1742",
+      "collectedCount": "219",
+      "commentsCount": "4038",
+      "sharedCount": "539",
+      "totalScore": 13.1,
+      "relevanceScore": 9.6,
+      "popularityScore": 1.5,
+      "recencyScore": 2.0,
+      "matchedKeywords": [
+        "12306"
+      ],
+      "dimensions": [
+        "票务规则"
+      ],
+      "_brand": "12306",
+      "_sentiment": "neu",
+      "_pains": [],
+      "firstSeen": "2026-08-25 16:44:31",
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "刚刚！",
+          "noteId": "6a8be6950000000016022dd7"
+        }
+      ],
+      "_relevant": true,
+      "_sig": "db55193bf74d",
+      "platform": "xhs",
+      "_eventId": "票价__无座票与二等座同价",
+      "eventId": "票价__无座票与二等座同价",
+      "eventTitle": "无座票与二等座同价"
+    },
+    "6a88263a000000002603b08f": {
+      "noteId": "6a88263a000000002603b08f",
+      "title": "02女研究生👩‍🎓独自体验15h火车下铺vlog",
+      "desc": "02女研究生👩‍🎓独自体验15h火车下铺vlog\n#好视频扶持计划 #火车卧铺 #一个人坐火车 #坐火车回家 #狂奔赶火车 #发疯木槿的日常 #沉浸式独处 #硬卧下铺 #硬卧攻略",
+      "authorNickname": "发疯木槿（上岸版）",
+      "authorId": "6487e1b9000000000f00731c",
+      "authorFans": "1w+",
+      "createTime": "2026-08-21 19:20:00",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a88263a000000002603b08f",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/6487e1b9000000000f00731c",
+      "interactiveCount": "2728",
+      "likedCount": "2267",
+      "collectedCount": "281",
+      "commentsCount": "180",
+      "sharedCount": "134",
+      "totalScore": 12.73,
+      "relevanceScore": 3.89,
+      "popularityScore": 1.0,
+      "recencyScore": 2.0,
+      "matchedKeywords": [
+        "下铺"
+      ],
+      "dimensions": [
+        "场景灵感"
+      ],
+      "_brand": null,
+      "_sentiment": "neu",
+      "_pains": [],
+      "firstSeen": "2026-08-25 16:44:31",
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "发疯木槿（上岸版）",
+          "noteId": "6a88263a000000002603b08f"
+        }
+      ],
+      "_relevant": true,
+      "_sig": "a0b52fc1e020",
+      "platform": "xhs",
+      "eventId": null
+    },
+    "6a89b4cb0000000008011581": {
+      "noteId": "6a89b4cb0000000008011581",
+      "title": "“零食占座”当事人妈妈发声",
+      "desc": "综合江苏广电荔枝新闻报道：近日，“两女孩买三张火车票拒绝让座”的事情引发热议。\n\t\n8月21日，中国铁路成都局集团有限公司官方微博发布《关于“旅客买票占座放零食”网络信息情况说明》。结论是：对应006号席位的旅客未检票乘车，已放弃其本次列车正在运行区段席位使用权，另2名旅客也不能占用和处置该席位，列车工作人员应根据现场实际情况协调处置。\n\t\n购票的孩子妈妈（006号席位旅客）表示，当天是自己把两个孩子送进站乘车的。因为不想排队，于是每人花了20元钱跟着火车站送行李的人员进站。把孩子送上车，安顿好后，她自己就下车了。\n\t\n三张票中包含一张半价儿童票。根据铁路部门相关规定，儿童不能单独购票，必须和成人票一同购买。她们购买这张成人票，并不是想多买一张票占座放零食，而是遵守相关规定，大人儿童同时购票了。\n\t\n据票面显示，这趟从上海到四川南充的绿皮火车，全程足足要跑27小时14分钟。成人票236元，儿童半价118元。@热点薯 \n\t\n#火车 #高铁 #铁路 #热点 #四川 #交通 #占座 #火车占座 #乘务员 #旅客",
+      "authorNickname": "三联生活周刊",
+      "authorId": "5ee70976000000000101c246",
+      "authorFans": "70w+",
+      "createTime": "2026-08-22 22:40:11",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a89b4cb0000000008011581",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/5ee70976000000000101c246",
+      "interactiveCount": "5000+",
+      "likedCount": "1634",
+      "collectedCount": "144",
+      "commentsCount": "3369",
+      "sharedCount": "336",
+      "totalScore": 7.99,
+      "relevanceScore": 4.49,
+      "popularityScore": 1.5,
+      "recencyScore": 2.0,
+      "matchedKeywords": [
+        "儿童票"
+      ],
+      "dimensions": [
+        "票务规则"
+      ],
+      "_brand": null,
+      "_sentiment": "neu",
+      "_pains": [],
+      "firstSeen": "2026-08-25 16:44:31",
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "三联生活周刊",
+          "noteId": "6a89b4cb0000000008011581"
+        }
+      ],
+      "_relevant": true,
+      "_sig": "7e2018cc30b7",
+      "platform": "xhs",
+      "_eventId": "占座__2女孩买3张票拒绝让座",
+      "eventId": "占座__2女孩买3张票拒绝让座",
+      "eventTitle": "2女孩买3张票拒绝让座"
+    },
+    "6a89c42b000000003703d59d": {
+      "noteId": "6a89c42b000000003703d59d",
+      "title": "买票家长发声，说明买票情况，另有隐情",
+      "desc": "吵得沸沸扬扬的火车多买票占座事件，后续又又又又叕来了，当事人妈妈出来回应。\n事件简单复盘：\n两名女孩持有3张硬座车票，其中一个空位堆放零食，无座大姐想落座遭到拒绝。\n后续铁路官方发布通报：未检票上车，视为放弃本次席位使用权，车上乘客无权占用该空位，乘务员应当主动协调处置。\n当事人母亲讲述背后真实原因：\n▪️三张票分别是：1张成人票（妈妈本人）+1张儿童半价票，还有一张是孩子的票。\n▪️妈妈花钱找送站人员进站，没有正常检票上车，安顿完两个女孩之后直接下车，并没有跟随列车出行。\n▪️之所以没有退掉自己这张成人票，是长途夜间行车，担心女孩旁边坐到陌生男性不安全，想保留空位给孩子躺卧休息，并非单纯堆放零食。\n这里划重点解读一下铁路规则：\n第一，席位使用权，前提是本人检票上车。就算你花钱买了票，购票人本人没检票上车，家里其他人在车上，也不能霸占这个座位。\n第二，火车没有无陪儿童托管服务，儿童票必须有成人陪同，家长不上车，孩子原则上不能独自乘车。\n第三，不是花钱买座位就可以为所欲为，实名车票是跟人绑定，不是单纯买一个位置物件。\n妈妈担心孩子安全的心情可以理解，但确实和现行铁路规则产生冲突。飞机有无陪小孩服务，但是火车目前没有，家长确实很为难。\n\t\n那如果你是这位妈妈，长途夜行，两个女孩独自坐车，你会怎么处理？评论区说说你的想法。\n#零食占座 #热点新闻事件  #社会新闻  #家长的无奈  #家长的责任 ",
+      "authorNickname": "一代天骄",
+      "authorId": "69b951cd0000000033024ba9",
+      "authorFans": "220",
+      "createTime": "2026-08-22 23:45:47",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a89c42b000000003703d59d",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/69b951cd0000000033024ba9",
+      "interactiveCount": "2284",
+      "likedCount": "501",
+      "collectedCount": "91",
+      "commentsCount": "1692",
+      "sharedCount": "69",
+      "totalScore": 7.23,
+      "relevanceScore": 4.23,
+      "popularityScore": 1.0,
+      "recencyScore": 2.0,
+      "matchedKeywords": [
+        "儿童票"
+      ],
+      "dimensions": [
+        "票务规则"
+      ],
+      "_brand": null,
+      "_sentiment": "neu",
+      "_pains": [],
+      "firstSeen": "2026-08-25 16:44:31",
+      "lastSeen": "2026-08-25 16:44:31",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "一代天骄",
+          "noteId": "6a89c42b000000003703d59d"
+        }
+      ],
+      "_relevant": true,
+      "_sig": "6f781221aff6",
+      "platform": "xhs",
+      "_eventId": "占座__2女孩买3张票拒绝让座",
+      "eventId": "占座__2女孩买3张票拒绝让座",
+      "eventTitle": "2女孩买3张票拒绝让座"
     }
   },
   "insights": {
