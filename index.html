@@ -769,7 +769,7 @@ function insCard(c) {
     const nid = String(id).replace("douyin:", "");
     return '<a href="' + prefix + nid + '" target="_blank" rel="noopener">查看笔记 ' + nid.slice(-6) + '</a>';
   }).join(" · ");
-  return '<div class="ins-card" onclick="this.classList.toggle('open')">'
+  return '<div class="ins-card" onclick="this.classList.toggle(&quot;open&quot;)">'
     + '<div class="hd"><span class="nm">' + esc(c.theme) + '</span>' + momBadge(c.momentum)
     + '<span class="ev">' + (c.evidenceCount || 0) + ' 证据</span>'
     + (c.streakDays ? '<span class="streak">连续 ' + c.streakDays + ' 天</span>' : '')
