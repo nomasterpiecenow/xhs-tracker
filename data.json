@@ -77071,69 +77071,6 @@
   "insights": {
     "daily": [
       {
-        "key": "ev:占座__女孩买空座放零食",
-        "theme": "女孩买空座放零食",
-        "category": "event",
-        "sourceEventId": "占座__女孩买空座放零食",
-        "evidenceCount": 106,
-        "momentum": "rising",
-        "momentumDelta": "近7天106 vs 前23天52",
-        "sampleNoteIds": [
-          "6a8550910000000028009411",
-          "douyin:7675616876172561690",
-          "douyin:7675645955739274502",
-          "douyin:7675576421414079750",
-          "douyin:7675747044430979718"
-        ],
-        "firstSeen": "2026-08-20",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为rising，近7天106 vs 前23天52，讨论量显著增长，反映了乘客对空座利用权和占座行为边界的高度关注，极易引发群体共鸣与争议。",
-        "productImplication": "建议在12306App中增加车厢空座状态提示功能，或在乘车须知中明确空座使用规则，引导乘客文明乘车，减少现场纠纷。",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:票价__无座票与二等座同价",
-        "theme": "无座票与二等座同价",
-        "category": "event",
-        "sourceEventId": "票价__无座票与二等座同价",
-        "evidenceCount": 16,
-        "momentum": "new",
-        "momentumDelta": "近7天16 vs 前23天0",
-        "sampleNoteIds": [
-          "douyin:7677458835283430665",
-          "6a8be6950000000016022dd7",
-          "6a8bb71e000000003400d00a",
-          "6a8c01d50000000025006aa8",
-          "6a8bcb33000000001402984f"
-        ],
-        "firstSeen": "2026-08-25",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为new，近7天16 vs 前23天0，触及了乘客对同价不同座公平性的核心痛点，容易引发对票价合理性的质疑。",
-        "productImplication": "暂不建议动作",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:占座__2女孩买3张票拒绝让座",
-        "theme": "2女孩买3张票拒绝让座",
-        "category": "event",
-        "sourceEventId": "占座__2女孩买3张票拒绝让座",
-        "evidenceCount": 7,
-        "momentum": "rising",
-        "momentumDelta": "近7天7 vs 前23天4",
-        "sampleNoteIds": [
-          "douyin:7677212236770823478",
-          "6a89b4cb0000000008011581",
-          "6a89c42b000000003703d59d",
-          "douyin:7677444642341752102",
-          "douyin:7675957013737704756"
-        ],
-        "firstSeen": "2026-08-25",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为rising，近7天7 vs 前23天4，讨论围绕合法占座与道德让座的冲突，折射出乘客对规则边界和乘车体验的敏感。",
-        "productImplication": "建议在App内完善座位状态展示，明确已购票座位的独占权，同时为乘务员提供处理此类纠纷的标准话术与指引。",
-        "streakDays": 0
-      },
-      {
         "key": "ev:票务新规__12306新增教师积分优惠",
         "theme": "12306新增教师积分优惠",
         "category": "event",
@@ -77149,29 +77086,9 @@
           "6a8e94600000000007007ef6"
         ],
         "firstSeen": "2026-08-27",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为new，近7天6 vs 前23天0，涉及针对特定职业群体的票务优惠创新，有助于提升特定圈层用户的忠诚度。",
-        "productImplication": "暂不建议动作",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:停运__台风紫檀致列车停运",
-        "theme": "台风紫檀致列车停运",
-        "category": "event",
-        "sourceEventId": "停运__台风紫檀致列车停运",
-        "evidenceCount": 4,
-        "momentum": "new",
-        "momentumDelta": "近7天4 vs 前23天0",
-        "sampleNoteIds": [
-          "douyin:7677019819014622499",
-          "douyin:7676742139547536667",
-          "douyin:7677020480494144777",
-          "douyin:7677131909411422322"
-        ],
-        "firstSeen": "2026-08-24",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为new，近7天4 vs 前23天0，台风紫檀导致的列车停运直接冲击旅客出行计划，容易引发退改签焦虑。",
-        "productImplication": "暂不建议动作",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为new，近7天出现6次讨论，而前23天为0次，表明针对教师群体的专属积分优惠正成为新的热点关注点。",
+        "productImplication": "建议在12306 APP中针对认证教师用户上线专属积分任务或兑换专区，提升教师群体的会员活跃度与忠诚度。",
         "streakDays": 0
       },
       {
@@ -77189,45 +77106,9 @@
           "douyin:7678612148263669001"
         ],
         "firstSeen": "2026-08-28",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为new，近7天4 vs 前23天0，台风沙德尔致列车停运话题出现，反映出旅客在面对极端天气时对信息获取的迫切需求。",
-        "productImplication": "暂不建议动作",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:停运__台风简拉维致列车停运",
-        "theme": "台风简拉维致列车停运",
-        "category": "event",
-        "sourceEventId": "停运__台风简拉维致列车停运",
-        "evidenceCount": 2,
-        "momentum": "new",
-        "momentumDelta": "近7天2 vs 前23天0",
-        "sampleNoteIds": [
-          "douyin:7676837450312702075",
-          "douyin:7676821799593708827"
-        ],
-        "firstSeen": "2026-08-24",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为new，近7天2 vs 前23天0，台风简拉维致列车停运引发关注，说明旅客对突发状况下的行程保障机制高度敏感。",
-        "productImplication": "暂不建议动作",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:停运__台风致海南高铁停运",
-        "theme": "台风致海南高铁停运",
-        "category": "event",
-        "sourceEventId": "停运__台风致海南高铁停运",
-        "evidenceCount": 2,
-        "momentum": "new",
-        "momentumDelta": "近7天2 vs 前23天0",
-        "sampleNoteIds": [
-          "douyin:7677135556698066211",
-          "douyin:7677566715739327784"
-        ],
-        "firstSeen": "2026-08-24",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为new，近7天2 vs 前23天0，台风致海南高铁停运话题发酵，体现了旅客对不可抗力导致行程中断时的售后处理痛点。",
-        "productImplication": "暂不建议动作",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为new，近7天产生4次相关讨论，前23天为0次，说明台风沙德尔导致的列车停运事件在近期引发了用户的集中关注。",
+        "productImplication": "需优化极端天气下的停运退改签流程，在APP首页增加天气预警及停运列车一键退改签的快捷入口，降低用户焦虑。",
         "streakDays": 0
       },
       {
@@ -77237,7 +77118,7 @@
         "sourceEventId": "票价__12306新生预约购票",
         "evidenceCount": 1,
         "momentum": "fading",
-        "momentumDelta": "近7天1 vs 前23天25",
+        "momentumDelta": "近7天1 vs 前23天11",
         "sampleNoteIds": [
           "douyin:7668602148564880690",
           "douyin:7668590440296151013",
@@ -77246,29 +77127,143 @@
           "douyin:7668541845252640000"
         ],
         "firstSeen": "2026-08-03",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为fading，近7天1 vs 前23天25，说明新生预约购票的专属权益或活动热度正在快速衰退，用户关注度大幅降低。",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天仅有1次讨论，相较于前23天的11次明显回落，说明新生预约购票的集中讨论期已过。",
         "productImplication": "暂不建议动作",
         "streakDays": 0
       },
       {
-        "key": "ev:设施__瑞龙智行智能动车组",
-        "theme": "瑞龙智行智能动车组",
+        "key": "ev:停运__川渝强降雨致列车停运",
+        "theme": "川渝强降雨致列车停运",
         "category": "event",
-        "sourceEventId": "设施__瑞龙智行智能动车组",
+        "sourceEventId": "停运__川渝强降雨致列车停运",
         "evidenceCount": 1,
         "momentum": "fading",
-        "momentumDelta": "近7天1 vs 前23天5",
+        "momentumDelta": "近7天1 vs 前23天6",
         "sampleNoteIds": [
-          "douyin:7664786289106898286",
-          "douyin:7664110380135038963",
-          "douyin:7666789163924754342",
-          "douyin:7666428709310173531",
-          "douyin:7665162867288958106"
+          "douyin:7669649838174129418",
+          "douyin:7669650306682255174",
+          "douyin:7678237124148268008",
+          "douyin:7669410268195212559",
+          "douyin:7670083490200767759"
+        ],
+        "firstSeen": "2026-08-18",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天讨论降至1次，低于前23天的6次，表明川渝强降雨引发的停运话题热度正在快速消退。",
+        "productImplication": "暂不建议动作",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:占座__女孩买空座放零食",
+        "theme": "女孩买空座放零食",
+        "category": "event",
+        "sourceEventId": "占座__女孩买空座放零食",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "近7天1 vs 前23天157",
+        "sampleNoteIds": [
+          "6a8550910000000028009411",
+          "douyin:7675616876172561690",
+          "douyin:7675645955739274502",
+          "douyin:7675576421414079750",
+          "douyin:7675747044430979718"
+        ],
+        "firstSeen": "2026-08-20",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天仅1次讨论，相比前23天高达157次的讨论量断崖式下跌，说明该占座争议事件的热度已彻底平息。",
+        "productImplication": "暂不建议动作",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:投诉__大连北站无障碍设施",
+        "theme": "大连北站无障碍设施",
+        "category": "event",
+        "sourceEventId": "投诉__大连北站无障碍设施",
+        "evidenceCount": 1,
+        "momentum": "new",
+        "momentumDelta": "近7天1 vs 前23天0",
+        "sampleNoteIds": [
+          "douyin:7678134678578826467"
+        ],
+        "firstSeen": "2026-08-27",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为new，近7天新增1次关于大连北站无障碍设施的投诉，前23天为0次，提示该站点的无障碍体验可能存在痛点。",
+        "productImplication": "建议联动车站运营部门核实大连北站无障碍设施的实际可用性，并在APP内完善无障碍路线导航及重点旅客预约功能。",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:购票__12306一人两座漏洞",
+        "theme": "12306一人两座漏洞",
+        "category": "event",
+        "sourceEventId": "购票__12306一人两座漏洞",
+        "evidenceCount": 1,
+        "momentum": "new",
+        "momentumDelta": "近7天1 vs 前23天0",
+        "sampleNoteIds": [
+          "douyin:7678190656560434451"
+        ],
+        "firstSeen": "2026-08-27",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为new，近7天新增1次关于一人两座购票漏洞的讨论，前23天为0次，暴露出系统或规则在特定场景下可能存在被利用的风险。",
+        "productImplication": "需立即排查并修复一人两座相关的票务逻辑漏洞，防止恶意占座，同时在APP内优化余票分配算法的异常监控。",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:设施__凌晨提示语",
+        "theme": "凌晨提示语",
+        "category": "event",
+        "sourceEventId": "设施__凌晨提示语",
+        "evidenceCount": 0,
+        "momentum": "fading",
+        "momentumDelta": "近7天0 vs 前23天1",
+        "sampleNoteIds": [
+          "6a4b8429000000000802588e",
+          "6a4cc3310000000016027d4f",
+          "6a4dec1f00000000220083f6",
+          "douyin:7659727167131110671",
+          "douyin:7659680595002391945"
         ],
         "firstSeen": "2026-08-03",
-        "lastSeen": "2026-08-28",
-        "why": "该信号动量为fading，近7天1 vs 前23天5，智能动车组的新奇感正在消退，用户对其硬件设施的关注度从新鲜体验回归日常出行。",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天讨论为0次，前23天仅1次，说明关于列车凌晨提示语的讨论热度极低且已消退。",
+        "productImplication": "暂不建议动作",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:占座__老人要求换下铺",
+        "theme": "老人要求换下铺",
+        "category": "event",
+        "sourceEventId": "占座__老人要求换下铺",
+        "evidenceCount": 0,
+        "momentum": "stable",
+        "momentumDelta": "近7天0 vs 前23天0",
+        "sampleNoteIds": [
+          "6a5272c200000000210218c5"
+        ],
+        "firstSeen": "2026-08-03",
+        "lastSeen": "2026-08-11",
+        "why": "该信号动量为stable，近7天0次讨论，前23天也是0次，表明该话题在当前周期内完全没有声量。",
+        "productImplication": "暂不建议动作",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:儿童票__14岁初中生买学生票",
+        "theme": "14岁初中生买学生票",
+        "category": "event",
+        "sourceEventId": "儿童票__14岁初中生买学生票",
+        "evidenceCount": 0,
+        "momentum": "stable",
+        "momentumDelta": "近7天0 vs 前23天0",
+        "sampleNoteIds": [
+          "6a5726af0000000008030398",
+          "6a574c27000000001101d37c",
+          "6a575b0e000000000f0297d0",
+          "6a584852000000002201b461",
+          "douyin:7662917700645063976"
+        ],
+        "firstSeen": "2026-08-03",
+        "lastSeen": "2026-08-15",
+        "why": "该信号动量为stable，近7天0次讨论，前23天0次，说明关于14岁初中生购买学生票的规则疑问近期未引发关注。",
         "productImplication": "暂不建议动作",
         "streakDays": 0
       },
@@ -77276,39 +77271,19 @@
         "key": "th:seat_space_boundary",
         "theme": "密闭空间座位边界与争议",
         "category": "theme",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+        "evidenceCount": 7,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天7",
         "sampleNoteIds": [
-          "3",
-          "18",
-          "25",
-          "30",
-          "31"
+          "6a8a676300000000140268e6",
+          "6a885555000000001f01f0a9",
+          "6a863a06000000002102266f",
+          "6a8a63ac0000000016021a00",
+          "6a885b79000000001602acc9"
         ],
         "firstSeen": "2026-08-17",
-        "lastSeen": "2026-08-28",
-        "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
-        "productImplication": "暂不建议动作",
-        "streakDays": 0
-      },
-      {
-        "key": "th:railway_rules_and_hacks",
-        "theme": "铁路票务规则与避坑指南",
-        "category": "theme",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
-        "sampleNoteIds": [
-          "7",
-          "9",
-          "10",
-          "13",
-          "14"
-        ],
-        "firstSeen": "2026-08-17",
-        "lastSeen": "2026-08-28",
-        "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天0次讨论，较前23天的7次显著下降，说明密闭空间座位边界与争议的话题热度正在衰退。",
         "productImplication": "暂不建议动作",
         "streakDays": 0
       },
@@ -77316,19 +77291,19 @@
         "key": "th:exquisite_train_lifestyle",
         "theme": "高铁精致生活与好物分享",
         "category": "theme",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+        "evidenceCount": 9,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天9",
         "sampleNoteIds": [
-          "1",
-          "4",
-          "5",
-          "6",
-          "8"
+          "6a60bd87000000000301db0a",
+          "6a7850a2000000002201012f",
+          "6a803a56000000000503013d",
+          "6a8a93aa000000002800b0e1",
+          "6a793b070000000008012e32"
         ],
         "firstSeen": "2026-08-17",
-        "lastSeen": "2026-08-28",
-        "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天0次讨论，低于前23天的9次，表明高铁精致生活与好物分享的内容创作和讨论热度已过。",
         "productImplication": "暂不建议动作",
         "streakDays": 0
       },
@@ -77336,34 +77311,38 @@
         "key": "th:cabin_noise_and_children",
         "theme": "车厢儿童噪音与静音博弈",
         "category": "theme",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天1",
         "sampleNoteIds": [
-          "16",
-          "28"
+          "6a5f71ca000000002201b9b9",
+          "6a55eee100000000220092c0",
+          "6a6c632f000000003302f99d",
+          "6a71b86500000000080122a8"
         ],
         "firstSeen": "2026-08-17",
-        "lastSeen": "2026-08-28",
-        "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天0次讨论，前23天仅1次，说明车厢儿童噪音与静音博弈的话题在当前周期内缺乏讨论度。",
         "productImplication": "暂不建议动作",
         "streakDays": 0
       },
       {
-        "key": "th:slow_train_nostalgia",
-        "theme": "绿皮车复古情怀与慢生活",
+        "key": "th:railway_rules_and_hacks",
+        "theme": "铁路票务规则与避坑指南",
         "category": "theme",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天1",
         "sampleNoteIds": [
-          "34",
-          "38",
-          "49"
+          "6a671b4c000000000301d591",
+          "6a74058600000000060071bd",
+          "6a5ddd97000000000401e51b",
+          "6a63321d000000001101b7d6",
+          "6a4dec1f00000000220083f6"
         ],
         "firstSeen": "2026-08-17",
-        "lastSeen": "2026-08-28",
-        "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天0次讨论，前23天仅1次，表明铁路票务规则与避坑指南的讨论热度已降至冰点。",
         "productImplication": "暂不建议动作",
         "streakDays": 0
       },
@@ -77371,24 +77350,42 @@
         "key": "th:acg_ip_train_meme",
         "theme": "二次元IP的高铁脑洞玩梗",
         "category": "theme",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+        "evidenceCount": 3,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天3",
         "sampleNoteIds": [
-          "2",
-          "19",
-          "20",
-          "29",
-          "39"
+          "6a88a2cb0000000025007cae",
+          "6a74d22e000000002500cb05",
+          "6a57b89d0000000021021836",
+          "6a75eadf000000003400f073"
         ],
         "firstSeen": "2026-08-19",
-        "lastSeen": "2026-08-28",
-        "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天0次讨论，较前23天的3次有所回落，说明二次元IP的高铁脑洞玩梗热度正在冷却。",
+        "productImplication": "暂不建议动作",
+        "streakDays": 0
+      },
+      {
+        "key": "th:train_cabin_makeup",
+        "theme": "高铁车厢沉浸式美妆与个人护理",
+        "category": "theme",
+        "evidenceCount": 3,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+        "sampleNoteIds": [
+          "6a8b0bd800000000280237c7",
+          "6a801c5400000000050331d5",
+          "6a8ad3d1000000002800bed9",
+          "6a5e2a0a0000000004028647"
+        ],
+        "firstSeen": "2026-08-17",
+        "lastSeen": "2026-09-02",
+        "why": "该信号动量为fading，近7天0次讨论，低于前23天的3次，表明高铁车厢沉浸式美妆与个人护理的话题热度正在消退。",
         "productImplication": "暂不建议动作",
         "streakDays": 0
       }
     ],
-    "generatedAt": "2026-08-28 12:00:00",
+    "generatedAt": "2026-09-02 15:00:00",
     "history": [
       {
         "date": "2026-08-13",
@@ -80660,37 +80657,355 @@
             "streakDays": 0
           }
         ]
+      },
+      {
+        "date": "2026-09-02",
+        "cards": [
+          {
+            "key": "ev:票务新规__12306新增教师积分优惠",
+            "theme": "12306新增教师积分优惠",
+            "category": "event",
+            "sourceEventId": "票务新规__12306新增教师积分优惠",
+            "evidenceCount": 6,
+            "momentum": "new",
+            "momentumDelta": "近7天6 vs 前23天0",
+            "sampleNoteIds": [
+              "6a8ea129000000002501b539",
+              "douyin:7678266167375784441",
+              "douyin:7678313917109505320",
+              "douyin:7678312765571878178",
+              "6a8e94600000000007007ef6"
+            ],
+            "firstSeen": "2026-08-27",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为new，近7天出现6次讨论，而前23天为0次，表明针对教师群体的专属积分优惠正成为新的热点关注点。",
+            "productImplication": "建议在12306 APP中针对认证教师用户上线专属积分任务或兑换专区，提升教师群体的会员活跃度与忠诚度。",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:停运__台风沙德尔致列车停运",
+            "theme": "台风沙德尔致列车停运",
+            "category": "event",
+            "sourceEventId": "停运__台风沙德尔致列车停运",
+            "evidenceCount": 4,
+            "momentum": "new",
+            "momentumDelta": "近7天4 vs 前23天0",
+            "sampleNoteIds": [
+              "douyin:7678238232894508331",
+              "douyin:7678224964553824741",
+              "douyin:7678170811345243443",
+              "douyin:7678612148263669001"
+            ],
+            "firstSeen": "2026-08-28",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为new，近7天产生4次相关讨论，前23天为0次，说明台风沙德尔导致的列车停运事件在近期引发了用户的集中关注。",
+            "productImplication": "需优化极端天气下的停运退改签流程，在APP首页增加天气预警及停运列车一键退改签的快捷入口，降低用户焦虑。",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:票价__12306新生预约购票",
+            "theme": "12306新生预约购票",
+            "category": "event",
+            "sourceEventId": "票价__12306新生预约购票",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "近7天1 vs 前23天11",
+            "sampleNoteIds": [
+              "douyin:7668602148564880690",
+              "douyin:7668590440296151013",
+              "douyin:7668523742850551067",
+              "douyin:7668620297121058084",
+              "douyin:7668541845252640000"
+            ],
+            "firstSeen": "2026-08-03",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天仅有1次讨论，相较于前23天的11次明显回落，说明新生预约购票的集中讨论期已过。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:停运__川渝强降雨致列车停运",
+            "theme": "川渝强降雨致列车停运",
+            "category": "event",
+            "sourceEventId": "停运__川渝强降雨致列车停运",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "近7天1 vs 前23天6",
+            "sampleNoteIds": [
+              "douyin:7669649838174129418",
+              "douyin:7669650306682255174",
+              "douyin:7678237124148268008",
+              "douyin:7669410268195212559",
+              "douyin:7670083490200767759"
+            ],
+            "firstSeen": "2026-08-18",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天讨论降至1次，低于前23天的6次，表明川渝强降雨引发的停运话题热度正在快速消退。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:占座__女孩买空座放零食",
+            "theme": "女孩买空座放零食",
+            "category": "event",
+            "sourceEventId": "占座__女孩买空座放零食",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "近7天1 vs 前23天157",
+            "sampleNoteIds": [
+              "6a8550910000000028009411",
+              "douyin:7675616876172561690",
+              "douyin:7675645955739274502",
+              "douyin:7675576421414079750",
+              "douyin:7675747044430979718"
+            ],
+            "firstSeen": "2026-08-20",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天仅1次讨论，相比前23天高达157次的讨论量断崖式下跌，说明该占座争议事件的热度已彻底平息。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:投诉__大连北站无障碍设施",
+            "theme": "大连北站无障碍设施",
+            "category": "event",
+            "sourceEventId": "投诉__大连北站无障碍设施",
+            "evidenceCount": 1,
+            "momentum": "new",
+            "momentumDelta": "近7天1 vs 前23天0",
+            "sampleNoteIds": [
+              "douyin:7678134678578826467"
+            ],
+            "firstSeen": "2026-08-27",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为new，近7天新增1次关于大连北站无障碍设施的投诉，前23天为0次，提示该站点的无障碍体验可能存在痛点。",
+            "productImplication": "建议联动车站运营部门核实大连北站无障碍设施的实际可用性，并在APP内完善无障碍路线导航及重点旅客预约功能。",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:购票__12306一人两座漏洞",
+            "theme": "12306一人两座漏洞",
+            "category": "event",
+            "sourceEventId": "购票__12306一人两座漏洞",
+            "evidenceCount": 1,
+            "momentum": "new",
+            "momentumDelta": "近7天1 vs 前23天0",
+            "sampleNoteIds": [
+              "douyin:7678190656560434451"
+            ],
+            "firstSeen": "2026-08-27",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为new，近7天新增1次关于一人两座购票漏洞的讨论，前23天为0次，暴露出系统或规则在特定场景下可能存在被利用的风险。",
+            "productImplication": "需立即排查并修复一人两座相关的票务逻辑漏洞，防止恶意占座，同时在APP内优化余票分配算法的异常监控。",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:设施__凌晨提示语",
+            "theme": "凌晨提示语",
+            "category": "event",
+            "sourceEventId": "设施__凌晨提示语",
+            "evidenceCount": 0,
+            "momentum": "fading",
+            "momentumDelta": "近7天0 vs 前23天1",
+            "sampleNoteIds": [
+              "6a4b8429000000000802588e",
+              "6a4cc3310000000016027d4f",
+              "6a4dec1f00000000220083f6",
+              "douyin:7659727167131110671",
+              "douyin:7659680595002391945"
+            ],
+            "firstSeen": "2026-08-03",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天讨论为0次，前23天仅1次，说明关于列车凌晨提示语的讨论热度极低且已消退。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:占座__老人要求换下铺",
+            "theme": "老人要求换下铺",
+            "category": "event",
+            "sourceEventId": "占座__老人要求换下铺",
+            "evidenceCount": 0,
+            "momentum": "stable",
+            "momentumDelta": "近7天0 vs 前23天0",
+            "sampleNoteIds": [
+              "6a5272c200000000210218c5"
+            ],
+            "firstSeen": "2026-08-03",
+            "lastSeen": "2026-08-11",
+            "why": "该信号动量为stable，近7天0次讨论，前23天也是0次，表明该话题在当前周期内完全没有声量。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:儿童票__14岁初中生买学生票",
+            "theme": "14岁初中生买学生票",
+            "category": "event",
+            "sourceEventId": "儿童票__14岁初中生买学生票",
+            "evidenceCount": 0,
+            "momentum": "stable",
+            "momentumDelta": "近7天0 vs 前23天0",
+            "sampleNoteIds": [
+              "6a5726af0000000008030398",
+              "6a574c27000000001101d37c",
+              "6a575b0e000000000f0297d0",
+              "6a584852000000002201b461",
+              "douyin:7662917700645063976"
+            ],
+            "firstSeen": "2026-08-03",
+            "lastSeen": "2026-08-15",
+            "why": "该信号动量为stable，近7天0次讨论，前23天0次，说明关于14岁初中生购买学生票的规则疑问近期未引发关注。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "th:seat_space_boundary",
+            "theme": "密闭空间座位边界与争议",
+            "category": "theme",
+            "evidenceCount": 7,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天7",
+            "sampleNoteIds": [
+              "6a8a676300000000140268e6",
+              "6a885555000000001f01f0a9",
+              "6a863a06000000002102266f",
+              "6a8a63ac0000000016021a00",
+              "6a885b79000000001602acc9"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天0次讨论，较前23天的7次显著下降，说明密闭空间座位边界与争议的话题热度正在衰退。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "th:exquisite_train_lifestyle",
+            "theme": "高铁精致生活与好物分享",
+            "category": "theme",
+            "evidenceCount": 9,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天9",
+            "sampleNoteIds": [
+              "6a60bd87000000000301db0a",
+              "6a7850a2000000002201012f",
+              "6a803a56000000000503013d",
+              "6a8a93aa000000002800b0e1",
+              "6a793b070000000008012e32"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天0次讨论，低于前23天的9次，表明高铁精致生活与好物分享的内容创作和讨论热度已过。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "th:cabin_noise_and_children",
+            "theme": "车厢儿童噪音与静音博弈",
+            "category": "theme",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天1",
+            "sampleNoteIds": [
+              "6a5f71ca000000002201b9b9",
+              "6a55eee100000000220092c0",
+              "6a6c632f000000003302f99d",
+              "6a71b86500000000080122a8"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天0次讨论，前23天仅1次，说明车厢儿童噪音与静音博弈的话题在当前周期内缺乏讨论度。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "th:railway_rules_and_hacks",
+            "theme": "铁路票务规则与避坑指南",
+            "category": "theme",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天1",
+            "sampleNoteIds": [
+              "6a671b4c000000000301d591",
+              "6a74058600000000060071bd",
+              "6a5ddd97000000000401e51b",
+              "6a63321d000000001101b7d6",
+              "6a4dec1f00000000220083f6"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天0次讨论，前23天仅1次，表明铁路票务规则与避坑指南的讨论热度已降至冰点。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "th:acg_ip_train_meme",
+            "theme": "二次元IP的高铁脑洞玩梗",
+            "category": "theme",
+            "evidenceCount": 3,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+            "sampleNoteIds": [
+              "6a88a2cb0000000025007cae",
+              "6a74d22e000000002500cb05",
+              "6a57b89d0000000021021836",
+              "6a75eadf000000003400f073"
+            ],
+            "firstSeen": "2026-08-19",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天0次讨论，较前23天的3次有所回落，说明二次元IP的高铁脑洞玩梗热度正在冷却。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          },
+          {
+            "key": "th:train_cabin_makeup",
+            "theme": "高铁车厢沉浸式美妆与个人护理",
+            "category": "theme",
+            "evidenceCount": 3,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+            "sampleNoteIds": [
+              "6a8b0bd800000000280237c7",
+              "6a801c5400000000050331d5",
+              "6a8ad3d1000000002800bed9",
+              "6a5e2a0a0000000004028647"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-09-02",
+            "why": "该信号动量为fading，近7天0次讨论，低于前23天的3次，表明高铁车厢沉浸式美妆与个人护理的话题热度正在消退。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 0
+          }
+        ]
       }
     ],
     "themes_registry": {
       "train_cabin_makeup": {
         "firstSeen": "2026-08-17",
         "theme": "高铁车厢沉浸式美妆与个人护理",
-        "description": "捕捉旅客将高铁车厢作为美妆展示与个人护理场景，强调沉浸式体验与快手换头的现象。",
-        "lastSeen": "2026-08-20",
-        "heat": 6,
+        "description": "旅客利用高铁行程时间进行沉浸式化妆、护肤补妆或高颜值穿搭展示，将车厢视为个人形象管理空间。",
+        "lastSeen": "2026-09-02",
+        "heat": 3,
         "relations": [
           {
             "toThemeKey": "exquisite_train_lifestyle",
-            "toThemeName": "高铁出行精致生活方式与好物分享",
-            "desc": "用户边分享高铁快手妆边翻包展示好物，均将车厢视为生活延伸。",
-            "implication": "可合并为「高铁出行百宝箱」功能，一站式展示美妆与吃喝好物。",
-            "confidence": 0.85
+            "toThemeName": "高铁精致生活与好物分享",
+            "desc": "高铁上的沉浸式美妆与形象管理，是旅客打造精致旅途体验的重要环节。",
+            "implication": "联名推出“高铁便携美妆套装”或在APP内嵌入旅途补妆打卡挑战。"
           }
         ]
       },
       "cabin_noise_and_children": {
         "firstSeen": "2026-08-17",
         "theme": "车厢儿童噪音与静音博弈",
-        "description": "记录熊孩子吵闹引发的车厢矛盾，以及静音车厢内特殊情感事件，反映声音环境管理痛点。",
-        "lastSeen": "2026-08-28",
-        "heat": 0,
+        "description": "围绕熊孩子吵闹、静音车厢规则执行及乘务员干预措施，乘客间产生的噪音容忍度博弈与情绪共鸣。",
+        "lastSeen": "2026-09-02",
+        "heat": 1,
         "relations": [
           {
             "toThemeKey": "seat_space_boundary",
             "toThemeName": "密闭空间座位边界与争议",
-            "desc": "儿童噪音往往突破座位物理边界引发邻里纠纷，需物理隔离与规则双管齐下。",
-            "implication": "购票时增加静音车厢与带娃专区偏好标签，从源头减少冲突概率。"
+            "desc": "儿童噪音等干扰易激发乘客对座位空间及环境边界的敏感与维权意识。",
+            "implication": "购票时强化静音车厢标签，提供同车厢乘客画像或安静指数参考。"
           }
         ]
       },
@@ -80712,60 +81027,60 @@
       "seat_space_boundary": {
         "firstSeen": "2026-08-17",
         "theme": "密闭空间座位边界与争议",
-        "description": "聚焦零食占座、卧铺安全、明星特权等引发的座位空间侵占与物理及心理边界冲突。",
-        "lastSeen": "2026-08-28",
-        "heat": 0,
+        "description": "乘客因零食占座、行李越界或他人凝视等行为，在密闭车厢内引发的空间领地争议与素质反思。",
+        "lastSeen": "2026-09-02",
+        "heat": 7,
         "relations": [
           {
             "toThemeKey": "cabin_noise_and_children",
             "toThemeName": "车厢儿童噪音与静音博弈",
-            "desc": "占座与边界争议常伴随儿童噪音引发冲突，需空间规则与声音管理联动。",
-            "implication": "产品可设计座位加静音组合投诉入口，提供一键呼叫乘务员调解功能。"
+            "desc": "座位争议常因儿童噪音或占座引发，同为密闭空间人际摩擦核心。",
+            "implication": "购票或乘车APP增加“一键呼叫乘务调解”或“匿名求助”快捷入口。"
           }
         ]
       },
       "exquisite_train_lifestyle": {
         "firstSeen": "2026-08-17",
         "theme": "高铁精致生活与好物分享",
-        "description": "分享高铁美妆、车厢美食、手工宠物及治愈瞬间，展现将旅途转化为精致生活秀场的现象。",
-        "lastSeen": "2026-08-28",
-        "heat": 0,
+        "description": "旅客在旅途中通过吃喝、手工、带宠或随机旅行等方式，将高铁车厢转化为展示精致生活与打发时间的秀场。",
+        "lastSeen": "2026-09-02",
+        "heat": 9,
         "relations": [
           {
-            "toThemeKey": "seat_space_boundary",
-            "toThemeName": "密闭空间座位边界与争议",
-            "desc": "精致吃喝与手工爱好易侵占小桌板等公共空间，引发边界摩擦。",
-            "implication": "推出高铁小桌板尺寸与收纳官方指南，或售卖适配高铁的便携收纳包。"
+            "toThemeKey": "railway_rules_and_hacks",
+            "toThemeName": "铁路票务规则与避坑指南",
+            "desc": "用户追求吃喝手工等精致体验时，常需查询安检规则或隐藏功能。",
+            "implication": "行程卡片基于用户携带物品或行程类型，主动Push安检限制与实用Tips。"
           }
         ]
       },
       "railway_rules_and_hacks": {
         "firstSeen": "2026-08-17",
         "theme": "铁路票务规则与避坑指南",
-        "description": "涵盖12306隐藏功能、安检规定、过站处理及无障碍设施等实用规则科普与避坑指南。",
-        "lastSeen": "2026-08-28",
-        "heat": 0,
+        "description": "用户挖掘12306隐藏功能、安检限制及过站补救规则，形成互助式的出行避坑与羊毛攻略。",
+        "lastSeen": "2026-09-02",
+        "heat": 1,
         "relations": [
           {
             "toThemeKey": "exquisite_train_lifestyle",
             "toThemeName": "高铁精致生活与好物分享",
-            "desc": "规则科普与外卖等精致出行需求结合，用户希望规则内化于体验。",
-            "implication": "在购票后推送页面嵌入出行好物与外卖推荐卡片，缩短决策链路。"
+            "desc": "用户挖掘12306隐藏功能与规则，多为更好规划吃喝旅游等精致行程。",
+            "implication": "官方APP推出“行程DIY”模块，整合外卖预订与周边吃喝玩乐攻略。"
           }
         ]
       },
       "acg_ip_train_meme": {
         "firstSeen": "2026-08-19",
         "theme": "二次元IP的高铁脑洞玩梗",
-        "description": "将仙侠、古风、明星等IP人设与赶高铁、安检等日常场景结合，通过反差感制造网络热梗。",
-        "lastSeen": "2026-08-28",
-        "heat": 0,
+        "description": "古风、仙侠等二次元角色或Coser在高铁站打卡，衍生出“神仙也得赶高铁”等打破次元壁的脑洞玩梗。",
+        "lastSeen": "2026-09-02",
+        "heat": 3,
         "relations": [
           {
-            "toThemeKey": "railway_rules_and_hacks",
-            "toThemeName": "铁路票务规则与避坑指南",
-            "desc": "二次元古风IP玩梗常结合赶高铁等真实规则场景，易引发年轻群体共鸣。",
-            "implication": "官方账号可借用热门IP形象制作安检与票务规则科普动画降低说教感。"
+            "toThemeKey": "train_cabin_makeup",
+            "toThemeName": "高铁车厢沉浸式美妆与个人护理",
+            "desc": "二次元IP在高铁站打卡玩梗，与个人美妆穿搭展示同属视觉表达。",
+            "implication": "官方社区增加“OOTD/打卡”专属标签与滤镜，鼓励高颜值UGC生产。"
           }
         ]
       }
@@ -82795,23 +83110,563 @@
             ]
           }
         ]
+      },
+      {
+        "generatedAt": "2026-09-02",
+        "summary": "本周23条信号中，12条指向极端天气致多地列车停运及应急退改，6条聚焦车厢座位边界与占座争议，5条涉及票务规则与12306系统体验优化。整体呈现天气应急、空间博弈与票务服务三大核心诉求。",
+        "items": [
+          {
+            "key": "ev:票务新规__12306新增教师积分优惠",
+            "theme": "12306新增教师积分优惠",
+            "category": "event",
+            "mentions": 2,
+            "latestMomentum": "new",
+            "evidenceCount": 6,
+            "why": "该信号动量为new，近7天出现6次讨论，而前23天为0次，表明针对教师群体的专属积分优惠正成为新的热点关注点。",
+            "productImplication": "建议在12306 APP中针对认证教师用户上线专属积分任务或兑换专区，提升教师群体的会员活跃度与忠诚度。",
+            "relations": [],
+            "overview": "12306推出教师积分优惠活动，引发旅客关注与讨论。"
+          },
+          {
+            "key": "ev:停运__台风沙德尔致列车停运",
+            "theme": "台风沙德尔致列车停运",
+            "category": "event",
+            "mentions": 2,
+            "latestMomentum": "new",
+            "evidenceCount": 4,
+            "why": "该信号动量为new，近7天产生4次相关讨论，前23天为0次，说明台风沙德尔导致的列车停运事件在近期引发了用户的集中关注。",
+            "productImplication": "需优化极端天气下的停运退改签流程，在APP首页增加天气预警及停运列车一键退改签的快捷入口，降低用户焦虑。",
+            "relations": [],
+            "overview": "受台风沙德尔影响部分列车停运，旅客需关注退改信息。"
+          },
+          {
+            "key": "ev:票价__12306新生预约购票",
+            "theme": "12306新生预约购票",
+            "category": "event",
+            "mentions": 2,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "该信号动量为fading，近7天仅有1次讨论，相较于前23天的11次明显回落，说明新生预约购票的集中讨论期已过。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "12306上线新生预约购票功能，方便高校新生提前规划行程。"
+          },
+          {
+            "key": "ev:占座__女孩买空座放零食",
+            "theme": "女孩买空座放零食",
+            "category": "event",
+            "mentions": 2,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "该信号动量为fading，近7天仅1次讨论，相比前23天高达157次的讨论量断崖式下跌，说明该占座争议事件的热度已彻底平息。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "女孩购买空座放置零食引发争议，探讨公共空间座位使用权。"
+          },
+          {
+            "key": "th:seat_space_boundary",
+            "theme": "密闭空间座位边界与争议",
+            "category": "theme",
+            "mentions": 2,
+            "latestMomentum": "fading",
+            "evidenceCount": 7,
+            "why": "该信号动量为fading，近7天0次讨论，较前23天的7次显著下降，说明密闭空间座位边界与争议的话题热度正在衰退。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "密闭车厢内因座位使用、行李放置等引发的空间边界争议发酵。"
+          },
+          {
+            "key": "th:exquisite_train_lifestyle",
+            "theme": "高铁精致生活与好物分享",
+            "category": "theme",
+            "mentions": 2,
+            "latestMomentum": "fading",
+            "evidenceCount": 9,
+            "why": "该信号动量为fading，近7天0次讨论，低于前23天的9次，表明高铁精致生活与好物分享的内容创作和讨论热度已过。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "旅客分享高铁上的精致生活与好物种草，展现旅途品质追求。"
+          },
+          {
+            "key": "th:cabin_noise_and_children",
+            "theme": "车厢儿童噪音与静音博弈",
+            "category": "theme",
+            "mentions": 2,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "该信号动量为fading，近7天0次讨论，前23天仅1次，说明车厢儿童噪音与静音博弈的话题在当前周期内缺乏讨论度。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "车厢内儿童噪音问题引发旅客不满，静音需求与带娃出行博弈。"
+          },
+          {
+            "key": "th:railway_rules_and_hacks",
+            "theme": "铁路票务规则与避坑指南",
+            "category": "theme",
+            "mentions": 2,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "该信号动量为fading，近7天0次讨论，前23天仅1次，表明铁路票务规则与避坑指南的讨论热度已降至冰点。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "旅客分享铁路票务规则解读与避坑指南，帮助他人顺畅出行。"
+          },
+          {
+            "key": "th:acg_ip_train_meme",
+            "theme": "二次元IP的高铁脑洞玩梗",
+            "category": "theme",
+            "mentions": 2,
+            "latestMomentum": "fading",
+            "evidenceCount": 3,
+            "why": "该信号动量为fading，近7天0次讨论，较前23天的3次有所回落，说明二次元IP的高铁脑洞玩梗热度正在冷却。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "二次元IP与高铁场景结合，产生大量脑洞大开的网络玩梗内容。"
+          },
+          {
+            "key": "ev:停运__川渝强降雨致列车停运",
+            "theme": "川渝强降雨致列车停运",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "该信号动量为fading，近7天讨论降至1次，低于前23天的6次，表明川渝强降雨引发的停运话题热度正在快速消退。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "川渝地区强降雨导致部分列车停运，铁路部门启动应急预案。"
+          },
+          {
+            "key": "ev:投诉__大连北站无障碍设施",
+            "theme": "大连北站无障碍设施",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 1,
+            "why": "该信号动量为new，近7天新增1次关于大连北站无障碍设施的投诉，前23天为0次，提示该站点的无障碍体验可能存在痛点。",
+            "productImplication": "建议联动车站运营部门核实大连北站无障碍设施的实际可用性，并在APP内完善无障碍路线导航及重点旅客预约功能。",
+            "relations": [],
+            "overview": "旅客投诉大连北站无障碍设施不完善，呼吁提升特殊群体体验。"
+          },
+          {
+            "key": "ev:购票__12306一人两座漏洞",
+            "theme": "12306一人两座漏洞",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 1,
+            "why": "该信号动量为new，近7天新增1次关于一人两座购票漏洞的讨论，前23天为0次，暴露出系统或规则在特定场景下可能存在被利用的风险。",
+            "productImplication": "需立即排查并修复一人两座相关的票务逻辑漏洞，防止恶意占座，同时在APP内优化余票分配算法的异常监控。",
+            "relations": [],
+            "overview": "12306系统出现一人可买两座位漏洞，引发对系统公平性质疑。"
+          },
+          {
+            "key": "ev:设施__凌晨提示语",
+            "theme": "凌晨提示语",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "fading",
+            "evidenceCount": 0,
+            "why": "该信号动量为fading，近7天讨论为0次，前23天仅1次，说明关于列车凌晨提示语的讨论热度极低且已消退。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "列车在凌晨时段播放特定提示语，引发旅客对夜间乘车体验讨论。"
+          },
+          {
+            "key": "ev:占座__老人要求换下铺",
+            "theme": "老人要求换下铺",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "stable",
+            "evidenceCount": 0,
+            "why": "该信号动量为stable，近7天0次讨论，前23天也是0次，表明该话题在当前周期内完全没有声量。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "老人持上铺票要求换下铺被拒，引发道德绑架与规则意识讨论。"
+          },
+          {
+            "key": "ev:儿童票__14岁初中生买学生票",
+            "theme": "14岁初中生买学生票",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "stable",
+            "evidenceCount": 0,
+            "why": "该信号动量为stable，近7天0次讨论，前23天0次，说明关于14岁初中生购买学生票的规则疑问近期未引发关注。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "14岁初中生买学生票引发对儿童票及学生票适用条件的讨论。"
+          },
+          {
+            "key": "th:train_cabin_makeup",
+            "theme": "高铁车厢沉浸式美妆与个人护理",
+            "category": "theme",
+            "mentions": 1,
+            "latestMomentum": "fading",
+            "evidenceCount": 3,
+            "why": "该信号动量为fading，近7天0次讨论，低于前23天的3次，表明高铁车厢沉浸式美妆与个人护理的话题热度正在消退。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "旅客在高铁车厢内进行沉浸式美妆，引发对公共空间行为的争议。"
+          },
+          {
+            "key": "ev:票价__无座票与二等座同价",
+            "theme": "无座票与二等座同价",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 16,
+            "why": "该信号动量为new，近7天16 vs 前23天0，触及了乘客对同价不同座公平性的核心痛点，容易引发对票价合理性的质疑。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "无座票与二等座同价引发旅客对票价合理性及体验差异的质疑。"
+          },
+          {
+            "key": "ev:占座__2女孩买3张票拒绝让座",
+            "theme": "2女孩买3张票拒绝让座",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "rising",
+            "evidenceCount": 7,
+            "why": "该信号动量为rising，近7天7 vs 前23天4，讨论围绕合法占座与道德让座的冲突，折射出乘客对规则边界和乘车体验的敏感。",
+            "productImplication": "建议在App内完善座位状态展示，明确已购票座位的独占权，同时为乘务员提供处理此类纠纷的标准话术与指引。",
+            "relations": [],
+            "overview": "两女孩买三张票拒绝让座，引发关于买座是否有权拒绝让座的讨论。"
+          },
+          {
+            "key": "ev:停运__台风紫檀致列车停运",
+            "theme": "台风紫檀致列车停运",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 4,
+            "why": "该信号动量为new，近7天4 vs 前23天0，台风紫檀导致的列车停运直接冲击旅客出行计划，容易引发退改签焦虑。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "受台风紫檀影响部分列车停运，提醒旅客合理安排出行计划。"
+          },
+          {
+            "key": "ev:停运__台风简拉维致列车停运",
+            "theme": "台风简拉维致列车停运",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 2,
+            "why": "该信号动量为new，近7天2 vs 前23天0，台风简拉维致列车停运引发关注，说明旅客对突发状况下的行程保障机制高度敏感。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "台风简拉维导致部分列车停运，铁路部门发布停运及退改公告。"
+          },
+          {
+            "key": "ev:停运__台风致海南高铁停运",
+            "theme": "台风致海南高铁停运",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 2,
+            "why": "该信号动量为new，近7天2 vs 前23天0，台风致海南高铁停运话题发酵，体现了旅客对不可抗力导致行程中断时的售后处理痛点。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "受台风天气影响海南环岛高铁全线停运，旅客出行受阻。"
+          },
+          {
+            "key": "ev:设施__瑞龙智行智能动车组",
+            "theme": "瑞龙智行智能动车组",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "该信号动量为fading，近7天1 vs 前23天5，智能动车组的新奇感正在消退，用户对其硬件设施的关注度从新鲜体验回归日常出行。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "瑞龙智行智能动车组亮相，展现中国高铁智能化与舒适性新成果。"
+          },
+          {
+            "key": "th:slow_train_nostalgia",
+            "theme": "绿皮车复古情怀与慢生活",
+            "category": "theme",
+            "mentions": 1,
+            "latestMomentum": "stable",
+            "evidenceCount": 0,
+            "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
+            "productImplication": "暂不建议动作",
+            "relations": [],
+            "overview": "旅客分享乘坐绿皮火车的复古情怀与慢生活体验，引发对慢旅行的向往。"
+          }
+        ],
+        "mainlines": [
+          {
+            "name": "极端天气列车停运",
+            "meaning": "台风及强降雨致多地列车停运，需关注应急退改与旅客安抚。",
+            "keys": [
+              "ev:停运__台风沙德尔致列车停运",
+              "ev:停运__川渝强降雨致列车停运",
+              "ev:停运__台风紫檀致列车停运",
+              "ev:停运__台风简拉维致列车停运",
+              "ev:停运__台风致海南高铁停运"
+            ]
+          },
+          {
+            "name": "车厢座位边界争议",
+            "meaning": "围绕占座、换铺及儿童噪音的座位边界争议频发，需优化乘车规则引导。",
+            "keys": [
+              "ev:占座__女孩买空座放零食",
+              "th:seat_space_boundary",
+              "th:cabin_noise_and_children",
+              "ev:占座__老人要求换下铺",
+              "ev:占座__2女孩买3张票拒绝让座"
+            ]
+          },
+          {
+            "name": "票务规则与系统体验",
+            "meaning": "新生及教师优惠、儿童票规则及系统漏洞引发关注，需持续优化票务产品。",
+            "keys": [
+              "ev:票务新规__12306新增教师积分优惠",
+              "ev:票价__12306新生预约购票",
+              "ev:购票__12306一人两座漏洞",
+              "ev:儿童票__14岁初中生买学生票",
+              "ev:票价__无座票与二等座同价",
+              "th:railway_rules_and_hacks"
+            ]
+          }
+        ],
+        "actions": [
+          {
+            "text": "完善极端天气下的应急退改签流程及滞留旅客安抚机制，提升抗风险服务体验。",
+            "basedOn": [
+              "ev:停运__台风沙德尔致列车停运",
+              "ev:停运__川渝强降雨致列车停运",
+              "ev:停运__台风紫檀致列车停运",
+              "ev:停运__台风简拉维致列车停运",
+              "ev:停运__台风致海南高铁停运"
+            ]
+          },
+          {
+            "text": "明确并宣贯车厢座位使用规则，针对儿童噪音、换铺及多票占座等争议场景提供清晰指引。",
+            "basedOn": [
+              "ev:占座__女孩买空座放零食",
+              "th:seat_space_boundary",
+              "th:cabin_noise_and_children",
+              "ev:占座__老人要求换下铺",
+              "ev:占座__2女孩买3张票拒绝让座"
+            ]
+          },
+          {
+            "text": "修复12306系统漏洞，优化新生、教师及儿童等特殊群体的票务预约与优惠规则，提升体验。",
+            "basedOn": [
+              "ev:票务新规__12306新增教师积分优惠",
+              "ev:票价__12306新生预约购票",
+              "ev:购票__12306一人两座漏洞",
+              "ev:儿童票__14岁初中生买学生票",
+              "ev:票价__无座票与二等座同价"
+            ]
+          },
+          {
+            "text": "关注旅客多元需求与情绪价值，探索适老化无障碍设施升级及特色主题列车等个性化服务。",
+            "basedOn": [
+              "ev:投诉__大连北站无障碍设施",
+              "th:exquisite_train_lifestyle",
+              "th:acg_ip_train_meme",
+              "th:train_cabin_makeup",
+              "th:slow_train_nostalgia"
+            ]
+          }
+        ]
       }
     ],
     "weekly": {
-      "generatedAt": "2026-08-28",
-      "summary": "本周16条信号中，4条指向台风致列车停运的应急保障，6条聚焦占座、无座同价等乘车规则与空间边界争议，其余6条涵盖师生优惠、智能动车及二次元玩梗等特色服务与年轻化营销。整体反映旅客对票务公平、乘车文明及个性化体验的高度关注。",
+      "generatedAt": "2026-09-02",
+      "summary": "本周23条信号中，12条指向极端天气致多地列车停运及应急退改，6条聚焦车厢座位边界与占座争议，5条涉及票务规则与12306系统体验优化。整体呈现天气应急、空间博弈与票务服务三大核心诉求。",
       "items": [
+        {
+          "key": "ev:票务新规__12306新增教师积分优惠",
+          "theme": "12306新增教师积分优惠",
+          "category": "event",
+          "mentions": 2,
+          "latestMomentum": "new",
+          "evidenceCount": 6,
+          "why": "该信号动量为new，近7天出现6次讨论，而前23天为0次，表明针对教师群体的专属积分优惠正成为新的热点关注点。",
+          "productImplication": "建议在12306 APP中针对认证教师用户上线专属积分任务或兑换专区，提升教师群体的会员活跃度与忠诚度。",
+          "relations": [],
+          "overview": "12306推出教师积分优惠活动，引发旅客关注与讨论。"
+        },
+        {
+          "key": "ev:停运__台风沙德尔致列车停运",
+          "theme": "台风沙德尔致列车停运",
+          "category": "event",
+          "mentions": 2,
+          "latestMomentum": "new",
+          "evidenceCount": 4,
+          "why": "该信号动量为new，近7天产生4次相关讨论，前23天为0次，说明台风沙德尔导致的列车停运事件在近期引发了用户的集中关注。",
+          "productImplication": "需优化极端天气下的停运退改签流程，在APP首页增加天气预警及停运列车一键退改签的快捷入口，降低用户焦虑。",
+          "relations": [],
+          "overview": "受台风沙德尔影响部分列车停运，旅客需关注退改信息。"
+        },
+        {
+          "key": "ev:票价__12306新生预约购票",
+          "theme": "12306新生预约购票",
+          "category": "event",
+          "mentions": 2,
+          "latestMomentum": "fading",
+          "evidenceCount": 1,
+          "why": "该信号动量为fading，近7天仅有1次讨论，相较于前23天的11次明显回落，说明新生预约购票的集中讨论期已过。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "12306上线新生预约购票功能，方便高校新生提前规划行程。"
+        },
         {
           "key": "ev:占座__女孩买空座放零食",
           "theme": "女孩买空座放零食",
           "category": "event",
-          "mentions": 1,
-          "latestMomentum": "rising",
-          "evidenceCount": 106,
-          "why": "该信号动量为rising，近7天106 vs 前23天52，讨论量显著增长，反映了乘客对空座利用权和占座行为边界的高度关注，极易引发群体共鸣与争议。",
-          "productImplication": "建议在12306App中增加车厢空座状态提示功能，或在乘车须知中明确空座使用规则，引导乘客文明乘车，减少现场纠纷。",
+          "mentions": 2,
+          "latestMomentum": "fading",
+          "evidenceCount": 1,
+          "why": "该信号动量为fading，近7天仅1次讨论，相比前23天高达157次的讨论量断崖式下跌，说明该占座争议事件的热度已彻底平息。",
+          "productImplication": "暂不建议动作",
           "relations": [],
-          "overview": "女孩买空座放零食引发关注，引发对一人多票及空间占用合理性的讨论。"
+          "overview": "女孩购买空座放置零食引发争议，探讨公共空间座位使用权。"
+        },
+        {
+          "key": "th:seat_space_boundary",
+          "theme": "密闭空间座位边界与争议",
+          "category": "theme",
+          "mentions": 2,
+          "latestMomentum": "fading",
+          "evidenceCount": 7,
+          "why": "该信号动量为fading，近7天0次讨论，较前23天的7次显著下降，说明密闭空间座位边界与争议的话题热度正在衰退。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "密闭车厢内因座位使用、行李放置等引发的空间边界争议发酵。"
+        },
+        {
+          "key": "th:exquisite_train_lifestyle",
+          "theme": "高铁精致生活与好物分享",
+          "category": "theme",
+          "mentions": 2,
+          "latestMomentum": "fading",
+          "evidenceCount": 9,
+          "why": "该信号动量为fading，近7天0次讨论，低于前23天的9次，表明高铁精致生活与好物分享的内容创作和讨论热度已过。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "旅客分享高铁上的精致生活与好物种草，展现旅途品质追求。"
+        },
+        {
+          "key": "th:cabin_noise_and_children",
+          "theme": "车厢儿童噪音与静音博弈",
+          "category": "theme",
+          "mentions": 2,
+          "latestMomentum": "fading",
+          "evidenceCount": 1,
+          "why": "该信号动量为fading，近7天0次讨论，前23天仅1次，说明车厢儿童噪音与静音博弈的话题在当前周期内缺乏讨论度。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "车厢内儿童噪音问题引发旅客不满，静音需求与带娃出行博弈。"
+        },
+        {
+          "key": "th:railway_rules_and_hacks",
+          "theme": "铁路票务规则与避坑指南",
+          "category": "theme",
+          "mentions": 2,
+          "latestMomentum": "fading",
+          "evidenceCount": 1,
+          "why": "该信号动量为fading，近7天0次讨论，前23天仅1次，表明铁路票务规则与避坑指南的讨论热度已降至冰点。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "旅客分享铁路票务规则解读与避坑指南，帮助他人顺畅出行。"
+        },
+        {
+          "key": "th:acg_ip_train_meme",
+          "theme": "二次元IP的高铁脑洞玩梗",
+          "category": "theme",
+          "mentions": 2,
+          "latestMomentum": "fading",
+          "evidenceCount": 3,
+          "why": "该信号动量为fading，近7天0次讨论，较前23天的3次有所回落，说明二次元IP的高铁脑洞玩梗热度正在冷却。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "二次元IP与高铁场景结合，产生大量脑洞大开的网络玩梗内容。"
+        },
+        {
+          "key": "ev:停运__川渝强降雨致列车停运",
+          "theme": "川渝强降雨致列车停运",
+          "category": "event",
+          "mentions": 1,
+          "latestMomentum": "fading",
+          "evidenceCount": 1,
+          "why": "该信号动量为fading，近7天讨论降至1次，低于前23天的6次，表明川渝强降雨引发的停运话题热度正在快速消退。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "川渝地区强降雨导致部分列车停运，铁路部门启动应急预案。"
+        },
+        {
+          "key": "ev:投诉__大连北站无障碍设施",
+          "theme": "大连北站无障碍设施",
+          "category": "event",
+          "mentions": 1,
+          "latestMomentum": "new",
+          "evidenceCount": 1,
+          "why": "该信号动量为new，近7天新增1次关于大连北站无障碍设施的投诉，前23天为0次，提示该站点的无障碍体验可能存在痛点。",
+          "productImplication": "建议联动车站运营部门核实大连北站无障碍设施的实际可用性，并在APP内完善无障碍路线导航及重点旅客预约功能。",
+          "relations": [],
+          "overview": "旅客投诉大连北站无障碍设施不完善，呼吁提升特殊群体体验。"
+        },
+        {
+          "key": "ev:购票__12306一人两座漏洞",
+          "theme": "12306一人两座漏洞",
+          "category": "event",
+          "mentions": 1,
+          "latestMomentum": "new",
+          "evidenceCount": 1,
+          "why": "该信号动量为new，近7天新增1次关于一人两座购票漏洞的讨论，前23天为0次，暴露出系统或规则在特定场景下可能存在被利用的风险。",
+          "productImplication": "需立即排查并修复一人两座相关的票务逻辑漏洞，防止恶意占座，同时在APP内优化余票分配算法的异常监控。",
+          "relations": [],
+          "overview": "12306系统出现一人可买两座位漏洞，引发对系统公平性质疑。"
+        },
+        {
+          "key": "ev:设施__凌晨提示语",
+          "theme": "凌晨提示语",
+          "category": "event",
+          "mentions": 1,
+          "latestMomentum": "fading",
+          "evidenceCount": 0,
+          "why": "该信号动量为fading，近7天讨论为0次，前23天仅1次，说明关于列车凌晨提示语的讨论热度极低且已消退。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "列车在凌晨时段播放特定提示语，引发旅客对夜间乘车体验讨论。"
+        },
+        {
+          "key": "ev:占座__老人要求换下铺",
+          "theme": "老人要求换下铺",
+          "category": "event",
+          "mentions": 1,
+          "latestMomentum": "stable",
+          "evidenceCount": 0,
+          "why": "该信号动量为stable，近7天0次讨论，前23天也是0次，表明该话题在当前周期内完全没有声量。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "老人持上铺票要求换下铺被拒，引发道德绑架与规则意识讨论。"
+        },
+        {
+          "key": "ev:儿童票__14岁初中生买学生票",
+          "theme": "14岁初中生买学生票",
+          "category": "event",
+          "mentions": 1,
+          "latestMomentum": "stable",
+          "evidenceCount": 0,
+          "why": "该信号动量为stable，近7天0次讨论，前23天0次，说明关于14岁初中生购买学生票的规则疑问近期未引发关注。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "14岁初中生买学生票引发对儿童票及学生票适用条件的讨论。"
+        },
+        {
+          "key": "th:train_cabin_makeup",
+          "theme": "高铁车厢沉浸式美妆与个人护理",
+          "category": "theme",
+          "mentions": 1,
+          "latestMomentum": "fading",
+          "evidenceCount": 3,
+          "why": "该信号动量为fading，近7天0次讨论，低于前23天的3次，表明高铁车厢沉浸式美妆与个人护理的话题热度正在消退。",
+          "productImplication": "暂不建议动作",
+          "relations": [],
+          "overview": "旅客在高铁车厢内进行沉浸式美妆，引发对公共空间行为的争议。"
         },
         {
           "key": "ev:票价__无座票与二等座同价",
@@ -82823,7 +83678,7 @@
           "why": "该信号动量为new，近7天16 vs 前23天0，触及了乘客对同价不同座公平性的核心痛点，容易引发对票价合理性的质疑。",
           "productImplication": "暂不建议动作",
           "relations": [],
-          "overview": "无座票与二等座同价引发网友对票价公平性的质疑与热议。"
+          "overview": "无座票与二等座同价引发旅客对票价合理性及体验差异的质疑。"
         },
         {
           "key": "ev:占座__2女孩买3张票拒绝让座",
@@ -82835,19 +83690,7 @@
           "why": "该信号动量为rising，近7天7 vs 前23天4，讨论围绕合法占座与道德让座的冲突，折射出乘客对规则边界和乘车体验的敏感。",
           "productImplication": "建议在App内完善座位状态展示，明确已购票座位的独占权，同时为乘务员提供处理此类纠纷的标准话术与指引。",
           "relations": [],
-          "overview": "两女孩买三张票拒让座引争议，凸显一人购买多张票时的座位使用权边界问题。"
-        },
-        {
-          "key": "ev:票务新规__12306新增教师积分优惠",
-          "theme": "12306新增教师积分优惠",
-          "category": "event",
-          "mentions": 1,
-          "latestMomentum": "new",
-          "evidenceCount": 6,
-          "why": "该信号动量为new，近7天6 vs 前23天0，涉及针对特定职业群体的票务优惠创新，有助于提升特定圈层用户的忠诚度。",
-          "productImplication": "暂不建议动作",
-          "relations": [],
-          "overview": "12306推出教师积分优惠活动，旨在回馈教师群体并提升特定人群购票粘性。"
+          "overview": "两女孩买三张票拒绝让座，引发关于买座是否有权拒绝让座的讨论。"
         },
         {
           "key": "ev:停运__台风紫檀致列车停运",
@@ -82859,19 +83702,7 @@
           "why": "该信号动量为new，近7天4 vs 前23天0，台风紫檀导致的列车停运直接冲击旅客出行计划，容易引发退改签焦虑。",
           "productImplication": "暂不建议动作",
           "relations": [],
-          "overview": "受台风紫檀影响部分列车被迫停运，提醒旅客关注最新运行信息。"
-        },
-        {
-          "key": "ev:停运__台风沙德尔致列车停运",
-          "theme": "台风沙德尔致列车停运",
-          "category": "event",
-          "mentions": 1,
-          "latestMomentum": "new",
-          "evidenceCount": 4,
-          "why": "该信号动量为new，近7天4 vs 前23天0，台风沙德尔致列车停运话题出现，反映出旅客在面对极端天气时对信息获取的迫切需求。",
-          "productImplication": "暂不建议动作",
-          "relations": [],
-          "overview": "台风沙德尔导致部分列车停运，铁路部门启动应急预案保障旅客安全。"
+          "overview": "受台风紫檀影响部分列车停运，提醒旅客合理安排出行计划。"
         },
         {
           "key": "ev:停运__台风简拉维致列车停运",
@@ -82883,7 +83714,7 @@
           "why": "该信号动量为new，近7天2 vs 前23天0，台风简拉维致列车停运引发关注，说明旅客对突发状况下的行程保障机制高度敏感。",
           "productImplication": "暂不建议动作",
           "relations": [],
-          "overview": "因台风简拉维侵袭相关线路列车停运，旅客需合理安排出行计划。"
+          "overview": "台风简拉维导致部分列车停运，铁路部门发布停运及退改公告。"
         },
         {
           "key": "ev:停运__台风致海南高铁停运",
@@ -82895,19 +83726,7 @@
           "why": "该信号动量为new，近7天2 vs 前23天0，台风致海南高铁停运话题发酵，体现了旅客对不可抗力导致行程中断时的售后处理痛点。",
           "productImplication": "暂不建议动作",
           "relations": [],
-          "overview": "台风天气导致海南环岛高铁全面停运，当地铁路部门全力开展防汛防台工作。"
-        },
-        {
-          "key": "ev:票价__12306新生预约购票",
-          "theme": "12306新生预约购票",
-          "category": "event",
-          "mentions": 1,
-          "latestMomentum": "fading",
-          "evidenceCount": 1,
-          "why": "该信号动量为fading，近7天1 vs 前23天25，说明新生预约购票的专属权益或活动热度正在快速衰退，用户关注度大幅降低。",
-          "productImplication": "暂不建议动作",
-          "relations": [],
-          "overview": "12306上线新生预约购票功能，方便高校新生提前规划行程，保障开学季出行。"
+          "overview": "受台风天气影响海南环岛高铁全线停运，旅客出行受阻。"
         },
         {
           "key": "ev:设施__瑞龙智行智能动车组",
@@ -82919,55 +83738,7 @@
           "why": "该信号动量为fading，近7天1 vs 前23天5，智能动车组的新奇感正在消退，用户对其硬件设施的关注度从新鲜体验回归日常出行。",
           "productImplication": "暂不建议动作",
           "relations": [],
-          "overview": "瑞龙智行智能动车组亮相，以智能化设施和舒适体验吸引旅客，提升乘车品质。"
-        },
-        {
-          "key": "th:seat_space_boundary",
-          "theme": "密闭空间座位边界与争议",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "stable",
-          "evidenceCount": 0,
-          "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
-          "productImplication": "暂不建议动作",
-          "relations": [],
-          "overview": "探讨密闭车厢内个人空间与公共利益的冲突，聚焦座位占用与边界感争议。"
-        },
-        {
-          "key": "th:railway_rules_and_hacks",
-          "theme": "铁路票务规则与避坑指南",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "stable",
-          "evidenceCount": 0,
-          "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
-          "productImplication": "暂不建议动作",
-          "relations": [],
-          "overview": "分享铁路购票规则、退改签技巧及避坑指南，帮助旅客掌握票务信息差。"
-        },
-        {
-          "key": "th:exquisite_train_lifestyle",
-          "theme": "高铁精致生活与好物分享",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "stable",
-          "evidenceCount": 0,
-          "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
-          "productImplication": "暂不建议动作",
-          "relations": [],
-          "overview": "分享高铁旅行中的好物与精致体验，倡导提升旅途舒适度与生活品质的方式。"
-        },
-        {
-          "key": "th:cabin_noise_and_children",
-          "theme": "车厢儿童噪音与静音博弈",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "stable",
-          "evidenceCount": 0,
-          "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
-          "productImplication": "暂不建议动作",
-          "relations": [],
-          "overview": "讨论车厢内儿童噪音问题，平衡带娃家庭出行需求与其他旅客对安静环境的诉求。"
+          "overview": "瑞龙智行智能动车组亮相，展现中国高铁智能化与舒适性新成果。"
         },
         {
           "key": "th:slow_train_nostalgia",
@@ -82979,85 +83750,84 @@
           "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
           "productImplication": "暂不建议动作",
           "relations": [],
-          "overview": "怀念绿皮火车的慢节奏与复古情怀，将其视为一种独特的旅行体验与情感寄托。"
-        },
-        {
-          "key": "th:acg_ip_train_meme",
-          "theme": "二次元IP的高铁脑洞玩梗",
-          "category": "theme",
-          "mentions": 1,
-          "latestMomentum": "stable",
-          "evidenceCount": 0,
-          "why": "该主题动量为stable，近7天0 vs 前23天0，属于长尾或潜伏期话题，当前缺乏具体数据支撑爆发趋势，但反映了特定圈层或场景的长期痛点。",
-          "productImplication": "暂不建议动作",
-          "relations": [],
-          "overview": "结合二次元IP进行高铁相关脑洞创作与玩梗，展现年轻圈层对铁路文化的趣味解构。"
+          "overview": "旅客分享乘坐绿皮火车的复古情怀与慢生活体验，引发对慢旅行的向往。"
         }
       ],
       "mainlines": [
         {
-          "name": "极端天气应急保障",
-          "meaning": "台风频发致多列车停运，需强化极端天气下的退改签与旅客安抚服务",
+          "name": "极端天气列车停运",
+          "meaning": "台风及强降雨致多地列车停运，需关注应急退改与旅客安抚。",
           "keys": [
-            "ev:停运__台风紫檀致列车停运",
             "ev:停运__台风沙德尔致列车停运",
+            "ev:停运__川渝强降雨致列车停运",
+            "ev:停运__台风紫檀致列车停运",
             "ev:停运__台风简拉维致列车停运",
             "ev:停运__台风致海南高铁停运"
           ]
         },
         {
-          "name": "乘车规则与边界争议",
-          "meaning": "无座同价及占座拒让引发热议，折射旅客对票务公平与乘车空间边界的关注",
+          "name": "车厢座位边界争议",
+          "meaning": "围绕占座、换铺及儿童噪音的座位边界争议频发，需优化乘车规则引导。",
           "keys": [
             "ev:占座__女孩买空座放零食",
-            "ev:票价__无座票与二等座同价",
-            "ev:占座__2女孩买3张票拒绝让座",
             "th:seat_space_boundary",
-            "th:railway_rules_and_hacks",
-            "th:cabin_noise_and_children"
+            "th:cabin_noise_and_children",
+            "ev:占座__老人要求换下铺",
+            "ev:占座__2女孩买3张票拒绝让座"
           ]
         },
         {
-          "name": "特色服务与圈层营销",
-          "meaning": "推出师生专属优惠与新生预约，结合智能动车与二次元玩梗，拓展年轻客群",
+          "name": "票务规则与系统体验",
+          "meaning": "新生及教师优惠、儿童票规则及系统漏洞引发关注，需持续优化票务产品。",
           "keys": [
             "ev:票务新规__12306新增教师积分优惠",
             "ev:票价__12306新生预约购票",
-            "ev:设施__瑞龙智行智能动车组",
-            "th:exquisite_train_lifestyle",
-            "th:slow_train_nostalgia",
-            "th:acg_ip_train_meme"
+            "ev:购票__12306一人两座漏洞",
+            "ev:儿童票__14岁初中生买学生票",
+            "ev:票价__无座票与二等座同价",
+            "th:railway_rules_and_hacks"
           ]
         }
       ],
       "actions": [
         {
-          "text": "优化极端天气停运预警与自动化退改签流程，加强滞留旅客安抚与接驳指引。",
+          "text": "完善极端天气下的应急退改签流程及滞留旅客安抚机制，提升抗风险服务体验。",
           "basedOn": [
-            "ev:停运__台风紫檀致列车停运",
             "ev:停运__台风沙德尔致列车停运",
+            "ev:停运__川渝强降雨致列车停运",
+            "ev:停运__台风紫檀致列车停运",
             "ev:停运__台风简拉维致列车停运",
             "ev:停运__台风致海南高铁停运"
           ]
         },
         {
-          "text": "完善12306购票提示，明确无座票价与座位使用规则，在APP增设乘车文明与规则指南。",
+          "text": "明确并宣贯车厢座位使用规则，针对儿童噪音、换铺及多票占座等争议场景提供清晰指引。",
           "basedOn": [
             "ev:占座__女孩买空座放零食",
-            "ev:票价__无座票与二等座同价",
-            "ev:占座__2女孩买3张票拒绝让座",
             "th:seat_space_boundary",
-            "th:railway_rules_and_hacks"
+            "th:cabin_noise_and_children",
+            "ev:占座__老人要求换下铺",
+            "ev:占座__2女孩买3张票拒绝让座"
           ]
         },
         {
-          "text": "深化学生及教师等细分人群专属权益，联合二次元IP打造主题车厢或周边文创产品。",
+          "text": "修复12306系统漏洞，优化新生、教师及儿童等特殊群体的票务预约与优惠规则，提升体验。",
           "basedOn": [
             "ev:票务新规__12306新增教师积分优惠",
             "ev:票价__12306新生预约购票",
-            "ev:设施__瑞龙智行智能动车组",
+            "ev:购票__12306一人两座漏洞",
+            "ev:儿童票__14岁初中生买学生票",
+            "ev:票价__无座票与二等座同价"
+          ]
+        },
+        {
+          "text": "关注旅客多元需求与情绪价值，探索适老化无障碍设施升级及特色主题列车等个性化服务。",
+          "basedOn": [
+            "ev:投诉__大连北站无障碍设施",
             "th:exquisite_train_lifestyle",
-            "th:acg_ip_train_meme"
+            "th:acg_ip_train_meme",
+            "th:train_cabin_makeup",
+            "th:slow_train_nostalgia"
           ]
         }
       ]
