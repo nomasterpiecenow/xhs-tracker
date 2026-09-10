@@ -1,6 +1,6 @@
 {
   "keyword": "功能热点 31 + 场景灵感 0",
-  "lastCrawledAt": "2026-09-10 15:59:06",
+  "lastCrawledAt": "2026-09-10 16:50:18",
   "notes": {
     "6a671b4c000000000301d591": {
       "noteId": "6a671b4c000000000301d591",
@@ -8134,7 +8134,9 @@
       "_relevant": true,
       "_sig": "910b67dc9976",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "温情__孕妇高铁产子",
+      "_eventId": "温情__孕妇高铁产子",
+      "eventTitle": "孕妇高铁产子"
     },
     "6a71b86500000000080122a8": {
       "noteId": "6a71b86500000000080122a8",
@@ -23591,8 +23593,8 @@
         "儿童免票"
       ],
       "firstSeen": "2026-08-12 08:51:45",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 26,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 27,
       "dupCount": 1,
       "sources": [
         {
@@ -23886,8 +23888,8 @@
         "儿童免票"
       ],
       "firstSeen": "2026-08-12 08:51:45",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 19,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 20,
       "dupCount": 1,
       "sources": [
         {
@@ -25810,8 +25812,8 @@
         "座位拥挤"
       ],
       "firstSeen": "2026-08-13 08:52:15",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 13,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 14,
       "dupCount": 1,
       "sources": [
         {
@@ -26138,8 +26140,8 @@
         "儿童免票"
       ],
       "firstSeen": "2026-08-13 08:52:15",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 32,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 34,
       "dupCount": 1,
       "sources": [
         {
@@ -26442,8 +26444,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-13 08:52:15",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 13,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 14,
       "dupCount": 1,
       "sources": [
         {
@@ -26966,7 +26968,9 @@
       "_relevant": true,
       "_sig": "f1ed155cf5f2",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "安检__高铁站扣香水",
+      "_eventId": "安检__高铁站扣香水",
+      "eventTitle": "高铁站扣香水"
     },
     "6a7c9596000000002402e10a": {
       "noteId": "6a7c9596000000002402e10a",
@@ -27411,8 +27415,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-14 08:51:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 11,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 12,
       "dupCount": 1,
       "sources": [
         {
@@ -27637,8 +27641,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-15 08:51:22",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 11,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 12,
       "dupCount": 1,
       "sources": [
         {
@@ -28215,8 +28219,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-15 08:51:22",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 16,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 17,
       "dupCount": 1,
       "sources": [
         {
@@ -29188,8 +29192,8 @@
         "乘车素质"
       ],
       "firstSeen": "2026-08-16 08:52:40",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 12,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -30213,8 +30217,8 @@
         "不文明行为"
       ],
       "firstSeen": "2026-08-17 08:51:10",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 15,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 16,
       "dupCount": 1,
       "sources": [
         {
@@ -30243,8 +30247,8 @@
       "collectedCount": "3w+",
       "commentsCount": "701",
       "sharedCount": "744",
-      "totalScore": 13.84,
-      "relevanceScore": 9.84,
+      "totalScore": 13.85,
+      "relevanceScore": 9.85,
       "popularityScore": 3.0,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -30257,8 +30261,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-17 08:51:10",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 15,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 16,
       "dupCount": 1,
       "sources": [
         {
@@ -31537,8 +31541,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-17 08:51:10",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 17,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 18,
       "dupCount": 1,
       "sources": [
         {
@@ -31773,8 +31777,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-17 08:51:10",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 17,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 18,
       "dupCount": 2,
       "sources": [
         {
@@ -32358,8 +32362,8 @@
         "儿童免票"
       ],
       "firstSeen": "2026-08-17 08:51:10",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -34521,8 +34525,8 @@
         "母婴服务差"
       ],
       "firstSeen": "2026-08-18 07:50:21",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 20,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 21,
       "dupCount": 1,
       "sources": [
         {
@@ -34921,8 +34925,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-18 07:50:21",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 14,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 15,
       "dupCount": 1,
       "sources": [
         {
@@ -35202,8 +35206,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-18 07:50:21",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 14,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 15,
       "dupCount": 1,
       "sources": [
         {
@@ -35292,8 +35296,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-18 07:50:21",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 12,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -35935,8 +35939,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-19 07:51:31",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 13,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 14,
       "dupCount": 1,
       "sources": [
         {
@@ -36068,8 +36072,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-19 07:51:31",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -36251,8 +36255,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-19 07:51:31",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -36343,8 +36347,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-19 07:51:31",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 18,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 19,
       "dupCount": 1,
       "sources": [
         {
@@ -37046,8 +37050,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-20 11:20:50",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 12,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -37378,8 +37382,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-20 11:20:50",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 12,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -37840,8 +37844,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-20 11:20:50",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -38392,8 +38396,8 @@
         "让座争议"
       ],
       "firstSeen": "2026-08-20 19:20:33",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -38488,8 +38492,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 18,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 19,
       "dupCount": 1,
       "sources": [
         {
@@ -38520,8 +38524,8 @@
       "collectedCount": "224",
       "commentsCount": "2690",
       "sharedCount": "405",
-      "totalScore": 6.59,
-      "relevanceScore": 4.59,
+      "totalScore": 6.6,
+      "relevanceScore": 4.6,
       "popularityScore": 1.0,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -38537,8 +38541,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 15,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 16,
       "dupCount": 1,
       "sources": [
         {
@@ -38678,8 +38682,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 12,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -38738,7 +38742,9 @@
       "_relevant": true,
       "_sig": "436f0f232274",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "乘车提示__女子坐错车极限换乘",
+      "_eventId": "乘车提示__女子坐错车极限换乘",
+      "eventTitle": "女子坐错车极限换乘"
     },
     "6a82d085000000003300a315": {
       "noteId": "6a82d085000000003300a315",
@@ -39178,8 +39184,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -39210,8 +39216,8 @@
       "collectedCount": "220",
       "commentsCount": "1w+",
       "sharedCount": "621",
-      "totalScore": 7.33,
-      "relevanceScore": 4.33,
+      "totalScore": 7.34,
+      "relevanceScore": 4.34,
       "popularityScore": 2.0,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -39227,8 +39233,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 19,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 21,
       "dupCount": 2,
       "sources": [
         {
@@ -39279,8 +39285,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -39327,8 +39333,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 16,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 18,
       "dupCount": 1,
       "sources": [
         {
@@ -39375,8 +39381,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 20,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 22,
       "dupCount": 1,
       "sources": [
         {
@@ -39422,8 +39428,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -39918,8 +39924,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 16,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 17,
       "dupCount": 1,
       "sources": [
         {
@@ -40016,8 +40022,8 @@
         "火车停运"
       ],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -40823,8 +40829,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 2,
       "sources": [
         {
@@ -40877,8 +40883,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -41114,8 +41120,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -42550,8 +42556,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -42958,8 +42964,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 12,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -43003,8 +43009,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -43051,8 +43057,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 12,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -43098,8 +43104,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -43145,8 +43151,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -43195,8 +43201,8 @@
         "规则不明确"
       ],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 12,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -44468,8 +44474,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 12,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -44516,8 +44522,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -44563,8 +44569,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -44611,8 +44617,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -44659,8 +44665,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -46392,8 +46398,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -46536,8 +46542,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -46584,8 +46590,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-24 14:43:18",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -46783,7 +46789,9 @@
       ],
       "_relevant": true,
       "_sig": "13f1aee9e741",
-      "eventId": null
+      "eventId": "设施__复兴号CR450测试",
+      "_eventId": "设施__复兴号CR450测试",
+      "eventTitle": "复兴号CR450测试"
     },
     "douyin:7673083939964357258": {
       "noteId": "douyin:7673083939964357258",
@@ -46873,7 +46881,9 @@
       ],
       "_relevant": true,
       "_sig": "171c9b734ee1",
-      "eventId": null
+      "eventId": "设施__复兴号CR450测试",
+      "_eventId": "设施__复兴号CR450测试",
+      "eventTitle": "复兴号CR450测试"
     },
     "douyin:7675188034987895659": {
       "noteId": "douyin:7675188034987895659",
@@ -46918,7 +46928,9 @@
       ],
       "_relevant": true,
       "_sig": "2fd51456fd0d",
-      "eventId": null
+      "eventId": "设施__复兴号CR450测试",
+      "_eventId": "设施__复兴号CR450测试",
+      "eventTitle": "复兴号CR450测试"
     },
     "douyin:7675620768483728586": {
       "noteId": "douyin:7675620768483728586",
@@ -47278,7 +47290,9 @@
       ],
       "_relevant": true,
       "_sig": "0afb11c82d16",
-      "eventId": null
+      "eventId": "设施__复兴号CR450测试",
+      "_eventId": "设施__复兴号CR450测试",
+      "eventTitle": "复兴号CR450测试"
     },
     "douyin:7676836940989679985": {
       "noteId": "douyin:7676836940989679985",
@@ -48041,8 +48055,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -48085,8 +48099,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -48129,8 +48143,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -48174,8 +48188,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -48265,8 +48279,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -48309,8 +48323,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -48353,8 +48367,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 4,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -48441,8 +48455,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -48810,8 +48824,8 @@
       "_sentiment": "pos",
       "_pains": [],
       "firstSeen": "2026-08-25 16:02:43",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -48898,8 +48912,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-25 16:44:31",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -48992,8 +49006,8 @@
       "_sentiment": "neu",
       "_pains": [],
       "firstSeen": "2026-08-25 16:44:31",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -49042,8 +49056,8 @@
         "无陪儿童服务"
       ],
       "firstSeen": "2026-08-25 16:44:31",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -49129,8 +49143,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -49222,8 +49236,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -49313,8 +49327,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -49445,8 +49459,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -49535,8 +49549,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 13,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 14,
       "dupCount": 1,
       "sources": [
         {
@@ -49850,8 +49864,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 2,
       "sources": [
         {
@@ -50037,8 +50051,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -50081,8 +50095,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 4,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -50128,8 +50142,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 11,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 12,
       "dupCount": 1,
       "sources": [
         {
@@ -50442,8 +50456,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 25,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 29,
       "dupCount": 1,
       "sources": [
         {
@@ -50488,8 +50502,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -50537,8 +50551,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -50583,8 +50597,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -50629,8 +50643,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -50720,8 +50734,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -50811,8 +50825,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 2,
       "sources": [
         {
@@ -50908,8 +50922,8 @@
         "竞品品牌"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 14,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 16,
       "dupCount": 1,
       "sources": [
         {
@@ -50941,8 +50955,8 @@
       "collectedCount": "495",
       "commentsCount": "55",
       "sharedCount": "12",
-      "totalScore": 8.46,
-      "relevanceScore": 5.96,
+      "totalScore": 8.47,
+      "relevanceScore": 5.97,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -50952,8 +50966,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -51721,8 +51735,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -51766,8 +51780,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -51815,8 +51829,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -51864,8 +51878,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -51911,8 +51925,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -51956,8 +51970,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -52003,8 +52017,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -52050,8 +52064,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -52461,8 +52475,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -52506,8 +52520,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -52553,8 +52567,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -52645,8 +52659,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -52917,8 +52931,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -52964,8 +52978,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -53012,8 +53026,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 16,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 18,
       "dupCount": 1,
       "sources": [
         {
@@ -53060,8 +53074,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 16,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 18,
       "dupCount": 1,
       "sources": [
         {
@@ -53107,8 +53121,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -53155,8 +53169,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -53206,8 +53220,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -53255,8 +53269,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -53305,8 +53319,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 16,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 18,
       "dupCount": 1,
       "sources": [
         {
@@ -53352,8 +53366,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -53399,8 +53413,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -53493,8 +53507,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -53683,8 +53697,8 @@
         "购票抢票"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -53922,8 +53936,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -53967,8 +53981,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -54014,8 +54028,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -54064,8 +54078,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -54112,8 +54126,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -54304,8 +54318,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -54349,8 +54363,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -54394,8 +54408,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -54444,8 +54458,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-08-27 20:10:38",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 8,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 9,
       "dupCount": 1,
       "sources": [
         {
@@ -56353,8 +56367,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -56518,8 +56532,8 @@
       "collectedCount": "253",
       "commentsCount": "361",
       "sharedCount": "2829",
-      "totalScore": 7.76,
-      "relevanceScore": 5.26,
+      "totalScore": 7.77,
+      "relevanceScore": 5.27,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -56531,8 +56545,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 15,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 18,
       "dupCount": 1,
       "sources": [
         {
@@ -56577,8 +56591,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -56622,8 +56636,8 @@
       ],
       "dimensions": [],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -56666,8 +56680,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -57120,8 +57134,8 @@
         "购票抢票"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -57167,8 +57181,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -57215,8 +57229,8 @@
         "退改签报销"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -57264,8 +57278,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -57311,8 +57325,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -57359,8 +57373,8 @@
         "退改签报销"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -57406,8 +57420,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -57453,8 +57467,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -57876,8 +57890,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -58017,8 +58031,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -58111,8 +58125,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -58158,8 +58172,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -58206,8 +58220,8 @@
         "退改签报销"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -58254,8 +58268,8 @@
         "退改签报销"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -58395,8 +58409,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -58536,8 +58550,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-08-28 08:04:07",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -58579,8 +58593,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -58622,8 +58636,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -58665,8 +58679,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -58710,8 +58724,8 @@
         "购票抢票"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 7,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -58755,8 +58769,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -58798,8 +58812,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -58842,8 +58856,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 10,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 12,
       "dupCount": 1,
       "sources": [
         {
@@ -59147,8 +59161,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -59276,8 +59290,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -59319,8 +59333,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -59362,8 +59376,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -59406,8 +59420,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -59451,8 +59465,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -59494,8 +59508,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -59582,8 +59596,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 2,
       "sources": [
         {
@@ -59631,8 +59645,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -59675,8 +59689,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -59718,8 +59732,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -59763,8 +59777,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 11,
       "dupCount": 1,
       "sources": [
         {
@@ -60072,8 +60086,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -60104,8 +60118,8 @@
       "collectedCount": "99",
       "commentsCount": "3922",
       "sharedCount": "125",
-      "totalScore": 12.54,
-      "relevanceScore": 9.54,
+      "totalScore": 12.55,
+      "relevanceScore": 9.55,
       "popularityScore": 1.5,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -60118,8 +60132,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -60167,8 +60181,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -60212,8 +60226,8 @@
         "购票抢票"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -60258,8 +60272,8 @@
         "竞品品牌"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -60305,8 +60319,8 @@
         "竞品品牌"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 12,
       "dupCount": 1,
       "sources": [
         {
@@ -60434,12 +60448,12 @@
         "高铁退票"
       ],
       "dimensions": [
-        "选座车厢",
-        "退改签报销"
+        "退改签报销",
+        "选座车厢"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -60489,8 +60503,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -60533,8 +60547,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -60577,8 +60591,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -60621,8 +60635,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -60665,8 +60679,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 2,
       "sources": [
         {
@@ -60714,8 +60728,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -60758,8 +60772,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61249,8 +61263,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61293,8 +61307,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61337,8 +61351,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61381,8 +61395,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61425,8 +61439,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61472,8 +61486,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -61519,8 +61533,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61563,8 +61577,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61610,8 +61624,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61656,8 +61670,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61702,8 +61716,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61748,8 +61762,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61792,8 +61806,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -61836,8 +61850,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -61926,8 +61940,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 9,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 10,
       "dupCount": 1,
       "sources": [
         {
@@ -62064,8 +62078,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62117,8 +62131,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 11,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -62167,8 +62181,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62212,8 +62226,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62259,8 +62273,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62308,8 +62322,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62358,8 +62372,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62405,8 +62419,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62455,8 +62469,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 11,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 13,
       "dupCount": 1,
       "sources": [
         {
@@ -62505,8 +62519,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 4,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -62552,8 +62566,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62598,8 +62612,8 @@
         "退改签报销"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -62645,8 +62659,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 4,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -62692,8 +62706,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62741,8 +62755,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -62788,8 +62802,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 4,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -62837,8 +62851,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 7,
       "dupCount": 1,
       "sources": [
         {
@@ -62885,8 +62899,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62929,8 +62943,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 5,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -62973,8 +62987,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 4,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -63019,8 +63033,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 4,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -63067,8 +63081,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 4,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -63115,8 +63129,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-02 14:41:39",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 4,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 5,
       "dupCount": 1,
       "sources": [
         {
@@ -63162,8 +63176,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -63205,8 +63219,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -63423,8 +63437,8 @@
         "退改签报销"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -63474,8 +63488,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -63879,8 +63893,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -63893,7 +63907,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "92be9d239e49",
-      "eventId": null
+      "eventId": "投诉__退伍老兵站务员站姿被指作秀",
+      "_eventId": "投诉__退伍老兵站务员站姿被指作秀",
+      "eventTitle": "退伍老兵站务员站姿被指作秀"
     },
     "douyin:7680385534904703144": {
       "noteId": "douyin:7680385534904703144",
@@ -63967,8 +63983,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -64277,8 +64293,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -64321,8 +64337,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -64365,8 +64381,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -64501,8 +64517,8 @@
         "退改签报销"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 6,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 8,
       "dupCount": 1,
       "sources": [
         {
@@ -64551,8 +64567,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-03 08:03:58",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -65677,8 +65693,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -65720,8 +65736,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -65806,8 +65822,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66028,8 +66044,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66073,8 +66089,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66106,8 +66122,8 @@
       "collectedCount": "479",
       "commentsCount": "18",
       "sharedCount": "7",
-      "totalScore": 8.49,
-      "relevanceScore": 5.99,
+      "totalScore": 8.5,
+      "relevanceScore": 6.0,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -66117,8 +66133,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66161,8 +66177,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66338,8 +66354,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66470,8 +66486,8 @@
         "购票抢票"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66515,8 +66531,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66560,8 +66576,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66606,8 +66622,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-04 13:33:13",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 3,
       "dupCount": 1,
       "sources": [
         {
@@ -66651,8 +66667,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -66692,8 +66708,8 @@
       ],
       "dimensions": [],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -66706,7 +66722,9 @@
       "_sentiment": "neg",
       "_pains": [],
       "_sig": "cc37eeea79c8",
-      "eventId": null
+      "eventId": "事故__南宁站旅客跳轨致列车晚点",
+      "_eventId": "事故__南宁站旅客跳轨致列车晚点",
+      "eventTitle": "南宁站旅客跳轨致列车晚点"
     },
     "6a9923100000000012035510": {
       "noteId": "6a9923100000000012035510",
@@ -66735,8 +66753,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -66778,8 +66796,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -66823,8 +66841,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -66866,8 +66884,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -66909,8 +66927,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -66952,8 +66970,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -66997,8 +67015,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67040,8 +67058,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67083,8 +67101,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67126,8 +67144,8 @@
       ],
       "dimensions": [],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67167,8 +67185,8 @@
       ],
       "dimensions": [],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67210,8 +67228,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67251,8 +67269,8 @@
       ],
       "dimensions": [],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67294,8 +67312,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67337,8 +67355,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67380,8 +67398,8 @@
         "购票抢票"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67423,8 +67441,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67466,8 +67484,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67512,8 +67530,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67557,8 +67575,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67602,8 +67620,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67645,8 +67663,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67688,8 +67706,8 @@
       ],
       "dimensions": [],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67731,8 +67749,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67778,8 +67796,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67823,8 +67841,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67864,8 +67882,8 @@
       ],
       "dimensions": [],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67907,8 +67925,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67948,8 +67966,8 @@
       ],
       "dimensions": [],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -67991,8 +68009,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68036,8 +68054,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68081,8 +68099,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68124,8 +68142,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68167,8 +68185,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68209,12 +68227,12 @@
         "列车停运"
       ],
       "dimensions": [
-        "退改签报销",
-        "出行服务"
+        "出行服务",
+        "退改签报销"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -68262,8 +68280,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68306,8 +68324,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -68351,8 +68369,8 @@
         "购票抢票"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68391,13 +68409,13 @@
         "铺位"
       ],
       "dimensions": [
-        "选座车厢",
         "票务规则",
-        "退改签报销"
+        "退改签报销",
+        "选座车厢"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68446,8 +68464,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68496,8 +68514,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68538,12 +68556,12 @@
         "高铁"
       ],
       "dimensions": [
-        "场景灵感",
-        "出行服务"
+        "出行服务",
+        "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -68586,8 +68604,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68627,12 +68645,12 @@
         "火车"
       ],
       "dimensions": [
-        "场景灵感",
-        "出行服务"
+        "出行服务",
+        "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 2,
       "sources": [
         {
@@ -68677,12 +68695,12 @@
         "火车"
       ],
       "dimensions": [
-        "选座车厢",
-        "场景灵感"
+        "场景灵感",
+        "选座车厢"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68725,8 +68743,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68770,12 +68788,12 @@
         "高铁"
       ],
       "dimensions": [
-        "选座车厢",
-        "场景灵感"
+        "场景灵感",
+        "选座车厢"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -68818,8 +68836,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68864,8 +68882,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68910,8 +68928,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -68954,8 +68972,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69000,8 +69018,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69046,8 +69064,8 @@
         "购票抢票"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 3,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 6,
       "dupCount": 1,
       "sources": [
         {
@@ -69090,8 +69108,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69134,8 +69152,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69178,8 +69196,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69192,7 +69210,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "dc6570b6f640",
-      "eventId": null
+      "eventId": "温情__宿州火车站退伍兵相亲",
+      "_eventId": "温情__宿州火车站退伍兵相亲",
+      "eventTitle": "宿州火车站退伍兵相亲"
     },
     "douyin:7681166730445573422": {
       "noteId": "douyin:7681166730445573422",
@@ -69222,8 +69242,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69236,7 +69256,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "5efffc2fb92b",
-      "eventId": null
+      "eventId": "温情__宿州火车站退伍兵相亲",
+      "_eventId": "温情__宿州火车站退伍兵相亲",
+      "eventTitle": "宿州火车站退伍兵相亲"
     },
     "douyin:7672855684484206309": {
       "noteId": "douyin:7672855684484206309",
@@ -69266,8 +69288,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69310,8 +69332,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69354,8 +69376,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69400,8 +69422,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69446,8 +69468,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69490,8 +69512,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69536,8 +69558,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69580,8 +69602,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69626,8 +69648,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69670,8 +69692,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69714,8 +69736,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69758,8 +69780,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69805,8 +69827,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69847,13 +69869,13 @@
         "铺位"
       ],
       "dimensions": [
-        "选座车厢",
+        "票务规则",
         "退改签报销",
-        "票务规则"
+        "选座车厢"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 2,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 4,
       "dupCount": 1,
       "sources": [
         {
@@ -69903,8 +69925,8 @@
         "退改签报销"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69948,8 +69970,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -69997,8 +70019,8 @@
         "票务规则"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -70043,8 +70065,8 @@
         "场景灵感"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -70087,8 +70109,8 @@
         "选座车厢"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -70131,8 +70153,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -70177,8 +70199,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -70223,8 +70245,8 @@
         "出行服务"
       ],
       "firstSeen": "2026-09-10 15:59:06",
-      "lastSeen": "2026-09-10 15:59:06",
-      "crawlCount": 1,
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
       "dupCount": 1,
       "sources": [
         {
@@ -70240,6 +70262,475 @@
       "_eventId": "停运__台风沙德尔致列车停运",
       "eventId": "停运__台风沙德尔致列车停运",
       "eventTitle": "台风沙德尔致列车停运"
+    },
+    "6a93b21f000000001f00116a": {
+      "noteId": "6a93b21f000000001f00116a",
+      "platform": "xhs",
+      "title": "在重庆江津，我拍到火车站藏起来的旧时光🚇",
+      "desc": "一个人站在落灰的座椅前\n仿佛回到了没有手机\n大家仰头看着地图等绿皮火车去远方的年代🥹\n-\n📍重庆江津朱杨溪火车站🚂\n导航到“利民社区卫生室”沿着下坡一直走就到了\n中午12点才开门，千万别早起白跑一趟！\n整个候车厅基本没人，完美避开人流\n主打一个包场随意拍📸\n-\nshot on vivo x300ultra\n·\n#一种很新的旅行记录方式\n#手机摄影\n#我的镜头会说话\n#我的色彩之旅\n#好视频扶持计划\n#WeeklyPick\n#给摄影一分钟\n#小红书影像激励计划\n#这才是我的家乡\n#这才是重庆\n@摄影薯\n@生活薯\n@HOWTO薯\n@户外薯\n@人文薯",
+      "authorNickname": "En.",
+      "authorId": "5e5ddaef000000000100b840",
+      "authorFans": "2w+",
+      "createTime": "2026-08-30 12:31:27",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a93b21f000000001f00116a",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/5e5ddaef000000000100b840",
+      "interactiveCount": "2w+",
+      "likedCount": "1w+",
+      "collectedCount": "5000+",
+      "commentsCount": "304",
+      "sharedCount": "1006",
+      "totalScore": 13.45,
+      "relevanceScore": 9.45,
+      "popularityScore": 2.5,
+      "recencyScore": 1.5,
+      "matchedKeywords": [
+        "火车"
+      ],
+      "dimensions": [
+        "场景灵感"
+      ],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "En.",
+          "noteId": "6a93b21f000000001f00116a"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "pos",
+      "_pains": [],
+      "_sig": "311d1657e310",
+      "eventId": null
+    },
+    "6a9be86c00000000280307c6": {
+      "noteId": "6a9be86c00000000280307c6",
+      "platform": "xhs",
+      "title": "2004年12月浙江杭州市东站火车站",
+      "desc": "以前只有杭州站最气派叫杭州城站，然后萧山站现在叫杭州南站，在就杭州东站，后面两个火车站都是后面大改了，小时候一直去杭州旅游，杭州城站电梯上去右手边有个小超市里面买过不少玩具，萧山站里面买过大鸡腿印象很",
+      "authorNickname": "VKKK.k..K",
+      "authorId": "6050414c0000000001009256",
+      "authorFans": "2859",
+      "createTime": "2026-09-05 18:01:16",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a9be86c00000000280307c6",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/6050414c0000000001009256",
+      "interactiveCount": "1036",
+      "likedCount": "701",
+      "collectedCount": "206",
+      "commentsCount": "129",
+      "sharedCount": "204",
+      "totalScore": 12.48,
+      "relevanceScore": 9.48,
+      "popularityScore": 1.0,
+      "recencyScore": 2.0,
+      "matchedKeywords": [
+        "火车"
+      ],
+      "dimensions": [
+        "场景灵感"
+      ],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "VKKK.k..K",
+          "noteId": "6a9be86c00000000280307c6"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "neu",
+      "_pains": [],
+      "_sig": "76834f3096c7",
+      "eventId": null
+    },
+    "6a8fac90000000002a03186b": {
+      "noteId": "6a8fac90000000002a03186b",
+      "platform": "xhs",
+      "title": "📍潮汕攻略|怎样两天吃9家美食逛6个景点⁉️",
+      "desc": "汕头两天两晚路线（可提前一天下午到）\n交通：✈️揭阳潮汕机场\n🚄潮汕站→汕头站\n市区出行直接共享小电驴很方便\n住宿：📍万象城三公里范围内选择（我住在黄河路桔子水晶）\n\t\nDay1 下午抵达：\n1.📍龙眼南路：潮禧记炸鸡翅×细姨甜汤 推荐炸鸡翅炸番薯炸莲藕炸芋头+无米粿+甜汤\n2.万象城鮀浦老四果汁冰：推荐油柑汁和应季水果果汁冰\n3.📍龙眼北路谢世盛兴丸店：各种非遗手工丸，推荐墨斗丸和猪肉饼\n\t\nDay2睡到自然醒\n早上逛一逛金墩市场，去📍通发牛肉带点新鲜牛肉和肉丸回酒店火锅（买好一次性锅具和一些水果蔬菜）\n回酒店时会路过📍牛尾哥，推荐热牛尾拼盘+邮寄\n📍春梅里卤鹅（中山店）：潮汕非遗卤鹅，推荐卤鹅、粉肝豉油炒鹅肠、石斑鱼\n下午4:00左右开始逛景点\n📍中山纪念亭→📍老妈宫戏台→📍天后宫→📍观音庙→📍汕头邮政总局（对面就是侨批博物馆，5.下班）→📍永平路麦当劳机位→18:00左右到📍西堤公园看日落→步行镇邦路到📍汕头旅社到志平路（蓝调时刻观赏岭南骑楼）\n晚饭：📍良永兴夜市大排档：可以盲点，都好吃\n\t\n返程日：\n1.📍行运龙凤茶楼吃早茶\n2.📍福气土鸡火锅（高铁站店）\n高铁返程（如果返程时间晚可以直接把第一天下午行程挪过来，大家灵活变通~吃得开心）#潮汕 #潮汕美食 #汕头 #汕头美食 #汕头旅游攻略 #汕头旅游 #汕头旅行 #汕头旅行攻略 #逛吃全攻略 #城市的一百种玩法 #汕头拍照 #小公园打卡 #本地人才知道的美食 #旅游万粉扶持计划 #旅游编辑部#广东 #旅游中视频扶持计划 #带上银联相惠每一个夏天 #银联优惠日 #云闪付\n#00:00[时刻]# 前言\n#00:13[时刻]# 交通及住宿\n#00:24[时刻]# 老式炸鸡+甜汤\n#00:43[时刻]# 果汁冰\n#01:02[时刻]# 手工丸店\n#01:21[时刻]# 早市+自制牛肉火锅\n#01:45[时刻]# 牛尾拼盘\n#02:02[时刻]# 卤鹅\n#02:46[时刻]# 小公园打卡路线+西堤公园日落\n#03:32[时刻]# 潮汕夜排挡\n#03:56[时刻]# 港式早茶\n#04:18[时刻]# 土鸡火锅",
+      "authorNickname": "鱼尾呀",
+      "authorId": "5be817426a9d040001780c76",
+      "authorFans": "4w+",
+      "createTime": "2026-08-27 17:36:11",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a8fac90000000002a03186b",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/5be817426a9d040001780c76",
+      "interactiveCount": "5000+",
+      "likedCount": "3676",
+      "collectedCount": "2556",
+      "commentsCount": "70",
+      "sharedCount": "1329",
+      "totalScore": 7.04,
+      "relevanceScore": 4.04,
+      "popularityScore": 1.5,
+      "recencyScore": 1.5,
+      "matchedKeywords": [
+        "高铁优惠"
+      ],
+      "dimensions": [],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "鱼尾呀",
+          "noteId": "6a8fac90000000002a03186b"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "pos",
+      "_pains": [],
+      "_sig": "3ac691cb429d",
+      "eventId": null
+    },
+    "6a902bda0000000029034ead": {
+      "noteId": "6a902bda0000000029034ead",
+      "platform": "xhs",
+      "title": "阿那亚📍会奖励每一个提前做攻略的人‼️附机",
+      "desc": "夏天的阿那亚真的是人间理想\n浪漫的橘子海日出🌅和面朝大海的星星人✨\n好逛好拍的建筑群🏘️和绝美的海岸线🌊\n还有海边秋千、通往大海的路……\n来阿那亚听劝，拍完这些机位再离开\n\t\n📍秦皇岛·阿那亚\n🎫入园方式：入住园区酒店/预订艺术中心🎫/预订沙丘美术馆🎫\n\t\n🗺️游玩路线（图3）\nDay①：犬舍➡️红房子➡️UCCA沙丘美术馆➡️tagi酒神剧场➡️黄河入海➡️阿那亚艺术中心\nDay②：阿嬷手作➡️BAR LOTUS ➡️泡泡玛特星星人➡️阿那亚礼堂➡️孤独图书馆/小野雕塑➡️aranya海边秋千➡️十期沙滩\n\t\n🚗交通：北京自驾🚗约3.5h；高铁🚄2h北戴河站，再打车30min\n🏨住宿：苏卡酒店\n暑期带娃旅游，旺季酒店、出行成本真的很高！多亏闺蜜安利了旅游省💰神器👉工行Visa双标白金卡，绑定各种平台都有优惠\n订酒店的时候，8月和9月上携程旅行App使用绑定的工银信用卡支付选择“程支付”，有机会能享满500 元立减10元优惠，机票、火车票、酒店、门票、租车全都能用\n工银信用卡在十大平台都有绑卡优惠，从高铁站打车回酒店，用滴滴支付首次绑定工银信用卡直接给减了5💰，这波省钱操作太香了🤩“工银信用卡，优惠在身边”\n晚上在酒店叫外卖也能用。在微信、支付宝、京东、美团、抖音、拼多多6平台绑卡消费还能攒工银i豆!  攒完的豆在京东买东西就能当钱花，买得越多省得越多\n\t\n📷打卡推荐\nP1、9、17🧭泡泡玛特星星人： 海边的乌托邦！早上日出时刻人少好拍\nP15🧭 孤独图书馆：依次可拍P11小野雕塑、阿那亚海边秋千和通往大海的路\nP6🧭红房子音乐厅：红色建筑很好看\nP7🧭阿那亚艺术中心：B1露天剧场别有洞天\nP3🧭酒神机场：异域风拉满，高处向下俯拍\nP2🧭犬舍：拍照需预约！从二层俯拍更出片\nP13🧭阿那亚tagi：可爱的星星很适合小朋友\nP14🧭阿那亚礼堂：阿那亚必拍，海边纯白建筑很好看\nP8、18🧭阿嬤手作：挨着星星人，日出时分有种不在国内的美\nP16🧭沙丘美术馆：只拍照的话可以在门口，室内有艺术展\n#看海  #秦皇岛旅行  #阿那亚  #星星人  #Visa #工行Visa卡 #工商银行信用卡 #工银信用卡优惠在身边 #ApplePay #工行Visa标准白金卡 #爱购暑乐季 ",
+      "authorNickname": "爱玩的葡萄🐯",
+      "authorId": "6673a36c0000000003030d8e",
+      "authorFans": "4w+",
+      "createTime": "2026-08-28 12:09:08",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a902bda0000000029034ead",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/6673a36c0000000003030d8e",
+      "interactiveCount": "1091",
+      "likedCount": "677",
+      "collectedCount": "404",
+      "commentsCount": "10",
+      "sharedCount": "152",
+      "totalScore": 6.79,
+      "relevanceScore": 4.29,
+      "popularityScore": 1.0,
+      "recencyScore": 1.5,
+      "matchedKeywords": [
+        "火车优惠",
+        "高铁优惠"
+      ],
+      "dimensions": [],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 2,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "爱玩的葡萄🐯",
+          "noteId": "6a902bda0000000029034ead"
+        }
+      ],
+      "_brand": "携程",
+      "_relevant": true,
+      "_sentiment": "pos",
+      "_pains": [],
+      "_sig": "1bca8e94b082",
+      "eventId": null
+    },
+    "6a84598c000000002701e8be": {
+      "noteId": "6a84598c000000002701e8be",
+      "platform": "xhs",
+      "title": "这一次去再远的地方我也不怕了",
+      "desc": "暑假打算去外地骑行的朋友应该都懂！\n想去别的城市骑车玩，但整车携带真的太折磨人😮‍💨\n\t\n不管坐高铁还是坐飞机，自行车自己打包托运巨麻烦，拆车、包装、搬运行李一套下来人都累没半条命。\n\t\n被我挖到顺丰这个宝藏服务真的救大命🙏\n整车不用拆卸，直接就可以寄！\n提前1‑2天在顺丰速运小程序搜「轻松行」，选全国直寄，收件填酒店地址，物品选自行车就ok✅\n\t\n还能选专业包装材料，支持保价，安全感直接拉满。\n坐等小哥上门取件，人轻轻松松坐飞机高铁出发，人到目的地，装备也到。\n\t\n不用扛重重的装车包赶路，解放双手去玩耍，骑行体验直接升级！\n评论区还有寄件优惠券可以领，近期有出行计划的宝子可以试一试～\n\t\n#尽兴暑假顺丰出发#顺丰轻松行 #暑假骑行 #跨城骑行 #出行攻略 #骑行装备 #暑假出游 #寄快递小技巧 #旅行好物",
+      "authorNickname": "宪文",
+      "authorId": "6232b6430000000010004f6f",
+      "authorFans": "4w+",
+      "createTime": "2026-08-19 10:03:43",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a84598c000000002701e8be",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/6232b6430000000010004f6f",
+      "interactiveCount": "3923",
+      "likedCount": "3661",
+      "collectedCount": "247",
+      "commentsCount": "15",
+      "sharedCount": "29",
+      "totalScore": 6.77,
+      "relevanceScore": 4.77,
+      "popularityScore": 1.0,
+      "recencyScore": 1.0,
+      "matchedKeywords": [
+        "高铁优惠"
+      ],
+      "dimensions": [
+        "出行服务"
+      ],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "宪文",
+          "noteId": "6a84598c000000002701e8be"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "neg",
+      "_pains": [
+        "托运麻烦",
+        "打包繁琐"
+      ],
+      "_sig": "e8dbaf47a985",
+      "eventId": null
+    },
+    "6a8a3e840000000023013a04": {
+      "noteId": "6a8a3e840000000023013a04",
+      "platform": "xhs",
+      "title": "见所未见❗婺源新晋宝藏地🔥9大王牌",
+      "desc": "来婺源真的别再只冲篁岭了！！\n这里有堪称天花板的蓝调夜景有万家灯火里的一夜鱼龙舞，还有童话山谷、森林奇妙夜，以及酷似魔法书屋的天坑图书馆。\n还可以漫步在如同古画里的园林，边走边看实景演绎，这里是高铁直达新开婺源弦高城二期\n\t\n🧙‍♀️【必打卡9大网红王牌】游玩顺序\n游客中心→森林奇妙夜（夜场）→天坑图书馆→童话山谷→汪家坞非遗工坊村→儒学天街→VR科幻乐园/光影卡丁车→环翠堂锦屏园→蟠龙古堡→西湖凼街区（程家大院）\n💡 实用Tips\n·门口可租魔法棒，唤醒ai灯光互动\n· 最佳入园时间：中午入园，日场+夜场全涵盖\n· 门票：开业优惠价128元，早鸟票99元一票通玩九大板块\n· 本地居民凭身份证免票（节假日除外）\n· 必看夜景：森林奇妙夜光影秀、汪家坞鱼灯巡游、程家大院实景演艺\n婺源弦高城，白天是活态的徽州博物馆，入夜是千年不灭的灯火人间。早上来，玩到深夜都不够！收藏好这份攻略，下次来婺源直接照着走～\n#婺源旅游 #弦高城二期 #森林奇妙夜 #天坑图书馆 #童话山谷 #婺源 #非遗工坊 #婺源弦高城 #弦高城徽州大梦在此城 #婺源旅游新地标\n#光影卡丁车 #徽派园林 #蟠龙古堡 #沉浸式演艺 #周末去哪儿 #亲子游 #小众旅行地#婺源弦高城  #弦高城徽州大梦在此城 #弦高城八月开业 #不到弦高枉婺源 #婺源旅行 #婺源旅游新地标#误入一座山谷童话王国",
+      "authorNickname": "大麦和瑞",
+      "authorId": "5656c6e76a6a69390fe241a5",
+      "authorFans": "4w+",
+      "createTime": "2026-08-23 08:27:48",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a8a3e840000000023013a04",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/5656c6e76a6a69390fe241a5",
+      "interactiveCount": "1274",
+      "likedCount": "616",
+      "collectedCount": "611",
+      "commentsCount": "47",
+      "sharedCount": "152",
+      "totalScore": 6.55,
+      "relevanceScore": 4.55,
+      "popularityScore": 1.0,
+      "recencyScore": 1.0,
+      "matchedKeywords": [
+        "高铁优惠"
+      ],
+      "dimensions": [],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "大麦和瑞",
+          "noteId": "6a8a3e840000000023013a04"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "pos",
+      "_pains": [],
+      "_sig": "e53976db59df",
+      "eventId": null
+    },
+    "6a89626e0000000028026a1c": {
+      "noteId": "6a89626e0000000028026a1c",
+      "platform": "xhs",
+      "title": "澳门TCG爱好者必冲｜宝可梦认证道馆🎴",
+      "desc": "暑假和闺蜜👭的澳门🇲🇴卡牌🎴之行太治愈啦✨坐高铁轻松出行🚄，过关步行10分钟就能抵达，交通超便利！\n\t\n打卡澳门🇲🇴本土一站式卡牌旗舰店🏪同时也是宝可梦官方认证GYM道馆🎴\n\t\n店内品类十分丰富🃏宝可梦、游戏王、航海王、龙珠、美系球星卡🪙全都有！专属折扣专区🛍诚意满满，多款卡牌有优惠活动✅\n\t\n收藏🎁玩家可以看看店内多款PSA、CGC高分评级卡！还能预约一站式专业送评服务✨省去繁琐流程📋\n\t\n很难得的深夜营业门店🌙营业至凌晨1点⏰，晚上也能和好友悠闲逛卡、交流爱好🤝\n\t\n📍课金达人Game Master-黑沙环店\n\t\n#澳门卡牌店 #澳门卡店 #澳门TCG #澳门球星卡 #课金达人 #澳门探店 #宝可梦道馆 #PSA鉴定 #CGC评级 #澳门卡展 #好视频扶持计划",
+      "authorNickname": "卉卉",
+      "authorId": "64c21762000000001403ced8",
+      "authorFans": "31w+",
+      "createTime": "2026-08-22 16:48:46",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a89626e0000000028026a1c",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/64c21762000000001403ced8",
+      "interactiveCount": "3900",
+      "likedCount": "2110",
+      "collectedCount": "1750",
+      "commentsCount": "40",
+      "sharedCount": "25",
+      "totalScore": 6.46,
+      "relevanceScore": 4.46,
+      "popularityScore": 1.0,
+      "recencyScore": 1.0,
+      "matchedKeywords": [
+        "高铁优惠"
+      ],
+      "dimensions": [],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "卉卉",
+          "noteId": "6a89626e0000000028026a1c"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "pos",
+      "_pains": [],
+      "_sig": "a93a5d40abb2",
+      "eventId": null
+    },
+    "6a89356c00000000290191a8": {
+      "noteId": "6a89356c00000000290191a8",
+      "platform": "xhs",
+      "title": "记下每一个学习的瞬间📑",
+      "desc": "Q1: 用三个词描述一下你现在的生活\n我想了很久\n: 温柔 不慌不乱 依然前行\n有没有那么一瞬间\n让你感受到似曾相识\nQ2: 如果我回到17岁大学的那一年 我会想要什么呢？\n我的答案是\n可能是成为我志愿上的那个人\n也可能是一台适合自己的平板电脑\nQ3: 如果现在呢?\n我想成为一个厉害的普通人\n.\n成为一个厉害的普通人是需要付出很多的\n是持续的学习 也是不断的拓宽自己\n也许某一刻我们也会灵感枯竭 会疲倦\n而华为MatePad Air总是能给我惊喜\n不仅是平板电脑 更是我学习路上的好帮手\n不用害怕灵感一闪而过\n也不用担心通行路上无事可做\n不论高铁还是飞机上 都可以拿出来把当下所想所见记录下来\n.\n热爱学习和摄影一样\n仿佛也已经住进了我的生活之中 如影随形\n一些好的文章 一些好的构图\n都被小艺分屏记录下来\n高效处理 万字长文也能拿捏住\n搭载鸿蒙AI功能加持 轻松总结出要点\n更能生成PPT\n华为Pura 90 Pro手机与华为MatePad Air平板电脑 华为MateBook Pro之间的文件互传也只在一个响指的时间快速实现手机 平板电脑  电脑的智慧互联\n极简轻薄的设计 浑然一体的全金属机身\n让平板电脑不单单是学习用品 也能成为时尚单品\n戴上华为FreeClip 2耳机\n享受这一刻的沉浸式学习\n在学习的过程里享受便捷\n用细节点滴诠释生活的态度\n.\n华为开学焕新可叠加国补，教育补贴 华为MatePad Air最低2999起，华为MateBook Pro三年期 HUAWEI Care + 仅 999 元，购机也有优惠哦\n#用新享一夏 #华为开学焕新季#教育优惠#国补\n#华为MatePadAir#学习好物 #好物分享 #开学好物",
+      "authorNickname": "猪桃鱼鱼",
+      "authorId": "5cf88649000000001800092d",
+      "authorFans": "21w+",
+      "createTime": "2026-08-22 14:03:29",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a89356c00000000290191a8",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/5cf88649000000001800092d",
+      "interactiveCount": "3784",
+      "likedCount": "2844",
+      "collectedCount": "915",
+      "commentsCount": "25",
+      "sharedCount": "11",
+      "totalScore": 6.01,
+      "relevanceScore": 4.01,
+      "popularityScore": 1.0,
+      "recencyScore": 1.0,
+      "matchedKeywords": [
+        "高铁优惠"
+      ],
+      "dimensions": [
+        "场景灵感"
+      ],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "猪桃鱼鱼",
+          "noteId": "6a89356c00000000290191a8"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "pos",
+      "_pains": [],
+      "_sig": "22ee999b84ee",
+      "eventId": null
+    },
+    "6a7b205d000000002c002d16": {
+      "noteId": "6a7b205d000000002c002d16",
+      "platform": "xhs",
+      "title": "为了这18张live图……我专门飞了一趟越南！",
+      "desc": "发pyq被问爆了，确实是Vietnam。\n不愧是被评为今年最受欢迎的旅居城市，\n已经三刷，熬夜吐血整理攻略奉上。\n\t\n1️⃣关于交通\n富国岛免签，其他越南城市落地另纸签。\n中间有火车和过夜大巴🚌\n如果时间充裕想挑战长线，建议：\n河内-岘港-会安-芽庄-大叻-美奈-胡志明-富国岛。\n💡💡小提示：普通度假更建议选2-3个城市深度游，玩起来更松弛哦！\n\t\n2️⃣关于拍照\n图1📷富国岛（Thala  hotel）\n图2📷美奈（Pineapple Mui Ne）\n图3、4、5📷美奈（Bamboo village）\n图6📷胡志明（耶稣圣心教堂）\n图7📷河内（Giao Mua Coffee）\n图8📷会安（会安古镇游船）\n图9📷芽庄（The Anam）\n图10📷芽庄（钟屿石岬角）\n图11📷芽庄（Đảo Hòn Tằm）\n图12📷大叻（Casanova Dalat hotel&Coffee）\n图13📷大叻（Happy Hill Coffee）\n图14📷大叻（Domaine de Marie）\n图15📷岘港（6.Sơn Trà Marina）\n图16、17📷出境游实用干货\n图18📷福利彩蛋（来东南亚就这样薅羊毛）\n\t\n3️⃣关于出行消费\n可以少带些现金，落地直接用银联卡取现。（怎么取现更划算？指路图16和17）认准带UnionPay标识的ATM，走银联通道，可以部分减免手续费。\n\t\n‼️注意：信用卡免取现手续费，但不少银行取现后会按天收取利息，长期算下来不划算👉🏻出境取现还是带银联【借记卡】更省心。\n\t\n旅行能省一点是一点🥰出发前可以顺手瞅瞅平台的福利，☁️闪付或者绿泡泡去到优计划看看，不少隐藏优惠都在这儿。\n\t\n必须夸夸最近在新加坡的“薅羊毛”经历！银联夏天活动简直不要太香：\n🌿滨海湾花园门票立减8新币\n🚗Grab打车每单减5新币\n🛍ION Orchard商场单笔最高减120新币\n以后去东南亚，别光顾着刷攻略啦，顺手蹲蹲支付优惠，说不定机票钱都省一半呢～\n\t\n4️⃣注意事项\n防晒、防虫、瑜伽服、泳衣、连体速干衣、溯溪鞋、浮潜面罩、少量现金和卡。\n#出境省钱先用银联 #出境游 #境外取现 #省钱攻略 #旅行小贴士 #小众旅行地 #实况的意义就在此刻 #越南旅行 #富国岛旅游 #海边晚霞有多美",
+      "authorNickname": "八个瑞士卷",
+      "authorId": "622c5f14000000001000a90c",
+      "authorFans": "11w+",
+      "createTime": "2026-08-12 16:48:11",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a7b205d000000002c002d16",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/622c5f14000000001000a90c",
+      "interactiveCount": "5000+",
+      "likedCount": "4695",
+      "collectedCount": "942",
+      "commentsCount": "86",
+      "sharedCount": "620",
+      "totalScore": 6.48,
+      "relevanceScore": 3.98,
+      "popularityScore": 1.5,
+      "recencyScore": 1.0,
+      "matchedKeywords": [
+        "火车优惠"
+      ],
+      "dimensions": [],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "八个瑞士卷",
+          "noteId": "6a7b205d000000002c002d16"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "pos",
+      "_pains": [],
+      "_sig": "12bae0bfe003",
+      "eventId": null
+    },
+    "6a8ff4940000000026036a1e": {
+      "noteId": "6a8ff4940000000026036a1e",
+      "platform": "xhs",
+      "title": "秋游黄山！黄山门票免费送‼️ 附出行攻略~",
+      "desc": "新一期黄山免票福利活动继续！宠粉！宠粉！\n🎁 随机揪5位粉宝儿免费送出价值190r的黄山门票一张~\n✅参与方式： ❤️+⭐+🐷+💬，即可参与免费领黄山门票哟~\n⏰ 活动时间： 即日起——9月8日\n开奖时间：9月9日，通过@我们爱抽奖  随机抽取！\n❤️右滑可领最新版黄山地图哦~\n-\n✅交通建议\n✔️自驾：自驾车无法开到索道口和步道登山口，需停靠在换乘停车场，换乘景区大巴至索道站或步道登山口。\n✔️高铁：乘坐高铁可以选择抵达黄山北站（近南大门）或黄山西站（近西大门和北大门）。到达黄山北站后，可换乘景区大巴/打车前往黄山风景区（南大门）。\n-\n✅秋日穿搭指南（黄山秋季昼夜温差大）\n✔️必备装备：防滑运动鞋、保暖外套（推荐带内胆的冲锋衣或者轻便羽绒服）、一次性雨衣（山上天气多变）、登山杖等。\n✔️关注天气：出行前查看天气预报，避免雨天或大雾影响观景体验。\n✔️轻装上山：不建议携带大型行李上山，轻装更安全舒适。\n-\n✅赏秋经典一日游路线推荐\n黄山南大门入→玉屏索道上行→迎客松→百步云梯→鳌鱼峰→西海大峡谷网红小火车往返→光明顶→飞来石→丹霞峰→清凉台→猴子观海→狮子峰→黑虎松→始信峰→云谷索道下行→黄山南大门出\n-\n✅赏秋打卡点\n✔️始信峰：拍摄奇松与秋色的绝佳位置，松枝与远山同框，随手一拍就是大片。\n✔️西海大峡谷 ：黄山最能展现立体秋色的地方！体力一般乘西海大峡谷地轨缆车游玩；体力好可选择徒步西海大峡谷一环、二环。\n✔️光明顶：黄山第二高峰，360°观景平台，可俯瞰东海奇景、西海群峰。也是观赏日出、日落和云海的绝佳位置，雨后天晴还可能遇见\"佛光\"！\n✔️排云亭：后山观日落点。傍晚时分，夕阳把云海染成金色，晚风掠过松涛，氛围感直接拉满。\n#黄山 #黄山攻略 #黄山旅游 #免票 #爬黄山天下无山  #宠粉 #抽奖 #福利 #门票 @生活薯 #我们爱抽奖 @户外薯",
+      "authorNickname": "黄山智慧旅游",
+      "authorId": "5ffe5035000000000100b7a9",
+      "authorFans": "5w+",
+      "createTime": "2026-08-27 17:26:01",
+      "noteLink": "https://www.xiaohongshu.com/explore/6a8ff4940000000026036a1e",
+      "authorLink": "https://www.xiaohongshu.com/user/profile/5ffe5035000000000100b7a9",
+      "interactiveCount": "4049",
+      "likedCount": "1246",
+      "collectedCount": "1137",
+      "commentsCount": "1666",
+      "sharedCount": "122",
+      "totalScore": 7.43,
+      "relevanceScore": 4.93,
+      "popularityScore": 1.0,
+      "recencyScore": 1.5,
+      "matchedKeywords": [
+        "火车换乘"
+      ],
+      "dimensions": [
+        "出行服务"
+      ],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "xhs",
+          "author": "黄山智慧旅游",
+          "noteId": "6a8ff4940000000026036a1e"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "neu",
+      "_pains": [],
+      "_sig": "47b3e8e924cb",
+      "eventId": null
+    },
+    "douyin:7683197529944591651": {
+      "noteId": "douyin:7683197529944591651",
+      "platform": "douyin",
+      "title": "#媒体原创 9月8日，胖东来郑州店最新进展！下高铁直接去逛胖东来真要成了，郑州东站、地铁1号线和胖东",
+      "desc": "#媒体原创 9月8日，胖东来郑州店最新进展！下高铁直接去逛胖东来真要成了，郑州东站、地铁1号线和胖东来将无缝连通（大象新闻记者：王礴舒 李然 编辑：李卓光 责编：闫莹 监制：余超）",
+      "authorNickname": "大象新闻",
+      "authorId": "3302562925905059",
+      "authorFans": "3721w+",
+      "createTime": "2026-09-09 00:10:40",
+      "noteLink": "https://www.iesdouyin.com/share/video/7683197529944591651",
+      "authorLink": "https://www.douyin.com/user/3302562925905059",
+      "interactiveCount": "9w+",
+      "likedCount": "4w+",
+      "collectedCount": "3022",
+      "commentsCount": "5000+",
+      "sharedCount": "4w+",
+      "totalScore": 12.0,
+      "relevanceScore": 9.0,
+      "popularityScore": 1.0,
+      "recencyScore": 2.0,
+      "isPromotion": false,
+      "matchedKeywords": [
+        "高铁"
+      ],
+      "dimensions": [
+        "出行服务"
+      ],
+      "firstSeen": "2026-09-10 16:50:18",
+      "lastSeen": "2026-09-10 16:50:18",
+      "crawlCount": 1,
+      "dupCount": 1,
+      "sources": [
+        {
+          "platform": "douyin",
+          "author": "大象新闻",
+          "noteId": "douyin:7683197529944591651"
+        }
+      ],
+      "_relevant": true,
+      "_sentiment": "neu",
+      "_pains": [],
+      "_sig": "03bc49bd1170",
+      "eventId": null
     }
   },
   "insights": {
@@ -70250,19 +70741,58 @@
         "category": "event",
         "sourceEventId": "投诉__退伍老兵站务员站姿被指作秀",
         "evidenceCount": 4,
-        "momentum": "new",
-        "momentumDelta": "近7天4 vs 前23天0",
+        "momentum": "rising",
+        "momentumDelta": "近7天4 vs 前23天1",
         "sampleNoteIds": [
+          "douyin:7680915855069555877",
           "douyin:7681220893950954793",
           "douyin:7681181387860404593",
           "douyin:7682343380403178793",
           "douyin:7681589814369586442"
         ],
+        "firstSeen": "2026-09-03",
+        "lastSeen": "2026-09-10",
+        "why": "动量rising，近7天4次对比前23天1次，投诉量显著上升，反映出公众对过度标准化或形式主义服务的反感情绪正在蔓延。",
+        "productImplication": "优化站务员服务规范，避免机械式站姿，增加自然亲和的服务培训，或在App和车站提示中增加人性化服务说明，弱化'作秀'标签。",
+        "streakDays": 1
+      },
+      {
+        "key": "ev:事故__南宁站旅客跳轨致列车晚点",
+        "theme": "南宁站旅客跳轨致列车晚点",
+        "category": "event",
+        "sourceEventId": "事故__南宁站旅客跳轨致列车晚点",
+        "evidenceCount": 3,
+        "momentum": "new",
+        "momentumDelta": "近7天3 vs 前23天0",
+        "sampleNoteIds": [
+          "6a9e84c9000000002901ae26",
+          "6a9e758e0000000011035dca",
+          "6a9e7a9f000000001001dfe1"
+        ],
         "firstSeen": "2026-09-10",
         "lastSeen": "2026-09-10",
-        "why": "该投诉信号动量为new，近7天发生4次，而前23天为0次。从0到4的突变表明旅客对站务员标准化服务姿态的认知出现分歧，存在舆情发酵风险，必须重点关注。",
-        "productImplication": "建议优化站务员服务标准与对外宣传话术，在强调标准化服务的同时增加自然亲和的培训，避免给旅客留下形式主义的刻板印象；同时在客服系统中准备应对此类投诉的标准解释口径。",
-        "streakDays": 0
+        "why": "动量new，近7天3次对比前23天0次，属于突发性安全事件，严重影响列车运行秩序和旅客生命财产安全。",
+        "productImplication": "加强站台安全监控与预警系统，在App中增加突发事故晚点时的自动退改签指引和应急信息推送，优化现场应急广播与疏散引导。",
+        "streakDays": 1
+      },
+      {
+        "key": "ev:温情__孕妇高铁产子",
+        "theme": "孕妇高铁产子",
+        "category": "event",
+        "sourceEventId": "温情__孕妇高铁产子",
+        "evidenceCount": 2,
+        "momentum": "new",
+        "momentumDelta": "近7天2 vs 前23天0",
+        "sampleNoteIds": [
+          "6a6cdcbd00000000210227f9",
+          "6a9fe18c000000002900f61d",
+          "6a9fc430000000002502cadc"
+        ],
+        "firstSeen": "2026-08-11",
+        "lastSeen": "2026-09-10",
+        "why": "动量new，近7天2次对比前23天0次，孕期旅客突发状况引发社会广泛关注，凸显特殊旅客乘车保障的必要性。",
+        "productImplication": "在购票和乘车流程中增加孕妇健康提示，完善列车应急医疗物资配备，App端提供孕产妇乘车专属预约与紧急呼叫功能。",
+        "streakDays": 1
       },
       {
         "key": "ev:停运__台风沙德尔致列车停运",
@@ -70281,45 +70811,9 @@
         ],
         "firstSeen": "2026-08-28",
         "lastSeen": "2026-09-10",
-        "why": "该停运信号动量为fading，近7天2次，对比前23天11次显著下降。表明台风带来的集中停运高峰已过，但前期可能积压了部分长尾退改签诉求。",
-        "productImplication": "暂不建议动作",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:温情__孕妇高铁产子",
-        "theme": "孕妇高铁产子",
-        "category": "event",
-        "sourceEventId": "温情__孕妇高铁产子",
-        "evidenceCount": 2,
-        "momentum": "new",
-        "momentumDelta": "近7天2 vs 前23天0",
-        "sampleNoteIds": [
-          "6a9fe18c000000002900f61d",
-          "6a9fc430000000002502cadc"
-        ],
-        "firstSeen": "2026-09-10",
-        "lastSeen": "2026-09-10",
-        "why": "该温情事件信号动量为new，近7天2次，前23天0次。此类极端但极具传播力的事件容易引发社会广泛关注，凸显了列车突发医疗急救能力的重要性。",
-        "productImplication": "建议在乘务手持终端完善突发医疗事件的应急广播与红十字志愿者招募一键触发功能；同时评估在列车医药箱中增配或定期检查基础妇产科急救物资的可行性。",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:事故__南宁站旅客跳轨致列车晚点",
-        "theme": "南宁站旅客跳轨致列车晚点",
-        "category": "event",
-        "sourceEventId": "事故__南宁站旅客跳轨致列车晚点",
-        "evidenceCount": 2,
-        "momentum": "new",
-        "momentumDelta": "近7天2 vs 前23天0",
-        "sampleNoteIds": [
-          "6a9e758e0000000011035dca",
-          "6a9e7a9f000000001001dfe1"
-        ],
-        "firstSeen": "2026-09-10",
-        "lastSeen": "2026-09-10",
-        "why": "该事故信号动量为new，近7天2次，前23天0次。此类事件不仅严重影响运输秩序，还涉及旅客生命安全与站台管控漏洞，属于高危安全信号。",
-        "productImplication": "建议联合站台管控部门评估在站台边缘引入防侵入智能视频分析预警系统的可行性；在旅客服务APP中优化因突发安全事件导致晚点时的致歉信推送与行程改签自动化引导功能。",
-        "streakDays": 0
+        "why": "动量fading，近7天2次对比前23天11次，极端天气导致的停运事件呈下降趋势，但仍是季节性高频风险。",
+        "productImplication": "优化极端天气下的停运通知触达机制，提供一键全额退票及替代出行方案推荐，减少旅客滞留焦虑与客诉风险。",
+        "streakDays": 1
       },
       {
         "key": "ev:投诉__下铺被临时改为上铺",
@@ -70335,8 +70829,26 @@
         ],
         "firstSeen": "2026-09-10",
         "lastSeen": "2026-09-10",
-        "why": "该投诉信号动量为new，近7天2次，前23天0次。这直接涉及旅客核心权益受损和席位分配公平性，极易引发严重的服务投诉和信任危机。",
-        "productImplication": "建议在客票系统中增加席位临时变更的强提醒与补偿机制产品化设计；当发生系统自动调剂时，通过APP或短信提前告知旅客并提供明确的补偿方案，降低现场冲突。",
+        "why": "动量new，近7天2次对比前23天0次，票务变更引发旅客不满，涉及座位分配规则透明度和旅客核心权益问题。",
+        "productImplication": "优化12306购票及改签算法，若遇座位临时调整需提前通过App或短信强提醒，并提供一键协商或合理补偿方案。",
+        "streakDays": 1
+      },
+      {
+        "key": "ev:温情__宿州火车站退伍兵相亲",
+        "theme": "宿州火车站退伍兵相亲",
+        "category": "event",
+        "sourceEventId": "温情__宿州火车站退伍兵相亲",
+        "evidenceCount": 2,
+        "momentum": "new",
+        "momentumDelta": "近7天2 vs 前23天0",
+        "sampleNoteIds": [
+          "douyin:7681129281473007281",
+          "douyin:7681166730445573422"
+        ],
+        "firstSeen": "2026-09-10",
+        "lastSeen": "2026-09-10",
+        "why": "动量new，近7天2次对比前23天0次，车站场景下的温情故事提升品牌温度，具有较好的社交传播潜力。",
+        "productImplication": "在车站或App内设置'温情故事'或'旅途奇遇'分享专区，鼓励旅客记录美好瞬间，提升品牌情感连接与年轻化形象。",
         "streakDays": 0
       },
       {
@@ -70354,9 +70866,9 @@
         ],
         "firstSeen": "2026-09-03",
         "lastSeen": "2026-09-10",
-        "why": "该购票受阻信号动量为fading，近7天1次，前23天2次。虽然热度下降，但反映出特定学生群体在资质核验规则上的系统识别盲区，影响新生入学体验。",
-        "productImplication": "建议优化学生票资质核验规则引擎，针对专升本等特殊学制过渡期增加人工辅助核验通道；在购票流程中提前拦截并清晰提示此类群体的资质要求，减少现场被卡的摩擦。",
-        "streakDays": 0
+        "why": "动量fading，近7天1次对比前23天2次，投诉量虽有所下降，但专升本等特殊学籍在学生票资质核验中仍存在规则认知错位。",
+        "productImplication": "在App购票页面针对'专升本'等特殊学籍情况增加明确的资质核验图文指引，优化学生资质在线核验流程，降低窗口核验压力。",
+        "streakDays": 1
       },
       {
         "key": "ev:温情__一车厢军人帮宝妈带娃",
@@ -70373,9 +70885,9 @@
         ],
         "firstSeen": "2026-09-03",
         "lastSeen": "2026-09-10",
-        "why": "该温情信号动量为fading，近7天1次，前23天2次。此类正能量事件有助于提升铁路品牌形象，但当前热度较低，属于长尾社会新闻。",
-        "productImplication": "暂不建议动作",
-        "streakDays": 0
+        "why": "动量fading，近7天1次对比前23天2次，军警民鱼水情在车厢内体现，虽热度回落，但仍是塑造铁路正面社会形象的良好素材。",
+        "productImplication": "可结合此类正能量事件，在App端推出'旅途互助'倡议或匿名感谢功能，营造和谐车厢氛围，提升品牌温度。",
+        "streakDays": 1
       },
       {
         "key": "ev:投诉__高铁大妈把脚塞前排缝隙",
@@ -70391,9 +70903,9 @@
         ],
         "firstSeen": "2026-09-04",
         "lastSeen": "2026-09-10",
-        "why": "该投诉信号动量为stable，近7天1次，前23天1次。这反映了部分旅客在密闭空间内缺乏边界感，引发前排旅客强烈不适，是长期存在的乘车文明痛点。",
-        "productImplication": "建议在列车座椅设计评估中考虑增加前排座椅下方的物理挡板；同时在车厢语音广播中增加针对请勿将脚伸入前排座椅下方的定向温馨提示，规范乘车行为。",
-        "streakDays": 0
+        "why": "动量stable，近7天1次与前23天1次持平，属于长期存在的乘车不文明行为痛点，持续影响部分旅客的乘车体验。",
+        "productImplication": "在App购票后推送'文明乘车倡议'，列车端加强巡视与柔性劝导，或在座椅设计及提示上优化空间边界感，减少物理接触争议。",
+        "streakDays": 1
       },
       {
         "key": "ev:设施__凌晨提示语",
@@ -70412,26 +70924,9 @@
         ],
         "firstSeen": "2026-08-03",
         "lastSeen": "2026-09-10",
-        "why": "该设施信号动量为fading，近7天0次，前23天1次。表明前期关于夜间列车广播扰民的讨论已平息，但夜间旅客对安静休息环境的需求依然敏感。",
+        "why": "动量fading，近7天0次对比前23天1次，相关讨论热度已降至冰点，近期缺乏有效数据支撑。",
         "productImplication": "暂不建议动作",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:占座__老人要求换下铺",
-        "theme": "老人要求换下铺",
-        "category": "event",
-        "sourceEventId": "占座__老人要求换下铺",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "近7天0 vs 前23天0",
-        "sampleNoteIds": [
-          "6a5272c200000000210218c5"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-08-11",
-        "why": "该占座信号动量为stable，近7天0次，前23天0次。虽然当前计数为0，但此类涉及特殊群体与规则冲突的场景在节假日仍具潜在爆发风险。",
-        "productImplication": "暂不建议动作",
-        "streakDays": 0
+        "streakDays": 1
       },
       {
         "key": "th:cabin_noise_and_children",
@@ -70444,14 +70939,53 @@
           "6a8ac174000000002802cd4a",
           "6a5f71ca000000002201b9b9",
           "6a55eee100000000220092c0",
-          "6a6c632f000000003302f99d",
-          "6a93d2910000000024007800"
+          "6a93d2910000000024007800",
+          "6a71b86500000000080122a8"
         ],
         "firstSeen": "2026-08-17",
         "lastSeen": "2026-09-10",
-        "why": "该主题信号动量为fading，近7天1次，前23天2次。儿童噪音与静音车厢的冲突是长期痛点，当前热度虽降，但反映出旅客对乘车环境安静度的要求日益提高。",
-        "productImplication": "建议在12306 APP购票时强化静音车厢乘车公约的勾选确认；同时考虑在列车上为带儿童的旅客提供安抚小礼包，从源头降低儿童噪音引发的投诉。",
-        "streakDays": 0
+        "why": "动量fading，近7天1次对比前23天2次，静音车厢与儿童噪音的矛盾仍是长期博弈话题，但近期热度有所降低。",
+        "productImplication": "暂不建议动作",
+        "streakDays": 1
+      },
+      {
+        "key": "th:train_cabin_makeup",
+        "theme": "高铁车厢沉浸式美妆",
+        "category": "theme",
+        "evidenceCount": 3,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天1 vs 前23天2",
+        "sampleNoteIds": [
+          "6a781566000000003300e417",
+          "6a801c5400000000050331d5",
+          "6a8b0bd800000000280237c7",
+          "6a9eb0350000000028035592"
+        ],
+        "firstSeen": "2026-08-17",
+        "lastSeen": "2026-09-10",
+        "why": "动量fading，近7天1次对比前23天2次，车厢内化妆行为引发的空间边界与隐私讨论热度明显下降。",
+        "productImplication": "暂不建议动作",
+        "streakDays": 1
+      },
+      {
+        "key": "th:railway_rules_and_hacks",
+        "theme": "铁路票务规则与避坑指南",
+        "category": "theme",
+        "evidenceCount": 3,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天1 vs 前23天2",
+        "sampleNoteIds": [
+          "6a740586000000002201012f",
+          "6a671b4c000000000301d591",
+          "6a8eae1e0000000024006bf3",
+          "6a92d935000000001e016e7d",
+          "6a63321d000000001101b7d6"
+        ],
+        "firstSeen": "2026-08-17",
+        "lastSeen": "2026-09-10",
+        "why": "动量fading，近7天1次对比前23天2次，旅客对复杂票务规则的探讨热度下降，近期信号较弱。",
+        "productImplication": "暂不建议动作",
+        "streakDays": 1
       },
       {
         "key": "th:seat_space_boundary",
@@ -70462,91 +70996,55 @@
         "momentumDelta": "信号笔记 近7天0 vs 前23天2",
         "sampleNoteIds": [
           "6a8a676300000000140268e6",
+          "6a793b070000000008012e32",
           "6a885555000000001f01f0a9"
         ],
         "firstSeen": "2026-08-17",
         "lastSeen": "2026-09-10",
-        "why": "该主题信号动量为fading，近7天0次，前23天2次。表明前期关于座椅靠背调节等空间侵占的讨论有所减少，但高铁密闭空间的物理局限性仍是引发摩擦的底层原因。",
+        "why": "动量fading，近7天0次对比前23天2次，关于座位靠背、扶手等空间边界争议近期已无新增信号。",
         "productImplication": "暂不建议动作",
-        "streakDays": 0
+        "streakDays": 1
       },
       {
-        "key": "th:exquisite_train_lifestyle",
-        "theme": "高铁精致生活与好物分享",
-        "category": "theme",
-        "evidenceCount": 4,
-        "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天4",
-        "sampleNoteIds": [
-          "6a7850a2000000002201012f",
-          "6a781566000000003300e417",
-          "6a801c5400000000050331d5",
-          "6a803a56000000000503013d",
-          "6a92a7a300000000070052e9"
-        ],
-        "firstSeen": "2026-08-17",
-        "lastSeen": "2026-09-10",
-        "why": "该主题信号动量为fading，近7天0次，前23天4次。说明旅客在社交媒体上分享高铁好物的热情下降，可能受限于列车硬件条件或近期缺乏爆款话题。",
-        "productImplication": "暂不建议动作",
-        "streakDays": 0
-      },
-      {
-        "key": "th:train_cabin_makeup",
-        "theme": "高铁车厢沉浸式美妆与个人护理",
+        "key": "th:slow_train_nostalgia",
+        "theme": "绿皮车复古情怀与慢生活",
         "category": "theme",
         "evidenceCount": 2,
         "momentum": "stable",
         "momentumDelta": "信号笔记 近7天1 vs 前23天1",
         "sampleNoteIds": [
-          "6a8b0bd800000000280237c7",
-          "6a9eb0350000000028035592"
+          "6a9ab50e000000002b02462e",
+          "6a93b21f000000001f00116a",
+          "6a633b5e000000001c00f8f8"
         ],
         "firstSeen": "2026-08-17",
         "lastSeen": "2026-09-10",
-        "why": "该主题信号动量为stable，近7天1次，前23天1次。这反映了部分年轻旅客将列车视为个人护理的延伸空间，但也可能因气味或占用洗手台等问题引发其他旅客不适。",
-        "productImplication": "建议在动车组洗手间设计中优化通风与除味系统，并在洗手台区域增加请勿在洗手间内长时间进行美妆护理的提示标识；同时可考虑在部分列车提供简易的补妆整理区。",
+        "why": "动量stable，近7天1次与前23天1次持平，慢火车复古情怀保持稳定热度，反映部分旅客对慢节奏旅行和情绪价值的持续需求。",
+        "productImplication": "针对旅游旺季或特定线路，在App内推出'慢火车旅游专列'主题票，结合沿途风景提供文旅打卡攻略，满足旅客慢生活体验需求。",
         "streakDays": 0
       },
       {
-        "key": "th:railway_rules_and_hacks",
-        "theme": "铁路票务规则与避坑指南",
+        "key": "th:train_time_killing_hacks",
+        "theme": "高铁旅途解闷与抽象整活",
         "category": "theme",
-        "evidenceCount": 3,
+        "evidenceCount": 2,
         "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天2",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天2",
         "sampleNoteIds": [
-          "6a74058600000000060071bd",
-          "6a671b4c000000000301d591",
-          "6a60bd87000000000301db0a",
-          "6a8eae1e0000000024006bf3",
-          "6a92d935000000001e016e7d"
+          "6a7850a2000000002201012f",
+          "6a92a7a300000000070052e9",
+          "6a69769f0000000001032fac",
+          "6a6c8e73000000002202dfd2",
+          "6a949126000000000502996c"
         ],
-        "firstSeen": "2026-08-17",
+        "firstSeen": "2026-09-10",
         "lastSeen": "2026-09-10",
-        "why": "该主题信号动量为fading，近7天1次，前23天2次。旅客对复杂票务规则的关注度略有下降，但此类内容长尾流量大，是提升用户自助解决能力的关键。",
-        "productImplication": "建议在12306 APP首页或购票流程中，针对高频易错规则增加更直观的图文或短视频避坑指南入口，降低人工客服压力。",
-        "streakDays": 0
-      },
-      {
-        "key": "th:acg_ip_train_meme",
-        "theme": "二次元IP的高铁脑洞玩梗",
-        "category": "theme",
-        "evidenceCount": 1,
-        "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天1",
-        "sampleNoteIds": [
-          "6a88a2cb0000000025007cae",
-          "6a74d22e000000002500cb05",
-          "6a75eadf000000003400f073"
-        ],
-        "firstSeen": "2026-08-19",
-        "lastSeen": "2026-09-10",
-        "why": "该主题信号动量为fading，近7天0次，前23天1次。表明近期缺乏与铁路相关的二次元破圈话题，但年轻群体对铁路文化的解构与二创潜力仍在。",
+        "why": "动量fading，近7天0次对比前23天2次，旅客分享旅途解闷方式的讨论热度近期已完全消失。",
         "productImplication": "暂不建议动作",
         "streakDays": 0
       }
     ],
-    "generatedAt": "2026-09-10 15:59:06",
+    "generatedAt": "2026-09-10 16:50:18",
     "history": [
       {
         "date": "2026-08-13",
@@ -74455,19 +74953,58 @@
             "category": "event",
             "sourceEventId": "投诉__退伍老兵站务员站姿被指作秀",
             "evidenceCount": 4,
-            "momentum": "new",
-            "momentumDelta": "近7天4 vs 前23天0",
+            "momentum": "rising",
+            "momentumDelta": "近7天4 vs 前23天1",
             "sampleNoteIds": [
+              "douyin:7680915855069555877",
               "douyin:7681220893950954793",
               "douyin:7681181387860404593",
               "douyin:7682343380403178793",
               "douyin:7681589814369586442"
             ],
+            "firstSeen": "2026-09-03",
+            "lastSeen": "2026-09-10",
+            "why": "动量rising，近7天4次对比前23天1次，投诉量显著上升，反映出公众对过度标准化或形式主义服务的反感情绪正在蔓延。",
+            "productImplication": "优化站务员服务规范，避免机械式站姿，增加自然亲和的服务培训，或在App和车站提示中增加人性化服务说明，弱化'作秀'标签。",
+            "streakDays": 1
+          },
+          {
+            "key": "ev:事故__南宁站旅客跳轨致列车晚点",
+            "theme": "南宁站旅客跳轨致列车晚点",
+            "category": "event",
+            "sourceEventId": "事故__南宁站旅客跳轨致列车晚点",
+            "evidenceCount": 3,
+            "momentum": "new",
+            "momentumDelta": "近7天3 vs 前23天0",
+            "sampleNoteIds": [
+              "6a9e84c9000000002901ae26",
+              "6a9e758e0000000011035dca",
+              "6a9e7a9f000000001001dfe1"
+            ],
             "firstSeen": "2026-09-10",
             "lastSeen": "2026-09-10",
-            "why": "该投诉信号动量为new，近7天发生4次，而前23天为0次。从0到4的突变表明旅客对站务员标准化服务姿态的认知出现分歧，存在舆情发酵风险，必须重点关注。",
-            "productImplication": "建议优化站务员服务标准与对外宣传话术，在强调标准化服务的同时增加自然亲和的培训，避免给旅客留下形式主义的刻板印象；同时在客服系统中准备应对此类投诉的标准解释口径。",
-            "streakDays": 0
+            "why": "动量new，近7天3次对比前23天0次，属于突发性安全事件，严重影响列车运行秩序和旅客生命财产安全。",
+            "productImplication": "加强站台安全监控与预警系统，在App中增加突发事故晚点时的自动退改签指引和应急信息推送，优化现场应急广播与疏散引导。",
+            "streakDays": 1
+          },
+          {
+            "key": "ev:温情__孕妇高铁产子",
+            "theme": "孕妇高铁产子",
+            "category": "event",
+            "sourceEventId": "温情__孕妇高铁产子",
+            "evidenceCount": 2,
+            "momentum": "new",
+            "momentumDelta": "近7天2 vs 前23天0",
+            "sampleNoteIds": [
+              "6a6cdcbd00000000210227f9",
+              "6a9fe18c000000002900f61d",
+              "6a9fc430000000002502cadc"
+            ],
+            "firstSeen": "2026-08-11",
+            "lastSeen": "2026-09-10",
+            "why": "动量new，近7天2次对比前23天0次，孕期旅客突发状况引发社会广泛关注，凸显特殊旅客乘车保障的必要性。",
+            "productImplication": "在购票和乘车流程中增加孕妇健康提示，完善列车应急医疗物资配备，App端提供孕产妇乘车专属预约与紧急呼叫功能。",
+            "streakDays": 1
           },
           {
             "key": "ev:停运__台风沙德尔致列车停运",
@@ -74486,45 +75023,9 @@
             ],
             "firstSeen": "2026-08-28",
             "lastSeen": "2026-09-10",
-            "why": "该停运信号动量为fading，近7天2次，对比前23天11次显著下降。表明台风带来的集中停运高峰已过，但前期可能积压了部分长尾退改签诉求。",
-            "productImplication": "暂不建议动作",
-            "streakDays": 0
-          },
-          {
-            "key": "ev:温情__孕妇高铁产子",
-            "theme": "孕妇高铁产子",
-            "category": "event",
-            "sourceEventId": "温情__孕妇高铁产子",
-            "evidenceCount": 2,
-            "momentum": "new",
-            "momentumDelta": "近7天2 vs 前23天0",
-            "sampleNoteIds": [
-              "6a9fe18c000000002900f61d",
-              "6a9fc430000000002502cadc"
-            ],
-            "firstSeen": "2026-09-10",
-            "lastSeen": "2026-09-10",
-            "why": "该温情事件信号动量为new，近7天2次，前23天0次。此类极端但极具传播力的事件容易引发社会广泛关注，凸显了列车突发医疗急救能力的重要性。",
-            "productImplication": "建议在乘务手持终端完善突发医疗事件的应急广播与红十字志愿者招募一键触发功能；同时评估在列车医药箱中增配或定期检查基础妇产科急救物资的可行性。",
-            "streakDays": 0
-          },
-          {
-            "key": "ev:事故__南宁站旅客跳轨致列车晚点",
-            "theme": "南宁站旅客跳轨致列车晚点",
-            "category": "event",
-            "sourceEventId": "事故__南宁站旅客跳轨致列车晚点",
-            "evidenceCount": 2,
-            "momentum": "new",
-            "momentumDelta": "近7天2 vs 前23天0",
-            "sampleNoteIds": [
-              "6a9e758e0000000011035dca",
-              "6a9e7a9f000000001001dfe1"
-            ],
-            "firstSeen": "2026-09-10",
-            "lastSeen": "2026-09-10",
-            "why": "该事故信号动量为new，近7天2次，前23天0次。此类事件不仅严重影响运输秩序，还涉及旅客生命安全与站台管控漏洞，属于高危安全信号。",
-            "productImplication": "建议联合站台管控部门评估在站台边缘引入防侵入智能视频分析预警系统的可行性；在旅客服务APP中优化因突发安全事件导致晚点时的致歉信推送与行程改签自动化引导功能。",
-            "streakDays": 0
+            "why": "动量fading，近7天2次对比前23天11次，极端天气导致的停运事件呈下降趋势，但仍是季节性高频风险。",
+            "productImplication": "优化极端天气下的停运通知触达机制，提供一键全额退票及替代出行方案推荐，减少旅客滞留焦虑与客诉风险。",
+            "streakDays": 1
           },
           {
             "key": "ev:投诉__下铺被临时改为上铺",
@@ -74540,8 +75041,26 @@
             ],
             "firstSeen": "2026-09-10",
             "lastSeen": "2026-09-10",
-            "why": "该投诉信号动量为new，近7天2次，前23天0次。这直接涉及旅客核心权益受损和席位分配公平性，极易引发严重的服务投诉和信任危机。",
-            "productImplication": "建议在客票系统中增加席位临时变更的强提醒与补偿机制产品化设计；当发生系统自动调剂时，通过APP或短信提前告知旅客并提供明确的补偿方案，降低现场冲突。",
+            "why": "动量new，近7天2次对比前23天0次，票务变更引发旅客不满，涉及座位分配规则透明度和旅客核心权益问题。",
+            "productImplication": "优化12306购票及改签算法，若遇座位临时调整需提前通过App或短信强提醒，并提供一键协商或合理补偿方案。",
+            "streakDays": 1
+          },
+          {
+            "key": "ev:温情__宿州火车站退伍兵相亲",
+            "theme": "宿州火车站退伍兵相亲",
+            "category": "event",
+            "sourceEventId": "温情__宿州火车站退伍兵相亲",
+            "evidenceCount": 2,
+            "momentum": "new",
+            "momentumDelta": "近7天2 vs 前23天0",
+            "sampleNoteIds": [
+              "douyin:7681129281473007281",
+              "douyin:7681166730445573422"
+            ],
+            "firstSeen": "2026-09-10",
+            "lastSeen": "2026-09-10",
+            "why": "动量new，近7天2次对比前23天0次，车站场景下的温情故事提升品牌温度，具有较好的社交传播潜力。",
+            "productImplication": "在车站或App内设置'温情故事'或'旅途奇遇'分享专区，鼓励旅客记录美好瞬间，提升品牌情感连接与年轻化形象。",
             "streakDays": 0
           },
           {
@@ -74559,9 +75078,9 @@
             ],
             "firstSeen": "2026-09-03",
             "lastSeen": "2026-09-10",
-            "why": "该购票受阻信号动量为fading，近7天1次，前23天2次。虽然热度下降，但反映出特定学生群体在资质核验规则上的系统识别盲区，影响新生入学体验。",
-            "productImplication": "建议优化学生票资质核验规则引擎，针对专升本等特殊学制过渡期增加人工辅助核验通道；在购票流程中提前拦截并清晰提示此类群体的资质要求，减少现场被卡的摩擦。",
-            "streakDays": 0
+            "why": "动量fading，近7天1次对比前23天2次，投诉量虽有所下降，但专升本等特殊学籍在学生票资质核验中仍存在规则认知错位。",
+            "productImplication": "在App购票页面针对'专升本'等特殊学籍情况增加明确的资质核验图文指引，优化学生资质在线核验流程，降低窗口核验压力。",
+            "streakDays": 1
           },
           {
             "key": "ev:温情__一车厢军人帮宝妈带娃",
@@ -74578,9 +75097,9 @@
             ],
             "firstSeen": "2026-09-03",
             "lastSeen": "2026-09-10",
-            "why": "该温情信号动量为fading，近7天1次，前23天2次。此类正能量事件有助于提升铁路品牌形象，但当前热度较低，属于长尾社会新闻。",
-            "productImplication": "暂不建议动作",
-            "streakDays": 0
+            "why": "动量fading，近7天1次对比前23天2次，军警民鱼水情在车厢内体现，虽热度回落，但仍是塑造铁路正面社会形象的良好素材。",
+            "productImplication": "可结合此类正能量事件，在App端推出'旅途互助'倡议或匿名感谢功能，营造和谐车厢氛围，提升品牌温度。",
+            "streakDays": 1
           },
           {
             "key": "ev:投诉__高铁大妈把脚塞前排缝隙",
@@ -74596,9 +75115,9 @@
             ],
             "firstSeen": "2026-09-04",
             "lastSeen": "2026-09-10",
-            "why": "该投诉信号动量为stable，近7天1次，前23天1次。这反映了部分旅客在密闭空间内缺乏边界感，引发前排旅客强烈不适，是长期存在的乘车文明痛点。",
-            "productImplication": "建议在列车座椅设计评估中考虑增加前排座椅下方的物理挡板；同时在车厢语音广播中增加针对请勿将脚伸入前排座椅下方的定向温馨提示，规范乘车行为。",
-            "streakDays": 0
+            "why": "动量stable，近7天1次与前23天1次持平，属于长期存在的乘车不文明行为痛点，持续影响部分旅客的乘车体验。",
+            "productImplication": "在App购票后推送'文明乘车倡议'，列车端加强巡视与柔性劝导，或在座椅设计及提示上优化空间边界感，减少物理接触争议。",
+            "streakDays": 1
           },
           {
             "key": "ev:设施__凌晨提示语",
@@ -74617,26 +75136,9 @@
             ],
             "firstSeen": "2026-08-03",
             "lastSeen": "2026-09-10",
-            "why": "该设施信号动量为fading，近7天0次，前23天1次。表明前期关于夜间列车广播扰民的讨论已平息，但夜间旅客对安静休息环境的需求依然敏感。",
+            "why": "动量fading，近7天0次对比前23天1次，相关讨论热度已降至冰点，近期缺乏有效数据支撑。",
             "productImplication": "暂不建议动作",
-            "streakDays": 0
-          },
-          {
-            "key": "ev:占座__老人要求换下铺",
-            "theme": "老人要求换下铺",
-            "category": "event",
-            "sourceEventId": "占座__老人要求换下铺",
-            "evidenceCount": 0,
-            "momentum": "stable",
-            "momentumDelta": "近7天0 vs 前23天0",
-            "sampleNoteIds": [
-              "6a5272c200000000210218c5"
-            ],
-            "firstSeen": "2026-08-03",
-            "lastSeen": "2026-08-11",
-            "why": "该占座信号动量为stable，近7天0次，前23天0次。虽然当前计数为0，但此类涉及特殊群体与规则冲突的场景在节假日仍具潜在爆发风险。",
-            "productImplication": "暂不建议动作",
-            "streakDays": 0
+            "streakDays": 1
           },
           {
             "key": "th:cabin_noise_and_children",
@@ -74649,14 +75151,53 @@
               "6a8ac174000000002802cd4a",
               "6a5f71ca000000002201b9b9",
               "6a55eee100000000220092c0",
-              "6a6c632f000000003302f99d",
-              "6a93d2910000000024007800"
+              "6a93d2910000000024007800",
+              "6a71b86500000000080122a8"
             ],
             "firstSeen": "2026-08-17",
             "lastSeen": "2026-09-10",
-            "why": "该主题信号动量为fading，近7天1次，前23天2次。儿童噪音与静音车厢的冲突是长期痛点，当前热度虽降，但反映出旅客对乘车环境安静度的要求日益提高。",
-            "productImplication": "建议在12306 APP购票时强化静音车厢乘车公约的勾选确认；同时考虑在列车上为带儿童的旅客提供安抚小礼包，从源头降低儿童噪音引发的投诉。",
-            "streakDays": 0
+            "why": "动量fading，近7天1次对比前23天2次，静音车厢与儿童噪音的矛盾仍是长期博弈话题，但近期热度有所降低。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 1
+          },
+          {
+            "key": "th:train_cabin_makeup",
+            "theme": "高铁车厢沉浸式美妆",
+            "category": "theme",
+            "evidenceCount": 3,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天1 vs 前23天2",
+            "sampleNoteIds": [
+              "6a781566000000003300e417",
+              "6a801c5400000000050331d5",
+              "6a8b0bd800000000280237c7",
+              "6a9eb0350000000028035592"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-09-10",
+            "why": "动量fading，近7天1次对比前23天2次，车厢内化妆行为引发的空间边界与隐私讨论热度明显下降。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 1
+          },
+          {
+            "key": "th:railway_rules_and_hacks",
+            "theme": "铁路票务规则与避坑指南",
+            "category": "theme",
+            "evidenceCount": 3,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天1 vs 前23天2",
+            "sampleNoteIds": [
+              "6a740586000000002201012f",
+              "6a671b4c000000000301d591",
+              "6a8eae1e0000000024006bf3",
+              "6a92d935000000001e016e7d",
+              "6a63321d000000001101b7d6"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-09-10",
+            "why": "动量fading，近7天1次对比前23天2次，旅客对复杂票务规则的探讨热度下降，近期信号较弱。",
+            "productImplication": "暂不建议动作",
+            "streakDays": 1
           },
           {
             "key": "th:seat_space_boundary",
@@ -74667,86 +75208,50 @@
             "momentumDelta": "信号笔记 近7天0 vs 前23天2",
             "sampleNoteIds": [
               "6a8a676300000000140268e6",
+              "6a793b070000000008012e32",
               "6a885555000000001f01f0a9"
             ],
             "firstSeen": "2026-08-17",
             "lastSeen": "2026-09-10",
-            "why": "该主题信号动量为fading，近7天0次，前23天2次。表明前期关于座椅靠背调节等空间侵占的讨论有所减少，但高铁密闭空间的物理局限性仍是引发摩擦的底层原因。",
+            "why": "动量fading，近7天0次对比前23天2次，关于座位靠背、扶手等空间边界争议近期已无新增信号。",
             "productImplication": "暂不建议动作",
-            "streakDays": 0
+            "streakDays": 1
           },
           {
-            "key": "th:exquisite_train_lifestyle",
-            "theme": "高铁精致生活与好物分享",
-            "category": "theme",
-            "evidenceCount": 4,
-            "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天0 vs 前23天4",
-            "sampleNoteIds": [
-              "6a7850a2000000002201012f",
-              "6a781566000000003300e417",
-              "6a801c5400000000050331d5",
-              "6a803a56000000000503013d",
-              "6a92a7a300000000070052e9"
-            ],
-            "firstSeen": "2026-08-17",
-            "lastSeen": "2026-09-10",
-            "why": "该主题信号动量为fading，近7天0次，前23天4次。说明旅客在社交媒体上分享高铁好物的热情下降，可能受限于列车硬件条件或近期缺乏爆款话题。",
-            "productImplication": "暂不建议动作",
-            "streakDays": 0
-          },
-          {
-            "key": "th:train_cabin_makeup",
-            "theme": "高铁车厢沉浸式美妆与个人护理",
+            "key": "th:slow_train_nostalgia",
+            "theme": "绿皮车复古情怀与慢生活",
             "category": "theme",
             "evidenceCount": 2,
             "momentum": "stable",
             "momentumDelta": "信号笔记 近7天1 vs 前23天1",
             "sampleNoteIds": [
-              "6a8b0bd800000000280237c7",
-              "6a9eb0350000000028035592"
+              "6a9ab50e000000002b02462e",
+              "6a93b21f000000001f00116a",
+              "6a633b5e000000001c00f8f8"
             ],
             "firstSeen": "2026-08-17",
             "lastSeen": "2026-09-10",
-            "why": "该主题信号动量为stable，近7天1次，前23天1次。这反映了部分年轻旅客将列车视为个人护理的延伸空间，但也可能因气味或占用洗手台等问题引发其他旅客不适。",
-            "productImplication": "建议在动车组洗手间设计中优化通风与除味系统，并在洗手台区域增加请勿在洗手间内长时间进行美妆护理的提示标识；同时可考虑在部分列车提供简易的补妆整理区。",
+            "why": "动量stable，近7天1次与前23天1次持平，慢火车复古情怀保持稳定热度，反映部分旅客对慢节奏旅行和情绪价值的持续需求。",
+            "productImplication": "针对旅游旺季或特定线路，在App内推出'慢火车旅游专列'主题票，结合沿途风景提供文旅打卡攻略，满足旅客慢生活体验需求。",
             "streakDays": 0
           },
           {
-            "key": "th:railway_rules_and_hacks",
-            "theme": "铁路票务规则与避坑指南",
+            "key": "th:train_time_killing_hacks",
+            "theme": "高铁旅途解闷与抽象整活",
             "category": "theme",
-            "evidenceCount": 3,
+            "evidenceCount": 2,
             "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天1 vs 前23天2",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天2",
             "sampleNoteIds": [
-              "6a74058600000000060071bd",
-              "6a671b4c000000000301d591",
-              "6a60bd87000000000301db0a",
-              "6a8eae1e0000000024006bf3",
-              "6a92d935000000001e016e7d"
+              "6a7850a2000000002201012f",
+              "6a92a7a300000000070052e9",
+              "6a69769f0000000001032fac",
+              "6a6c8e73000000002202dfd2",
+              "6a949126000000000502996c"
             ],
-            "firstSeen": "2026-08-17",
+            "firstSeen": "2026-09-10",
             "lastSeen": "2026-09-10",
-            "why": "该主题信号动量为fading，近7天1次，前23天2次。旅客对复杂票务规则的关注度略有下降，但此类内容长尾流量大，是提升用户自助解决能力的关键。",
-            "productImplication": "建议在12306 APP首页或购票流程中，针对高频易错规则增加更直观的图文或短视频避坑指南入口，降低人工客服压力。",
-            "streakDays": 0
-          },
-          {
-            "key": "th:acg_ip_train_meme",
-            "theme": "二次元IP的高铁脑洞玩梗",
-            "category": "theme",
-            "evidenceCount": 1,
-            "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天0 vs 前23天1",
-            "sampleNoteIds": [
-              "6a88a2cb0000000025007cae",
-              "6a74d22e000000002500cb05",
-              "6a75eadf000000003400f073"
-            ],
-            "firstSeen": "2026-08-19",
-            "lastSeen": "2026-09-10",
-            "why": "该主题信号动量为fading，近7天0次，前23天1次。表明近期缺乏与铁路相关的二次元破圈话题，但年轻群体对铁路文化的解构与二创潜力仍在。",
+            "why": "动量fading，近7天0次对比前23天2次，旅客分享旅途解闷方式的讨论热度近期已完全消失。",
             "productImplication": "暂不建议动作",
             "streakDays": 0
           }
@@ -74756,40 +75261,40 @@
     "themes_registry": {
       "train_cabin_makeup": {
         "firstSeen": "2026-08-17",
-        "theme": "高铁车厢沉浸式美妆与个人护理",
-        "description": "年轻女性利用高铁平稳环境与碎片时间进行沉浸式化妆、补妆，形成独特的“移动化妆间”社媒内容垂直类目。",
-        "lastSeen": "2026-09-10",
-        "heat": 2,
-        "relations": [
-          {
-            "toThemeKey": "exquisite_train_lifestyle",
-            "toThemeName": "高铁精致生活与好物分享",
-            "desc": "沉浸式美妆常与高铁餐饮同框，构建完整精致人设与消费种草。",
-            "implication": "优化高铁外卖界面，增加“个护美妆”便携装分类，支持车内直达。"
-          }
-        ]
-      },
-      "cabin_noise_and_children": {
-        "firstSeen": "2026-08-17",
-        "theme": "车厢儿童噪音与静音博弈",
-        "description": "熊孩子吵闹、静音车厢维权及家属护短引发的情绪对立与发疯文学，成为高铁社媒最高频的冲突吐槽场景。",
+        "theme": "高铁车厢沉浸式美妆",
+        "description": "在高铁上进行沉浸式化妆、护肤等个人护理，展现精致生活态度。",
         "lastSeen": "2026-09-10",
         "heat": 3,
         "relations": [
           {
             "toThemeKey": "seat_space_boundary",
             "toThemeName": "密闭空间座位边界与争议",
-            "desc": "噪音与占座争议叠加，加剧密闭空间情绪对立与发疯文学。",
-            "implication": "12306增设“静音车厢”强制勾选与噪音一键投诉，隔离高敏用户。"
+            "desc": "沉浸式护肤需展开大量瓶罐，易侵占公共小桌板与邻座扶手空间。",
+            "implication": "推出高铁美妆专属小桌板改造指南，或在一等座营销中强化私密梳妆卖点。"
+          }
+        ]
+      },
+      "cabin_noise_and_children": {
+        "firstSeen": "2026-08-17",
+        "theme": "车厢儿童噪音与静音博弈",
+        "description": "熊孩子吵闹、静音车厢争议及乘客对噪音的应对与情绪发泄。",
+        "lastSeen": "2026-09-10",
+        "heat": 3,
+        "relations": [
+          {
+            "toThemeKey": "seat_space_boundary",
+            "toThemeName": "密闭空间座位边界与争议",
+            "desc": "噪音烦躁易激化对邻座空间越界的敏感度，催生发疯文学式维权。",
+            "implication": "订单页增加静音免打扰标签偏好，提供一键呼叫乘务员介入快捷通道。"
           }
         ]
       },
       "slow_train_nostalgia": {
         "firstSeen": "2026-08-17",
         "theme": "绿皮车复古情怀与慢生活",
-        "description": "展现绿皮火车的怀旧氛围、慢节奏旅行体验及沿途人文风景，满足用户对慢生活的向往。",
-        "lastSeen": "2026-08-28",
-        "heat": 0,
+        "description": "对绿皮火车与老火车站的怀旧，承载亲情记忆与慢生活向往。",
+        "lastSeen": "2026-09-10",
+        "heat": 2,
         "relations": [
           {
             "toThemeKey": "exquisite_train_lifestyle",
@@ -74802,15 +75307,15 @@
       "seat_space_boundary": {
         "firstSeen": "2026-08-17",
         "theme": "密闭空间座位边界与争议",
-        "description": "零食占座、座椅靠背调节及行李越界等物理空间侵占行为，引发关于公共座位使用权的激烈网络争议。",
+        "description": "用物品占座、小桌板使用冲突及座椅空间侵占等引发的公共空间争议。",
         "lastSeen": "2026-09-10",
         "heat": 2,
         "relations": [
           {
-            "toThemeKey": "cabin_noise_and_children",
-            "toThemeName": "车厢儿童噪音与静音博弈",
-            "desc": "物品占座常伴随家属护短争吵，激化物理与心理双重边界冲突。",
-            "implication": "引入座位状态数字标记，通过乘务端PDA定时提醒清理占座物品。"
+            "toThemeKey": "train_time_killing_hacks",
+            "toThemeName": "高铁旅途解闷与抽象整活",
+            "desc": "在车厢制作或食用超大体积食物需完全占用小桌板，极易引发邻座抗议。",
+            "implication": "优化自带食品包装提示限制超大体积食物，或购票时提供靠窗大空间偏好。"
           }
         ]
       },
@@ -74832,15 +75337,15 @@
       "railway_rules_and_hacks": {
         "firstSeen": "2026-08-17",
         "theme": "铁路票务规则与避坑指南",
-        "description": "12306隐藏功能、坐过站免费送回、安检规定及行李遗失找回等硬核攻略，满足用户信息差套利与避坑需求。",
+        "description": "12306隐藏功能、安检规则、坐过站处理及失物找寻等实用攻略。",
         "lastSeen": "2026-09-10",
         "heat": 3,
         "relations": [
           {
-            "toThemeKey": "exquisite_train_lifestyle",
-            "toThemeName": "高铁精致生活与好物分享",
-            "desc": "12306隐藏福利被转化为出行干货，满足“精致穷”的薅羊毛心理。",
-            "implication": "官方APP首页增设“隐藏福利”信息流，用游戏化任务引导功能探索。"
+            "toThemeKey": "train_time_killing_hacks",
+            "toThemeName": "高铁旅途解闷与抽象整活",
+            "desc": "长途枯燥催生解闷需求，12306隐藏功能如Wi-Fi是解闷整活基础。",
+            "implication": "12306首页增加长途解闷专区，聚合车厢Wi-Fi、沿途风景与娱乐小程序。"
           }
         ]
       },
@@ -74873,6 +75378,14 @@
             "implication": "优化邻座匿名破冰功能或生成手帐满足分享欲"
           }
         ]
+      },
+      "train_time_killing_hacks": {
+        "firstSeen": "2026-09-10",
+        "theme": "高铁旅途解闷与抽象整活",
+        "description": "长途旅途中通过手工、抽象美食或整活挑战来打发时间的共性行为。",
+        "lastSeen": "2026-09-10",
+        "heat": 2,
+        "relations": []
       }
     },
     "weeklyHistory": [
