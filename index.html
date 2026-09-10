@@ -809,7 +809,7 @@ function insCard(c) {
         ].join("");
       }).join("") + '</ul>'
     : '<div style="font-size:12px;color:#999">暂无关联笔记</div>';
-  return '<div class="ins-card" onclick="(function(el){event.stopPropagation();el.classList.toggle('open');})(this)">'
+  return '<div class="ins-card" onclick="(function(el){event.stopPropagation();el.classList.toggle(\'open\');})(this)">'
     + '<div class="hd"><span class="nm">' + esc(c.theme) + '</span>' + momBadge(c.momentum)
     + '<span class="ev">' + (c.evidenceCount || 0) + ' 证据</span>'
     + (c.streakDays ? '<span class="streak">连续 ' + c.streakDays + ' 天</span>' : '')
