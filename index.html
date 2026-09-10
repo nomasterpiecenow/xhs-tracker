@@ -570,14 +570,14 @@ function render(arr) {
     if (g.single) {
       html += noteRow(g.single, false);
     } else {
-      const open = expanded.has(g.ek);
-      const head = '<span class="arrow">' + (open ? "▾" : "▸") + "</span>"
+      const isOpen = expanded.has(g.ek);
+      const head = '<span class="arrow">' + (isOpen ? "▾" : "▸") + "</span>"
         + '<span class="ev-flag">事件</span>'
         + '<span class="ev-src-badge">' + g.members.length + " 篇 · " + g.srcCount + " 来源</span>"
         + (g.evBoost > 0 ? '<span class="ev-heat-badge">🔥事件热度 +' + g.evBoost.toFixed(1) + "</span>" : "")
         + '<span class="ev-meta">全网互动 ' + fmtCount(g.total) + "　" + g.platBadge + "　·　点击展开看其余 " + (g.members.length - 1) + " 篇报道</span>";
       html += noteRow(g.rep, false, head, "event-row", g.ek);
-      if (open) {
+      if (isOpen) {
         for (const m of g.members) {
           if (m === g.rep) continue;
           html += noteRow(m, true);
