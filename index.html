@@ -762,22 +762,45 @@ function momBadge(m) {
   return '<span class="mom ' + (m || "stable") + '">' + (MOM_LABEL[m] || m || "稳定") + '</span>';
 }
 
+// 建立 noteId → 笔记对象 的索引，供趋势洞察展开时查信息
+const NOTE_INDEX = {};
+NOTES.forEach(n => { NOTE_INDEX[n.noteId] = n; });
+
 // 渲染一张洞察卡
 function insCard(c) {
-  const ids = (c.sampleNoteIds || []).map(id => {
-    const prefix = String(id).indexOf("douyin:") === 0 ? "https://www.douyin.com/video/" : "https://www.xiaohongshu.com/explore/";
-    const nid = String(id).replace("douyin:", "");
-    return '<a href="' + prefix + nid + '" target="_blank" rel="noopener">查看笔记 ' + nid.slice(-6) + '</a>';
-  }).join(" · ");
-  return '<div class="ins-card" onclick="this.classList.toggle(&quot;open&quot;)">'
-    + '<div class="hd"><span class="nm">' + esc(c.theme) + '</span>' + momBadge(c.momentum)
+  // 构建样本笔记列表：用 sampleNoteIds 找笔记对象
+  const samples = (c.sampleNoteIds || []).map(id => NOTE_INDEX[id]).filter(Boolean);
+  const noteListHtml = samples.length
+    ? '<ul class="note-list">' + samples.map((n, i) => {
+        const title = esc(n.title || "无标题");
+        const link = n.noteLink || "#";
+        const create = n.createTime ? n.createTime.slice(0, 10) : "";
+        const platBadge = n.platform === "douyin"
+          ? '<span class="plat-mini douyin">抖音</span>'
+          : n.platform === "xhs"
+          ? '<span class="plat-mini xhs">小红书</span>'
+          : "";
+        return '<li class="note-item">'
+          + '<span class="n-idx">' + (i + 1) + '</span>'
+          + '<div class="n-body">'
+          + '<div class="n-title"><a href="' + link + '" target="_blank" rel="noopener" onclick="event.stopPropagation()">' + title + '</a></div>'
+          + '<div class="n-meta">'
+          + platBadge
+          + (create ? '<span>📅 ' + create + '</span>' : "")
+          + '<span>👁 ' + (n.interactiveCount || 0) + '</span>'
+          + '</div></div></li>';
+      }).join("") + '</ul>'
+    : '<div style="font-size:12px;color:#999">暂无关联笔记</div>';
+  return '<div class="ins-card" onclick="(function(el){event.stopPropagation();el.classList.toggle(\'open\');})(this)">'
+    + '<div class="hd"><span class="arrow">▸</span><span class="nm">' + esc(c.theme) + '</span>' + momBadge(c.momentum)
     + '<span class="ev">' + (c.evidenceCount || 0) + ' 证据</span>'
     + (c.streakDays ? '<span class="streak">连续 ' + c.streakDays + ' 天</span>' : '')
+    + '<span class="expand-hint">展开</span>'
     + '</div>'
     + '<div class="delta">' + esc(c.momentumDelta || "") + '</div>'
     + '<div class="why">' + esc(c.why || "") + '</div>'
     + (c.productImplication ? '<div class="pi">💡 ' + esc(c.productImplication) + '</div>' : '')
-    + (ids ? '<div class="det">' + ids + '</div>' : '')
+    + '<div class="det">' + noteListHtml + '</div>'
     + '</div>';
 }
 
