@@ -135,6 +135,9 @@
   .ins-card { border: 1px solid #eef0f3; border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; cursor: pointer; transition: .15s; }
   .ins-card:hover { border-color: #ffd5db; background: #fffafb; }
   .ins-card .hd { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .ins-card .hd .arrow { display: inline-block; font-size: 11px; color: #ff2442; margin-right: 4px; transition: transform 0.2s; }
+  .ins-card.open .hd .arrow { transform: rotate(90deg); }
+  .ins-card .hd .expand-hint { font-size: 11px; color: #999; margin-left: auto; }
   .ins-card .nm { font-weight: 700; color: #1a1a1a; font-size: 14px; }
   .mom { display: inline-block; padding: 2px 9px; border-radius: 9px; font-size: 11px; font-weight: 700; }
   .mom.new { background: #e8f5e9; color: #2e7d32; }
@@ -147,10 +150,20 @@
   .ins-card .streak { font-size: 11px; color: #999; }
   .ins-card .why { font-size: 13px; color: #444; line-height: 1.7; margin-top: 8px; }
   .ins-card .pi { font-size: 12px; color: #2e7d32; margin-top: 5px; padding: 7px 10px; background: #f0f9f1; border-radius: 8px; line-height: 1.6; }
-  .ins-card .det { display: none; margin-top: 8px; border-top: 1px dashed #eee; padding-top: 8px; }
+  .ins-card .det { display: none; margin-top: 8px; border-top: 1px dashed #eee; padding-top: 8px; max-height: 400px; overflow-y: auto; }
   .ins-card.open .det { display: block; }
   .ins-card .det a { color: #1565c0; text-decoration: none; font-size: 12px; }
   .ins-card .det a:hover { color: #ff2442; }
+  .ins-card .det .note-list { list-style: none; padding: 0; margin: 0; }
+  .ins-card .det .note-item { display: flex; gap: 8px; padding: 6px 0; border-bottom: 1px solid #f5f5f5; font-size: 12px; }
+  .ins-card .det .note-item:last-child { border-bottom: none; }
+  .ins-card .det .n-idx { color: #999; flex-shrink: 0; width: 20px; }
+  .ins-card .det .n-body { flex: 1; min-width: 0; }
+  .ins-card .det .n-title a { word-break: break-all; }
+  .ins-card .det .n-meta { margin-top: 3px; font-size: 11px; color: #999; display: flex; gap: 8px; align-items: center; }
+  .plat-mini { display: inline-block; padding: 1px 6px; border-radius: 3px; font-size: 10px; font-weight: 600; }
+  .plat-mini.xhs { background: #fff0f0; color: #ff2442; }
+  .plat-mini.douyin { background: #f0f8ff; color: #2f6fed; }
   /* 每周总结 */
   .wk-actions { background: #fff; border-radius: 12px; padding: 16px 18px; margin-bottom: 14px; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
   .wk-actions h3 { font-size: 15px; margin-bottom: 10px; color: #333; }
