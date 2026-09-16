@@ -1,6 +1,6 @@
 {
   "keyword": "功能热点 31 + 场景灵感 0",
-  "lastCrawledAt": "2026-09-16 14:31:56",
+  "lastCrawledAt": "2026-09-16 14:43:45",
   "notes": {
     "6a671b4c000000000301d591": {
       "noteId": "6a671b4c000000000301d591",
@@ -336,14 +336,15 @@
           "noteId": "6a5055ee000000001503d93f"
         }
       ],
-      "eventId": null,
+      "eventId": "设施__静音车厢体验",
       "eventTitle": "静音车厢体验",
       "_brand": "智行",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "c38e27c7d38b",
-      "_tier": "B"
+      "_tier": "B",
+      "_eventId": "设施__静音车厢体验"
     },
     "6a69f3fb000000000f009719": {
       "noteId": "6a69f3fb000000000f009719",
@@ -1464,13 +1465,14 @@
           "noteId": "6a583aca000000000100c11a"
         }
       ],
-      "eventId": null,
-      "eventTitle": "高铁安检违禁品",
+      "eventId": "安检__高铁违禁物品清单",
+      "eventTitle": "高铁违禁物品清单",
       "_brand": "智行",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "20f62984529a"
+      "_sig": "20f62984529a",
+      "_eventId": "安检__高铁违禁物品清单"
     },
     "6a5990ef0000000001032b76": {
       "noteId": "6a5990ef0000000001032b76",
@@ -2209,13 +2211,14 @@
           "noteId": "douyin:7666771405379301870"
         }
       ],
-      "eventId": null,
-      "eventTitle": "一家四口购票",
+      "eventId": "票价__儿童票购买方式",
+      "eventTitle": "儿童票购买方式",
       "_brand": null,
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "18a7cba6999d"
+      "_sig": "18a7cba6999d",
+      "_eventId": "票价__儿童票购买方式"
     },
     "douyin:7664035324519009579": {
       "noteId": "douyin:7664035324519009579",
@@ -5182,13 +5185,14 @@
           "noteId": "douyin:7660104069440081206"
         }
       ],
-      "eventId": null,
-      "eventTitle": "大学生",
+      "eventId": "设施__静音车厢体验",
+      "eventTitle": "静音车厢体验",
       "_brand": null,
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "28122d450cef"
+      "_sig": "28122d450cef",
+      "_eventId": "设施__静音车厢体验"
     },
     "douyin:7666760952511040818": {
       "noteId": "douyin:7666760952511040818",
@@ -5327,13 +5331,14 @@
           "noteId": "douyin:7661160732549925817"
         }
       ],
-      "eventId": null,
-      "eventTitle": "高铁带酒食用油等",
+      "eventId": "安检__高铁违禁物品清单",
+      "eventTitle": "高铁违禁物品清单",
       "_brand": null,
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "78a780b21558"
+      "_sig": "78a780b21558",
+      "_eventId": "安检__高铁违禁物品清单"
     },
     "douyin:7664786289106898286": {
       "noteId": "douyin:7664786289106898286",
@@ -5651,15 +5656,16 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
-      "eventTitle": "高铁化妆",
+      "eventId": "设施__静音车厢体验",
+      "eventTitle": "静音车厢体验",
       "_brand": null,
       "_relevant": true,
       "_sentiment": "neg",
       "_pains": [
         "误买静音车厢"
       ],
-      "_sig": "746c77aab1de"
+      "_sig": "746c77aab1de",
+      "_eventId": "设施__静音车厢体验"
     },
     "douyin:7669736135828702130": {
       "noteId": "douyin:7669736135828702130",
@@ -7496,12 +7502,14 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "占座__老人要求换下铺",
       "_brand": null,
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "08d70b84aaf2"
+      "_sig": "08d70b84aaf2",
+      "_eventId": "占座__老人要求换下铺",
+      "eventTitle": "老人要求换下铺"
     },
     "6a607d6b0000000004029825": {
       "noteId": "6a607d6b0000000004029825",
@@ -7543,15 +7551,16 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
-      "eventTitle": "强制占座",
+      "eventId": "占座__老人要求换下铺",
+      "eventTitle": "老人要求换下铺",
       "_brand": null,
       "_relevant": true,
       "_sentiment": "neg",
       "_pains": [
         "强制占座"
       ],
-      "_sig": "693a023acbfe"
+      "_sig": "693a023acbfe",
+      "_eventId": "占座__老人要求换下铺"
     },
     "6a673838000000001100569c": {
       "noteId": "6a673838000000001100569c",
@@ -8302,9 +8311,11 @@
       ],
       "_tier": "B",
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
-      "_sig": "94f18ef97ada"
+      "_sig": "94f18ef97ada",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a798286000000003300b58f": {
       "noteId": "6a798286000000003300b58f",
@@ -8484,9 +8495,11 @@
       ],
       "_tier": "B",
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
-      "_sig": "6869098f7689"
+      "_sig": "6869098f7689",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a7041240000000005029734": {
       "noteId": "6a7041240000000005029734",
@@ -8574,9 +8587,11 @@
       ],
       "_tier": "B",
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
-      "_sig": "c85df71a49b1"
+      "_sig": "c85df71a49b1",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a59cbb6000000001003e6a0": {
       "noteId": "6a59cbb6000000001003e6a0",
@@ -9179,11 +9194,13 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "97eb7e0ed829"
+      "_sig": "97eb7e0ed829",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a72ad21000000003300d861": {
       "noteId": "6a72ad21000000003300d861",
@@ -9270,11 +9287,13 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "31038ed8e89d"
+      "_sig": "31038ed8e89d",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a59ee47000000000f02bc11": {
       "noteId": "6a59ee47000000000f02bc11",
@@ -9318,11 +9337,13 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "乘车提示__第一次坐火车全流程",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "5204b8e3fd37"
+      "_sig": "5204b8e3fd37",
+      "_eventId": "乘车提示__第一次坐火车全流程",
+      "eventTitle": "第一次坐火车全流程"
     },
     "6a584ff400000000100290a9": {
       "noteId": "6a584ff400000000100290a9",
@@ -9363,11 +9384,13 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁4小时干什么",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "b1bbaec4f7e6"
+      "_sig": "b1bbaec4f7e6",
+      "_eventId": "设施__高铁4小时干什么",
+      "eventTitle": "高铁4小时干什么"
     },
     "6a5b48bd000000001101a1a2": {
       "noteId": "6a5b48bd000000001101a1a2",
@@ -9502,11 +9525,13 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "577261139457"
+      "_sig": "577261139457",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a7064e70000000033032683": {
       "noteId": "6a7064e70000000033032683",
@@ -9547,11 +9572,13 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "c705b787b6df"
+      "_sig": "c705b787b6df",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a66c99f000000000101d2e5": {
       "noteId": "6a66c99f000000000101d2e5",
@@ -9869,11 +9896,13 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "a16ab590077f"
+      "_sig": "a16ab590077f",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a6aa5390000000004029415": {
       "noteId": "6a6aa5390000000004029415",
@@ -9914,11 +9943,13 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "068b2aadcf98"
+      "_sig": "068b2aadcf98",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a6c2970000000003300893e": {
       "noteId": "6a6c2970000000003300893e",
@@ -10094,11 +10125,13 @@
         }
       ],
       "platform": "xhs",
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "a48e8885093d"
+      "_sig": "a48e8885093d",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a545ca6000000001702fa21": {
       "noteId": "6a545ca6000000001702fa21",
@@ -12480,7 +12513,9 @@
       ],
       "_relevant": true,
       "_sig": "be179003fc6a",
-      "eventId": null
+      "eventId": "乘车提示__北京直达香港高铁体验",
+      "_eventId": "乘车提示__北京直达香港高铁体验",
+      "eventTitle": "北京直达香港高铁体验"
     },
     "douyin:7671572106694347444": {
       "noteId": "douyin:7671572106694347444",
@@ -12527,7 +12562,9 @@
       ],
       "_relevant": true,
       "_sig": "3ff3af280ce2",
-      "eventId": null
+      "eventId": "抢票__永州湘超高铁票难抢",
+      "_eventId": "抢票__永州湘超高铁票难抢",
+      "eventTitle": "永州湘超高铁票难抢"
     },
     "douyin:7672301103941176626": {
       "noteId": "douyin:7672301103941176626",
@@ -14467,7 +14504,9 @@
       ],
       "_relevant": true,
       "_sig": "76815523004d",
-      "eventId": null
+      "eventId": "乘车提示__第一次坐火车全流程",
+      "_eventId": "乘车提示__第一次坐火车全流程",
+      "eventTitle": "第一次坐火车全流程"
     },
     "douyin:7669997941058325800": {
       "noteId": "douyin:7669997941058325800",
@@ -23754,7 +23793,9 @@
       ],
       "_relevant": true,
       "_sig": "f40dfd63e433",
-      "eventId": null
+      "eventId": "温情__女子邀小朋友坐下铺",
+      "_eventId": "温情__女子邀小朋友坐下铺",
+      "eventTitle": "女子邀小朋友坐下铺"
     },
     "douyin:7672360850988163572": {
       "noteId": "douyin:7672360850988163572",
@@ -23901,7 +23942,9 @@
       ],
       "_relevant": true,
       "_sig": "9976dccb72fd",
-      "eventId": null
+      "eventId": "儿童票__先买大人票再退只留儿童票",
+      "_eventId": "儿童票__先买大人票再退只留儿童票",
+      "eventTitle": "先买大人票再退只留儿童票"
     },
     "douyin:7672594702910098729": {
       "noteId": "douyin:7672594702910098729",
@@ -25330,7 +25373,9 @@
       "_relevant": true,
       "_sig": "2cabea9ad655",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a75eadf000000003400f073": {
       "noteId": "6a75eadf000000003400f073",
@@ -25374,7 +25419,9 @@
       "_relevant": true,
       "_sig": "554170c14c85",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "乘车提示__高铁站古风",
+      "_eventId": "乘车提示__高铁站古风",
+      "eventTitle": "高铁站古风"
     },
     "6a7a99bf0000000005032347": {
       "noteId": "6a7a99bf0000000005032347",
@@ -25470,7 +25517,9 @@
       "_relevant": true,
       "_sig": "faab01484303",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "乘车提示__高铁站古风",
+      "_eventId": "乘车提示__高铁站古风",
+      "eventTitle": "高铁站古风"
     },
     "6a795095000000002701cc5c": {
       "noteId": "6a795095000000002701cc5c",
@@ -25605,7 +25654,9 @@
       "_relevant": true,
       "_sig": "eec7086f0361",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__海鸥乘高铁",
+      "_eventId": "设施__海鸥乘高铁",
+      "eventTitle": "海鸥乘高铁"
     },
     "6a7be1e5000000002402c47d": {
       "noteId": "6a7be1e5000000002402c47d",
@@ -25966,7 +26017,9 @@
       "_relevant": true,
       "_sig": "5bbf79d119db",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a7890de0000000008011a06": {
       "noteId": "6a7890de0000000008011a06",
@@ -26151,7 +26204,9 @@
       ],
       "_relevant": true,
       "_sig": "c16affa54f50",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7672604948072353070": {
       "noteId": "douyin:7672604948072353070",
@@ -26651,7 +26706,9 @@
       ],
       "_relevant": true,
       "_sig": "59701eb52f37",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "douyin:7672590791248250505": {
       "noteId": "douyin:7672590791248250505",
@@ -26696,7 +26753,9 @@
       ],
       "_relevant": true,
       "_sig": "bcb47f9c1b9c",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "douyin:7668624434597674854": {
       "noteId": "douyin:7668624434597674854",
@@ -26742,7 +26801,9 @@
       ],
       "_relevant": true,
       "_sig": "7fd49ce4b71c",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "douyin:7667022662842512744": {
       "noteId": "douyin:7667022662842512744",
@@ -26787,7 +26848,9 @@
       ],
       "_relevant": true,
       "_sig": "b3f06e958e8b",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__追绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "6a786c35000000002402729d": {
       "noteId": "6a786c35000000002402729d",
@@ -26831,7 +26894,9 @@
       "_relevant": true,
       "_sig": "b73b8bb853b1",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "乘车提示__高铁站古风",
+      "_eventId": "乘车提示__高铁站古风",
+      "eventTitle": "高铁站古风"
     },
     "6a75aa3e0000000028002c1c": {
       "noteId": "6a75aa3e0000000028002c1c",
@@ -26875,7 +26940,9 @@
       "_relevant": true,
       "_sig": "dbb89452ac5b",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a7536b10000000005029082": {
       "noteId": "6a7536b10000000005029082",
@@ -27111,7 +27178,9 @@
       ],
       "_relevant": true,
       "_sig": "42884b85aed0",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7673084579909806772": {
       "noteId": "douyin:7673084579909806772",
@@ -27386,7 +27455,9 @@
       ],
       "_relevant": true,
       "_sig": "187007050d8f",
-      "eventId": null
+      "eventId": "投诉__小孩踢座位",
+      "_eventId": "投诉__小孩踢座位",
+      "eventTitle": "小孩踢座位"
     },
     "douyin:7670125974519893299": {
       "noteId": "douyin:7670125974519893299",
@@ -28283,7 +28354,9 @@
       "_relevant": true,
       "_sig": "02a1e54d4ba6",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "6a76165c000000002603789b": {
       "noteId": "6a76165c000000002603789b",
@@ -28327,7 +28400,9 @@
       "_relevant": true,
       "_sig": "3ab623da9939",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "douyin:7673491252931900665": {
       "noteId": "douyin:7673491252931900665",
@@ -28373,7 +28448,9 @@
       ],
       "_relevant": true,
       "_sig": "f579eecbe3eb",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7673589085769295028": {
       "noteId": "douyin:7673589085769295028",
@@ -28938,7 +29015,9 @@
       ],
       "_relevant": true,
       "_sig": "57d2c58545b6",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "douyin:7673492092174362216": {
       "noteId": "douyin:7673492092174362216",
@@ -28984,7 +29063,9 @@
       ],
       "_relevant": true,
       "_sig": "6cff43fdce61",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "douyin:7673471289960707035": {
       "noteId": "douyin:7673471289960707035",
@@ -29030,7 +29111,9 @@
       ],
       "_relevant": true,
       "_sig": "e03cc4ab03d7",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "douyin:7673356737877560562": {
       "noteId": "douyin:7673356737877560562",
@@ -29120,7 +29203,9 @@
       ],
       "_relevant": true,
       "_sig": "9e70dbcc4f9c",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "douyin:7673459396668048079": {
       "noteId": "douyin:7673459396668048079",
@@ -29165,7 +29250,9 @@
       ],
       "_relevant": true,
       "_sig": "0b99e2dea3b2",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "6a62145b000000000f011c19": {
       "noteId": "6a62145b000000000f011c19",
@@ -29348,7 +29435,9 @@
       ],
       "_relevant": true,
       "_sig": "1d378f1069b8",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7672010120763960689": {
       "noteId": "douyin:7672010120763960689",
@@ -29395,7 +29484,9 @@
       ],
       "_relevant": true,
       "_sig": "401ece304458",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7672860097785352627": {
       "noteId": "douyin:7672860097785352627",
@@ -29621,7 +29712,9 @@
       ],
       "_relevant": true,
       "_sig": "0c6ab4d95ceb",
-      "eventId": null
+      "eventId": "设施__高铁体验",
+      "_eventId": "设施__高铁体验",
+      "eventTitle": "高铁体验"
     },
     "douyin:7664969205222327034": {
       "noteId": "douyin:7664969205222327034",
@@ -29954,7 +30047,9 @@
       ],
       "_relevant": true,
       "_sig": "da57cbc3710b",
-      "eventId": null
+      "eventId": "设施__绿皮火车",
+      "_eventId": "设施__绿皮火车",
+      "eventTitle": "绿皮火车"
     },
     "douyin:7673834563063450469": {
       "noteId": "douyin:7673834563063450469",
@@ -29999,7 +30094,9 @@
       ],
       "_relevant": true,
       "_sig": "55c580e6ee74",
-      "eventId": null
+      "eventId": "设施__火车硬座噜噜",
+      "_eventId": "设施__火车硬座噜噜",
+      "eventTitle": "火车硬座噜噜"
     },
     "douyin:7668946448742063793": {
       "noteId": "douyin:7668946448742063793",
@@ -31475,7 +31572,9 @@
       ],
       "_relevant": true,
       "_sig": "031381ee578a",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7673901676558796147": {
       "noteId": "douyin:7673901676558796147",
@@ -34961,7 +35060,9 @@
       "_relevant": true,
       "_sig": "6aea3c40de41",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "乘车提示__高铁站古风",
+      "_eventId": "乘车提示__高铁站古风",
+      "eventTitle": "高铁站古风"
     },
     "6a80363a0000000028032503": {
       "noteId": "6a80363a0000000028032503",
@@ -35150,7 +35251,9 @@
       ],
       "_relevant": true,
       "_sig": "252e1314be04",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7674992830049411749": {
       "noteId": "douyin:7674992830049411749",
@@ -35196,7 +35299,9 @@
       ],
       "_relevant": true,
       "_sig": "993395b8b9d4",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7668529508680502563": {
       "noteId": "douyin:7668529508680502563",
@@ -36023,7 +36128,9 @@
       "_relevant": true,
       "_sig": "8068700cc4a7",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "乘车提示__高铁坐过站免费返回",
+      "_eventId": "乘车提示__高铁坐过站免费返回",
+      "eventTitle": "高铁坐过站免费返回"
     },
     "6a82ebbb000000003400eaac": {
       "noteId": "6a82ebbb000000003400eaac",
@@ -36250,7 +36357,9 @@
       "_relevant": true,
       "_sig": "f9b5858653d4",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "douyin:7668943390914699365": {
       "noteId": "douyin:7668943390914699365",
@@ -36430,7 +36539,9 @@
       ],
       "_relevant": true,
       "_sig": "ec44c00aa0f0",
-      "eventId": null
+      "eventId": "乘车提示__商务座使用教程",
+      "_eventId": "乘车提示__商务座使用教程",
+      "eventTitle": "商务座使用教程"
     },
     "douyin:7674892874794341307": {
       "noteId": "douyin:7674892874794341307",
@@ -36656,7 +36767,9 @@
       ],
       "_relevant": true,
       "_sig": "0a7f0701baad",
-      "eventId": null
+      "eventId": "乘车提示__高铁福利",
+      "_eventId": "乘车提示__高铁福利",
+      "eventTitle": "高铁福利"
     },
     "douyin:7667375091642339941": {
       "noteId": "douyin:7667375091642339941",
@@ -39042,7 +39155,9 @@
       "_relevant": true,
       "_sig": "3342b04f68df",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a843ab0000000003300df81": {
       "noteId": "6a843ab0000000003300df81",
@@ -39086,7 +39201,9 @@
       "_relevant": true,
       "_sig": "ae2eda5d69ad",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a83dc6200000000060072d0": {
       "noteId": "6a83dc6200000000060072d0",
@@ -39130,7 +39247,9 @@
       "_relevant": true,
       "_sig": "8c2284306b10",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a85445f0000000033013364": {
       "noteId": "6a85445f0000000033013364",
@@ -41442,7 +41561,9 @@
       ],
       "_relevant": true,
       "_sig": "dad02f2e34b0",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7676824199390935793": {
       "noteId": "douyin:7676824199390935793",
@@ -42208,7 +42329,9 @@
       ],
       "_relevant": true,
       "_sig": "68bc61b7bbc0",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7675733105751212261": {
       "noteId": "douyin:7675733105751212261",
@@ -42255,7 +42378,9 @@
       ],
       "_relevant": true,
       "_sig": "30ac09e65011",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7676100874686434612": {
       "noteId": "douyin:7676100874686434612",
@@ -44510,7 +44635,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "30737b438168",
-      "eventId": null
+      "eventId": "占座__换座砸钱",
+      "_eventId": "占座__换座砸钱",
+      "eventTitle": "换座砸钱"
     },
     "douyin:7676852465375005995": {
       "noteId": "douyin:7676852465375005995",
@@ -44797,7 +44924,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "3da2d90672ec",
-      "eventId": null
+      "eventId": "设施__静音车厢体验",
+      "_eventId": "设施__静音车厢体验",
+      "eventTitle": "静音车厢体验"
     },
     "douyin:7676279346394385702": {
       "noteId": "douyin:7676279346394385702",
@@ -48717,7 +48846,9 @@
       ],
       "_relevant": true,
       "_sig": "551bc8334e3e",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7677090100861259008": {
       "noteId": "douyin:7677090100861259008",
@@ -49232,7 +49363,9 @@
       ],
       "_sig": "e6c8767d2c49",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "乘车提示__车厢女性安全警告",
+      "_eventId": "乘车提示__车厢女性安全警告",
+      "eventTitle": "车厢女性安全警告"
     },
     "6a6b295e000000002500d9ec": {
       "noteId": "6a6b295e000000002500d9ec",
@@ -51196,7 +51329,9 @@
       "_pains": [],
       "_sig": "2c20c80308ae",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "乘车提示__高铁一等座正装男",
+      "_eventId": "乘车提示__高铁一等座正装男",
+      "eventTitle": "高铁一等座正装男"
     },
     "6a729b650000000035016065": {
       "noteId": "6a729b650000000035016065",
@@ -51602,7 +51737,9 @@
       "_pains": [],
       "_sig": "d91d0dac7a91",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "温情__带娃坐高铁",
+      "_eventId": "温情__带娃坐高铁",
+      "eventTitle": "带娃坐高铁"
     },
     "6a7f37ec000000000503287d": {
       "noteId": "6a7f37ec000000000503287d",
@@ -52244,7 +52381,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "2db8d30843a4",
-      "eventId": null
+      "eventId": "设施__阿尔山火车站",
+      "_eventId": "设施__阿尔山火车站",
+      "eventTitle": "阿尔山火车站"
     },
     "douyin:7675546245271670042": {
       "noteId": "douyin:7675546245271670042",
@@ -52520,7 +52659,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "2d1336453f26",
-      "eventId": null
+      "eventId": "乘车提示__和田站赶火车",
+      "_eventId": "乘车提示__和田站赶火车",
+      "eventTitle": "和田站赶火车"
     },
     "douyin:7677559839283508849": {
       "noteId": "douyin:7677559839283508849",
@@ -52612,7 +52753,9 @@
         "儿童安全"
       ],
       "_sig": "97798414b81a",
-      "eventId": null
+      "eventId": "投诉__高铁猥亵女童",
+      "_eventId": "投诉__高铁猥亵女童",
+      "eventTitle": "高铁猥亵女童"
     },
     "douyin:7678242023547096320": {
       "noteId": "douyin:7678242023547096320",
@@ -52659,7 +52802,9 @@
         "儿童安全"
       ],
       "_sig": "22cb0ef49e98",
-      "eventId": null
+      "eventId": "投诉__高铁猥亵女童",
+      "_eventId": "投诉__高铁猥亵女童",
+      "eventTitle": "高铁猥亵女童"
     },
     "douyin:7677909926157114074": {
       "noteId": "douyin:7677909926157114074",
@@ -54785,7 +54930,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "74064a74ccac",
-      "eventId": null
+      "eventId": "寻人__男子跳火车失联",
+      "_eventId": "寻人__男子跳火车失联",
+      "eventTitle": "男子跳火车失联"
     },
     "douyin:7675677094642257186": {
       "noteId": "douyin:7675677094642257186",
@@ -56149,7 +56296,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "604e23bee4de",
-      "eventId": null
+      "eventId": "乘车提示__广州南站中转换乘",
+      "_eventId": "乘车提示__广州南站中转换乘",
+      "eventTitle": "广州南站中转换乘"
     },
     "6a8cfb4d0000000033029736": {
       "noteId": "6a8cfb4d0000000033029736",
@@ -56239,7 +56388,9 @@
       "_pains": [],
       "_sig": "a961ab57f039",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "乘车提示__火车站新功能",
+      "_eventId": "乘车提示__火车站新功能",
+      "eventTitle": "火车站新功能"
     },
     "6a89672c000000003400c530": {
       "noteId": "6a89672c000000003400c530",
@@ -56459,7 +56610,9 @@
       "_pains": [],
       "_sig": "306cdeb52fa6",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a8d758a0000000021033b8d": {
       "noteId": "6a8d758a0000000021033b8d",
@@ -56503,7 +56656,9 @@
       "_pains": [],
       "_sig": "adfc768b6bc6",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a8e5cd1000000001f00560b": {
       "noteId": "6a8e5cd1000000001f00560b",
@@ -56547,7 +56702,9 @@
       "_pains": [],
       "_sig": "05cdad9e2c15",
       "platform": "xhs",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a8d4ffe000000002201f8d8": {
       "noteId": "6a8d4ffe000000002201f8d8",
@@ -56862,7 +57019,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "847c54e86265",
-      "eventId": null
+      "eventId": "设施__百年老火车站",
+      "_eventId": "设施__百年老火车站",
+      "eventTitle": "百年老火车站"
     },
     "douyin:7677909565547072810": {
       "noteId": "douyin:7677909565547072810",
@@ -57044,7 +57203,9 @@
         "儿童安全"
       ],
       "_sig": "8ff03ae8426c",
-      "eventId": null
+      "eventId": "投诉__高铁猥亵女童",
+      "_eventId": "投诉__高铁猥亵女童",
+      "eventTitle": "高铁猥亵女童"
     },
     "douyin:7677948935378169062": {
       "noteId": "douyin:7677948935378169062",
@@ -57179,7 +57340,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "a28c829d31eb",
-      "eventId": null
+      "eventId": "乘车提示__高铁选F座",
+      "_eventId": "乘车提示__高铁选F座",
+      "eventTitle": "高铁选F座"
     },
     "douyin:7678183138144554294": {
       "noteId": "douyin:7678183138144554294",
@@ -61818,7 +61981,9 @@
         "行李设计不合理"
       ],
       "_sig": "279b872d2dbf",
-      "eventId": null
+      "eventId": "设施__高铁行李放置设计",
+      "_eventId": "设施__高铁行李放置设计",
+      "eventTitle": "高铁行李放置设计"
     },
     "douyin:7678640521116162425": {
       "noteId": "douyin:7678640521116162425",
@@ -62136,7 +62301,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "c7daa3279f34",
-      "eventId": null
+      "eventId": "乘车提示__商务座专属通道",
+      "_eventId": "乘车提示__商务座专属通道",
+      "eventTitle": "商务座专属通道"
     },
     "douyin:7680039853672797947": {
       "noteId": "douyin:7680039853672797947",
@@ -66337,7 +66504,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "e8653ca883b5",
-      "eventId": null
+      "eventId": "温情__退伍老兵站务员站姿被指作秀",
+      "_eventId": "温情__退伍老兵站务员站姿被指作秀",
+      "eventTitle": "退伍老兵站务员站姿被指作秀"
     },
     "douyin:7680529142337834993": {
       "noteId": "douyin:7680529142337834993",
@@ -66381,7 +66550,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "9b66d7587548",
-      "eventId": null
+      "eventId": "温情__退伍季车站接站",
+      "_eventId": "温情__退伍季车站接站",
+      "eventTitle": "退伍季车站接站"
     },
     "douyin:7680924809467729913": {
       "noteId": "douyin:7680924809467729913",
@@ -66426,7 +66597,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "abc9c48bfc78",
-      "eventId": null
+      "eventId": "抢票__火车票省钱路线",
+      "_eventId": "抢票__火车票省钱路线",
+      "eventTitle": "火车票省钱路线"
     },
     "douyin:7680588808236194286": {
       "noteId": "douyin:7680588808236194286",
@@ -66602,7 +66775,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "b302a49cc945",
-      "eventId": null
+      "eventId": "占座__高铁座位让座争议",
+      "_eventId": "占座__高铁座位让座争议",
+      "eventTitle": "高铁座位让座争议"
     },
     "douyin:7677439394505186538": {
       "noteId": "douyin:7677439394505186538",
@@ -67218,7 +67393,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "8b9f326a271b",
-      "eventId": null
+      "eventId": "温情__军娃追妈妈进火车站",
+      "_eventId": "温情__军娃追妈妈进火车站",
+      "eventTitle": "军娃追妈妈进火车站"
     },
     "6a97939a000000002601e360": {
       "noteId": "6a97939a000000002601e360",
@@ -68501,7 +68678,9 @@
         "高铁票价贵"
       ],
       "_sig": "363d7c4c6b36",
-      "eventId": null
+      "eventId": "票价__高铁客单价高",
+      "_eventId": "票价__高铁客单价高",
+      "eventTitle": "高铁客单价高"
     },
     "6a9ef38d00000000290111fb": {
       "noteId": "6a9ef38d00000000290111fb",
@@ -71682,11 +71861,13 @@
           "noteId": "6a8a6967000000002902438a"
         }
       ],
-      "eventId": null,
+      "eventId": "设施__高铁化妆vlog",
       "_relevant": false,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "4dd86e956723"
+      "_sig": "4dd86e956723",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6aa3cd430000000028035db6": {
       "noteId": "6aa3cd430000000028035db6",
@@ -71769,13 +71950,15 @@
           "noteId": "6aa51c64000000002700a0b9"
         }
       ],
-      "eventId": null,
+      "eventId": "票价__儿童票购买方式",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [
         "怎么订划算"
       ],
-      "_sig": "150aa1fbca29"
+      "_sig": "150aa1fbca29",
+      "_eventId": "票价__儿童票购买方式",
+      "eventTitle": "儿童票购买方式"
     },
     "6aa3615b000000002600835f": {
       "noteId": "6aa3615b000000002600835f",
@@ -71815,11 +71998,13 @@
           "noteId": "6aa3615b000000002600835f"
         }
       ],
-      "eventId": null,
+      "eventId": "抢票__中秋假期首日火车票",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "6f5b8de8619e"
+      "_sig": "6f5b8de8619e",
+      "_eventId": "抢票__中秋假期首日火车票",
+      "eventTitle": "中秋假期首日火车票"
     },
     "6a958e19000000001001cf49": {
       "noteId": "6a958e19000000001001cf49",
@@ -72130,7 +72315,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "44817699628c",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6aa0cc21000000002901107d": {
       "noteId": "6aa0cc21000000002901107d",
@@ -72174,7 +72361,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "b8a2acbf4ecb",
-      "eventId": null
+      "eventId": "温情__孕妇高铁产子",
+      "_eventId": "温情__孕妇高铁产子",
+      "eventTitle": "孕妇高铁产子"
     },
     "6a9fae13000000002b02718c": {
       "noteId": "6a9fae13000000002b02718c",
@@ -72217,7 +72406,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "432c66d12dd0",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6aa699a400000000260177e6": {
       "noteId": "6aa699a400000000260177e6",
@@ -72303,7 +72494,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "c3c474691410",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a96913f000000001103743d": {
       "noteId": "6a96913f000000001103743d",
@@ -72348,7 +72541,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "2c233ec3ba29",
-      "eventId": null
+      "eventId": "乘车提示__高铁隐藏服务",
+      "_eventId": "乘车提示__高铁隐藏服务",
+      "eventTitle": "高铁隐藏服务"
     },
     "6a9ff616000000002700b5ab": {
       "noteId": "6a9ff616000000002700b5ab",
@@ -72434,7 +72629,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "42937b897a41",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a97e37e0000000011031db7": {
       "noteId": "6a97e37e0000000011031db7",
@@ -72613,7 +72810,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "f1d9b76fd27b",
-      "eventId": null
+      "eventId": "设施__高铁化妆vlog",
+      "_eventId": "设施__高铁化妆vlog",
+      "eventTitle": "高铁化妆vlog"
     },
     "6a8bf63600000000280268bf": {
       "noteId": "6a8bf63600000000280268bf",
@@ -72701,12 +72900,14 @@
           "noteId": "6a912d040000000007007d6a"
         }
       ],
-      "eventId": null,
+      "eventId": "抢票__预约购票",
       "_brand": "智行",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "8bdd8feb748e"
+      "_sig": "8bdd8feb748e",
+      "_eventId": "抢票__12306预约购票",
+      "eventTitle": "预约购票"
     },
     "6a9f7236000000002900f9b6": {
       "noteId": "6a9f7236000000002900f9b6",
@@ -74092,11 +74293,13 @@
           "noteId": "douyin:7684134669189607923"
         }
       ],
-      "eventId": null,
+      "eventId": "设施__瑞龙智行智能动车组",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "dcaa4c9dc1a0"
+      "_sig": "dcaa4c9dc1a0",
+      "_eventId": "设施__瑞龙智行",
+      "eventTitle": "瑞龙智行智能动车组"
     },
     "douyin:7684465235609110694": {
       "noteId": "douyin:7684465235609110694",
@@ -74526,12 +74729,14 @@
           "noteId": "douyin:7685288716847369518"
         }
       ],
-      "eventId": null,
+      "eventId": "抢票__预约购票",
       "_brand": "12306",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "029e6fc674d0"
+      "_sig": "029e6fc674d0",
+      "_eventId": "抢票__预约购票",
+      "eventTitle": "预约购票"
     },
     "douyin:7685306748193885494": {
       "noteId": "douyin:7685306748193885494",
@@ -74620,12 +74825,14 @@
           "noteId": "douyin:7683721557570489610"
         }
       ],
-      "eventId": null,
+      "eventId": "票务新规__12306新增教师积分优惠",
       "_brand": "12306",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "441a290575fd"
+      "_sig": "441a290575fd",
+      "_eventId": "票务新规__12306新增教师积分优惠",
+      "eventTitle": "12306新增教师积分优惠"
     },
     "douyin:7683483017381170478": {
       "noteId": "douyin:7683483017381170478",
@@ -74763,7 +74970,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "86aaf6f0bcc5",
-      "eventId": null
+      "eventId": "票价__学生票",
+      "_eventId": "票价__学生票",
+      "eventTitle": "学生票"
     },
     "douyin:7684115249980575028": {
       "noteId": "douyin:7684115249980575028",
@@ -74808,7 +75017,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "ade439291efa",
-      "eventId": null
+      "eventId": "票价__学生票",
+      "_eventId": "票价__学生票",
+      "eventTitle": "学生票"
     },
     "douyin:7684810693274635571": {
       "noteId": "douyin:7684810693274635571",
@@ -74898,49 +75109,196 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "8423d7405209",
-      "eventId": null
+      "eventId": "占座__高铁座位让座争议",
+      "_eventId": "占座__高铁座位让座争议",
+      "eventTitle": "高铁座位让座争议"
     }
   },
   "insights": {
     "daily": [
+      {
+        "key": "ev:设施__高铁化妆vlog",
+        "theme": "高铁化妆vlog",
+        "category": "event",
+        "sourceEventId": "设施__高铁化妆vlog",
+        "evidenceCount": 3,
+        "momentum": "fading",
+        "momentumDelta": "近7天3 vs 前23天14",
+        "sampleNoteIds": [
+          "6a5f4ce5000000000f01d66c",
+          "6a75de0d0000000033010db8",
+          "6a59a03c000000002201bd71",
+          "6a5d76fc000000000101c57f",
+          "6a6b02b3000000000f01fa14"
+        ],
+        "firstSeen": "2026-08-11",
+        "lastSeen": "2026-09-16",
+        "why": "该信号近7天仅3次、前23天14次，动量明确为fading，说明“高铁化妆vlog”相关内容热度已从前期较高讨论量明显回落，当前不再属于上升话题。",
+        "productImplication": "暂不建议围绕高铁化妆场景做单独产品功能或营销投放，可将资源转向仍上升或新出现的票务、服务类信号。",
+        "streakDays": 1
+      },
       {
         "key": "ev:温情__退伍老兵站务员站姿被指作秀",
         "theme": "退伍老兵站务员站姿被指作秀",
         "category": "event",
         "sourceEventId": "温情__退伍老兵站务员站姿被指作秀",
         "evidenceCount": 3,
-        "momentum": "new",
-        "momentumDelta": "近7天3 vs 前23天0",
+        "momentum": "rising",
+        "momentumDelta": "近7天3 vs 前23天1",
         "sampleNoteIds": [
+          "douyin:7681327645837069602",
           "douyin:7684169781552909619",
           "douyin:7683736026997425125",
           "douyin:7684482850758428837"
         ],
-        "firstSeen": "2026-09-16",
+        "firstSeen": "2026-09-04",
         "lastSeen": "2026-09-16",
-        "why": "该信号近7天出现3次、前23天为0，动量标记为new，说明“退伍老兵站务员站姿被指作秀”从无到有形成短时集中讨论，属于新冒出的舆情/内容看点，值得关注其是否会延展为铁路服务人员形象与真情服务边界的争议。",
-        "productImplication": "可先做轻量舆情监测与关键词归档，暂不建议直接转化为产品动作；若后续继续升温，再评估站车服务宣传口径、员工形象传播素材与用户UGC互动规则是否需要优化。",
+        "why": "该信号近7天3次、前23天1次，动量rising，说明近期争议度和传播频次同步提升，且涉及退伍老兵、站务员服务姿态与公众舆论评价，容易发酵为服务形象议题。",
+        "productImplication": "建议客运服务与舆情团队关注一线站务人员形象传播的边界，产品侧可暂不新增功能，但可在服务评价、员工培训内容中纳入舆情风险提示。",
+        "streakDays": 1
+      },
+      {
+        "key": "ev:票价__学生票",
+        "theme": "学生票",
+        "category": "event",
+        "sourceEventId": "票价__学生票",
+        "evidenceCount": 2,
+        "momentum": "rising",
+        "momentumDelta": "近7天2 vs 前23天1",
+        "sampleNoteIds": [
+          "douyin:7660090281208359142",
+          "douyin:7662776727291354843",
+          "douyin:7662688189282290979",
+          "douyin:7662693941006961970",
+          "douyin:7662674171683556642"
+        ],
+        "firstSeen": "2026-08-03",
+        "lastSeen": "2026-09-16",
+        "why": "该信号近7天2次、前23天1次，动量rising，虽然绝对计数仍低，但相较前23天已有增长，说明学生票相关咨询或讨论出现回暖。",
+        "productImplication": "可在12306学生票购买入口、资质核验、优惠区间说明等环节做轻量可用性复盘，但样本量小，暂不建议大规模改版。",
         "streakDays": 0
       },
       {
-        "key": "ev:设施__高铁化妆vlog",
-        "theme": "高铁化妆vlog",
+        "key": "ev:抢票__预约购票",
+        "theme": "预约购票",
         "category": "event",
-        "sourceEventId": "设施__高铁化妆vlog",
+        "sourceEventId": "抢票__预约购票",
         "evidenceCount": 1,
         "momentum": "fading",
-        "momentumDelta": "近7天1 vs 前23天4",
+        "momentumDelta": "近7天1 vs 前23天2",
         "sampleNoteIds": [
-          "6a8e82e3000000002003da06",
-          "6a8fd014000000002102cc39",
-          "6a8e79fc000000002a03c9d3",
-          "6a9eb0350000000028035592",
-          "6a9fc6b70000000027008418"
+          "6a5a087b000000000f02b4e8",
+          "douyin:7663407094243325322",
+          "douyin:7664402077921119523",
+          "douyin:7664561189573250304",
+          "douyin:7664453121204112678"
         ],
-        "firstSeen": "2026-09-02",
+        "firstSeen": "2026-08-03",
         "lastSeen": "2026-09-16",
-        "why": "该信号近7天1次、前23天4次，动量fading，说明“高铁化妆vlog”讨论度在下降，已从较高频内容转为低频出现，短期热度减弱。",
-        "productImplication": "暂不建议动作。化妆vlog与车厢设施、镜面/灯光/桌面空间等可能相关，但当前动量fading且样本很低，不足以支撑产品投入或功能改造。",
+        "why": "该信号近7天1次、前23天2次，动量fading，说明预约购票话题近期讨论下降，未形成持续升温的购票痛点。",
+        "productImplication": "暂不建议动作，可继续观察预约购票在节假日前的需求是否回升。",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:票价__儿童票购买方式",
+        "theme": "儿童票购买方式",
+        "category": "event",
+        "sourceEventId": "票价__儿童票购买方式",
+        "evidenceCount": 1,
+        "momentum": "new",
+        "momentumDelta": "近7天1 vs 前23天0",
+        "sampleNoteIds": [
+          "douyin:7666771405379301870",
+          "douyin:7664900728263028042",
+          "douyin:7671227324859305222",
+          "6aa51c64000000002700a0b9"
+        ],
+        "firstSeen": "2026-08-03",
+        "lastSeen": "2026-09-16",
+        "why": "该信号近7天1次、前23天0次，动量new，说明近期首次出现儿童票购买方式相关信号，虽计数很低，但属于新增关注点。",
+        "productImplication": "建议产品经理做小样本核查：儿童票购买入口、年龄/身高规则、线上办理提示是否清晰；在数据不足前暂不建议立项改造。",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:占座__高铁座位让座争议",
+        "theme": "高铁座位让座争议",
+        "category": "event",
+        "sourceEventId": "占座__高铁座位让座争议",
+        "evidenceCount": 1,
+        "momentum": "stable",
+        "momentumDelta": "近7天1 vs 前23天1",
+        "sampleNoteIds": [
+          "douyin:7664541883155365482",
+          "douyin:7670407851730807990",
+          "douyin:7680513788398882102",
+          "douyin:7684939706589717221"
+        ],
+        "firstSeen": "2026-08-03",
+        "lastSeen": "2026-09-16",
+        "why": "该信号近7天1次、前23天1次，动量stable，说明高铁座位让座争议仍以低频但持续的方式存在，未明显升温也未消失。",
+        "productImplication": "暂不建议单独开发让座或占座治理功能，可继续在座位纠纷客服话术、乘车规则提示中保持关注。",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:设施__瑞龙智行智能动车组",
+        "theme": "瑞龙智行智能动车组",
+        "category": "event",
+        "sourceEventId": "设施__瑞龙智行智能动车组",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "近7天1 vs 前23天2",
+        "sampleNoteIds": [
+          "douyin:7664786289106898286",
+          "douyin:7664110380135038963",
+          "douyin:7666789163924754342",
+          "douyin:7666428709310173531",
+          "douyin:7665162867288958106"
+        ],
+        "firstSeen": "2026-08-03",
+        "lastSeen": "2026-09-16",
+        "why": "该信号近7天1次、前23天2次，动量fading，说明瑞龙智行智能动车组相关讨论近期下降，当前不是高热设施话题。",
+        "productImplication": "暂不建议围绕该车型做独立产品动作，可将其作为设施标签数据继续沉淀，等待后续上新或集中传播时再评估。",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:温情__孕妇高铁产子",
+        "theme": "孕妇高铁产子",
+        "category": "event",
+        "sourceEventId": "温情__孕妇高铁产子",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "近7天1 vs 前23天2",
+        "sampleNoteIds": [
+          "6a6cdcbd00000000210227f9",
+          "6a9fe18c000000002900f61d",
+          "6a9fc430000000002502cadc",
+          "6aa0cc21000000002901107d"
+        ],
+        "firstSeen": "2026-08-11",
+        "lastSeen": "2026-09-16",
+        "why": "该信号近7天1次、前23天2次，动量fading，说明孕妇高铁产子这一温情应急事件近期讨论减少，未形成持续传播。",
+        "productImplication": "暂不建议做专门产品功能，但可保留在应急服务、重点旅客服务流程复盘范围内。",
+        "streakDays": 0
+      },
+      {
+        "key": "ev:票务新规__12306新增教师积分优惠",
+        "theme": "12306新增教师积分优惠",
+        "category": "event",
+        "sourceEventId": "票务新规__12306新增教师积分优惠",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "近7天1 vs 前23天11",
+        "sampleNoteIds": [
+          "6a8ea129000000002501b539",
+          "douyin:7678266167375784441",
+          "douyin:7678313917109505320",
+          "douyin:7678312765571878178",
+          "6a8e94600000000007007ef6"
+        ],
+        "firstSeen": "2026-08-27",
+        "lastSeen": "2026-09-16",
+        "why": "该信号近7天1次、前23天11次，动量fading，说明教师积分优惠从前23天的高讨论量快速回落，当前热度明显下降。",
+        "productImplication": "建议复盘该优惠上线初期的用户理解成本和兑换路径，但鉴于动量fading，暂不建议继续加大宣传或投入新开发。",
         "streakDays": 0
       },
       {
@@ -74957,321 +75315,132 @@
         ],
         "firstSeen": "2026-09-10",
         "lastSeen": "2026-09-16",
-        "why": "该信号近7天1次、前23天1次，动量stable，说明“候补车票购票时间”持续有零散关注，虽然不是爆发项，但属于购票链路中的稳定疑问点。",
-        "productImplication": "可考虑在候补购票相关帮助页或客服话术中，持续优化“候补兑现时间、购票时间预期、失败原因说明”的解释；但当前计数很低，不宜做重产品改动。",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:乘车提示__高铁坐过站免费返回",
-        "theme": "高铁坐过站免费返回",
-        "category": "event",
-        "sourceEventId": "乘车提示__高铁坐过站免费返回",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "近7天0 vs 前23天0",
-        "sampleNoteIds": [
-          "6a671b4c000000000301d591",
-          "6a5ec0a0000000001303c298",
-          "6a7c8dbf0000000024027408"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-09-10",
-        "why": "该信号近7天0次、前23天0次，动量stable，说明“高铁坐过站免费返回”在当前监测窗口内没有新增讨论，但作为乘车规则类信息仍可能是潜在知识盲区。",
-        "productImplication": "暂不建议动作。由于近7天和前23天均为0，数据不足，无法判断用户真实需求强度；可仅作为知识库备选条目，不做前端推荐或功能开发。",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:设施__凌晨提示语",
-        "theme": "凌晨提示语",
-        "category": "event",
-        "sourceEventId": "设施__凌晨提示语",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "近7天0 vs 前23天0",
-        "sampleNoteIds": [
-          "6a4b8429000000000802588e",
-          "6a4cc3310000000016027d4f",
-          "6a4dec1f00000000220083f6",
-          "douyin:7659727167131110671",
-          "douyin:7659680595002391945"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-09-10",
-        "why": "该信号近7天0次、前23天0次，动量stable，说明“凌晨提示语”在当前窗口内无可见讨论，暂不构成趋势信号。",
-        "productImplication": "暂不建议动作。缺少近7天与前23天计数支撑，无法判断是否与夜间乘车体验、广播打扰或静音车厢需求相关。",
+        "why": "该信号近7天1次、前23天1次，动量stable，说明候补车票购票时间问题持续被低频提及，是稳定存在的购票确定性需求。",
+        "productImplication": "可小范围评估候补预计兑现时间、截止时间、订单状态提醒是否足够清晰，但当前信号强度不足，暂不建议大改。",
         "streakDays": 1
       },
       {
-        "key": "ev:抢票__五一高铁抢票",
-        "theme": "五一高铁抢票",
-        "category": "event",
-        "sourceEventId": "抢票__五一高铁抢票",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "近7天0 vs 前23天0",
-        "sampleNoteIds": [
-          "6a601c69000000002201bd64"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-08-20",
-        "why": "该信号近7天0次、前23天0次，动量stable，说明“五一高铁抢票”在给定计数中未形成当前窗口内的讨论热度，可能受周期节点影响而非持续话题。",
-        "productImplication": "暂不建议动作。虽然五一抢票节点重要，但当前给定计数为0，不能据此推导当下产品优先级；若临近假期需另行监测实时数据再决策。",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:占座__老人要求换下铺",
-        "theme": "老人要求换下铺",
-        "category": "event",
-        "sourceEventId": "占座__老人要求换下铺",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "近7天0 vs 前23天0",
-        "sampleNoteIds": [
-          "6a5272c200000000210218c5",
-          "6a50e0fe0000000011006e0a",
-          "douyin:7666463403112599931"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-08-24",
-        "why": "该信号近7天0次、前23天0次，动量stable，说明“老人要求换下铺”在当前监测周期内没有新增讨论，暂未形成趋势。",
-        "productImplication": "暂不建议动作。数据不足，无法判断是否需要在选铺、换铺、重点旅客服务等环节做优化；可保留为潜在服务争议标签。",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:儿童票__14岁初中生买学生票",
-        "theme": "14岁初中生买学生票",
-        "category": "event",
-        "sourceEventId": "儿童票__14岁初中生买学生票",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "近7天0 vs 前23天0",
-        "sampleNoteIds": [
-          "6a5726af0000000008030398",
-          "6a574c27000000001101d37c",
-          "6a575b0e000000000f0297d0",
-          "6a584852000000002201b461",
-          "douyin:7662917700645063976"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-08-15",
-        "why": "该信号近7天0次、前23天0次，动量stable，说明“14岁初中生买学生票”在当前窗口内无新增讨论，但属于票务规则理解类潜在问题。",
-        "productImplication": "暂不建议动作。当前计数不足，产品侧不宜新增解释页面或购票拦截提示；可先归入票务规则知识库观察后续是否升温。",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:投诉__小孩踢座位",
-        "theme": "小孩踢座位",
-        "category": "event",
-        "sourceEventId": "投诉__小孩踢座位",
-        "evidenceCount": 0,
-        "momentum": "fading",
-        "momentumDelta": "近7天0 vs 前23天2",
-        "sampleNoteIds": [
-          "6a69f3fb000000000f009719",
-          "douyin:7668520570614582579",
-          "6a82b2530000000005020b5d",
-          "6a82d085000000003300a315"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-08-28",
-        "why": "该信号近7天0次、前23天2次，动量fading，说明“小孩踢座位”从前23天2次降至近7天0次，讨论热度回落，短期舆情压力减弱。",
-        "productImplication": "暂不建议动作。虽然车厢儿童行为与座位冲突值得长期关注，但当前动量fading且近7天为0，不宜基于此做专门产品响应。",
-        "streakDays": 0
-      },
-      {
-        "key": "ev:占座__李权哲",
-        "theme": "李权哲",
-        "category": "event",
-        "sourceEventId": "占座__李权哲",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "近7天0 vs 前23天0",
-        "sampleNoteIds": [
-          "6a66c924000000000f01fa5b",
-          "6a66da8c0000000010026917",
-          "6a6589d3000000000301e957",
-          "6a65ec68000000001101c81b",
-          "6a66a7ac00000000140078b0"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-08-28",
-        "why": "该信号近7天0次、前23天0次，动量stable，说明“李权哲”相关占座话题在当前窗口内没有新增讨论，暂不构成持续趋势。",
-        "productImplication": "暂不建议动作。数据不足，且事件可能强依赖具体人物舆情，无法沉淀为通用占座产品策略。",
-        "streakDays": 0
-      },
-      {
-        "key": "th:train_cabin_makeup",
-        "theme": "高铁车厢沉浸式美妆",
+        "key": "th:railway_rules_and_hacks",
+        "theme": "铁路票务规则与避坑",
         "category": "theme",
-        "evidenceCount": 3,
+        "evidenceCount": 6,
         "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天2",
+        "momentumDelta": "信号笔记 近7天2 vs 前23天4",
         "sampleNoteIds": [
-          "6a8b0bd800000000280237c7",
-          "6a9eb0350000000028035592",
-          "6a9fc6b70000000027008418"
+          "6a671b4c000000000301d591",
+          "6a92d935000000001e016e7d",
+          "6aa51c64000000002700a0b9",
+          "6a63321d000000001101b7d6",
+          "6a4dec1f00000000220083f6"
         ],
         "firstSeen": "2026-08-17",
         "lastSeen": "2026-09-16",
-        "why": "该信号主题为“高铁车厢沉浸式美妆”，近7天1次、前23天2次，动量fading，说明相关内容热度下降，仍有余温但不再增长。",
-        "productImplication": "暂不建议动作。当前样本低且呈下降趋势，不足以推动车厢美妆场景相关设施或内容运营；可继续观察是否与化妆vlog事件信号联动。",
+        "why": "该信号近7天2次、前23天4次，动量fading，说明铁路票务规则与避坑类笔记热度下降，用户对规则攻略的集中讨论减弱。",
+        "productImplication": "暂不建议新增攻略型产品模块，可继续观察节假日前后是否回升，再决定是否优化规则说明页。",
         "streakDays": 2
       },
       {
         "key": "th:cabin_noise_and_children",
         "theme": "车厢儿童噪音与静音博弈",
         "category": "theme",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天1",
         "sampleNoteIds": [
           "6a5f71ca000000002201b9b9",
           "6a6c632f000000003302f99d",
-          "6a67082a000000000f02af62"
+          "6a7bc96400000000250123c3",
+          "6a50823b000000001003d129",
+          "6a82d085000000003300a315"
         ],
         "firstSeen": "2026-08-17",
         "lastSeen": "2026-09-16",
-        "why": "该信号主题为“车厢儿童噪音与静音博弈”，近7天0次、前23天0次，动量stable，说明当前窗口内没有新增信号，讨论暂未活跃。",
-        "productImplication": "暂不建议动作。虽然儿童噪音是长期车厢体验议题，但给定计数为0，无法判断当前需求峰值，不宜据此启动静音车厢或投诉工具优化。",
-        "streakDays": 2
-      },
-      {
-        "key": "th:slow_train_nostalgia",
-        "theme": "绿皮车复古情怀与慢生活",
-        "category": "theme",
-        "evidenceCount": 2,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天1",
-        "sampleNoteIds": [
-          "6a633b5e000000001c00f8f8",
-          "douyin:7685624559269203200",
-          "6a92f1c000000000280040e7"
-        ],
-        "firstSeen": "2026-08-17",
-        "lastSeen": "2026-09-16",
-        "why": "该信号主题为“绿皮车复古情怀与慢生活”，近7天1次、前23天1次，动量stable，说明该内容有稳定但低量的关注，具备一定持续叙事价值。",
-        "productImplication": "可小范围观察其在文旅、慢旅行、怀旧营销中的可用性；但近7天1次、前23天1次，样本很低，暂不建议做重产品开发，仅可作为内容选题储备。",
+        "why": "该信号近7天0次、前23天1次，动量fading，说明车厢儿童噪音与静音博弈近期没有新增讨论，前23天也仅1次，整体热度很低。",
+        "productImplication": "暂不建议动作，静音车厢、亲子车厢等敏感功能需要更强信号支撑后再评估。",
         "streakDays": 2
       },
       {
         "key": "th:seat_space_boundary",
         "theme": "密闭空间座位边界与争议",
         "category": "theme",
-        "evidenceCount": 3,
+        "evidenceCount": 2,
         "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天2",
         "sampleNoteIds": [
           "6a8a676300000000140268e6",
-          "6a6589d3000000000301e957",
           "6a863a06000000002102266f",
-          "6a952d6500000000260342ad"
+          "6a6589d3000000000301e957",
+          "6a65ec68000000001101c81b",
+          "6a67082a000000000f02af62"
         ],
         "firstSeen": "2026-08-17",
         "lastSeen": "2026-09-16",
-        "why": "该信号主题为“密闭空间座位边界与争议”，近7天0次、前23天3次，动量fading，说明此前有一定讨论但近7天回落至0，热度明显下降。",
-        "productImplication": "暂不建议动作。虽然座位边界是车厢体验痛点，但当前动量fading且近7天为0，建议等待再次升温后再评估座椅设计、提示语或投诉入口优化。",
-        "streakDays": 2
-      },
-      {
-        "key": "th:railway_rules_and_hacks",
-        "theme": "铁路票务规则与避坑指南",
-        "category": "theme",
-        "evidenceCount": 4,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天2 vs 前23天2",
-        "sampleNoteIds": [
-          "6a63321d000000001101b7d6",
-          "6a4dec1f00000000220083f6",
-          "6a671b4c000000000301d591",
-          "6a92d935000000001e016e7d",
-          "6a74058600000000060071bd"
-        ],
-        "firstSeen": "2026-08-17",
-        "lastSeen": "2026-09-16",
-        "why": "该信号主题为“铁路票务规则与避坑指南”，近7天2次、前23天2次，动量stable，说明用户对规则解释和避坑内容有持续、稳定的低量需求。",
-        "productImplication": "可考虑持续优化票务规则知识库、购票提示和客服自动问答，把高频避坑点做成结构化解释；但当前计数不高，宜以内容维护为主，不宜做大规模新功能。",
+        "why": "该信号近7天0次、前23天2次，动量fading，说明密闭空间座位边界与争议话题近期无新增信号，且前期讨论量也较低。",
+        "productImplication": "暂不建议动作，可保留在乘车文明与纠纷处理观察清单中。",
         "streakDays": 2
       },
       {
         "key": "th:exquisite_train_lifestyle",
         "theme": "高铁精致生活与好物分享",
         "category": "theme",
-        "evidenceCount": 2,
+        "evidenceCount": 0,
         "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天1",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
         "sampleNoteIds": [
-          "6a803a56000000000503013d",
+          "6a801c5400000000050331d5",
           "6a60bd87000000000301db0a",
-          "douyin:7684506850770909786",
+          "6a5d8f8e000000000e037b4a",
           "6a5611690000000011015762",
-          "6a98c9e3000000002601466d"
+          "6a813d9c0000000026035984"
         ],
         "firstSeen": "2026-08-17",
         "lastSeen": "2026-09-16",
-        "why": "该信号主题为“高铁精致生活与好物分享”，近7天1次、前23天1次，动量stable，说明该内容保持低量稳定关注，适合作为生活方式类内容观察。",
-        "productImplication": "暂不建议动作。近7天1次、前23天1次，样本不足以支撑商业化或产品功能设计；可保留为内容合作、旅购推荐方向的轻量观察。",
-        "streakDays": 0
-      },
-      {
-        "key": "th:acg_ip_train_meme",
-        "theme": "二次元IP的高铁脑洞玩梗",
-        "category": "theme",
-        "evidenceCount": 3,
-        "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天2",
-        "sampleNoteIds": [
-          "6a88a2cb0000000025007cae",
-          "6a57b89d0000000021021836",
-          "6a929fb3000000002501184e",
-          "6aa3cd430000000028035db6"
-        ],
-        "firstSeen": "2026-08-19",
-        "lastSeen": "2026-09-16",
-        "why": "该信号主题为“二次元IP的高铁脑洞玩梗”，近7天1次、前23天2次，动量fading，说明相关玩梗内容热度下降，短期传播动能减弱。",
-        "productImplication": "暂不建议动作。虽然IP联动有营销想象空间，但当前动量fading且计数低，不足以支撑联名或车厢互动产品投入。",
-        "streakDays": 0
+        "why": "该信号近7天0次、前23天0次，动量stable，说明高铁精致生活与好物分享当前没有新增信号，热度处于低位平稳状态。",
+        "productImplication": "暂不建议动作，缺少新增数据支撑，不宜做生活方式类产品合作或内容运营。",
+        "streakDays": 1
       },
       {
         "key": "th:train_neighbor_blindbox",
         "theme": "高铁邻座盲盒与偶遇社交",
         "category": "theme",
-        "evidenceCount": 3,
+        "evidenceCount": 2,
         "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天2",
         "sampleNoteIds": [
-          "6a929fb3000000002501184e",
           "6a5ddd97000000000401e51b",
           "6a886a18000000003003f82b",
-          "6a9aac05000000001103098d"
+          "6a9aac05000000001103098d",
+          "6a795095000000002701cc5c",
+          "6a57b89d0000000021021836"
         ],
         "firstSeen": "2026-09-04",
         "lastSeen": "2026-09-16",
-        "why": "该信号主题为“高铁邻座盲盒与偶遇社交”，近7天0次、前23天3次，动量fading，说明此前有少量讨论但近7天归零，热度回落明显。",
-        "productImplication": "暂不建议动作。邻座社交涉及隐私、安全与匹配机制，且当前近7天0次、前23天3次，不足以支撑产品化尝试。",
-        "streakDays": 0
+        "why": "该信号近7天0次、前23天2次，动量fading，说明高铁邻座盲盒与偶遇社交近期无新增讨论，前期也仅2次，热度回落。",
+        "productImplication": "暂不建议动作，邻座社交类功能涉及隐私和匹配机制，当前信号不足，不建议推进。",
+        "streakDays": 1
       },
       {
-        "key": "th:train_time_killing_hacks",
-        "theme": "高铁旅途解闷与抽象整活",
+        "key": "th:railway_accessible_and_service",
+        "theme": "铁路无障碍与服务民生",
         "category": "theme",
-        "evidenceCount": 4,
-        "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天4",
+        "evidenceCount": 2,
+        "momentum": "stable",
+        "momentumDelta": "信号笔记 近7天1 vs 前23天1",
         "sampleNoteIds": [
-          "6a92a7a300000000070052e9",
-          "6a949126000000000502996c",
-          "6a9baa0e000000002603befe",
-          "6a5d8f8e000000000e037b4a",
-          "6a9aac05000000001103098d"
+          "6a7b34df000000002203141c",
+          "6a58e553000000000f014585",
+          "6a83166a0000000006005cd9",
+          "6a74278300000000280071c5",
+          "6aa0cc21000000002901107d"
         ],
-        "firstSeen": "2026-09-10",
+        "firstSeen": "2026-09-16",
         "lastSeen": "2026-09-16",
-        "why": "该信号主题为“高铁旅途解闷与抽象整活”，近7天0次、前23天4次，动量fading，说明该话题从前23天4次降至近7天0次，短期热度明显消退。",
-        "productImplication": "暂不建议动作。虽然旅途解闷有内容运营价值，但当前动量fading且近7天为0，暂不宜投入产品或活动资源，可等待下一次内容峰值再评估。",
-        "streakDays": 2
+        "why": "该信号近7天1次、前23天1次，动量stable，说明铁路无障碍与服务民生保持低频但持续被关注，属于稳定存在的服务议题。",
+        "productImplication": "建议持续关注重点旅客预约、无障碍进出站、辅助服务入口的可发现性，但当前计数较低，暂不建议大规模改版。",
+        "streakDays": 0
       }
     ],
-    "generatedAt": "2026-09-16 14:31:56",
+    "generatedAt": "2026-09-16 14:43:45",
     "history": [
       {
         "date": "2026-08-13",
@@ -79788,43 +79957,188 @@
         "date": "2026-09-16",
         "cards": [
           {
+            "key": "ev:设施__高铁化妆vlog",
+            "theme": "高铁化妆vlog",
+            "category": "event",
+            "sourceEventId": "设施__高铁化妆vlog",
+            "evidenceCount": 3,
+            "momentum": "fading",
+            "momentumDelta": "近7天3 vs 前23天14",
+            "sampleNoteIds": [
+              "6a5f4ce5000000000f01d66c",
+              "6a75de0d0000000033010db8",
+              "6a59a03c000000002201bd71",
+              "6a5d76fc000000000101c57f",
+              "6a6b02b3000000000f01fa14"
+            ],
+            "firstSeen": "2026-08-11",
+            "lastSeen": "2026-09-16",
+            "why": "该信号近7天仅3次、前23天14次，动量明确为fading，说明“高铁化妆vlog”相关内容热度已从前期较高讨论量明显回落，当前不再属于上升话题。",
+            "productImplication": "暂不建议围绕高铁化妆场景做单独产品功能或营销投放，可将资源转向仍上升或新出现的票务、服务类信号。",
+            "streakDays": 1
+          },
+          {
             "key": "ev:温情__退伍老兵站务员站姿被指作秀",
             "theme": "退伍老兵站务员站姿被指作秀",
             "category": "event",
             "sourceEventId": "温情__退伍老兵站务员站姿被指作秀",
             "evidenceCount": 3,
-            "momentum": "new",
-            "momentumDelta": "近7天3 vs 前23天0",
+            "momentum": "rising",
+            "momentumDelta": "近7天3 vs 前23天1",
             "sampleNoteIds": [
+              "douyin:7681327645837069602",
               "douyin:7684169781552909619",
               "douyin:7683736026997425125",
               "douyin:7684482850758428837"
             ],
-            "firstSeen": "2026-09-16",
+            "firstSeen": "2026-09-04",
             "lastSeen": "2026-09-16",
-            "why": "该信号近7天出现3次、前23天为0，动量标记为new，说明“退伍老兵站务员站姿被指作秀”从无到有形成短时集中讨论，属于新冒出的舆情/内容看点，值得关注其是否会延展为铁路服务人员形象与真情服务边界的争议。",
-            "productImplication": "可先做轻量舆情监测与关键词归档，暂不建议直接转化为产品动作；若后续继续升温，再评估站车服务宣传口径、员工形象传播素材与用户UGC互动规则是否需要优化。",
+            "why": "该信号近7天3次、前23天1次，动量rising，说明近期争议度和传播频次同步提升，且涉及退伍老兵、站务员服务姿态与公众舆论评价，容易发酵为服务形象议题。",
+            "productImplication": "建议客运服务与舆情团队关注一线站务人员形象传播的边界，产品侧可暂不新增功能，但可在服务评价、员工培训内容中纳入舆情风险提示。",
+            "streakDays": 1
+          },
+          {
+            "key": "ev:票价__学生票",
+            "theme": "学生票",
+            "category": "event",
+            "sourceEventId": "票价__学生票",
+            "evidenceCount": 2,
+            "momentum": "rising",
+            "momentumDelta": "近7天2 vs 前23天1",
+            "sampleNoteIds": [
+              "douyin:7660090281208359142",
+              "douyin:7662776727291354843",
+              "douyin:7662688189282290979",
+              "douyin:7662693941006961970",
+              "douyin:7662674171683556642"
+            ],
+            "firstSeen": "2026-08-03",
+            "lastSeen": "2026-09-16",
+            "why": "该信号近7天2次、前23天1次，动量rising，虽然绝对计数仍低，但相较前23天已有增长，说明学生票相关咨询或讨论出现回暖。",
+            "productImplication": "可在12306学生票购买入口、资质核验、优惠区间说明等环节做轻量可用性复盘，但样本量小，暂不建议大规模改版。",
             "streakDays": 0
           },
           {
-            "key": "ev:设施__高铁化妆vlog",
-            "theme": "高铁化妆vlog",
+            "key": "ev:抢票__预约购票",
+            "theme": "预约购票",
             "category": "event",
-            "sourceEventId": "设施__高铁化妆vlog",
+            "sourceEventId": "抢票__预约购票",
             "evidenceCount": 1,
             "momentum": "fading",
-            "momentumDelta": "近7天1 vs 前23天4",
+            "momentumDelta": "近7天1 vs 前23天2",
             "sampleNoteIds": [
-              "6a8e82e3000000002003da06",
-              "6a8fd014000000002102cc39",
-              "6a8e79fc000000002a03c9d3",
-              "6a9eb0350000000028035592",
-              "6a9fc6b70000000027008418"
+              "6a5a087b000000000f02b4e8",
+              "douyin:7663407094243325322",
+              "douyin:7664402077921119523",
+              "douyin:7664561189573250304",
+              "douyin:7664453121204112678"
             ],
-            "firstSeen": "2026-09-02",
+            "firstSeen": "2026-08-03",
             "lastSeen": "2026-09-16",
-            "why": "该信号近7天1次、前23天4次，动量fading，说明“高铁化妆vlog”讨论度在下降，已从较高频内容转为低频出现，短期热度减弱。",
-            "productImplication": "暂不建议动作。化妆vlog与车厢设施、镜面/灯光/桌面空间等可能相关，但当前动量fading且样本很低，不足以支撑产品投入或功能改造。",
+            "why": "该信号近7天1次、前23天2次，动量fading，说明预约购票话题近期讨论下降，未形成持续升温的购票痛点。",
+            "productImplication": "暂不建议动作，可继续观察预约购票在节假日前的需求是否回升。",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:票价__儿童票购买方式",
+            "theme": "儿童票购买方式",
+            "category": "event",
+            "sourceEventId": "票价__儿童票购买方式",
+            "evidenceCount": 1,
+            "momentum": "new",
+            "momentumDelta": "近7天1 vs 前23天0",
+            "sampleNoteIds": [
+              "douyin:7666771405379301870",
+              "douyin:7664900728263028042",
+              "douyin:7671227324859305222",
+              "6aa51c64000000002700a0b9"
+            ],
+            "firstSeen": "2026-08-03",
+            "lastSeen": "2026-09-16",
+            "why": "该信号近7天1次、前23天0次，动量new，说明近期首次出现儿童票购买方式相关信号，虽计数很低，但属于新增关注点。",
+            "productImplication": "建议产品经理做小样本核查：儿童票购买入口、年龄/身高规则、线上办理提示是否清晰；在数据不足前暂不建议立项改造。",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:占座__高铁座位让座争议",
+            "theme": "高铁座位让座争议",
+            "category": "event",
+            "sourceEventId": "占座__高铁座位让座争议",
+            "evidenceCount": 1,
+            "momentum": "stable",
+            "momentumDelta": "近7天1 vs 前23天1",
+            "sampleNoteIds": [
+              "douyin:7664541883155365482",
+              "douyin:7670407851730807990",
+              "douyin:7680513788398882102",
+              "douyin:7684939706589717221"
+            ],
+            "firstSeen": "2026-08-03",
+            "lastSeen": "2026-09-16",
+            "why": "该信号近7天1次、前23天1次，动量stable，说明高铁座位让座争议仍以低频但持续的方式存在，未明显升温也未消失。",
+            "productImplication": "暂不建议单独开发让座或占座治理功能，可继续在座位纠纷客服话术、乘车规则提示中保持关注。",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:设施__瑞龙智行智能动车组",
+            "theme": "瑞龙智行智能动车组",
+            "category": "event",
+            "sourceEventId": "设施__瑞龙智行智能动车组",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "近7天1 vs 前23天2",
+            "sampleNoteIds": [
+              "douyin:7664786289106898286",
+              "douyin:7664110380135038963",
+              "douyin:7666789163924754342",
+              "douyin:7666428709310173531",
+              "douyin:7665162867288958106"
+            ],
+            "firstSeen": "2026-08-03",
+            "lastSeen": "2026-09-16",
+            "why": "该信号近7天1次、前23天2次，动量fading，说明瑞龙智行智能动车组相关讨论近期下降，当前不是高热设施话题。",
+            "productImplication": "暂不建议围绕该车型做独立产品动作，可将其作为设施标签数据继续沉淀，等待后续上新或集中传播时再评估。",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:温情__孕妇高铁产子",
+            "theme": "孕妇高铁产子",
+            "category": "event",
+            "sourceEventId": "温情__孕妇高铁产子",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "近7天1 vs 前23天2",
+            "sampleNoteIds": [
+              "6a6cdcbd00000000210227f9",
+              "6a9fe18c000000002900f61d",
+              "6a9fc430000000002502cadc",
+              "6aa0cc21000000002901107d"
+            ],
+            "firstSeen": "2026-08-11",
+            "lastSeen": "2026-09-16",
+            "why": "该信号近7天1次、前23天2次，动量fading，说明孕妇高铁产子这一温情应急事件近期讨论减少，未形成持续传播。",
+            "productImplication": "暂不建议做专门产品功能，但可保留在应急服务、重点旅客服务流程复盘范围内。",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:票务新规__12306新增教师积分优惠",
+            "theme": "12306新增教师积分优惠",
+            "category": "event",
+            "sourceEventId": "票务新规__12306新增教师积分优惠",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "近7天1 vs 前23天11",
+            "sampleNoteIds": [
+              "6a8ea129000000002501b539",
+              "douyin:7678266167375784441",
+              "douyin:7678313917109505320",
+              "douyin:7678312765571878178",
+              "6a8e94600000000007007ef6"
+            ],
+            "firstSeen": "2026-08-27",
+            "lastSeen": "2026-09-16",
+            "why": "该信号近7天1次、前23天11次，动量fading，说明教师积分优惠从前23天的高讨论量快速回落，当前热度明显下降。",
+            "productImplication": "建议复盘该优惠上线初期的用户理解成本和兑换路径，但鉴于动量fading，暂不建议继续加大宣传或投入新开发。",
             "streakDays": 0
           },
           {
@@ -79841,318 +80155,129 @@
             ],
             "firstSeen": "2026-09-10",
             "lastSeen": "2026-09-16",
-            "why": "该信号近7天1次、前23天1次，动量stable，说明“候补车票购票时间”持续有零散关注，虽然不是爆发项，但属于购票链路中的稳定疑问点。",
-            "productImplication": "可考虑在候补购票相关帮助页或客服话术中，持续优化“候补兑现时间、购票时间预期、失败原因说明”的解释；但当前计数很低，不宜做重产品改动。",
-            "streakDays": 0
-          },
-          {
-            "key": "ev:乘车提示__高铁坐过站免费返回",
-            "theme": "高铁坐过站免费返回",
-            "category": "event",
-            "sourceEventId": "乘车提示__高铁坐过站免费返回",
-            "evidenceCount": 0,
-            "momentum": "stable",
-            "momentumDelta": "近7天0 vs 前23天0",
-            "sampleNoteIds": [
-              "6a671b4c000000000301d591",
-              "6a5ec0a0000000001303c298",
-              "6a7c8dbf0000000024027408"
-            ],
-            "firstSeen": "2026-08-03",
-            "lastSeen": "2026-09-10",
-            "why": "该信号近7天0次、前23天0次，动量stable，说明“高铁坐过站免费返回”在当前监测窗口内没有新增讨论，但作为乘车规则类信息仍可能是潜在知识盲区。",
-            "productImplication": "暂不建议动作。由于近7天和前23天均为0，数据不足，无法判断用户真实需求强度；可仅作为知识库备选条目，不做前端推荐或功能开发。",
-            "streakDays": 0
-          },
-          {
-            "key": "ev:设施__凌晨提示语",
-            "theme": "凌晨提示语",
-            "category": "event",
-            "sourceEventId": "设施__凌晨提示语",
-            "evidenceCount": 0,
-            "momentum": "stable",
-            "momentumDelta": "近7天0 vs 前23天0",
-            "sampleNoteIds": [
-              "6a4b8429000000000802588e",
-              "6a4cc3310000000016027d4f",
-              "6a4dec1f00000000220083f6",
-              "douyin:7659727167131110671",
-              "douyin:7659680595002391945"
-            ],
-            "firstSeen": "2026-08-03",
-            "lastSeen": "2026-09-10",
-            "why": "该信号近7天0次、前23天0次，动量stable，说明“凌晨提示语”在当前窗口内无可见讨论，暂不构成趋势信号。",
-            "productImplication": "暂不建议动作。缺少近7天与前23天计数支撑，无法判断是否与夜间乘车体验、广播打扰或静音车厢需求相关。",
+            "why": "该信号近7天1次、前23天1次，动量stable，说明候补车票购票时间问题持续被低频提及，是稳定存在的购票确定性需求。",
+            "productImplication": "可小范围评估候补预计兑现时间、截止时间、订单状态提醒是否足够清晰，但当前信号强度不足，暂不建议大改。",
             "streakDays": 1
           },
           {
-            "key": "ev:抢票__五一高铁抢票",
-            "theme": "五一高铁抢票",
-            "category": "event",
-            "sourceEventId": "抢票__五一高铁抢票",
-            "evidenceCount": 0,
-            "momentum": "stable",
-            "momentumDelta": "近7天0 vs 前23天0",
-            "sampleNoteIds": [
-              "6a601c69000000002201bd64"
-            ],
-            "firstSeen": "2026-08-03",
-            "lastSeen": "2026-08-20",
-            "why": "该信号近7天0次、前23天0次，动量stable，说明“五一高铁抢票”在给定计数中未形成当前窗口内的讨论热度，可能受周期节点影响而非持续话题。",
-            "productImplication": "暂不建议动作。虽然五一抢票节点重要，但当前给定计数为0，不能据此推导当下产品优先级；若临近假期需另行监测实时数据再决策。",
-            "streakDays": 0
-          },
-          {
-            "key": "ev:占座__老人要求换下铺",
-            "theme": "老人要求换下铺",
-            "category": "event",
-            "sourceEventId": "占座__老人要求换下铺",
-            "evidenceCount": 0,
-            "momentum": "stable",
-            "momentumDelta": "近7天0 vs 前23天0",
-            "sampleNoteIds": [
-              "6a5272c200000000210218c5",
-              "6a50e0fe0000000011006e0a",
-              "douyin:7666463403112599931"
-            ],
-            "firstSeen": "2026-08-03",
-            "lastSeen": "2026-08-24",
-            "why": "该信号近7天0次、前23天0次，动量stable，说明“老人要求换下铺”在当前监测周期内没有新增讨论，暂未形成趋势。",
-            "productImplication": "暂不建议动作。数据不足，无法判断是否需要在选铺、换铺、重点旅客服务等环节做优化；可保留为潜在服务争议标签。",
-            "streakDays": 0
-          },
-          {
-            "key": "ev:儿童票__14岁初中生买学生票",
-            "theme": "14岁初中生买学生票",
-            "category": "event",
-            "sourceEventId": "儿童票__14岁初中生买学生票",
-            "evidenceCount": 0,
-            "momentum": "stable",
-            "momentumDelta": "近7天0 vs 前23天0",
-            "sampleNoteIds": [
-              "6a5726af0000000008030398",
-              "6a574c27000000001101d37c",
-              "6a575b0e000000000f0297d0",
-              "6a584852000000002201b461",
-              "douyin:7662917700645063976"
-            ],
-            "firstSeen": "2026-08-03",
-            "lastSeen": "2026-08-15",
-            "why": "该信号近7天0次、前23天0次，动量stable，说明“14岁初中生买学生票”在当前窗口内无新增讨论，但属于票务规则理解类潜在问题。",
-            "productImplication": "暂不建议动作。当前计数不足，产品侧不宜新增解释页面或购票拦截提示；可先归入票务规则知识库观察后续是否升温。",
-            "streakDays": 0
-          },
-          {
-            "key": "ev:投诉__小孩踢座位",
-            "theme": "小孩踢座位",
-            "category": "event",
-            "sourceEventId": "投诉__小孩踢座位",
-            "evidenceCount": 0,
-            "momentum": "fading",
-            "momentumDelta": "近7天0 vs 前23天2",
-            "sampleNoteIds": [
-              "6a69f3fb000000000f009719",
-              "douyin:7668520570614582579",
-              "6a82b2530000000005020b5d",
-              "6a82d085000000003300a315"
-            ],
-            "firstSeen": "2026-08-03",
-            "lastSeen": "2026-08-28",
-            "why": "该信号近7天0次、前23天2次，动量fading，说明“小孩踢座位”从前23天2次降至近7天0次，讨论热度回落，短期舆情压力减弱。",
-            "productImplication": "暂不建议动作。虽然车厢儿童行为与座位冲突值得长期关注，但当前动量fading且近7天为0，不宜基于此做专门产品响应。",
-            "streakDays": 0
-          },
-          {
-            "key": "ev:占座__李权哲",
-            "theme": "李权哲",
-            "category": "event",
-            "sourceEventId": "占座__李权哲",
-            "evidenceCount": 0,
-            "momentum": "stable",
-            "momentumDelta": "近7天0 vs 前23天0",
-            "sampleNoteIds": [
-              "6a66c924000000000f01fa5b",
-              "6a66da8c0000000010026917",
-              "6a6589d3000000000301e957",
-              "6a65ec68000000001101c81b",
-              "6a66a7ac00000000140078b0"
-            ],
-            "firstSeen": "2026-08-03",
-            "lastSeen": "2026-08-28",
-            "why": "该信号近7天0次、前23天0次，动量stable，说明“李权哲”相关占座话题在当前窗口内没有新增讨论，暂不构成持续趋势。",
-            "productImplication": "暂不建议动作。数据不足，且事件可能强依赖具体人物舆情，无法沉淀为通用占座产品策略。",
-            "streakDays": 0
-          },
-          {
-            "key": "th:train_cabin_makeup",
-            "theme": "高铁车厢沉浸式美妆",
+            "key": "th:railway_rules_and_hacks",
+            "theme": "铁路票务规则与避坑",
             "category": "theme",
-            "evidenceCount": 3,
+            "evidenceCount": 6,
             "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天1 vs 前23天2",
+            "momentumDelta": "信号笔记 近7天2 vs 前23天4",
             "sampleNoteIds": [
-              "6a8b0bd800000000280237c7",
-              "6a9eb0350000000028035592",
-              "6a9fc6b70000000027008418"
+              "6a671b4c000000000301d591",
+              "6a92d935000000001e016e7d",
+              "6aa51c64000000002700a0b9",
+              "6a63321d000000001101b7d6",
+              "6a4dec1f00000000220083f6"
             ],
             "firstSeen": "2026-08-17",
             "lastSeen": "2026-09-16",
-            "why": "该信号主题为“高铁车厢沉浸式美妆”，近7天1次、前23天2次，动量fading，说明相关内容热度下降，仍有余温但不再增长。",
-            "productImplication": "暂不建议动作。当前样本低且呈下降趋势，不足以推动车厢美妆场景相关设施或内容运营；可继续观察是否与化妆vlog事件信号联动。",
+            "why": "该信号近7天2次、前23天4次，动量fading，说明铁路票务规则与避坑类笔记热度下降，用户对规则攻略的集中讨论减弱。",
+            "productImplication": "暂不建议新增攻略型产品模块，可继续观察节假日前后是否回升，再决定是否优化规则说明页。",
             "streakDays": 2
           },
           {
             "key": "th:cabin_noise_and_children",
             "theme": "车厢儿童噪音与静音博弈",
             "category": "theme",
-            "evidenceCount": 0,
-            "momentum": "stable",
-            "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天1",
             "sampleNoteIds": [
               "6a5f71ca000000002201b9b9",
               "6a6c632f000000003302f99d",
-              "6a67082a000000000f02af62"
+              "6a7bc96400000000250123c3",
+              "6a50823b000000001003d129",
+              "6a82d085000000003300a315"
             ],
             "firstSeen": "2026-08-17",
             "lastSeen": "2026-09-16",
-            "why": "该信号主题为“车厢儿童噪音与静音博弈”，近7天0次、前23天0次，动量stable，说明当前窗口内没有新增信号，讨论暂未活跃。",
-            "productImplication": "暂不建议动作。虽然儿童噪音是长期车厢体验议题，但给定计数为0，无法判断当前需求峰值，不宜据此启动静音车厢或投诉工具优化。",
-            "streakDays": 2
-          },
-          {
-            "key": "th:slow_train_nostalgia",
-            "theme": "绿皮车复古情怀与慢生活",
-            "category": "theme",
-            "evidenceCount": 2,
-            "momentum": "stable",
-            "momentumDelta": "信号笔记 近7天1 vs 前23天1",
-            "sampleNoteIds": [
-              "6a633b5e000000001c00f8f8",
-              "douyin:7685624559269203200",
-              "6a92f1c000000000280040e7"
-            ],
-            "firstSeen": "2026-08-17",
-            "lastSeen": "2026-09-16",
-            "why": "该信号主题为“绿皮车复古情怀与慢生活”，近7天1次、前23天1次，动量stable，说明该内容有稳定但低量的关注，具备一定持续叙事价值。",
-            "productImplication": "可小范围观察其在文旅、慢旅行、怀旧营销中的可用性；但近7天1次、前23天1次，样本很低，暂不建议做重产品开发，仅可作为内容选题储备。",
+            "why": "该信号近7天0次、前23天1次，动量fading，说明车厢儿童噪音与静音博弈近期没有新增讨论，前23天也仅1次，整体热度很低。",
+            "productImplication": "暂不建议动作，静音车厢、亲子车厢等敏感功能需要更强信号支撑后再评估。",
             "streakDays": 2
           },
           {
             "key": "th:seat_space_boundary",
             "theme": "密闭空间座位边界与争议",
             "category": "theme",
-            "evidenceCount": 3,
+            "evidenceCount": 2,
             "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天2",
             "sampleNoteIds": [
               "6a8a676300000000140268e6",
-              "6a6589d3000000000301e957",
               "6a863a06000000002102266f",
-              "6a952d6500000000260342ad"
+              "6a6589d3000000000301e957",
+              "6a65ec68000000001101c81b",
+              "6a67082a000000000f02af62"
             ],
             "firstSeen": "2026-08-17",
             "lastSeen": "2026-09-16",
-            "why": "该信号主题为“密闭空间座位边界与争议”，近7天0次、前23天3次，动量fading，说明此前有一定讨论但近7天回落至0，热度明显下降。",
-            "productImplication": "暂不建议动作。虽然座位边界是车厢体验痛点，但当前动量fading且近7天为0，建议等待再次升温后再评估座椅设计、提示语或投诉入口优化。",
-            "streakDays": 2
-          },
-          {
-            "key": "th:railway_rules_and_hacks",
-            "theme": "铁路票务规则与避坑指南",
-            "category": "theme",
-            "evidenceCount": 4,
-            "momentum": "stable",
-            "momentumDelta": "信号笔记 近7天2 vs 前23天2",
-            "sampleNoteIds": [
-              "6a63321d000000001101b7d6",
-              "6a4dec1f00000000220083f6",
-              "6a671b4c000000000301d591",
-              "6a92d935000000001e016e7d",
-              "6a74058600000000060071bd"
-            ],
-            "firstSeen": "2026-08-17",
-            "lastSeen": "2026-09-16",
-            "why": "该信号主题为“铁路票务规则与避坑指南”，近7天2次、前23天2次，动量stable，说明用户对规则解释和避坑内容有持续、稳定的低量需求。",
-            "productImplication": "可考虑持续优化票务规则知识库、购票提示和客服自动问答，把高频避坑点做成结构化解释；但当前计数不高，宜以内容维护为主，不宜做大规模新功能。",
+            "why": "该信号近7天0次、前23天2次，动量fading，说明密闭空间座位边界与争议话题近期无新增信号，且前期讨论量也较低。",
+            "productImplication": "暂不建议动作，可保留在乘车文明与纠纷处理观察清单中。",
             "streakDays": 2
           },
           {
             "key": "th:exquisite_train_lifestyle",
             "theme": "高铁精致生活与好物分享",
             "category": "theme",
-            "evidenceCount": 2,
+            "evidenceCount": 0,
             "momentum": "stable",
-            "momentumDelta": "信号笔记 近7天1 vs 前23天1",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天0",
             "sampleNoteIds": [
-              "6a803a56000000000503013d",
+              "6a801c5400000000050331d5",
               "6a60bd87000000000301db0a",
-              "douyin:7684506850770909786",
+              "6a5d8f8e000000000e037b4a",
               "6a5611690000000011015762",
-              "6a98c9e3000000002601466d"
+              "6a813d9c0000000026035984"
             ],
             "firstSeen": "2026-08-17",
             "lastSeen": "2026-09-16",
-            "why": "该信号主题为“高铁精致生活与好物分享”，近7天1次、前23天1次，动量stable，说明该内容保持低量稳定关注，适合作为生活方式类内容观察。",
-            "productImplication": "暂不建议动作。近7天1次、前23天1次，样本不足以支撑商业化或产品功能设计；可保留为内容合作、旅购推荐方向的轻量观察。",
-            "streakDays": 0
-          },
-          {
-            "key": "th:acg_ip_train_meme",
-            "theme": "二次元IP的高铁脑洞玩梗",
-            "category": "theme",
-            "evidenceCount": 3,
-            "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天1 vs 前23天2",
-            "sampleNoteIds": [
-              "6a88a2cb0000000025007cae",
-              "6a57b89d0000000021021836",
-              "6a929fb3000000002501184e",
-              "6aa3cd430000000028035db6"
-            ],
-            "firstSeen": "2026-08-19",
-            "lastSeen": "2026-09-16",
-            "why": "该信号主题为“二次元IP的高铁脑洞玩梗”，近7天1次、前23天2次，动量fading，说明相关玩梗内容热度下降，短期传播动能减弱。",
-            "productImplication": "暂不建议动作。虽然IP联动有营销想象空间，但当前动量fading且计数低，不足以支撑联名或车厢互动产品投入。",
-            "streakDays": 0
+            "why": "该信号近7天0次、前23天0次，动量stable，说明高铁精致生活与好物分享当前没有新增信号，热度处于低位平稳状态。",
+            "productImplication": "暂不建议动作，缺少新增数据支撑，不宜做生活方式类产品合作或内容运营。",
+            "streakDays": 1
           },
           {
             "key": "th:train_neighbor_blindbox",
             "theme": "高铁邻座盲盒与偶遇社交",
             "category": "theme",
-            "evidenceCount": 3,
+            "evidenceCount": 2,
             "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天2",
             "sampleNoteIds": [
-              "6a929fb3000000002501184e",
               "6a5ddd97000000000401e51b",
               "6a886a18000000003003f82b",
-              "6a9aac05000000001103098d"
+              "6a9aac05000000001103098d",
+              "6a795095000000002701cc5c",
+              "6a57b89d0000000021021836"
             ],
             "firstSeen": "2026-09-04",
             "lastSeen": "2026-09-16",
-            "why": "该信号主题为“高铁邻座盲盒与偶遇社交”，近7天0次、前23天3次，动量fading，说明此前有少量讨论但近7天归零，热度回落明显。",
-            "productImplication": "暂不建议动作。邻座社交涉及隐私、安全与匹配机制，且当前近7天0次、前23天3次，不足以支撑产品化尝试。",
-            "streakDays": 0
+            "why": "该信号近7天0次、前23天2次，动量fading，说明高铁邻座盲盒与偶遇社交近期无新增讨论，前期也仅2次，热度回落。",
+            "productImplication": "暂不建议动作，邻座社交类功能涉及隐私和匹配机制，当前信号不足，不建议推进。",
+            "streakDays": 1
           },
           {
-            "key": "th:train_time_killing_hacks",
-            "theme": "高铁旅途解闷与抽象整活",
+            "key": "th:railway_accessible_and_service",
+            "theme": "铁路无障碍与服务民生",
             "category": "theme",
-            "evidenceCount": 4,
-            "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天0 vs 前23天4",
+            "evidenceCount": 2,
+            "momentum": "stable",
+            "momentumDelta": "信号笔记 近7天1 vs 前23天1",
             "sampleNoteIds": [
-              "6a92a7a300000000070052e9",
-              "6a949126000000000502996c",
-              "6a9baa0e000000002603befe",
-              "6a5d8f8e000000000e037b4a",
-              "6a9aac05000000001103098d"
+              "6a7b34df000000002203141c",
+              "6a58e553000000000f014585",
+              "6a83166a0000000006005cd9",
+              "6a74278300000000280071c5",
+              "6aa0cc21000000002901107d"
             ],
-            "firstSeen": "2026-09-10",
+            "firstSeen": "2026-09-16",
             "lastSeen": "2026-09-16",
-            "why": "该信号主题为“高铁旅途解闷与抽象整活”，近7天0次、前23天4次，动量fading，说明该话题从前23天4次降至近7天0次，短期热度明显消退。",
-            "productImplication": "暂不建议动作。虽然旅途解闷有内容运营价值，但当前动量fading且近7天为0，暂不宜投入产品或活动资源，可等待下一次内容峰值再评估。",
-            "streakDays": 2
+            "why": "该信号近7天1次、前23天1次，动量stable，说明铁路无障碍与服务民生保持低频但持续被关注，属于稳定存在的服务议题。",
+            "productImplication": "建议持续关注重点旅客预约、无障碍进出站、辅助服务入口的可发现性，但当前计数较低，暂不建议大规模改版。",
+            "streakDays": 0
           }
         ]
       }
@@ -80176,15 +80301,15 @@
       "cabin_noise_and_children": {
         "firstSeen": "2026-08-17",
         "theme": "车厢儿童噪音与静音博弈",
-        "description": "高铁上儿童吵闹、熊孩子冲突及家长态度引发的争议内容，常以吐槽、剧情演绎或新闻形式出现，聚焦公共空间秩序与素质讨论。",
+        "description": "熊孩子踹椅、喧哗、静音车厢争议、宝妈带娃困境等车厢噪音冲突，以及乘客与家长之间的素质争论。",
         "lastSeen": "2026-09-16",
-        "heat": 0,
+        "heat": 1,
         "relations": [
           {
             "toThemeKey": "seat_space_boundary",
             "toThemeName": "密闭空间座位边界与争议",
-            "desc": "噪音烦躁易激化对邻座空间越界的敏感度，催生发疯文学式维权。",
-            "implication": "订单页增加静音免打扰标签偏好，提供一键呼叫乘务员介入快捷通道。"
+            "desc": "孩子踹前排椅背同时侵犯座位边界与安静需求，两类抱怨常在同一帖发酵。",
+            "implication": "座位投诉入口可合并噪音维度，一次性收集出行体验数据。"
           }
         ]
       },
@@ -80206,45 +80331,45 @@
       "seat_space_boundary": {
         "firstSeen": "2026-08-17",
         "theme": "密闭空间座位边界与争议",
-        "description": "围绕高铁/火车上占座、行李占位、零食占座、艺人占座等空间边界冲突展开，涉及乘客权益、12306回应及社会热点讨论。",
+        "description": "零食占座、艺人占座、喧哗叫嚣、脱鞋踩椅等座位与公共空间边界冲突事件及官方回应。",
         "lastSeen": "2026-09-16",
-        "heat": 3,
+        "heat": 2,
         "relations": [
           {
-            "toThemeKey": "railway_rules_and_hacks",
-            "toThemeName": "铁路票务规则与避坑指南",
-            "desc": "占座争议常引发用户搜索票务规则与维权方式，推动避坑内容传播",
-            "implication": "可在争议内容旁挂载票务规则解读入口，承接用户求知"
+            "toThemeKey": "exquisite_train_lifestyle",
+            "toThemeName": "高铁精致生活与好物分享",
+            "desc": "网传精致女生占座行为被曝光，精致人设与不文明行为形成反差骂战。",
+            "implication": "可做文明行为正向标签，引导精致分享与规则教育结合。"
           }
         ]
       },
       "exquisite_train_lifestyle": {
         "firstSeen": "2026-08-17",
         "theme": "高铁精致生活与好物分享",
-        "description": "展示高铁上的精致生活方式，包括订外卖、吃西瓜刨冰、泡面、零食吃播、喝碳酸饮料等，把旅途变成美食与好物体验场。",
+        "description": "高铁上美妆、吃播、订外卖、翻包、巨大面条等展示车厢精致生活与好物、零食的内容。",
         "lastSeen": "2026-09-16",
-        "heat": 2,
+        "heat": 0,
         "relations": [
           {
-            "toThemeKey": "train_cabin_makeup",
-            "toThemeName": "高铁车厢沉浸式美妆",
-            "desc": "美食与美妆内容共同塑造车厢精致感，用户会连续消费同类Vlog",
-            "implication": "可打包美妆+美食车厢内容，形成精致旅程内容专题"
+            "toThemeKey": "railway_rules_and_hacks",
+            "toThemeName": "铁路票务规则与避坑",
+            "desc": "高铁订外卖、隐藏福利等攻略型内容常借精致生活场景安利。",
+            "implication": "外卖/餐饮入口可挂靠在生活分享场景上做转化。"
           }
         ]
       },
       "railway_rules_and_hacks": {
         "firstSeen": "2026-08-17",
-        "theme": "铁路票务规则与避坑指南",
-        "description": "围绕12306隐藏功能、儿童票购买、坐过站免费返程、高铁安检物品限制、中秋预售等票务规则与出行避坑内容，强调信息差和省钱攻略。",
+        "theme": "铁路票务规则与避坑",
+        "description": "围绕12306隐藏功能、坐过站免费返程、儿童票购买、中秋抢票、行李焦虑等票务规则与出行知识展开的科普与避坑分享。",
         "lastSeen": "2026-09-16",
-        "heat": 4,
+        "heat": 6,
         "relations": [
           {
             "toThemeKey": "train_time_killing_hacks",
-            "toThemeName": "高铁旅途解闷与抽象整活",
-            "desc": "规则攻略帮助用户解决出行焦虑后，更愿意尝试车上的解闷玩法",
-            "implication": "攻略内容可链接受众的解闷需求，做场景化推荐"
+            "toThemeName": "高铁旅途解闷与整活",
+            "desc": "出行攻略类内容常被当作旅途消遣素材提前刷，反过来用户在车上又靠短视频查攻略。",
+            "implication": "可在解闷内容中嵌入票务攻略卡片，行程中即时触达。"
           }
         ]
       },
@@ -80266,15 +80391,15 @@
       "train_neighbor_blindbox": {
         "firstSeen": "2026-09-04",
         "theme": "高铁邻座盲盒与偶遇社交",
-        "description": "把高铁邻座视为开盲盒，分享偶遇陌生人、随机买票旅行等社交实验内容，强调旅途中的不确定性与奇遇感。",
+        "description": "高铁站随机买票盲盒旅行、偶遇明星、邻座突发互动等旅途随机性与陌生人社交话题。",
         "lastSeen": "2026-09-16",
-        "heat": 3,
+        "heat": 2,
         "relations": [
           {
-            "toThemeKey": "exquisite_train_lifestyle",
-            "toThemeName": "高铁精致生活与好物分享",
-            "desc": "偶遇高颜值邻座易激发分享精致穿搭的社交意愿",
-            "implication": "优化邻座匿名破冰功能或生成手帐满足分享欲"
+            "toThemeKey": "train_time_killing_hacks",
+            "toThemeName": "高铁旅途解闷与整活",
+            "desc": "盲盒旅行的不确定性本身成为拍摄内容，为旅途解闷提供素材库。",
+            "implication": "可策划随机目的地话题，带动行程内容UGC增长。"
           }
         ]
       },
@@ -80290,6 +80415,21 @@
             "toThemeName": "高铁车厢沉浸式美妆",
             "desc": "化妆是长途解闷方式之一，两类内容常共用Vlog格式和挑战标签",
             "implication": "解闷内容可复用美妆流量标签，扩大触达"
+          }
+        ]
+      },
+      "railway_accessible_and_service": {
+        "firstSeen": "2026-09-16",
+        "theme": "铁路无障碍与服务民生",
+        "description": "无障碍设施改造缺陷、突发临产救助、被偷暗语提醒、人民铁路为民服务等公共服务与安全议题。",
+        "lastSeen": "2026-09-16",
+        "heat": 2,
+        "relations": [
+          {
+            "toThemeKey": "cabin_noise_and_children",
+            "toThemeName": "车厢儿童噪音与静音博弈",
+            "desc": "母婴、无障碍等服务缺口与带娃出行抱怨同源，都指向车厢公共资源不足。",
+            "implication": "可打包成服务诉求反馈渠道，集中收口特殊人群需求。"
           }
         ]
       }
