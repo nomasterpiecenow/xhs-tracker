@@ -207,9 +207,9 @@
       <div class="ftitle"><span class="ic">🕒</span>时间筛选</div>
       <div class="frow">
         <div class="seg" id="quick">
-          <button data-days="7">近7天</button>
+          <button data-days="7" class="active">近7天</button>
           <button data-days="15">近15天</button>
-          <button data-days="30" class="active">近30天</button>
+          <button data-days="30">近30天</button>
           <button data-days="0">全部</button>
         </div>
       </div>
@@ -356,7 +356,7 @@ const INSIGHTS = {"daily": [{"key": "ev:设施__高铁化妆vlog", "theme": "高
   });
 })();
 
-const state = { days: 30, start: null, end: null, sort: "score", dim: "", plat: "", brand: "", sentiment: "", pageSize: 30, pageNum: 1 };
+const state = { days: 7, start: null, end: null, sort: "score", dim: "", plat: "", brand: "", sentiment: "", pageSize: 30, pageNum: 1 };
 const expanded = new Set();   // 当前展开显示细分来源的事件组 eventId 集合
 let LAST_ARR = [];            // 最近一次筛选结果（分页/展开直接复用，避免重复筛选）
 let TOTAL_PAGES = 1;          // 当前总页数（goPage 钳制用）
@@ -695,7 +695,7 @@ document.getElementById("apply").addEventListener("click", () => {
   applyFilter();
 });
 document.getElementById("reset").addEventListener("click", () => {
-  state.start = null; state.end = null; state.days = 30; state.sort = "score"; state.dim = ""; state.plat = ""; state.brand = ""; state.sentiment = "";
+  state.start = null; state.end = null; state.days = 7; state.sort = "score"; state.dim = ""; state.plat = ""; state.brand = ""; state.sentiment = "";
   document.getElementById("start").value = "";
   document.getElementById("end").value = "";
   document.getElementById("sort").value = "score";
@@ -704,7 +704,7 @@ document.getElementById("reset").addEventListener("click", () => {
   document.getElementById("brand").value = "";
   document.getElementById("sentiment").value = "";
   document.querySelectorAll("#quick button").forEach(b => b.classList.remove("active"));
-  document.querySelector('#quick button[data-days="30"]').classList.add("active");
+  document.querySelector('#quick button[data-days="7"]').classList.add("active");
   state.pageSize = 30; document.getElementById("pageSize").value = "30";
   applyFilter();
 });
