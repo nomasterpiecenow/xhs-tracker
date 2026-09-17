@@ -27,8 +27,8 @@
   .meta { font-size: 14px; color: var(--ink-48); line-height: 1.43; letter-spacing: -0.224px; }
   .meta b { color: var(--ink-80); font-weight: 600; }
   /* NAV — Apple: surface-color (parchment) creates hierarchy, not borders/shadows */
-  .nav { display: flex; flex-wrap: wrap; gap: var(--sp-lg); align-items: flex-start;
-         background: var(--parchment); padding: var(--sp-lg) var(--sp-xl); border-radius: var(--r-lg); margin-bottom: var(--sp-lg); }
+  .nav { display: flex; flex-wrap: wrap; gap: var(--sp-xs); align-items: center;
+         background: var(--parchment); padding: var(--sp-xs) var(--sp-sm); border-radius: var(--r-lg); margin-bottom: var(--sp-lg); }
   .fgroup { display: flex; flex-direction: column; gap: var(--sp-xs); flex-wrap: wrap; flex: 0 1 auto; }
   .fgroup + .fgroup { padding-left: var(--sp-lg); border-left: 1px solid var(--hairline); }
   .fgroup .ftitle { display: flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600;
@@ -225,76 +225,22 @@
 
   <div id="view-notes" class="tabview">
   <div class="nav">
-
-    <div class="fgroup">
-      <div class="ftitle"><span class="ic">🕒</span>时间筛选</div>
-      <div class="frow">
-        <div class="seg" id="quick">
-          <button data-days="7" class="active">近7天</button>
-          <button data-days="15">近15天</button>
-          <button data-days="30">近30天</button>
-          <button data-days="0">全部</button>
-        </div>
-      </div>
-      <div class="frow">
-        <label>从</label><input type="date" id="start">
-        <label>到</label><input type="date" id="end">
-        <button class="fbtn" id="apply">应用</button>
-      </div>
+    <div class="seg" id="quick">
+      <button data-days="7" class="active">近7天</button>
+      <button data-days="15">近15天</button>
+      <button data-days="30">近30天</button>
+      <button data-days="0">全部</button>
     </div>
-
-    <div class="fgroup">
-      <div class="ftitle"><span class="ic">🏷️</span>分类筛选</div>
-      <div class="frow">
-        <label>维度</label>
-        <select id="dim">
-          <option value="">全部</option>
-        </select>
-      </div>
-      <div class="frow">
-        <label>平台</label>
-        <select id="plat">
-          <option value="">全部</option>
-          <option value="xhs">小红书</option>
-          <option value="douyin">抖音</option>
-        </select>
-        <label>品牌</label>
-        <select id="brand">
-          <option value="">全部</option>
-                    <option value="携程">携程（自家）</option>
+    <select id="dim"><option value="">维度</option></select>
+    <select id="plat"><option value="">平台</option><option value="xhs">小红书</option><option value="douyin">抖音</option></select>
+    <select id="brand"><option value="">品牌</option>          <option value="携程">携程（自家）</option>
           <option value="12306">12306</option>
           <option value="飞猪">飞猪</option>
           <option value="同程">同程</option>
           <option value="智行">智行</option>
-          <option value="去哪儿">去哪儿</option>
-        </select>
-      </div>
-      <div class="frow">
-        <label>情感</label>
-        <select id="sentiment">
-          <option value="">全部</option>
-          <option value="pos">正面</option>
-          <option value="neu">中性</option>
-          <option value="neg">负面</option>
-        </select>
-      </div>
-    </div>
-
-    <div class="fgroup">
-      <div class="ftitle"><span class="ic">↕️</span>排序方式</div>
-      <div class="frow">
-        <label>排序</label>
-        <select id="sort">
-          <option value="score">总分</option>
-          <option value="interactive">互动数</option>
-          <option value="time">发布时间</option>
-        </select>
-      </div>
-      <div class="frow">
-        <button class="fbtn" id="reset">重置</button>
-      </div>
-    </div>
-
+          <option value="去哪儿">去哪儿</option></select>
+    <select id="sentiment"><option value="">情感</option><option value="pos">正面</option><option value="neu">中性</option><option value="neg">负面</option></select>
+    <select id="sort"><option value="score">总分</option><option value="interactive">互动数</option><option value="time">发布时间</option></select>
   </div>
 
   <div class="tip">
@@ -706,21 +652,24 @@ document.getElementById("quick").addEventListener("click", e => {
   e.target.classList.add("active");
   state.days = parseInt(e.target.dataset.days, 10);
   state.start = null; state.end = null;
-  document.getElementById("start").value = "";
-  document.getElementById("end").value = "";
+  var _s = document.getElementById("start"); if (_s) _s.value = "";
+  var _e = document.getElementById("end"); if (_e) _e.value = "";
   applyFilter();
 });
-document.getElementById("apply").addEventListener("click", () => {
-  state.start = document.getElementById("start").value || null;
-  state.end = document.getElementById("end").value || null;
+var _applyBtn = document.getElementById("apply");
+if (_applyBtn) _applyBtn.addEventListener("click", () => {
+  var _s = document.getElementById("start"); var _e = document.getElementById("end");
+  state.start = _s ? (_s.value || null) : null;
+  state.end = _e ? (_e.value || null) : null;
   state.days = 0;
   document.querySelectorAll("#quick button").forEach(b => b.classList.remove("active"));
   applyFilter();
 });
-document.getElementById("reset").addEventListener("click", () => {
+var _resetBtn = document.getElementById("reset");
+if (_resetBtn) _resetBtn.addEventListener("click", () => {
   state.start = null; state.end = null; state.days = 7; state.sort = "score"; state.dim = ""; state.plat = ""; state.brand = ""; state.sentiment = "";
-  document.getElementById("start").value = "";
-  document.getElementById("end").value = "";
+  var _s = document.getElementById("start"); if (_s) _s.value = "";
+  var _e = document.getElementById("end"); if (_e) _e.value = "";
   document.getElementById("sort").value = "score";
   document.getElementById("dim").value = "";
   document.getElementById("plat").value = "";
