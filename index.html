@@ -172,6 +172,20 @@
   .ins-card .streak { font-size: 11px; color: var(--ink-48); }
   .ins-card .why { font-size: 14px; color: var(--ink-80); line-height: 1.43; margin-top: var(--sp-xs); letter-spacing: -0.224px; }
   .ins-card .pi { font-size: 12px; color: #34c759; margin-top: 5px; padding: var(--sp-xs) var(--sp-sm); background: #e8f8ec; border-radius: var(--r-sm); line-height: 1.6; }
+  /* priority 标签 */
+  .pri { display: inline-block; padding: 2px 9px; border-radius: var(--r-pill); font-size: 11px; font-weight: 700; margin-left: var(--sp-xs); letter-spacing: 0.5px; }
+  .pri.p0 { background: #ff3b30; color: #fff; }
+  .pri.p1 { background: #ff9500; color: #fff; }
+  .pri.p2 { background: var(--parchment); color: var(--ink-48); }
+  .pri.obs { background: var(--parchment); color: var(--ink-48); opacity: 0.6; }
+  /* roadmap 关联标签 */
+  .rdmap { display: inline-block; padding: 2px 9px; border-radius: var(--r-pill); font-size: 11px; font-weight: 500; margin-left: var(--sp-xs); background: #ebf2ff; color: var(--primary); border: 1px solid #d3e5ff; }
+  .rdmap.none { display: none; }
+  /* 清洗后的 why/pi 文本 */
+  .ins-card .why { font-size: 14px; color: var(--ink-80); line-height: 1.5; margin-top: var(--sp-xs); }
+  .ins-card .pi { font-size: 13px; color: #34c759; margin-top: 5px; padding: var(--sp-xs) var(--sp-sm); background: #e8f8ec; border-radius: var(--r-sm); line-height: 1.5; }
+  /* 展开后才显示的详情 */
+  .ins-card .det { display: none; margin-top: var(--sp-sm); border-top: 1px dashed var(--divider); padding-top: var(--sp-sm); }
   .ins-card .det { display: none; margin-top: var(--sp-sm); border-top: 1px dashed var(--divider); padding-top: var(--sp-sm); }
   .ins-card.open .det { display: block; }
   .ins-card .det .note-list { list-style: none; margin: 0; padding: 0; max-height: 320px; overflow-y: auto; }
@@ -781,14 +795,44 @@ function insCard(c) {
         ].join("");
       }).join("") + '</ul>'
     : '<div style="font-size:12px;color:#999">暂无关联笔记</div>';
+  // 清洗 AI 输出：去掉变量名/技术术语，只保留结论
+  function cleanWhy(s) {
+    if (!s) return "";
+    return String(s)
+      .replace(/[A-Za-z_]+\s*=\s*\d+/g, "")           // 去掉 evidenceCount=7 这类
+      .replace(/themes_registry/g, "")                 // 去掉技术术语
+      .replace(/D[1-6]\s*[=＝]\s*[^，。;；]*/g, "")   // 去掉 D1=部分满足但做不好 这类
+      .replace(/\s{2,}/g, " ")                          // 压缩多余空格
+      .trim();
+  }
+  function cleanPi(s) {
+    if (!s) return "";
+    s = String(s)
+      .replace(/[A-Za-z_]+\s*=\s*\d+/g, "")
+      .replace(/D[1-6]\s*[=＝]\s*[^，。;；]*/g, "")
+      .replace(/themes_registry/g, "")
+      .replace(/\s{2,}/g, " ")
+      .trim();
+    // 取"建议"后面的句子作为核心结论
+    var m = s.match(/建议[^。；]*/);
+    if (m) return m[0] + "。";
+    // 如果没有"建议"关键字，取最后一句
+    var parts = s.split(/[。；]/).filter(p => p.trim());
+    if (parts.length >= 2) return parts[parts.length - 1] + "。";
+    return s;
+  }
   return '<div class="ins-card" onclick="this.classList.toggle(\'open\')">'
-    + '<div class="hd"><span class="nm">' + esc(c.theme) + '</span>' + momBadge(c.momentum)
+    + '<div class="hd">'
+    + '<span class="nm">' + esc(c.theme) + '</span>'
+    + momBadge(c.momentum)
+    + (c.priority ? '<span class="pri ' + (c.priority === 'P0' ? 'p0' : c.priority === 'P1' ? 'p1' : c.priority === 'P2' ? 'p2' : 'obs') + '">' + (c.priority || 'Observing') + '</span>' : '')
+    + (c.roadmapAlignment && c.roadmapAlignment !== '无' ? '<span class="rdmap">' + esc(c.roadmapAlignment) + '</span>' : '')
     + '<span class="ev">' + (c.evidenceCount || 0) + ' 证据</span>'
     + (c.streakDays ? '<span class="streak">连续 ' + c.streakDays + ' 天</span>' : '')
     + '</div>'
     + '<div class="delta">' + esc(c.momentumDelta || "") + '</div>'
-    + '<div class="why">' + esc(c.why || "") + '</div>'
-    + (c.productImplication ? '<div class="pi">💡 ' + esc(c.productImplication) + '</div>' : '')
+    + '<div class="why">' + esc(cleanWhy(c.why)) + '</div>'
+    + (c.productImplication ? '<div class="pi">💡 ' + esc(cleanPi(c.productImplication)) + '</div>' : '')
     + '<div class="det">' + noteListHtml + '</div>'
     + '</div>';
 }
