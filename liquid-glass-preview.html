@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>小红书+抖音爆款笔记追踪器 · Liquid Glass 预览</title>
+<style>
+  :root {
+    --bg-0: #f3f1fb; --bg-1: #e9f1ff; --bg-2: #fde9f3;
+    --text-1: #1a1b2e; --text-2: #4a4b66; --text-3: #7a7b95;
+    --glass-bg: rgba(255,255,255,0.55); --glass-bg-strong: rgba(255,255,255,0.7);
+    --glass-border: rgba(255,255,255,0.8);
+    --glass-shadow: 0 8px 32px rgba(80,60,140,0.12);
+    --glass-highlight: inset 0 1px 0 rgba(255,255,255,0.9);
+    --xhs: #ff2442; --xhs-soft: rgba(255,36,66,0.12);
+    --douyin: #25f4ee; --douyin-soft: rgba(37,244,238,0.18);
+    --pos: #2ab376; --neu: #8a90a8; --neg: #e14b5c;
+    --accent: #7c5cff; --accent-soft: rgba(124,92,255,0.18);
+    --blob-1: #b79bff; --blob-2: #7ad7ff; --blob-3: #ffa6d7; --blob-4: #a9efdf; --blob-5: #ffd89e;
+  }
+  [data-theme="dark"] {
+    --bg-0: #0b0b17; --bg-1: #0e1530; --bg-2: #200a28;
+    --text-1: #eef0ff; --text-2: #b8bcd8; --text-3: #8589a8;
+    --glass-bg: rgba(25,27,50,0.45); --glass-bg-strong: rgba(30,32,60,0.6);
+    --glass-border: rgba(255,255,255,0.12);
+    --glass-shadow: 0 8px 32px rgba(0,0,0,0.45);
+    --glass-highlight: inset 0 1px 0 rgba(255,255,255,0.08);
+    --blob-1: #4a2a9a; --blob-2: #1363a8; --blob-3: #8a1f63; --blob-4: #0f6d6e; --blob-5: #7a4a0e;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: "SF Pro Text","SF Pro Display",system-ui,-apple-system,"PingFang SC","Helvetica Neue",Arial,sans-serif;
+    color: var(--text-1); background: var(--bg-0); min-height: 100vh; overflow-x: hidden;
+    -webkit-font-smoothing: antialiased; transition: color .3s ease; position: relative;
+  }
+  .blob-stage { position: fixed; inset: 0; z-index: -1; overflow: hidden;
+    background: radial-gradient(1200px 800px at 10% 10%,var(--bg-1),transparent 60%),radial-gradient(1000px 700px at 90% 90%,var(--bg-2),transparent 60%),linear-gradient(180deg,var(--bg-0),var(--bg-0)); }
+  .blob { position: absolute; border-radius: 50%; filter: blur(70px); opacity: 0.75; mix-blend-mode: screen; will-change: transform; }
+  [data-theme="dark"] .blob { opacity: 0.55; }
+  .blob.b1 { width:520px;height:520px;background:var(--blob-1);top:-120px;left:-120px;animation:float1 22s ease-in-out infinite; }
+  .blob.b2 { width:460px;height:460px;background:var(--blob-2);top:18%;right:-100px;animation:float2 26s ease-in-out infinite; }
+  .blob.b3 { width:420px;height:420px;background:var(--blob-3);bottom:-140px;left:20%;animation:float3 30s ease-in-out infinite; }
+  .blob.b4 { width:360px;height:360px;background:var(--blob-4);top:50%;left:35%;animation:float4 28s ease-in-out infinite; }
+  .blob.b5 { width:300px;height:300px;background:var(--blob-5);top:8%;left:55%;animation:float5 32s ease-in-out infinite; }
+  @keyframes float1 { 0%,100%{transform:translate(0,0) scale(1);} 50%{transform:translate(160px,120px) scale(1.12);} }
+  @keyframes float2 { 0%,100%{transform:translate(0,0) scale(1);} 50%{transform:translate(-180px,90px) scale(0.92);} }
+  @keyframes float3 { 0%,100%{transform:translate(0,0) scale(1);} 50%{transform:translate(200px,-140px) scale(1.08);} }
+  @keyframes float4 { 0%,100%{transform:translate(0,0) scale(1);} 50%{transform:translate(-120px,-160px) scale(1.15);} }
+  @keyframes float5 { 0%,100%{transform:translate(0,0) scale(1);} 50%{transform:translate(140px,180px) scale(0.9);} }
+  .glass { background:var(--glass-bg); backdrop-filter:blur(24px) saturate(160%); -webkit-backdrop-filter:blur(24px) saturate(160%); border:1px solid var(--glass-border); box-shadow:var(--glass-shadow),var(--glass-highlight); }
+  .nav { position:sticky; top:14px; z-index:50; margin:14px auto 0; max-width:1200px; padding:0 14px; }
+  .nav-inner { display:flex; align-items:center; justify-content:space-between; gap:16px; padding:10px 18px; border-radius:999px; }
+  .brand { display:flex; align-items:center; gap:10px; font-weight:700; letter-spacing:0.2px; }
+  .brand-dot { width:22px; height:22px; border-radius:50%; background:conic-gradient(from 210deg,#ff2442,#7c5cff,#25f4ee,#ff2442); box-shadow:0 0 0 4px rgba(255,255,255,0.35),0 6px 16px rgba(124,92,255,0.4); }
+  .brand-title { font-size:15px; }
+  .brand-sub { font-size:12px; color:var(--text-3); margin-left:4px; }
+  .tabs { display:flex; gap:4px; padding:4px; background:rgba(255,255,255,0.25); border:1px solid var(--glass-border); border-radius:999px; }
+  [data-theme="dark"] .tabs { background:rgba(255,255,255,0.06); }
+  .tab { border:0; background:transparent; color:var(--text-2); padding:8px 16px; border-radius:999px; cursor:pointer; font-size:13px; font-weight:500; transition:all .25s ease; font-family:inherit; }
+  .tab:hover { color:var(--text-1); }
+  .tab.active { background:var(--glass-bg-strong); color:var(--text-1); box-shadow:0 4px 14px rgba(124,92,255,0.18),inset 0 1px 0 rgba(255,255,255,0.8); }
+  .right-actions { display:flex; align-items:center; gap:8px; }
+  .theme-btn { border:1px solid var(--glass-border); background:var(--glass-bg); color:var(--text-1); border-radius:999px; padding:8px 14px; font-size:12px; font-weight:500; cursor:pointer; backdrop-filter:blur(18px); transition:transform .2s ease,box-shadow .2s ease; font-family:inherit; }
+  .theme-btn:hover { transform:translateY(-1px); box-shadow:0 6px 18px rgba(124,92,255,0.25); }
+  .header { max-width:1200px; margin:28px auto 0; padding:32px 28px; border-radius:22px; }
+  .header-row { display:flex; justify-content:space-between; align-items:flex-end; gap:20px; flex-wrap:wrap; }
+  .header h1 { font-size:30px; margin:0 0 6px; letter-spacing:0.3px; background:linear-gradient(90deg,#6c4ae8,#e64fa0 60%,#ff7a59); -webkit-background-clip:text; background-clip:text; color:transparent; }
+  [data-theme="dark"] .header h1 { background:linear-gradient(90deg,#b2a3ff,#ff9ed0 60%,#ffc19a); -webkit-background-clip:text; background-clip:text; color:transparent; }
+  .header p.lede { color:var(--text-2); font-size:14px; margin:0; max-width:640px; line-height:1.6; }
+  .meta-chips { display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end; }
+  .chip { display:inline-flex; align-items:center; gap:6px; padding:6px 12px; border-radius:999px; font-size:12px; color:var(--text-2); background:var(--glass-bg); border:1px solid var(--glass-border); backdrop-filter:blur(14px); }
+  .chip b { color:var(--text-1); font-weight:600; }
+  .chip .dot { width:6px; height:6px; border-radius:50%; background:var(--pos); box-shadow:0 0 0 3px rgba(42,179,118,0.18); }
+  .toolbar { max-width:1200px; margin:18px auto 0; padding:10px 12px; border-radius:999px; display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .search { flex:1 1 240px; position:relative; }
+  .search input { width:100%; border:1px solid var(--glass-border); background:var(--glass-bg); color:var(--text-1); padding:10px 14px 10px 34px; border-radius:999px; font-size:13px; outline:none; backdrop-filter:blur(14px); font-family:inherit; }
+  .search::before { content:"🔍"; position:absolute; left:12px; top:50%; transform:translateY(-50%); font-size:12px; opacity:0.7; }
+  .pill { border:1px solid var(--glass-border); background:var(--glass-bg); color:var(--text-2); padding:8px 14px; border-radius:999px; font-size:12px; cursor:pointer; backdrop-filter:blur(14px); transition:all .2s ease; font-family:inherit; }
+  .pill:hover { color:var(--text-1); transform:translateY(-1px); }
+  .pill.active { background:var(--glass-bg-strong); color:var(--text-1); box-shadow:inset 0 1px 0 rgba(255,255,255,0.8),0 4px 14px rgba(124,92,255,0.18); }
+  main { max-width:1200px; margin:22px auto 80px; padding:0 4px; }
+  .tab-panel { display:none; }
+  .tab-panel.active { display:block; animation:fadeIn .35s ease; }
+  @keyframes fadeIn { from{opacity:0;transform:translateY(6px);} to{opacity:1;transform:none;} }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:18px; }
+  .card { position:relative; padding:18px; border-radius:18px; background:var(--glass-bg); backdrop-filter:blur(16px) saturate(150%); -webkit-backdrop-filter:blur(16px) saturate(150%); border:1px solid var(--glass-border); box-shadow:var(--glass-shadow),var(--glass-highlight); transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease; display:flex; flex-direction:column; gap:12px; min-height:200px; }
+  .card:hover { transform:translateY(-4px) scale(1.01); border-color:rgba(124,92,255,0.55); box-shadow:0 18px 40px rgba(80,60,140,0.22),inset 0 1px 0 rgba(255,255,255,0.9); }
+  [data-theme="dark"] .card:hover { box-shadow:0 18px 40px rgba(0,0,0,0.6),0 0 0 1px rgba(178,163,255,0.3); }
+  .card-head { display:flex; justify-content:space-between; align-items:flex-start; gap:10px; }
+  .title-link { color:var(--text-1); text-decoration:none; font-size:15px; line-height:1.45; font-weight:600; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; flex:1; }
+  .title-link:hover { color:var(--accent); }
+  .platform-badge { flex-shrink:0; font-size:11px; font-weight:700; padding:4px 10px; border-radius:999px; letter-spacing:0.4px; display:inline-flex; align-items:center; gap:4px; }
+  .platform-badge.xhs { color:var(--xhs); background:var(--xhs-soft); border:1px solid rgba(255,36,66,0.3); }
+  .platform-badge.douyin { color:#fff; background:linear-gradient(135deg,#25f4ee,#0a0a0a); border:1px solid rgba(255,255,255,0.2); text-shadow:0 1px 1px rgba(0,0,0,0.4); }
+  .metrics { display:flex; gap:14px; flex-wrap:wrap; font-size:12px; color:var(--text-2); }
+  .metrics .m { display:inline-flex; align-items:center; gap:4px; }
+  .metrics .m b { color:var(--text-1); font-weight:600; }
+  .dims { display:flex; gap:6px; flex-wrap:wrap; }
+  .dim-tag { font-size:11px; color:var(--accent); background:var(--accent-soft); border:1px solid rgba(124,92,255,0.25); padding:3px 9px; border-radius:999px; }
+  .card-foot { display:flex; justify-content:space-between; align-items:center; margin-top:auto; padding-top:8px; border-top:1px dashed rgba(120,120,160,0.2); }
+  .author { display:inline-flex; align-items:center; gap:6px; font-size:12px; color:var(--text-2); }
+  .avatar { width:22px; height:22px; border-radius:50%; background:linear-gradient(135deg,var(--blob-1),var(--blob-3)); display:grid; place-items:center; color:#fff; font-size:10px; font-weight:700; border:1px solid rgba(255,255,255,0.6); }
+  .sentiment { display:inline-flex; align-items:center; gap:6px; font-size:11px; color:var(--text-2); }
+  .sentiment .sdot { width:8px; height:8px; border-radius:50%; box-shadow:0 0 0 3px rgba(0,0,0,0.04); }
+  .sentiment.pos .sdot { background:var(--pos); box-shadow:0 0 0 3px rgba(42,179,118,0.18); }
+  .sentiment.neu .sdot { background:var(--neu); box-shadow:0 0 0 3px rgba(138,144,168,0.18); }
+  .sentiment.neg .sdot { background:var(--neg); box-shadow:0 0 0 3px rgba(225,75,92,0.18); }
+  .scores { display:grid; grid-template-columns:repeat(3,1fr); gap:6px; font-size:11px; color:var(--text-2); padding:8px 10px; border-radius:12px; background:rgba(255,255,255,0.2); border:1px solid var(--glass-border); }
+  [data-theme="dark"] .scores { background:rgba(255,255,255,0.04); }
+  .scores span b { color:var(--text-1); font-weight:600; display:block; font-size:13px; }
+  .pager { margin:28px auto 0; display:flex; justify-content:center; gap:6px; flex-wrap:wrap; }
+  .pager button { border:1px solid var(--glass-border); background:var(--glass-bg); color:var(--text-2); padding:8px 14px; border-radius:999px; font-size:12px; cursor:pointer; backdrop-filter:blur(14px); transition:all .2s ease; font-family:inherit; }
+  .pager button:hover { color:var(--text-1); transform:translateY(-1px); }
+  .pager button.active { background:var(--glass-bg-strong); color:var(--text-1); box-shadow:inset 0 1px 0 rgba(255,255,255,0.8),0 4px 14px rgba(124,92,255,0.2); }
+  .pager button:disabled { opacity:0.4; cursor:not-allowed; transform:none; }
+  .empty { padding:80px 20px; text-align:center; border-radius:22px; background:var(--glass-bg); border:1px dashed var(--glass-border); backdrop-filter:blur(14px); color:var(--text-3); }
+  .empty h3 { color:var(--text-1); margin:0 0 8px; font-size:18px; }
+  .empty p { margin:0; font-size:13px; }
+  footer { max-width:1200px; margin:40px auto 20px; padding:16px 22px; border-radius:18px; text-align:center; font-size:12px; color:var(--text-3); }
+  @media (max-width:720px) { .nav-inner{flex-wrap:wrap;} .tabs{order:3;width:100%;justify-content:center;} .header h1{font-size:24px;} .grid{grid-template-columns:1fr;} }
+</style>
+</head>
+<body data-theme="light">
+<div class="blob-stage" aria-hidden="true"><div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div><div class="blob b4"></div><div class="blob b5"></div></div>
+<nav class="nav"><div class="nav-inner glass">
+  <div class="brand"><span class="brand-dot"></span><span class="brand-title">热点追踪器</span><span class="brand-sub">· Liquid Glass Preview</span></div>
+  <div class="tabs" role="tablist"><button class="tab active" data-tab="hot">🔥 爆款笔记</button><button class="tab" data-tab="trend">📈 趋势洞察</button><button class="tab" data-tab="weekly">📅 每周总结</button></div>
+  <div class="right-actions"><button class="theme-btn" id="themeBtn">🌙 深色</button></div>
+</div></nav>
+<header class="header glass"><div class="header-row">
+  <div><h1>小红书 + 抖音 · 火车/高铁爆款笔记追踪</h1><p class="lede">基于红狐 API 每日抓取 + LLM 多维分类 + 事件聚合。聚焦出行服务、票务规则、场景灵感、购票抢票等维度，持续监测社媒爆款内容。</p></div>
+  <div class="meta-chips"><span class="chip"><span class="dot"></span> 在线 · <b id="mCrawl">—</b></span><span class="chip">关键词：<b id="mKw">—</b></span><span class="chip">累计笔记：<b id="mTotal">—</b></span></div>
+</div></header>
+<div class="toolbar glass">
+  <div class="search"><input type="text" id="searchInput" placeholder="搜索标题 / 作者 / 维度..." /></div>
+  <button class="pill active" data-filter="all">全部</button>
+  <button class="pill" data-filter="xhs">小红书</button>
+  <button class="pill" data-filter="douyin">抖音</button>
+  <button class="pill" data-sort="score">按热度</button>
+  <button class="pill" data-sort="date">按时间</button>
+</div>
+<main>
+  <section class="tab-panel active" id="panel-hot"><div class="grid" id="grid"></div><div class="pager" id="pager"></div></section>
+  <section class="tab-panel" id="panel-trend"><div class="empty glass"><h3>📈 趋势洞察</h3><p>洞察 Agent 每日 09:40 自动生成，分析爆款主题、维度占比与新兴话题。</p></div></section>
+  <section class="tab-panel" id="panel-weekly"><div class="empty glass"><h3>📅 每周总结</h3><p>每周日的跨平台事件脉络汇总，沉淀为可复用决策参考。</p></div></section>
+</main>
+<footer class="glass">© 2026 小红书抖音热点项目组 · Liquid Glass 预览版 · 数据截止 <span id="footerTime">—</span></footer>
+<script>
+const DATA={"meta":{"keyword":"功能热点 34 + 场景灵感 14","lastCrawledAt":"2026-09-21 09:00:02","total":1834},"notes":[{"title":"无障碍有问题因何不改02","author":"无障碍砖家","interactiveCount":"2w+","createTime":"2026-08-12","totalScore":"13.95","relevanceScore":"9.95","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a7b34df000000002203141c","dimensions":["出行服务"],"_brand":null,"_sentiment":"neg"},{"title":"这里无障碍环境怎么样19","author":"无障碍砖家","interactiveCount":"14w+","createTime":"2026-07-18","totalScore":"13.93","relevanceScore":"9.93","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a58e553000000000f014585","dimensions":["出行服务"],"_brand":null,"_sentiment":"neg"},{"title":"高铁相撞","author":"汐柔T^T","interactiveCount":"11w+","createTime":"2026-07-23","totalScore":"13.85","relevanceScore":"9.85","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a62145b000000000f011c19","dimensions":["出行服务"],"_brand":null,"_sentiment":"neg"},{"title":"为什么打火机可以带进高铁站","author":"娱子酱酱酱","interactiveCount":"5w+","createTime":"2026-08-06","totalScore":"13.85","relevanceScore":"9.85","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a74058600000000060071bd","dimensions":["出行服务","票务规则"],"_brand":null,"_sentiment":"neu"},{"title":"高铁🚄坐过站了⁉️不用买票，直接免费回家😌","author":"快乐加载麦","interactiveCount":"5w+","createTime":"2026-07-27","totalScore":"13.84","relevanceScore":"9.84","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a671b4c000000000301d591","dimensions":["出行服务","票务规则"],"_brand":null,"_sentiment":"neu"},{"title":"我宣布，我以后就是高铁精致女生的信徒","author":"玩梗研究员","interactiveCount":"9w+","createTime":"2026-08-15","totalScore":"13.84","relevanceScore":"9.84","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a801c5400000000050331d5","dimensions":["出行服务","场景灵感"],"_brand":null,"_sentiment":"neg"},{"title":"坐高铁订外卖！绿皮火车也能订！炸鸡麻辣烫","author":"铁妞妞妞儿","interactiveCount":"5w+","createTime":"2026-07-22","totalScore":"13.82","relevanceScore":"9.82","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a60bd87000000000301db0a","dimensions":["出行服务"],"_brand":null,"_sentiment":"pos"},{"title":"高铁熊孩子系列最会吵的一集出现了","author":"酱紫的娱圈","interactiveCount":"11w+","createTime":"2026-07-21","totalScore":"13.76","relevanceScore":"3.9","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a5f71ca000000002201b9b9","dimensions":["出行服务","场景灵感"],"_brand":null,"_sentiment":"neg"},{"title":"挑战高铁站随机买票旅行","author":"小帅奇遇记","interactiveCount":"18w+","createTime":"2026-07-20","totalScore":"13.68","relevanceScore":"3.87","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a5ddd97000000000401e51b","dimensions":["场景灵感","购票抢票"],"_brand":null,"_sentiment":"pos"},{"title":"0元商务座❓高铁居然有这么多隐藏福利❓❗️","author":"梦璐没在怕","interactiveCount":"6w+","createTime":"2026-08-29","totalScore":"13.62","relevanceScore":"9.62","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a92d935000000001e016e7d","dimensions":["出行服务"],"_brand":"","_sentiment":"pos"},{"title":"带孩子做火车，怎么订比较划算？","author":"小金妈妈碎碎念","interactiveCount":"2w+","createTime":"2026-09-12","totalScore":"13.58","relevanceScore":"9.58","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6aa51c64000000002700a0b9","dimensions":["票务规则","购票抢票"],"_brand":"","_sentiment":"neu"},{"title":"高铁站集体换广告，英雄才应该是顶流","author":"资本论","interactiveCount":"5w+","createTime":"2026-08-24","totalScore":"13.56","relevanceScore":"9.56","popularityScore":"3.0","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a8c11460000000028029142","dimensions":["出行服务"],"_brand":"","_sentiment":"pos"},{"title":"零食占座当事人母亲发声：并非故意买票占座","author":"南方+","interactiveCount":"2w+","createTime":"2026-08-23","totalScore":"13.45","relevanceScore":"9.95","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a8a676300000000140268e6","dimensions":["票务规则"],"_brand":null,"_sentiment":"neu"},{"title":"人类对12306的开发不足1%！","author":"网不红萌叔Joey","interactiveCount":"3w+","createTime":"2026-07-26","totalScore":"13.44","relevanceScore":"9.94","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a63321d000000001101b7d6","dimensions":["出行服务"],"_brand":"12306","_sentiment":"pos"},{"title":"12306：活爹这下千万别错过了","author":"追娱壹姐","interactiveCount":"3w+","createTime":"2026-07-08","totalScore":"13.43","relevanceScore":"9.93","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a4dec1f00000000220083f6","dimensions":["出行服务"],"_brand":"12306","_sentiment":"neu"},{"title":"喷不了，高铁局这次来了个天才","author":"追娱壹姐","interactiveCount":"4w+","createTime":"2026-07-31","totalScore":"13.36","relevanceScore":"9.86","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a6c632f000000003302f99d","dimensions":["出行服务","场景灵感"],"_brand":null,"_sentiment":"neu"},{"title":"爸妈不教🚫我来教‼️ 第一次坐高铁全流程🚄","author":"黎噗噗吖🍯","interactiveCount":"2w+","createTime":"2026-08-26","totalScore":"13.27","relevanceScore":"9.77","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a8eae1e0000000024006bf3","dimensions":["出行服务"],"_brand":"","_sentiment":"pos"},{"title":"高铁上的无语事件","author":"杨了个杨","interactiveCount":"4w+","createTime":"2026-07-27","totalScore":"13.22","relevanceScore":"3.89","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a67082a000000000f02af62","dimensions":["出行服务","场景灵感"],"_brand":null,"_sentiment":"neg"},{"title":"90年代，绿皮火车上的家。","author":"脱口秀粽子","interactiveCount":"3w+","createTime":"2026-07-24","totalScore":"13.21","relevanceScore":"3.88","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a633b5e000000001c00f8f8","dimensions":["场景灵感"],"_brand":null,"_sentiment":"neu"},{"title":"在高铁上吃巨大面条是什么体验","author":"琪怪儿","interactiveCount":"2w+","createTime":"2026-07-20","totalScore":"13.15","relevanceScore":"3.86","popularityScore":"2.5","platform":"xhs","noteLink":"https://www.xiaohongshu.com/explore/6a5d8f8e000000000e037b4a","dimensions":["场景灵感"],"_brand":null,"_sentiment":"pos"}]};
+document.getElementById('mCrawl').textContent=DATA.meta.lastCrawledAt;
+document.getElementById('mKw').textContent=DATA.meta.keyword;
+document.getElementById('mTotal').textContent=DATA.meta.total.toLocaleString();
+document.getElementById('footerTime').textContent=DATA.meta.lastCrawledAt;
+const state={tab:'hot',filter:'all',sort:'score',query:'',page:1,pageSize:9};
+document.querySelectorAll('.tab').forEach(btn=>{btn.addEventListener('click',()=>{document.querySelectorAll('.tab').forEach(b=>b.classList.remove('active'));btn.classList.add('active');document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));document.getElementById('panel-'+btn.dataset.tab).classList.add('active');state.tab=btn.dataset.tab;});});
+const themeBtn=document.getElementById('themeBtn');
+themeBtn.addEventListener('click',()=>{const cur=document.body.getAttribute('data-theme');const next=cur==='light'?'dark':'light';document.body.setAttribute('data-theme',next);themeBtn.textContent=next==='light'?'🌙 深色':'☀️ 浅色';});
+document.querySelectorAll('.pill[data-filter]').forEach(b=>{b.addEventListener('click',()=>{document.querySelectorAll('.pill[data-filter]').forEach(x=>x.classList.remove('active'));b.classList.add('active');state.filter=b.dataset.filter;state.page=1;render();});});
+document.querySelectorAll('.pill[data-sort]').forEach(b=>{b.addEventListener('click',()=>{document.querySelectorAll('.pill[data-sort]').forEach(x=>x.classList.remove('active'));b.classList.add('active');state.sort=b.dataset.sort;state.page=1;render();});});
+document.getElementById('searchInput').addEventListener('input',e=>{state.query=e.target.value.trim().toLowerCase();state.page=1;render();});
+function sentimentLabel(s){return s==='pos'?'正向':s==='neg'?'负向':'中性';}
+function avatarLetter(name){return(name||'?').trim().charAt(0).toUpperCase();}
+function getFiltered(){let list=DATA.notes.slice();if(state.filter!=='all')list=list.filter(n=>n.platform===state.filter);if(state.query){const q=state.query;list=list.filter(n=>{return(n.title||'').toLowerCase().includes(q)||(n.author||'').toLowerCase().includes(q)||(n.dimensions||[]).join(',').toLowerCase().includes(q);});}if(state.sort==='score'){list.sort((a,b)=>parseFloat(b.totalScore)-parseFloat(a.totalScore));}else{list.sort((a,b)=>(b.createTime||'').localeCompare(a.createTime||''));}return list;}
+function cardHTML(n){const plat=n.platform==='xhs'?'<span class="platform-badge xhs">小红书</span>':'<span class="platform-badge douyin">抖音</span>';const dims=(n.dimensions||[]).map(d=>'<span class="dim-tag">'+d+'</span>').join('');const sc=n._sentiment||'neu';return '<article class="card"><div class="card-head"><a class="title-link" href="'+n.noteLink+'" target="_blank" rel="noopener">'+n.title+'</a>'+plat+'</div><div class="metrics"><span class="m">🔥 互动 <b>'+n.interactiveCount+'</b></span><span class="m">📅 <b>'+n.createTime+'</b></span><span class="m">📊 总分 <b>'+n.totalScore+'</b></span></div><div class="dims">'+(dims||'<span class="dim-tag" style="opacity:.5">未分类</span>')+'</div><div class="scores"><span>相关度<b>'+n.relevanceScore+'</b></span><span>热度<b>'+n.popularityScore+'</b></span><span>总分<b>'+n.totalScore+'</b></span></div><div class="card-foot"><span class="author"><span class="avatar">'+avatarLetter(n.author)+'</span>'+(n.author||'佚名')+'</span><span class="sentiment '+sc+'"><span class="sdot"></span>'+sentimentLabel(sc)+'</span></div></article>';}
+function renderPager(total){const pager=document.getElementById('pager');const pages=Math.max(1,Math.ceil(total/state.pageSize));if(state.page>pages)state.page=pages;let html='<button '+(state.page===1?'disabled':'')+' data-p="prev">‹ 上一页</button>';for(let i=1;i<=pages;i++){html+='<button class="'+(i===state.page?'active':'')+'" data-p="'+i+'">'+i+'</button>';}html+='<button '+(state.page===pages?'disabled':'')+' data-p="next">下一页 ›</button>';pager.innerHTML=html;pager.querySelectorAll('button').forEach(b=>{b.addEventListener('click',()=>{const p=b.dataset.p;if(p==='prev')state.page=Math.max(1,state.page-1);else if(p==='next')state.page=Math.min(pages,state.page+1);else state.page=parseInt(p,10);render();window.scrollTo({top:document.getElementById('panel-hot').offsetTop-80,behavior:'smooth'});});});}
+function render(){const list=getFiltered();const grid=document.getElementById('grid');const start=(state.page-1)*state.pageSize;const pageList=list.slice(start,start+state.pageSize);if(pageList.length===0){grid.innerHTML='<div class="empty glass" style="grid-column: 1/-1;"><h3>没有匹配的笔记</h3><p>试试清空搜索或切换过滤条件</p></div>';}else{grid.innerHTML=pageList.map(cardHTML).join('');}renderPager(list.length);}
+render();
+</script>
+</body>
+</html>
