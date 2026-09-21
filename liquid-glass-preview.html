@@ -17,47 +17,24 @@
     /* 液态玻璃：半透明 + 模糊 */
     --canvas: rgba(255,255,255,0.55); --parchment: rgba(255,255,255,0.42); --pearl: rgba(255,255,255,0.28);
     --chip: rgba(210,210,215,0.5); --black: #000000; --on-primary: #ffffff;
-    --glass-bg: rgba(255,255,255,0.5);
-    --glass-bg-strong: rgba(255,255,255,0.68);
-    --glass-bg-soft: rgba(255,255,255,0.35);
-    --glass-border: rgba(255,255,255,0.7);
-    --glass-blur: blur(20px) saturate(160%);
-    --glass-shadow: 0 4px 24px rgba(80,60,140,0.10);
-    --glass-highlight: inset 0 1px 0 rgba(255,255,255,0.85);
+    --glass-bg: rgba(255,255,255,0.72);
+    --glass-bg-strong: rgba(255,255,255,0.82);
+    --glass-bg-soft: rgba(255,255,255,0.55);
+    --glass-border: rgba(0,0,0,0.06);
+    --glass-blur: blur(20px) saturate(120%);
+    --glass-shadow: 0 2px 16px rgba(0,0,0,0.04);
+    --glass-highlight: none;
     /* 基础尺寸不变 */
     --r-xs: 5px; --r-sm: 8px; --r-md: 11px; --r-lg: 18px; --r-pill: 980px;
     --sp-xxs: 4px; --sp-xs: 8px; --sp-sm: 12px; --sp-md: 17px; --sp-lg: 24px; --sp-xl: 32px; --sp-xxl: 48px;
   }
-  /* 动态光团背景 — 用 body::before 避免加 HTML */
-  body::before {
-    content: ''; position: fixed; inset: 0; z-index: -1; overflow: hidden; pointer-events: none;
-    background:
-      radial-gradient(900px 700px at 8% 12%, #dcd0ff, transparent 55%),
-      radial-gradient(800px 600px at 92% 88%, #fcd9ec, transparent 55%),
-      radial-gradient(700px 500px at 50% 50%, #ffe0cc, transparent 60%),
-      linear-gradient(135deg, #eef0fb, #f5f0fa 50%, #fff0f5);
-  }
-  body::after {
-    content: ''; position: fixed; inset: 0; z-index: -1; pointer-events: none;
-    background:
-      radial-gradient(600px 600px at 20% 30%, rgba(183,155,255,0.3), transparent 50%),
-      radial-gradient(500px 500px at 80% 70%, rgba(255,166,215,0.25), transparent 50%),
-      radial-gradient(400px 400px at 60% 20%, rgba(122,215,255,0.22), transparent 50%);
-    animation: glassFloat 28s ease-in-out infinite;
-  }
-  @keyframes glassFloat {
-    0%,100% { transform: translate(0,0) scale(1); }
-    33% { transform: translate(40px,-30px) scale(1.05); }
-    66% { transform: translate(-30px,40px) scale(0.97); }
-  }
   /* 玻璃 mixin 基础类 */
   body { font-family: "SF Pro Text", system-ui, -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
-         background: transparent; color: var(--ink); padding: var(--sp-lg); font-size: 17px; line-height: 1.47; letter-spacing: -0.374px; -webkit-font-smoothing: antialiased; }
+         background: #fafafc; color: var(--ink); padding: var(--sp-lg); font-size: 17px; line-height: 1.47; letter-spacing: -0.374px; -webkit-font-smoothing: antialiased; }
   .wrap { max-width: 1180px; margin: 0 auto; }
   /* HEADER */
   header { text-align: center; padding: var(--sp-xxl) 0 var(--sp-xl); margin-bottom: var(--sp-xl); border-bottom: 1px solid var(--divider); }
-  header h1 { font-family: "SF Pro Display", system-ui, -apple-system, sans-serif; font-size: 48px; font-weight: 600; line-height: 1.07; letter-spacing: -0.28px; color: var(--ink); margin-bottom: var(--sp-sm);
-              background: linear-gradient(90deg, #6c4ae8, #0071e3 40%, #e64fa0); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  header h1 { font-family: "SF Pro Display", system-ui, -apple-system, sans-serif; font-size: 48px; font-weight: 600; line-height: 1.07; letter-spacing: -0.28px; color: var(--ink); margin-bottom: var(--sp-sm); }
   .meta { font-size: 14px; color: var(--ink-48); line-height: 1.43; letter-spacing: -0.224px; }
   .meta b { color: var(--ink-80); font-weight: 600; }
   /* NAV — 液态玻璃 pill */
@@ -107,7 +84,7 @@
   .modal-mask { position: fixed; inset: 0; background: rgba(20,20,30,0.25); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); display: none;
                 align-items: center; justify-content: center; z-index: 999; padding: 20px; }
   .modal-mask.show { display: flex; }
-  .modal { background: var(--glass-bg-strong); backdrop-filter: blur(28px) saturate(180%); -webkit-backdrop-filter: blur(28px) saturate(180%);
+  .modal { background: var(--glass-bg-strong); backdrop-filter: blur(24px) saturate(120%); -webkit-backdrop-filter: blur(24px) saturate(120%);
            border: 1px solid var(--glass-border); border-radius: var(--r-lg); max-width: 540px; width: 100%; max-height: 82vh; overflow: auto;
            box-shadow: 0 12px 48px rgba(80,60,140,0.18), var(--glass-highlight); animation: pop .18s ease; }
   @keyframes pop { from { transform: scale(.96); opacity: .5; } to { transform: scale(1); opacity: 1; } }
