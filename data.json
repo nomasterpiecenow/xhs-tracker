@@ -102321,9 +102321,13 @@
         ],
         "firstSeen": "2026-09-24",
         "lastSeen": "2026-09-29",
-        "why": "女性专属包房讨论在近7天激增至12条（前23天为0），是本期最强新增信号。12306当前不提供女性友好车厢/包房的数字筛选功能，themes_registry的railway_accessible_and_service主题建议可在选座界面增加女性友好车厢/包房筛选入口。这直接关联季度硬仗——打造区别于12306的差异化能力，且触及安全出行这一用户感知强烈的需求。",
+        "why": "女性专属包房讨论近7天激增至14条（前23天为0），是本期最强新增信号。12306当前不提供女性友好车厢/包房的数字筛选功能，themes_registry的railway_accessible_and_service主题建议可在选座界面增加女性友好车厢/包房筛选入口。这直接关联季度硬仗——打造区别于12306的差异化能力，且触及安全出行这一用户感知强烈的需求。streakDays=0，首次出现，待观察但信号规模已具参考价值。",
         "productImplication": "①不触及携程已有能力：当前选座体系中无女性友好筛选维度（B1选座有基础但无此维度，且受代售点约束）。\n②部分对应roadmap：增长&新客方向（特殊人群服务深化），但女性专属包房尚未排期。\n③不做的理由（如降到P1而非P0）：女性包房属铁路物理设施改造，非纯产品可决策；但女性友好车厢筛选作为数字层差异化可先期评估，待streakDays>=3后升级排期讨论。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "P1",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "增长 & 新客（特殊人群服务深化）",
+        "valueUse": "V1"
       },
       {
         "key": "ev:占座__高铁座位纠纷",
@@ -102342,9 +102346,13 @@
         ],
         "firstSeen": "2026-08-03",
         "lastSeen": "2026-09-29",
-        "why": "高铁座位纠纷讨论近7天3条，与前23天3条持平（stable），属持续存在的车厢秩序问题。与th:seat_space_boundary主题关联，themes_registry建议把热门规则条文做成可转发长图和在占座争议内容下挂接官方规则说明卡片。座位边界争议常靠票务规则截图断案，规则科普能降低边界冲突。",
-        "productImplication": "①部分触及已有能力：基础选座有（B1），但座位使用规则提示在购票流程中缺失。规则科普内容未嵌入购票链路（C1内容能力未打通）。\n②无roadmap对应项（内容嵌入购票尚未排期）。\n③不做的理由：信号规模小（evidenceCount=3）且stable无增长趋势，当前不紧迫。但座位使用规则提示不依赖代售点能力，属低成本间接干预——可在座位信息页加规则提示降低争执概率，待信号回升后评估升级。",
-        "streakDays": 0
+        "why": "高铁座位纠纷讨论近7天9条，较前23天3条显著上升（rising），属持续存在的车厢秩序问题。与th:seat_space_boundary主题关联，themes_registry建议把热门规则条文做成可转发长图和在占座争议内容下挂接官方规则说明卡片。座位边界争议常靠票务规则截图断案，规则科普能降低边界冲突。evidenceCount从3升至9，增幅200%，触发重写。",
+        "productImplication": "①部分触及已有能力：基础选座有（B1），但座位使用规则提示在购票流程中缺失。规则科普内容未嵌入购票链路（C1内容能力未打通）。\n②无roadmap对应项（内容嵌入购票尚未排期）。\n③不做的理由：信号规模中等（evidenceCount=9）且持续上升，当前有一定紧迫性。但座位使用规则提示不依赖代售点能力，属低成本间接干预——可在座位信息页加规则提示降低争执概率，建议排入常规迭代。",
+        "streakDays": 0,
+        "priority": "P2",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无",
+        "valueUse": "V2"
       },
       {
         "key": "ev:官方回应__高铁座椅套垫卫生",
@@ -102363,9 +102371,13 @@
         ],
         "firstSeen": "2026-09-26",
         "lastSeen": "2026-09-29",
-        "why": "高铁座椅套垫卫生问题近7天新增6条信号（前23天为0），属铁路运营维护范畴。与ev:乘车提示__高铁座位脏（4条，rising）同属车厢卫生主题。座椅清洁属铁路局运营责任，非携程产品域可干预——这不是产品可解决的差异化方向。",
+        "why": "高铁座椅套垫卫生问题近7天新增6条信号（前23天为0），属铁路运营维护范畴。与ev:乘车提示__高铁座位脏（3条，rising）同属车厢卫生主题。座椅清洁属铁路局运营责任，非携程产品域可干预——这不是产品可解决的差异化方向。首次出现，待观察。",
         "productImplication": "①不触及携程已有能力：座椅卫生属铁路运营维护范畴，携程无物理清洁权限。\n②无roadmap对应项。\n③不做的理由：物理卫生条件是铁路局责任，非数字产品可解决。如后续扩展为车厢环境评价反馈功能且信号持续上升，可升级评估。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "ev:官方回应__孕妇高铁站求助护送",
@@ -102386,7 +102398,11 @@
         "lastSeen": "2026-09-29",
         "why": "孕妇高铁站求助护送讨论近7天新增5条信号（前23天为0），反映特殊人群车站服务需求。12306不提供站内护送预约或特殊人群出行辅助的数字化服务。themes_registry建议客服反馈入口可增设特殊人群标签以分流处理。但站内护送属线下服务，携程无法干预车站人力调度。",
         "productImplication": "①不触及携程已有能力：当前无站内护送或特殊人群车站服务预约模块。\n②无roadmap对应项。\n③不做的理由：站内护送属车站线下服务范畴，非携程可调度。但特殊人群标签分流可作为客服体验优化方向，待信号连续2周期上升后升级评估。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "无",
+        "valueUse": "V1"
       },
       {
         "key": "ev:高铁科普__西康高铁开通",
@@ -102405,7 +102421,13 @@
         ],
         "firstSeen": "2026-09-29",
         "lastSeen": "2026-09-29",
-        "streakDays": 0
+        "why": "西康高铁开通近7天新增5条信号（前23天为0），属铁路基础设施扩展新闻。新线开通影响目的地选择和出行需求结构，但不直接影响用户渠道选择决策——涨的是铁路整体供给，不是携程的份额。首次出现，待观察。",
+        "productImplication": "①不触及携程已有能力：新线开通属铁路基础设施建设，携程无法干预。\n②无roadmap对应项。\n③不做的理由：新线开通影响的是整体供给而非渠道选择，携程只需确保新线车次已接入查询和购票系统（基础能力已有）。信号属间接受益——铁路供给增加但不改变用户选哪家买票的决策。",
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "ev:高铁科普__马斯克体验中国高铁",
@@ -102425,7 +102447,11 @@
         "lastSeen": "2026-09-29",
         "why": "马斯克体验中国高铁话题近7天新增4条信号（前23天为0），属社会热点事件引发的科普讨论，不影响用户渠道选择决策。与火车票业务关系为间接受益——涨的是高铁整体关注度，不是携程的份额。",
         "productImplication": "①不触及携程已有能力：纯社媒热点事件，无产品功能对应。\n②无roadmap对应项。\n③不做的理由：话题不涉及渠道选择、购票体验或差异化能力，属品牌/营销层面而非产品层面。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "ev:乘车提示__高铁偶遇吴磊",
@@ -102443,7 +102469,13 @@
         ],
         "firstSeen": "2026-09-28",
         "lastSeen": "2026-09-29",
-        "streakDays": 0
+        "why": "高铁偶遇吴磊话题近7天新增4条信号（前23天为0），属明星偶遇娱乐内容，不影响用户渠道选择决策。与火车票业务关系为间接受益——涨的是高铁出行话题度，不是携程的份额。首次出现，待观察。",
+        "productImplication": "①不触及携程已有能力：纯社媒娱乐事件，无产品功能对应。\n②无roadmap对应项。\n③不做的理由：话题不涉及渠道选择、购票体验或差异化能力，属品牌/营销层面而非产品层面。偶发事件无法形成持续产品策略。",
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "ev:乘车提示__高铁座位脏",
@@ -102464,7 +102496,11 @@
         "lastSeen": "2026-09-29",
         "why": "主题：高铁座位脏引发用户不满。首次出现3条信号（evidenceCount=3，streakDays=0），反映车厢卫生体验痛点。但座位清洁属铁路运营维护范畴，携程无法干预物理卫生条件——这不是产品可解决的差异化方向。",
         "productImplication": "①不触及携程已有能力：座位清洁属铁路运营维护范畴，携程无物理清洁权限。\n②无roadmap对应项。\n③不做的理由：座位卫生是铁路局运营责任，非携程产品域可干预——做差异化需聚焦12306不做的数字体验层面而非物理设施。如后续扩展为'车厢环境评价反馈'功能且规模上升，可升级评估。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "ev:票务新规__12306候补多订单回应",
@@ -102483,7 +102519,11 @@
         "lastSeen": "2026-09-29",
         "why": "12306就候补多订单问题做出回应，近7天新增3条信号（前23天为0）。携程A1已有候补+抢票+预约秒杀能力，但受12306风控影响需持续升级迭代策略。12306对候补规则的任何调整都可能影响携程候补下单链路，需密切关注是否收窄差异化窗口。",
         "productImplication": "①触及已有能力：A1抢票+候补+预约秒杀已成熟，但受12306风控影响。\n②对应roadmap：抢票策略升级（sprint25有支付流程补足、多乘客不同坐席需求等在推项目）。\n③不做的理由：信号首次出现且规模小（evidenceCount=3），不构成紧急排期触发。但需持续跟踪12306候补规则变化是否影响携程候补链路稳定性，待规则正式落地后评估影响范围。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "true",
+        "roadmapAlignment": "抢票策略升级",
+        "valueUse": "V2"
       },
       {
         "key": "ev:绿皮火车__车站到发实拍",
@@ -102504,7 +102544,11 @@
         "lastSeen": "2026-09-28",
         "why": "绿皮火车车站到发实拍内容近7天新增2条信号（前23天为0），属慢车复古情怀类内容传播。themes_registry的slow_train_nostalgia主题建议针对绿皮火车路线在App内上线慢车沿途风物与美食地图打卡攻略。但绿皮火车属小众出行场景，与核心用户（短途日常出行者）感知度有限。",
         "productImplication": "①不触及携程已有能力：当前无慢车沿途内容模块，C1内容能力未打通到火车票场景。\n②无roadmap对应项（内容嵌入购票尚未排期）。\n③不做的理由：信号规模极小（evidenceCount=2），绿皮火车属小众场景，社媒可迁移性间接（知道慢车风景不影响选哪家买票）。方向可归入C1内容金矿未来场景，待信号连续2周期上升后升级评估。",
-        "streakDays": 1
+        "streakDays": 1,
+        "priority": "Observing",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "th:railway_rules_and_hacks",
@@ -102524,7 +102568,11 @@
         "lastSeen": "2026-09-29",
         "why": "主题：铁路票务规则与避坑，用户在社媒上互相科普票务冷知识和避坑经验，是当前最活跃的洞察主题。\n关注理由：12306虽提供规则说明但体验偏『政府工程』风格——这正是携程剩余的差异化窗口：用产品化方式做规则解读和避坑引导。携程A2退改闭环已成熟，且已搭建票规Agent，前端入口预计1.14上线。",
         "productImplication": "①触及已有能力：退票/改签线上闭环已成熟，但规则解释产品化深度不足。\n②高度对应roadmap：AI Agent三条线中的票规Agent（已完成搭建，前端入口预计1.14上线）。\n③动作建议：加速票规Agent前端入口上线，同步在购票流程关键节点嵌入规则解释和风险提示，并将冷知识按行程节点推送嵌入首乘流程页。底层需求持续存在，fading不代表放弃——这是直接关联季度硬仗的差异化动作。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "P2",
+        "basedOnExistingCapability": "true",
+        "roadmapAlignment": "AI Agent 三条线（票规Agent）",
+        "valueUse": "V1"
       },
       {
         "key": "th:cabin_noise_and_children",
@@ -102544,7 +102592,11 @@
         "lastSeen": "2026-09-29",
         "why": "主题：车厢儿童噪音与静音博弈，记录儿童喧哗、踹椅、静音车厢争议等冲突。\n关注理由：12306已上线静音车厢功能，携程选座也接了静音车厢但受代售点能力约束——差异化窗口已关闭。themes_registry建议『可上线噪音/肢体干扰一键反馈，乘务定向干预』涉及乘务调度非携程可控。",
         "productImplication": "①部分触及已有能力：静音车厢选座有但受代售点约束；静音车厢12306已上线。\n②无roadmap对应项。\n③不做的理由：12306已满足静音车厢能力（差异化窗口已关闭），选座受代售点约束，themes_registry的『噪音一键反馈』涉及乘务调度非携程可控。待后续连续2周期信号回升再评估升级。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无",
+        "valueUse": "V2"
       },
       {
         "key": "th:seat_space_boundary",
@@ -102564,7 +102616,11 @@
         "lastSeen": "2026-09-29",
         "why": "主题：密闭空间座位边界与争议，涉及零食占座、行李架焦虑、座椅旋转等冲突。\n关注理由：底层矛盾持续存在，themes_registry更新判断为『票务页可显性标注座位使用规则降低现场摩擦』。携程基础选座有但特殊选座受代售点约束。",
         "productImplication": "①部分触及已有能力：基础选座有，但特殊选座受代售点物理约束。\n②无roadmap对应项。\n③动作建议：themes_registry建议『票务页标注座位使用规则』不依赖代售点能力，是低成本间接干预——可先在座位信息页加规则提示降低争执概率，待信号回升后评估升级。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "P2",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无",
+        "valueUse": "V2"
       },
       {
         "key": "th:railway_accessible_and_service",
@@ -102582,9 +102638,13 @@
         ],
         "firstSeen": "2026-09-16",
         "lastSeen": "2026-09-29",
-        "why": "无障碍与服务民生主题近7天新增4条信号（前23天为0），themes_registry热度为4（较高）。该主题聚合了女性专属包房（12条）、孕妇求助护送（5条）、特殊人群出行等信号。12306不提供特殊人群出行的数字化服务（如特殊人群标签筛选、女性友好车厢等），这是差异化窗口。themes_registry建议在选座界面增加女性友好车厢/包房筛选入口和客服反馈入口增设特殊人群标签以分流处理。",
-        "productImplication": "①部分触及已有能力：A5特殊人群购票（儿童/学生/残军）有，但服务深度不足，无特殊人群标签筛选或出行辅助模块。\n②部分对应roadmap：增长&新客方向（特殊人群服务深化），但具体功能尚未排期。\n③动作建议：该主题是12306不做的差异化方向，且信号活跃度在上升（evidenceCount=4，momentum=new，themes_registry heat=4）。建议将女性友好车厢筛选和客服特殊人群标签分流作为sprint26需求探索方向评估，待streakDays>=3后升级排期讨论。",
-        "streakDays": 0
+        "why": "无障碍与服务民生主题近7天新增1条直接信号（前23天为0），themes_registry热度为1。该主题聚合了女性专属包房（14条，new）、孕妇求助护送（5条，new）等强子信号——主题级evidenceCount虽低（1），但子信号活跃度高。12306不提供特殊人群出行的数字化服务（如特殊人群标签筛选、女性友好车厢等），这是差异化窗口。themes_registry建议在选座界面增加女性友好车厢/包房筛选入口和客服反馈入口增设特殊人群标签以分流处理。",
+        "productImplication": "①部分触及已有能力：A5特殊人群购票（儿童/学生/残军）有，但服务深度不足，无特殊人群标签筛选或出行辅助模块。\n②部分对应roadmap：增长&新客方向（特殊人群服务深化），但具体功能尚未排期。\n③动作建议：该主题是12306不做的差异化方向，且子信号活跃度在上升（女性专属包房ev=14为本期最强新增）。建议将女性友好车厢筛选和客服特殊人群标签分流作为sprint26需求探索方向评估，待streakDays>=3后升级排期讨论。",
+        "streakDays": 0,
+        "priority": "P1",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "增长 & 新客（特殊人群服务深化）",
+        "valueUse": "V1"
       },
       {
         "key": "th:railway_youth_first_trip_guide",
@@ -102603,7 +102663,11 @@
         "lastSeen": "2026-09-29",
         "why": "主题：学生首乘高铁教学指南，面向准大学生和首次独自乘车人群提供进站/检票/找座全流程教学。\n关注理由：12306不做首乘教学——这是功能空白区。themes_registry建议『新手引导可与票务知识库打通，按步骤分发内容』。roadmap中增长团队有小程序回流项目（9.18重开20%实验）。",
         "productImplication": "①不触及携程已有能力：当前小程序中无首乘图文指引模块。\n②部分对应roadmap：增长&新客（小程序回流，sprint25有福利引导入口改造已上线）。\n③动作建议：方向高度对齐新客获取战略——首乘用户正是新客核心来源，且12306不做首乘教学是差异化窗口。建议将首乘指引作为小程序回流项目的子模块评估，待开学季/春运信号回升后升级排期。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "增长 & 新客（小程序回流）",
+        "valueUse": "V1"
       },
       {
         "key": "th:exquisite_train_lifestyle",
@@ -102621,9 +102685,13 @@
         ],
         "firstSeen": "2026-08-17",
         "lastSeen": "2026-09-29",
-        "why": "高铁精致生活与好物分享主题近7天新增1条信号（前23天为0），themes_registry热度为1。该主题是C1内容能力未打通到火车票场景的核心差异化金矿——12306完全不做内容，携程有旅游内容生态但未接入购票链路。themes_registry建议可开设车上吃什么话题承接外卖场景转化和出行攻略页整合订餐入口与优惠信息。",
-        "productImplication": "①不触及携程已有能力：当前购票流程中无内容嵌入模块，C1内容能力（旅游内容生态）存在但未打通到火车票场景。\n②无roadmap对应项（内容嵌入购票尚未排期）。\n③不做的理由：当前信号规模极小（evidenceCount=1），不构成排期触发条件。但方向高度对齐季度硬仗（差异化于12306），属C1差异化金矿区。待信号连续2周期上升或evidenceCount>=5后，应升级为P1排期讨论——购票页嵌入高铁好物、车厢场景内容是12306完全不做的差异化方向。",
-        "streakDays": 0
+        "why": "高铁精致生活与好物分享主题近7天0条直接信号（前23天0），themes_registry热度为0。该主题是C1内容能力未打通到火车票场景的核心差异化金矿——12306完全不做内容，携程有旅游内容生态但未接入购票链路。themes_registry建议可开设车上吃什么话题承接外卖场景转化和出行攻略页整合订餐入口与优惠信息。信号stable无变化，继承上次判断。",
+        "productImplication": "①不触及携程已有能力：当前购票流程中无内容嵌入模块，C1内容能力（旅游内容生态）存在但未打通到火车票场景。\n②无roadmap对应项（内容嵌入购票尚未排期）。\n③不做的理由：当前信号规模为零（evidenceCount=0），不构成排期触发条件。但方向高度对齐季度硬仗（差异化于12306），属C1差异化金矿区。待信号连续2周期上升或evidenceCount>=5后，应升级为P1排期讨论——购票页嵌入高铁好物、车厢场景内容是12306完全不做的差异化方向。",
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": "false",
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       }
     ],
     "generatedAt": "2026-09-29 09:00:03",
