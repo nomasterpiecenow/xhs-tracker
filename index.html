@@ -153,57 +153,61 @@
   /* INSIGHTS */
   .ins-grid { display: grid; grid-template-columns: 1fr 1fr; gap: var(--sp-lg); }
   .ins-col { background: var(--parchment); border-radius: var(--r-lg); padding: var(--sp-lg) var(--sp-xl); }
-  .ins-col h3 { font-family: "SF Pro Display", system-ui, sans-serif; font-size: 17px; font-weight: 600; margin-bottom: var(--sp-md); color: var(--ink); letter-spacing: -0.374px; }
+  .ins-sechead { display: flex; align-items: baseline; gap: var(--sp-xs); margin-bottom: var(--sp-md); }
+  .ins-sechead h3 { font-family: "SF Pro Display", system-ui, sans-serif; font-size: 17px; font-weight: 600; color: var(--ink); letter-spacing: -0.374px; }
+  .ins-sechead .count { font-size: 12.5px; color: var(--ink-48); }
   /* 置顶模块「今日最该看的 3 件事」 */
-  .ins-top { background: linear-gradient(135deg, #f0f4ff 0%, #f5f0ff 100%); border: 1px solid var(--hairline); border-radius: var(--r-lg); padding: var(--sp-lg) var(--sp-xl); margin-bottom: var(--sp-lg); }
-  .ins-top h3 { font-family: "SF Pro Display", system-ui, sans-serif; font-size: 17px; font-weight: 600; margin-bottom: var(--sp-sm); color: var(--ink); letter-spacing: -0.374px; }
-  .ins-top-items { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: var(--sp-sm); }
-  .ins-top-item { border: 1px solid var(--divider); border-radius: var(--r-md); padding: var(--sp-sm) var(--sp-md); background: var(--canvas); cursor: pointer; transition: all .18s ease; }
-  .ins-top-item:hover { border-color: var(--hairline); background: var(--pearl); }
-  .ins-top-item .ti-pri { font-size: 10px; font-weight: 700; letter-spacing: 0.5px; }
-  .ins-top-item .ti-name { font-size: 14px; font-weight: 600; color: var(--ink); margin-top: 2px; }
-  .ins-top-item .ti-sum { font-size: 12px; color: var(--ink-80); margin-top: 3px; line-height: 1.43; }
+  .ins-top { background: var(--canvas); border: 1px solid var(--hairline); border-radius: var(--r-lg); padding: 4px; margin-bottom: var(--sp-lg); box-shadow: 0 1px 2px rgba(16,24,40,.04), 0 8px 24px -12px rgba(16,24,40,.08); }
+  .ins-top .t3head { display: flex; align-items: center; gap: 9px; padding: 14px 16px 10px; }
+  .ins-top .t3head h3 { font-family: "SF Pro Display", system-ui, sans-serif; font-size: 15px; font-weight: 700; color: var(--ink); }
+  .ins-top-items { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0; }
+  .ins-top-item { border-top: 1px solid var(--divider); padding: 13px 16px; display: flex; gap: 13px; align-items: flex-start; }
+  .ins-top-item .ti-num { flex: none; width: 22px; height: 22px; border-radius: 7px; background: var(--primary); color: #fff; font-size: 12.5px; font-weight: 700; display: grid; place-items: center; margin-top: 2px; }
+  .ins-top-item .ti-body { font-size: 13.5px; color: var(--ink-80); line-height: 1.5; }
+  .ins-top-item .ti-body b { color: var(--ink); font-weight: 600; }
   /* 卡片 */
-  .ins-card { border: 1px solid var(--divider); border-radius: var(--r-md); padding: var(--sp-md) var(--sp-lg); margin-bottom: var(--sp-sm); cursor: pointer; transition: all .18s ease; position: relative; background: var(--canvas); }
+  .ins-card { background: var(--canvas); border: 1px solid var(--divider); border-left: 3px solid var(--ink-48); border-radius: var(--r-md); padding: var(--sp-md) var(--sp-lg); margin-bottom: var(--sp-sm); cursor: pointer; transition: all .18s ease; position: relative; overflow: hidden; box-shadow: 0 1px 2px rgba(16,24,40,.03); }
+  .ins-card[data-p="P0"] { border-left-color: #e5484d; }
+  .ins-card[data-p="P1"] { border-left-color: #ef8a2b; }
+  .ins-card[data-p="P2"] { border-left-color: var(--primary); }
   .ins-card:hover { border-color: var(--hairline); background: var(--pearl); }
   .ins-card:active { transform: scale(0.995); }
-  .ins-card .hd { display: flex; align-items: center; gap: var(--sp-xs); flex-wrap: wrap; }
-  .ins-card .hd .hd-l { display: flex; align-items: center; gap: var(--sp-xs); }
-  .ins-card .hd .hd-r { margin-left: auto; display: flex; align-items: center; gap: var(--sp-xs); }
+  .ins-card .hd { display: flex; align-items: center; gap: var(--sp-xs); flex-wrap: wrap; margin-bottom: 11px; }
+  .ins-card .hd .hd-r { margin-left: auto; display: flex; align-items: center; gap: 6px; }
   .ins-card .hd::after { content: '▸'; margin-left: var(--sp-xs); font-size: 12px; color: var(--ink-48); font-weight: 400; flex-shrink: 0; }
   .ins-card.open .hd::after { content: '▾'; }
-  .ins-card .nm { font-weight: 600; color: var(--ink); font-size: 14px; letter-spacing: -0.224px; }
-  /* priority 靠左主视觉 */
-  .pri { display: inline-block; padding: 2px 9px; border-radius: var(--r-pill); font-size: 11px; font-weight: 700; letter-spacing: 0.5px; }
-  .pri.p0 { background: #ff3b30; color: #fff; }
-  .pri.p1 { background: #ff9500; color: #fff; }
-  .pri.p2 { background: var(--parchment); color: var(--ink-48); }
-  .pri.obs { background: var(--parchment); color: var(--ink-48); opacity: 0.6; }
-  /* 动量弱化，靠右 */
-  .mom { display: inline-block; padding: 2px 8px; border-radius: var(--r-pill); font-size: 10px; font-weight: 500; }
-  .mom.new { background: #e8f8ec; color: #34c759; }
-  .mom.rising { background: #fff3e0; color: #e08e0b; }
-  .mom.stable { background: #ebf2ff; color: #0066cc; }
-  .mom.fading { background: #f5f5f7; color: var(--ink-48); }
-  .mom.dormant { background: #f5f5f7; color: var(--ink-48); }
-  .ins-card .ev { font-size: 11px; color: var(--ink-48); font-weight: 500; }
+  .ins-card .nm { font-size: 15.5px; font-weight: 700; color: var(--ink); letter-spacing: -0.01em; flex: 1; min-width: 140px; padding-top: 1px; }
+  /* priority pill — 柔和半透明底色 */
+  .pri { flex: none; font-size: 11.5px; font-weight: 700; letter-spacing: .02em; padding: 3px 10px; border-radius: 7px; line-height: 1.5; }
+  .pri.p0 { background: rgba(229,72,77,.11); color: #e5484d; }
+  .pri.p1 { background: rgba(239,138,43,.12); color: #c96f14; }
+  .pri.p2 { background: rgba(0,102,204,.11); color: var(--primary); }
+  .pri.obs { background: #eef0f3; color: #6b7381; }
+  /* 动量 chip + 证据 chip — 靠右弱化 */
+  .mom { font-size: 11.5px; font-weight: 600; padding: 2px 9px; border-radius: var(--r-pill); white-space: nowrap; }
+  .mom.new { background: rgba(18,161,80,.10); color: #12a150; }
+  .mom.rising { background: rgba(229,72,77,.10); color: #e5484d; }
+  .mom.stable { background: rgba(0,102,204,.10); color: var(--primary); }
+  .mom.fading { background: #eef0f3; color: #7a828f; }
+  .mom.dormant { background: #eef0f3; color: #7a828f; }
+  .ins-card .ev { font-size: 11.5px; font-weight: 600; padding: 2px 9px; border-radius: var(--r-pill); white-space: nowrap; background: #f2f3f6; color: #6b7381; }
   .ins-card .evZero { opacity: 0.4; }
   .ins-card .delta { font-size: 11px; color: var(--ink-48); margin-top: 2px; }
   /* roadmap 关联标签 */
-  .rdmap { display: inline-block; padding: 2px 8px; border-radius: var(--r-pill); font-size: 10px; font-weight: 500; background: #ebf2ff; color: var(--primary); border: 1px solid #d3e5ff; }
+  .rdmap { flex: none; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 7px; white-space: nowrap; background: rgba(0,102,204,.08); color: var(--primary); border: 1px solid rgba(0,102,204,.14); }
   .rdmap.none { display: none; }
-  /* 分块渲染 */
-  .ins-blocks { margin-top: var(--sp-xs); }
-  .ins-block { margin-bottom: var(--sp-xs); line-height: 1.5; }
-  .ins-block:last-child { margin-bottom: 0; }
-  .ins-block .bk-label { font-size: 12px; font-weight: 700; color: var(--ink); margin-right: 4px; white-space: nowrap; }
-  .ins-block .bk-text { font-size: 13px; color: var(--ink-80); }
-  .ins-block.judge .bk-label { font-size: 13px; color: var(--primary); }
-  .ins-block.judge .bk-text { font-size: 14px; font-weight: 500; color: var(--ink); }
-  .ins-block.action .bk-text, .ins-block.action2 .bk-text, .ins-block.migrate .bk-text { color: #1a7a3a; }
-  .ins-block.action .bk-label, .ins-block.action2 .bk-label, .ins-block.migrate .bk-label { color: #1a7a3a; }
-  .ins-block.warn .bk-label, .ins-block.warn .bk-text { color: #946300; }
-  .ins-block.muted .bk-label, .ins-block.muted .bk-text { color: var(--ink-48); font-size: 12px; }
+  /* 判断块 verdict — 独立灰底框 */
+  .ins-verdict { font-size: 13.5px; font-weight: 600; color: var(--ink); background: var(--parchment); border: 1px solid var(--divider); border-radius: var(--r-sm); padding: 9px 12px; margin-bottom: 12px; line-height: 1.5; }
+  .ins-verdict .vhi { color: var(--primary); font-weight: 700; }
+  /* dt/dd 分块布局 */
+  .ins-dl { display: flex; flex-direction: column; gap: 9px; }
+  .ins-dl .dl-row { display: flex; gap: 11px; font-size: 13px; }
+  .ins-dl dl-dt { flex: none; width: 82px; color: var(--ink-48); font-size: 12px; font-weight: 600; padding-top: 2px; letter-spacing: .01em; }
+  .ins-dl dl-dd { color: var(--ink-80); flex: 1; line-height: 1.55; }
+  .ins-dl dl-dd .hi { color: var(--ink); font-weight: 600; }
+  .ins-dl dl-dd ol { margin: 2px 0 0; padding-left: 17px; display: flex; flex-direction: column; gap: 3px; }
+  .ins-dl dl-dd ol li { color: var(--ink-80); }
+  .ins-dl dl-dd ol li::marker { color: var(--ink-48); font-weight: 600; }
   /* 展开后才显示的详情 */
   .ins-card .det { display: none; margin-top: var(--sp-sm); border-top: 1px dashed var(--divider); padding-top: var(--sp-sm); }
   .ins-card.open .det { display: block; }
@@ -331,12 +335,12 @@
 
   <div id="view-insights" class="tabview" style="display:none">
     <div id="insTopBox" class="ins-top" style="display:none">
-      <h3>🎯 今日最该看的 3 件事</h3>
+      <div class="t3head"><span>🔆</span><h3>今日最该看的 3 件事</h3></div>
       <div class="ins-top-items" id="insTopItems"></div>
     </div>
     <div class="ins-grid">
-      <div class="ins-col"><h3>🌐 跨事件主题</h3><div id="themeCol"></div></div>
-      <div class="ins-col"><h3>⚡ 事件热点</h3><div id="eventCol"></div></div>
+      <div class="ins-col"><div class="ins-sechead"><h3>🌐 跨事件主题</h3><span class="count" id="themeCount"></span></div><div id="themeCol"></div></div>
+      <div class="ins-col"><div class="ins-sechead"><h3>⚡ 事件热点</h3><span class="count" id="eventCount"></span></div><div id="eventCol"></div></div>
     </div>
   </div>
 
@@ -817,25 +821,53 @@ var BKCLS = {
   '不跟进': 'muted',
   '边界': 'warn'
 };
-// 按【小标题】拆行渲染成 blocks
+// 按【小标题】拆行，【判断】单独做 verdict，其余做 dt/dd 行
 function parseBlocks(rawText) {
   if (!rawText || !rawText.trim()) return "";
   var text = cleanRaw(rawText);
   var lines = text.split(/\n/).filter(l => l.trim());
-  var html = '<div class="ins-blocks">';
+  var verdictHtml = "";
+  var dlRows = [];
   for (var i = 0; i < lines.length; i++) {
     var line = lines[i].trim();
     var m = line.match(/^【([^】]+)】(.*)/);
-    if (m) {
-      var label = m[1].trim();
-      var body = m[2].trim();
-      var cls = BKCLS[label] || 'default';
-      html += '<div class="ins-block ' + cls + '"><span class="bk-label">【' + esc(label) + '】</span><span class="bk-text">' + esc(body) + '</span></div>';
+    if (!m) {
+      // 无标题前缀的行，跳过
+      continue;
+    }
+    var label = m[1].trim();
+    var body = m[2].trim();
+    if (label === '判断') {
+      // 判断单独做 verdict 框，移除"维持""升级"等前缀做蓝色高亮
+      var verdictText = esc(body);
+      // 高亮 P0/P1/P2/观察中 关键词
+      verdictText = verdictText.replace(/(P[012])/g, '<span class="vhi">$1</span>');
+      verdictText = verdictText.replace(/(升级为?\s*)?(P[012])/g, function(match, p1, p2) {
+        return (p1 ? p1 : '') + '<span class="vhi">' + p2 + '</span>';
+      });
+      verdictHtml = '<div class="ins-verdict">' + verdictText + '</div>';
     } else {
-      html += '<div class="ins-block default"><span class="bk-text">' + esc(line) + '</span></div>';
+      // 其他小标题做 dt/dd 行
+      var dd = esc(body);
+      // 数字高亮：近 7 天 N 条 / 前 3 周 N 条 → N 用 .hi
+      dd = dd.replace(/(\d+)\s*条/g, '<span class="hi">$1 条</span>');
+      // 有序列表：①②③ 自动变 ol
+      if (/[①②③④⑤⑥]/.test(dd) || /^\s*[1-9][.、]/.test(dd)) {
+        var items = dd.split(/[①②③④⑤⑥]|(?=\s*[1-9][.、])/).filter(s => s.trim());
+        if (items.length >= 2) {
+          var olHtml = '<ol>';
+          for (var j = 0; j < items.length; j++) {
+            olHtml += '<li>' + items[j].replace(/^[.、\s]+/, '') + '</li>';
+          }
+          olHtml += '</ol>';
+          dd = olHtml;
+        }
+      }
+      dlRows.push('<div class="dl-row"><dl-dt>' + esc(label) + '</dl-dt><dl-dd>' + dd + '</dl-dd></div>');
     }
   }
-  html += '</div>';
+  var html = verdictHtml;
+  if (dlRows.length) html += '<div class="ins-dl">' + dlRows.join('') + '</div>';
   return html;
 }
 // 从【判断】行提取一句话摘要（供置顶模块用）
@@ -892,17 +924,16 @@ function insCard(c) {
       }).join("") + '</ul>'
     : '<div style="font-size:12px;color:#999">暂无关联笔记</div>';
   // 卡片主体（why + productImplication 分块渲染）
-  return '<div class="ins-card" onclick="this.classList.toggle(\'open\')">'
+  return '<div class="ins-card" data-p="' + (c.priority || 'Observing') + '" onclick="this.classList.toggle(\'open\')">'
     + '<div class="hd">'
-    + '<span class="nm">' + esc(c.theme) + '</span>'
     + (c.priority ? '<span class="pri ' + priCls(c.priority) + '">' + priLabel(c.priority) + '</span>' : '<span class="pri obs">观察中</span>')
+    + '<span class="nm">' + esc(c.theme) + '</span>'
     + (c.roadmapAlignment && c.roadmapAlignment !== '无' ? '<span class="rdmap">' + esc(c.roadmapAlignment) + '</span>' : '')
     + '<span class="hd-r">'
     + momBadge(c.momentum)
-    + '<span class="ev' + ((c.evidenceCount || 0) === 0 ? ' evZero' : '') + '" title="近 7 天新增证据数（对比窗口：前 3 周）">' + (c.evidenceCount || 0) + ' 证据</span>'
+    + '<span class="ev' + ((c.evidenceCount || 0) === 0 ? ' evZero' : '') + '" title="近 7 天新增证据数（对比窗口：前 3 周）">证据 ' + (c.evidenceCount || 0) + ' 条</span>'
     + '</span>'
     + '</div>'
-    + (c.momentumDelta ? '<div class="delta">' + esc(c.momentumDelta) + '</div>' : '')
     + parseBlocks(c.why)
     + (c.productImplication ? parseBlocks(c.productImplication) : '')
     + '<div class="det">' + noteListHtml + '</div>'
@@ -928,28 +959,27 @@ function renderInsights() {
   }
   var themes = sortCards(daily.filter(c => c.category === "theme"));
   var events = sortCards(daily.filter(c => c.category === "event"));
-  // 置顶模块：取全部卡片中优先级最高、证据最强的 3 张
+  var tcEl = document.getElementById("themeCount");
+  var ecEl = document.getElementById("eventCount");
+  if (tcEl) tcEl.textContent = themes.length + ' 张 · 主题级趋势研判';
+  if (ecEl) ecEl.textContent = events.length + ' 张 · 新闻简报式';
   var top3 = sortCards(daily.slice()).slice(0, 3);
   var topBox = document.getElementById("insTopBox");
   var topItems = document.getElementById("insTopItems");
   if (top3.length && top3.some(c => (c.priority === 'P0' || c.priority === 'P1' || c.priority === 'P2'))) {
     topBox.style.display = '';
-    topItems.innerHTML = top3.map(function(c) {
+    topItems.innerHTML = top3.map(function(c, i) {
       var sum = extractJudgeSummary(c.why);
-      var priHtml = '<span class="pri ' + priCls(c.priority) + ' ti-pri">' + priLabel(c.priority) + '</span>';
-      var catLabel = c.category === 'theme' ? '🌐' : '⚡';
       return '<div class="ins-top-item">'
-        + priHtml
-        + '<div class="ti-name">' + catLabel + ' ' + esc(c.theme) + '</div>'
-        + '<div class="ti-sum">' + esc(sum) + '</div>'
+        + '<span class="ti-num">' + (i + 1) + '</span>'
+        + '<div class="ti-body"><b>' + esc(c.theme) + '（' + priLabel(c.priority) + '）</b>——' + esc(sum) + '</div>'
         + '</div>';
     }).join("");
   } else {
     topBox.style.display = 'none';
   }
-  document.getElementById("themeCol").innerHTML = themes.map(insCard).join("") || '<div class="empty">暂无主题</div>';
-  document.getElementById("eventCol").innerHTML = events.map(insCard).join("") || '<div class="empty">暂无事件</div>';
-}
+  document.getElementById("themeCol").innerHTML = themes.map(insCard).join("");
+  document.getElementById("eventCol").innerHTML = events.map(insCard).join("");
 
 function renderWeekly() {
   const el = document.getElementById("weeklyContent");
