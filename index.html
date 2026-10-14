@@ -209,6 +209,17 @@
   .ins-dl dl-dd ol { margin: 2px 0 0; padding-left: 17px; display: flex; flex-direction: column; gap: 3px; }
   .ins-dl dl-dd ol li { color: var(--ink-80); }
   .ins-dl dl-dd ol li::marker { color: var(--ink-48); font-weight: 600; }
+  /* 卡片被锚定时闪烁高亮 */
+  .ins-card.flash { animation: cardFlash 1.8s ease; }
+  @keyframes cardFlash {
+    0% { box-shadow: 0 0 0 0 rgba(0,102,204,0); }
+    15% { box-shadow: 0 0 0 3px rgba(0,102,204,.35); border-color: var(--primary); }
+    80% { box-shadow: 0 0 0 3px rgba(0,102,204,.25); }
+    100% { box-shadow: 0 1px 2px rgba(16,24,40,.03); }
+  }
+  /* 置顶模块 item 可点击 */
+  .ins-top-item { cursor: pointer; transition: background .15s ease; }
+  .ins-top-item:hover { background: var(--pearl); }
   /* 展开后才显示的详情 */
   .ins-card .det { display: none; margin-top: var(--sp-sm); border-top: 1px dashed var(--divider); padding-top: var(--sp-sm); }
   .ins-card.open .det { display: block; }
@@ -925,7 +936,8 @@ function insCard(c) {
       }).join("") + '</ul>'
     : '<div style="font-size:12px;color:#999">暂无关联笔记</div>';
   // 卡片主体（why + productImplication 分块渲染）
-  return '<div class="ins-card" data-p="' + (c.priority || 'Observing') + '" onclick="this.classList.toggle(\'open\')">'
+  var cid = 'ins_' + (c.key || c.theme || '').replace(/[^a-zA-Z0-9一-鿿]/g, '_');
+  return '<div class="ins-card" id="' + cid + '" data-p="' + (c.priority || 'Observing') + '" onclick="this.classList.toggle(\'open\')">'
     + '<div class="hd">'
     + (c.priority ? '<span class="pri ' + priCls(c.priority) + '">' + priLabel(c.priority) + '</span>' : '<span class="pri obs">观察中</span>')
     + '<span class="nm">' + esc(c.theme) + '</span>'
@@ -939,6 +951,15 @@ function insCard(c) {
     + (c.productImplication ? parseBlocks(c.productImplication) : '')
     + '<div class="det">' + noteListHtml + '</div>'
     + '</div>';
+}
+
+// 点击置顶模块跳转到对应卡片并高亮
+function jumpToCard(cid) {
+  var el = document.getElementById(cid);
+  if (!el) return;
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  el.classList.add('flash');
+  setTimeout(function() { el.classList.remove('flash'); }, 2000);
 }
 
 function renderInsights() {
@@ -971,7 +992,8 @@ function renderInsights() {
     topBox.style.display = '';
     topItems.innerHTML = top3.map(function(c, i) {
       var sum = extractJudgeSummary(c.why);
-      return '<div class="ins-top-item">'
+      var target = 'ins_' + (c.key || c.theme || '').replace(/[^a-zA-Z0-9一-鿿]/g, '_');
+      return '<div class="ins-top-item" onclick="jumpToCard('' + target + '')">'
         + '<span class="ti-num">' + (i + 1) + '</span>'
         + '<div class="ti-body"><b>' + esc(c.theme) + '（' + priLabel(c.priority) + '）</b>——' + esc(sum) + '</div>'
         + '</div>';
