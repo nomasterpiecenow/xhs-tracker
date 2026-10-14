@@ -144354,8 +144354,7 @@
         },
         {
           "key": "ev:乘车提示__高铁化妆",
-       车提示__高铁化妆",
-            "category": "event",
+          "category": "event",
           "mentions": 4,
           "latestMomentum": "fading",
           "evidenceCount": 3,
