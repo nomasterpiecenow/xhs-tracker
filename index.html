@@ -993,7 +993,7 @@ function renderInsights() {
     topItems.innerHTML = top3.map(function(c, i) {
       var sum = extractJudgeSummary(c.why);
       var target = 'ins_' + (c.key || c.theme || '').replace(/[^a-zA-Z0-9一-鿿]/g, '_');
-      return '<div class="ins-top-item" onclick="jumpToCard('' + target + '')">'
+      return '<div class="ins-top-item" onclick="jumpToCard(\'' + target + '\')">'
         + '<span class="ti-num">' + (i + 1) + '</span>'
         + '<div class="ti-body"><b>' + esc(c.theme) + '（' + priLabel(c.priority) + '）</b>——' + esc(sum) + '</div>'
         + '</div>';
