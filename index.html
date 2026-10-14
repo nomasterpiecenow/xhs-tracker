@@ -193,7 +193,8 @@
   .ins-card .ev { font-size: 11.5px; font-weight: 600; padding: 2px 9px; border-radius: var(--r-pill); white-space: nowrap; background: #f2f3f6; color: #6b7381; }
   .ins-card .evZero { opacity: 0.4; }
   .ins-card .delta { font-size: 11px; color: var(--ink-48); margin-top: 2px; }
-  /* roadmap 关联标签 */
+  /* roadmap 关联标签 — 独立行 */
+  .rdmap-row { margin-top: -4px; margin-bottom: 8px; }
   .rdmap { flex: none; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 7px; white-space: nowrap; background: rgba(0,102,204,.08); color: var(--primary); border: 1px solid rgba(0,102,204,.14); }
   .rdmap.none { display: none; }
   /* 判断块 verdict — 独立灰底框 */
@@ -928,12 +929,12 @@ function insCard(c) {
     + '<div class="hd">'
     + (c.priority ? '<span class="pri ' + priCls(c.priority) + '">' + priLabel(c.priority) + '</span>' : '<span class="pri obs">观察中</span>')
     + '<span class="nm">' + esc(c.theme) + '</span>'
-    + (c.roadmapAlignment && c.roadmapAlignment !== '无' ? '<span class="rdmap">' + esc(c.roadmapAlignment) + '</span>' : '')
     + '<span class="hd-r">'
     + momBadge(c.momentum)
     + '<span class="ev' + ((c.evidenceCount || 0) === 0 ? ' evZero' : '') + '" title="近 7 天新增证据数（对比窗口：前 3 周）">证据 ' + (c.evidenceCount || 0) + ' 条</span>'
     + '</span>'
     + '</div>'
+    + (c.roadmapAlignment && c.roadmapAlignment !== '无' ? '<div class="rdmap-row"><span class="rdmap">' + esc(c.roadmapAlignment) + '</span></div>' : '')
     + parseBlocks(c.why)
     + (c.productImplication ? parseBlocks(c.productImplication) : '')
     + '<div class="det">' + noteListHtml + '</div>'
