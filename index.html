@@ -236,27 +236,6 @@
   .ins-card .det .note-item .n-meta .plat-mini { display: inline-block; padding: 1px 6px; border-radius: var(--r-pill); font-size: 10px; font-weight: 600; }
   .ins-card .det .note-item .n-meta .plat-mini.xhs { background: #fff0f3; color: #ff2442; }
   .ins-card .det .note-item .n-meta .plat-mini.douyin { background: #ebf2ff; color: #2b6cb0; }
-  /* WEEKLY */
-  .wk-actions { background: var(--parchment); border-radius: var(--r-lg); padding: var(--sp-lg) var(--sp-xl); margin-bottom: var(--sp-md); }
-  .wk-actions h3 { font-family: "SF Pro Display", system-ui, sans-serif; font-size: 17px; font-weight: 600; margin-bottom: var(--sp-sm); color: var(--ink); letter-spacing: -0.374px; }
-  .wk-summary { font-size: 14px; color: var(--ink-80); line-height: 1.43; background: var(--canvas); border-radius: var(--r-md); padding: var(--sp-md) var(--sp-lg); margin-bottom: var(--sp-sm); letter-spacing: -0.224px; }
-  .wk-mainline { margin-bottom: var(--sp-sm); padding: var(--sp-sm) var(--sp-md); background: #fff8f0; border-radius: var(--r-sm); }
-  .wk-mainline .mn { font-weight: 700; color: #c8821a; }
-  .wk-mainline .mg { font-size: 12px; color: var(--ink-80); margin-top: 3px; }
-  .wk-action { margin-bottom: var(--sp-xs); padding: var(--sp-sm) var(--sp-md); background: #e8f8ec; border-radius: var(--r-sm); font-size: 14px; color: #34c759; }
-  .mom-snapshot { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: var(--sp-md); margin-bottom: var(--sp-md); }
-  .mom-box { background: var(--parchment); border-radius: var(--r-lg); padding: var(--sp-md) var(--sp-lg); text-align: center; }
-  .mom-box .n { font-size: 22px; font-weight: 700; color: var(--ink); }
-  .mom-box .l { font-size: 12px; color: var(--ink-48); margin-top: 4px; }
-  .wk-groups { background: var(--parchment); border-radius: var(--r-lg); padding: var(--sp-lg) var(--sp-xl); }
-  .wk-groups h3 { font-family: "SF Pro Display", system-ui, sans-serif; font-size: 17px; font-weight: 600; margin-bottom: var(--sp-sm); color: var(--ink); letter-spacing: -0.374px; }
-  .wk-item { border-bottom: 1px solid var(--divider); padding: var(--sp-sm) 0; }
-  .wk-item:last-child { border-bottom: none; }
-  .wk-item .tt { font-weight: 700; color: var(--ink); font-size: 14px; letter-spacing: -0.224px; }
-  .wk-item .ov { font-size: 14px; color: var(--ink-80); margin-top: 4px; letter-spacing: -0.224px; }
-  .wk-item .rel { font-size: 12px; color: var(--ink-48); margin-top: 4px; line-height: 1.6; }
-  .wk-item .rel .imp { color: #34c759; }
-  .fold { font-size: 12px; color: var(--ink-48); margin-top: 6px; }
 </style>
 </head>
 <body>
@@ -269,7 +248,6 @@
   <div class="tabs">
     <button class="tab active" data-tab="view-notes">🔥 爆款笔记</button>
     <button class="tab" data-tab="view-insights">📈 趋势洞察</button>
-    <button class="tab" data-tab="view-weekly">📅 每周总结</button>
   </div>
 
   <div id="view-notes" class="tabview">
@@ -354,10 +332,6 @@
       <div class="ins-col"><div class="ins-sechead"><h3>🌐 跨事件主题</h3><span class="count" id="themeCount"></span></div><div id="themeCol"></div></div>
       <div class="ins-col"><div class="ins-sechead"><h3>⚡ 事件热点</h3><span class="count" id="eventCount"></span></div><div id="eventCol"></div></div>
     </div>
-  </div>
-
-  <div id="view-weekly" class="tabview" style="display:none">
-    <div id="weeklyContent"></div>
   </div>
 </div>
 
@@ -1005,71 +979,6 @@ function renderInsights() {
   document.getElementById("eventCol").innerHTML = events.map(insCard).join("");
 }
 
-function renderWeekly() {
-  const el = document.getElementById("weeklyContent");
-  const wk = (INSIGHTS && INSIGHTS.weekly) || {};
-  const items = wk.items || [];
-  if (!items.length) {
-    el.innerHTML = '<div class="empty">暂无周报（每周一生成）</div>';
-    return;
-  }
-  const mainlines = wk.mainlines || [];
-  const actions = wk.actions || [];
-  // ① 行动建议卡
-  let html = '<div class="wk-actions"><h3>🎯 本周综述与行动建议</h3>';
-  html += '<div class="wk-summary">' + esc(wk.summary || "") + '</div>';
-  if (mainlines.length) {
-    html += mainlines.map(m => '<div class="wk-mainline"><span class="mn">' + esc(m.name) + '</span><div class="mg">' + esc(m.meaning) + '</div></div>').join("");
-  }
-  if (actions.length) {
-    html += actions.map(a => '<div class="wk-action">✅ ' + esc(a.text) + '</div>').join("");
-  }
-  html += '</div>';
-  // ② 动量速览（纯代码三格）
-  const newC = items.filter(i => i.latestMomentum === "new").length;
-  const rise = items.filter(i => i.latestMomentum === "rising").length;
-  const fade = items.filter(i => i.latestMomentum === "fading").length;
-  html += '<div class="mom-snapshot">'
-    + '<div class="mom-box"><div class="n" style="color:#2e7d32">' + newC + '</div><div class="l">新涌现</div></div>'
-    + '<div class="mom-box"><div class="n" style="color:#e08e0b">' + rise + '</div><div class="l">升温</div></div>'
-    + '<div class="mom-box"><div class="n" style="color:#999">' + fade + '</div><div class="l">退烧</div></div>'
-    + '</div>';
-  // ③ 主线分组
-  html += '<div class="wk-groups"><h3>📌 本周信号明细</h3>';
-  const inMain = new Set();
-  (mainlines || []).forEach(m => (m.keys || []).forEach(k => inMain.add(k)));
-  const grouped = (mainlines || []).map(m => ({
-    name: m.name,
-    items: items.filter(i => (m.keys || []).indexOf(i.key) >= 0)
-  })).filter(g => g.items.length);
-  grouped.forEach(g => {
-    const big = g.items.filter(i => i.mentions >= 3);
-    const small = g.items.filter(i => i.mentions < 3);
-    html += '<h3 style="margin-top:8px">' + esc(g.name) + '</h3>';
-    big.forEach(i => html += wkItem(i));
-    if (small.length) {
-      html += '<div class="fold">+ 长尾 ' + small.length + ' 条（折叠）</div>';
-    }
-  });
-  const rest = items.filter(i => !inMain.has(i.key));
-  if (rest.length) {
-    html += '<h3 style="margin-top:8px">其他本周信号</h3>';
-    html += '<div class="fold">+ ' + rest.length + ' 条未归组信号（折叠）</div>';
-  }
-  html += '</div>';
-  el.innerHTML = html;
-}
-
-function wkItem(i) {
-  const rels = (i.relations || []).map(r =>
-    '<div class="rel">↔ ' + esc(r.toThemeName || r.toThemeKey || "") + '：' + esc(r.desc || "")
-    + (r.implication ? ' <span class="imp">💡 ' + esc(r.implication) + '</span>' : '') + '</div>'
-  ).join("");
-  return '<div class="wk-item"><div class="tt">' + esc(i.theme) + ' <span style="font-size:11px;color:#999">(提及 ' + i.mentions + ' 次)</span></div>'
-    + '<div class="ov">' + esc(i.overview || i.why || "") + '</div>'
-    + rels + '</div>';
-}
-
 // CDN 缓存诊断横幅
 function cacheCheck() {
   const qv = new URLSearchParams(location.search).get("v");
@@ -1082,7 +991,6 @@ function cacheCheck() {
 }
 
 renderInsights();
-renderWeekly();
 cacheCheck();
 renderMeta();
 applyFilter();
