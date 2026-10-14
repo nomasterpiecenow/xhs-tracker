@@ -821,8 +821,7 @@ var BKCLS = {
 function parseBlocks(rawText) {
   if (!rawText || !rawText.trim()) return "";
   var text = cleanRaw(rawText);
-  var lines = text.split(/
-/).filter(l => l.trim());
+  var lines = text.split(/\n/).filter(l => l.trim());
   var html = '<div class="ins-blocks">';
   for (var i = 0; i < lines.length; i++) {
     var line = lines[i].trim();
@@ -843,11 +842,9 @@ function parseBlocks(rawText) {
 function extractJudgeSummary(rawText) {
   if (!rawText) return "";
   var text = cleanRaw(rawText);
-  var m = text.match(/【判断】([^
-。；]*)/);
+  var m = text.match(/【判断】([^\n。；]*)/);
   if (m) return m[1].trim();
-  var firstLine = text.split(/
-/)[0];
+  var firstLine = text.split(/\n/)[0];
   if (firstLine) return firstLine.replace(/^【[^】]+】/, '').trim().slice(0, 60);
   return "";
 }
