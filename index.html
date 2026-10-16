@@ -161,6 +161,7 @@
   .ins-top .t3head { display: flex; align-items: center; gap: 9px; padding: 14px 16px 10px; }
   .ins-top .t3head h3 { font-family: "SF Pro Display", system-ui, sans-serif; font-size: 15px; font-weight: 700; color: var(--ink); }
   .ins-top .t3head .t3-time { margin-left: auto; font-size: 12px; color: var(--ink-48); font-weight: 400; letter-spacing: -0.12px; white-space: nowrap; }
+  .ins-top .ins-top-hint { padding: 2px 16px 14px; font-size: 13px; color: var(--ink-48); line-height: 1.5; }
   .ins-top-items { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0; }
   .ins-top-item { border-top: 1px solid var(--divider); padding: 13px 16px; display: flex; gap: 13px; align-items: flex-start; }
   .ins-top-item .ti-num { flex: none; width: 22px; height: 22px; border-radius: 7px; background: var(--primary); color: #fff; font-size: 12.5px; font-weight: 700; display: grid; place-items: center; margin-top: 2px; }
@@ -969,8 +970,13 @@ function renderInsights() {
     var _ga = (INSIGHTS && INSIGHTS.generatedAt) || "";
     topTimeEl.textContent = _ga ? ("洞察更新：" + _ga.slice(0, 16)) : "";
   }
-  if (top3.length && top3.some(c => (c.priority === 'P0' || c.priority === 'P1' || c.priority === 'P2'))) {
-    topBox.style.display = '';
+  // 置顶模块始终显示：即使某天全部信号都是「观察中」（无 P0/P1/P2），也保留模块容器，
+  // 以保住顶部的「洞察更新」时间始终可见（供判断洞察是否已更新）；此时列表位置给出说明文案。
+  var _hasP = top3.some(function(c) {
+    return c.priority === 'P0' || c.priority === 'P1' || c.priority === 'P2';
+  });
+  topBox.style.display = '';
+  if (top3.length && _hasP) {
     topItems.innerHTML = top3.map(function(c, i) {
       var sum = extractJudgeSummary(c.why);
       var target = 'ins_' + (c.key || c.theme || '').replace(/[^a-zA-Z0-9一-鿿]/g, '_');
@@ -979,8 +985,10 @@ function renderInsights() {
         + '<div class="ti-body"><b>' + esc(c.theme) + '（' + priLabel(c.priority) + '）</b>——' + esc(sum) + '</div>'
         + '</div>';
     }).join("");
+  } else if (top3.length) {
+    topItems.innerHTML = '<div class="ins-top-hint">今日无 P 级信号（均为观察中），详见下方卡片。</div>';
   } else {
-    topBox.style.display = 'none';
+    topItems.innerHTML = '<div class="ins-top-hint">暂无洞察数据。</div>';
   }
   document.getElementById("themeCol").innerHTML = themes.map(insCard).join("");
   document.getElementById("eventCol").innerHTML = events.map(insCard).join("");
