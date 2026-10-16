@@ -128970,6 +128970,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】观察中——行为事件，不指向产品需求。\n【数据】近 7 天 2 条 / 前 3 周 0 条 · 动量：新涌现 · 首次出现 10-15。\n【为什么爆】高铁座位排便的极端行为引发舆论谴责，属车厢文明问题。",
         "productImplication": "【迁移路径】车厢行为治理需乘务现场干预，12306 同样无法解决，无差异化窗口。\n【观察条件】属偶发事件，不跟进。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -128991,6 +128995,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】观察中（营销兴趣，不投入）——社会新闻型事件，不指向产品需求。\n【数据】近 7 天 3 条 / 前 3 周 0 条 · 动量：新涌现 · 首次出现 10-11。\n【为什么爆】五胞胎返乡的话题性；讨论焦点是故事本身，不是出行体验。",
         "productImplication": "【迁移路径】与火车票业务无直接迁移路径；涨的是大盘关注度，而非渠道选择。\n【观察条件】若后续出现「多孩家庭出行」产品需求信号，再升级评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129010,6 +129018,12 @@
         ],
         "firstSeen": "2026-10-16",
         "lastSeen": "2026-10-16",
+        "why": "【判断】观察中——社会新闻型事件，不指向产品需求。\n【数据】近7天6条 / 前23天0条 · 动量：新涌现 · 首次出现 10-16。\n【为什么爆】96岁老人独自进藏的话题性；讨论焦点是故事本身，不是出行服务体验。",
+        "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【观察条件】若后续出现「老年出行安全服务」产品需求信号，再升级评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129029,6 +129043,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】观察中——娱乐内容，无产品迁移路径。\n【数据】近 7 天 2 条 / 前 3 周 0 条 · 动量：新涌现。\n【为什么爆】偶遇售货员的趣味体验，属「邻座盲盒」式社交内容。",
         "productImplication": "【迁移路径】携程无行程社交内容模块，内容能力未打通。\n【观察条件】并入「邻座社交」主题观察，主题连续出现 ≥ 3 天后统一评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129048,6 +129066,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】观察中（营销兴趣，不投入）——社会新闻型事件，不指向产品需求。\n【数据】近 7 天 3 条 / 前 3 周 0 条 · 动量：新涌现 · 首次出现 10-12。\n【为什么爆】铁路部门护送五胞胎的暖心故事，话题性强但属情感传播，非出行体验诉求。",
         "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【观察条件】若后续出现「特殊人群护送服务」产品需求信号，再升级评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129069,6 +129091,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】观察中——与「演唱会妆容」同源，整体在退烧。\n【数据】近 7 天 1 条 / 前 3 周 8 条 · 动量：退烧。\n【为什么退烧】讨论焦点已从「高铁化妆」热点转移。",
         "productImplication": "【迁移路径】车厢美妆 / 生活方式内容依赖内容能力（未打通）。\n【观察条件】信号回升至连续出现 ≥ 3 天再评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129087,6 +129113,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】观察中——怀旧情感内容，受众小众。\n【数据】近 7 天 2 条 / 前 3 周 0 条 · 动量：新涌现。\n【为什么爆】绿皮慢火车的情怀话题。",
         "productImplication": "【迁移路径】可做「慢车沿途风物 / 美食打卡」内容，属内容方向但优先级低。\n【观察条件】信号持续 2 周以上再评估内容试点。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129108,6 +129138,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】维持 P2——官方系统信号退烧，但正是我方抢票升级的红利期。\n【数据】近 7 天 1 条 / 前 3 周 9 条 · 动量：退烧。\n【为什么关注】讨论对象是 12306 自身机制（非携程体验）；我方抢票 + 候补 + 预约秒杀已成熟。",
         "productImplication": "【建议动作】抢票策略升级按第 25 迭代推进（支付流程补足、多乘客不同坐席、取消订单退款优化），无需额外动作。\n【验证】抢票成功率 · 候补兑现率 · 退款时效。\n【边界】持续监控 12306 机制变化对差异化窗口的影响。",
+        "priority": "P2",
+        "basedOnExistingCapability": true,
+        "roadmapAlignment": "抢票策略升级",
+        "valueUse": "V2",
         "streakDays": 0
       },
       {
@@ -129126,6 +129160,12 @@
         ],
         "firstSeen": "2026-08-12",
         "lastSeen": "2026-10-16",
+        "why": "【判断】观察中——娱乐内容，无产品迁移路径。\n【数据】近7天1条 / 前23天2条 · 动量：退烧。\n【为什么退烧】列车长口误的娱乐效应已消退。",
+        "productImplication": "【迁移路径】与火车票业务无直接迁移路径；属偶发娱乐内容。\n【观察条件】不跟进。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129144,6 +129184,10 @@
         "lastSeen": "2026-10-13",
         "why": "【判断】观察中——泛化事件聚合，无明确产品指向。\n【数据】近 7 天 1 条 / 前 3 周 1 条 · 动量：稳定。\n【为什么是现在】高铁乘车见闻类内容长期存在但零散，无集中爆点。",
         "productImplication": "【迁移路径】内容能力未打通，无直接迁移路径。\n【观察条件】属低频背景信号，不跟进。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129162,6 +129206,12 @@
         ],
         "firstSeen": "2026-10-16",
         "lastSeen": "2026-10-16",
+        "why": "【判断】观察中（首次出现，待观察）——车厢秩序问题信号最强但属行为治理，非产品需求。\n【数据】近7天5条 / 前23天1条 · 动量：上升 · 主题首次出现 10-16 · themes_registry heat=6（全场最高）。\n【为什么关注】不文明行为曝光引发强烈情绪共鸣，核心用户（短途日常出行者）高频感知；但产品能做的是反馈通道而非行为治理本身。",
+        "productImplication": "【迁移路径】themes_registry 建议做「车厢文明举报」一键入口，将占座投诉与不文明行为统一到「乘车体验反馈」流程——12306 无此能力，是差异化窗口。\n【不做的理由】streakDays=0 首次出现，需连续2周维持rising再升级评估；内容/反馈通道依赖产品排期。\n【观察条件】若连续2周维持 rising → 升级 P1 评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V2",
         "streakDays": 0
       },
       {
@@ -129180,6 +129230,12 @@
         ],
         "firstSeen": "2026-09-04",
         "lastSeen": "2026-10-16",
+        "why": "【判断】观察中——社交内容方向，内容能力（C1）未打通，当前无产品迁移路径。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · 主题首次出现 09-04 · themes_registry heat=3。\n【为什么关注】邻座盲盒式社交内容持续涌现，反映用户对旅途人际体验有期待；themes_registry 建议做「同乘故事」轻社交模块，但携程内容能力未打通到火车票场景。",
+        "productImplication": "【迁移路径】需先打通内容能力（C1 未打通到火车票场景），当前无直接迁移路径。\n【不做的理由】社交/内容模块超出当前业务排期范围，12306 同样不做但非核心差异化方向。\n【观察条件】若连续2周维持 rising 且内容能力打通后，可探索「同乘故事」轻社交模块。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无（内容嵌入购票尚未排期）",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129200,6 +129256,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】维持 P1——高频需求、低频信号，退烧 ≠ 需求消失，直接对应季度硬仗。\n【数据】近 7 天 0 条 / 前 3 周 1 条 · 动量：退烧。\n【为什么是现在】12306 有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规 Agent 前端入口 1.14 上线，只差临门一脚。",
         "productImplication": "【建议动作】① 票规 Agent 入口按期 1.14 上线，不因信号退烧而延期；② 退改签 / 误车 / 换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续 4 周为 0 且无新增 → 降为观察中；能力不下线。",
+        "priority": "P1",
+        "basedOnExistingCapability": true,
+        "roadmapAlignment": "AI Agent 三条线（票规Agent）",
+        "valueUse": "V2",
         "streakDays": 0
       },
       {
@@ -129220,6 +129280,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】观察中——内容方向无活跃信号驱动，本周期不动工。\n【数据】近 7 天 0 条 / 前 3 周 1 条 · 动量：退烧。\n【为什么是现在】车厢精致生活 / 好物推荐依赖内容生态（内容能力尚未打通到火车票场景），当前无信号支撑优先级。",
         "productImplication": "【不跟进】内容方向无活跃信号驱动，本周期不动工。\n【观察条件】春运 / 暑运等季节性窗口信号回升后重新评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无（内容嵌入购票尚未排期）",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
@@ -129240,6 +129304,10 @@
         "lastSeen": "2026-10-16",
         "why": "【判断】升级 P1——本期最强新增信号在此，12306 不做，是我们的差异化窗口。\n【数据】近 7 天 2 条 / 前 3 周 0 条 · 动量：新涌现；子信号：女性专属包房 14 条、孕妇求助护送 5 条（均新涌现）。\n【为什么是现在】主题级证据虽少，但子信号活跃度明显抬升；12306 无特殊人群数字化服务（标签筛选、女性友好车厢），空白明确。",
         "productImplication": "【建议动作】① 选座界面增加「女性友好车厢 / 包房」筛选入口（第 26 迭代探索）；② 客服反馈增设特殊人群标签，实现分流处理；③ 待连续出现 ≥ 3 天后升级排期讨论。\n【验证】特殊人群筛选入口使用率 · 相关工单分流准确率。\n【边界】子信号连续 2 周回落 → 退回观察中。",
+        "priority": "P1",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无（尚未排期，信号持续可纳入第26迭代探索）",
+        "valueUse": "V1",
         "streakDays": 0
       },
       {
@@ -129258,6 +129326,12 @@
         ],
         "firstSeen": "2026-10-16",
         "lastSeen": "2026-10-16",
+        "why": "【判断】观察中（首次出现，待观察）——安全科普内容方向，内容能力（C1）未打通。\n【数据】近7天1条 / 前23天2条 · 动量：退烧 · 主题首次出现 10-16 · themes_registry heat=3。\n【为什么关注】themes_registry 建议将安全科普纳入出行攻略体系；12306 不做内容，是差异化方向但依赖内容能力打通。",
+        "productImplication": "【迁移路径】安全科普属内容方向，依赖内容能力（C1 未打通到火车票场景）。\n【不做的理由】streakDays=0 首次出现且动量退烧，当前无信号支撑优先级。\n【观察条件】信号回升且连续2周维持 rising → 重新评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       }
     ],
