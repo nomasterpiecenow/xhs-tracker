@@ -55,6 +55,10 @@
   button:hover { border-color: var(--ink-48); }
   button.active { background: var(--ink); color: #fff; border-color: var(--ink); }
   input[type=date] { cursor: text; }
+  /* 关键词搜索框（筛选栏） */
+  #kw { cursor: text; width: 180px; }
+  #kw::placeholder { color: var(--ink-48); }
+  #kw:focus { border-color: var(--primary); outline: none; }
   .count { font-size: 14px; color: var(--ink-48); margin: 0 var(--sp-xs) var(--sp-md); letter-spacing: -0.224px; }
   /* TIP — Apple: surface-color, not border */
   .tip { background: var(--parchment); border-radius: var(--r-lg); color: var(--ink-80);
@@ -270,6 +274,7 @@
           <option value="去哪儿">去哪儿</option></select>
     <select id="sentiment"><option value="">情感</option><option value="pos">正面</option><option value="neu">中性</option><option value="neg">负面</option></select>
     <select id="sort"><option value="score">总分</option><option value="interactive">互动数</option><option value="time">发布时间</option></select>
+    <input type="search" id="kw" placeholder="搜索标题 / 正文…" autocomplete="off" title="输入关键词，搜索笔记标题与正文（多个词用空格分隔，需全部命中）">
   </div>
 
   <div class="tip">
@@ -354,7 +359,7 @@ const INSIGHTS = {"daily": [{"key": "ev:官方回应__高铁座位排便", "them
   });
 })();
 
-const state = { days: 7, start: null, end: null, sort: "score", dim: "", plat: "", brand: "", sentiment: "", pageSize: 30, pageNum: 1 };
+const state = { days: 7, start: null, end: null, sort: "score", dim: "", plat: "", brand: "", sentiment: "", kw: "", pageSize: 30, pageNum: 1 };
 const expanded = new Set();   // 当前展开显示细分来源的事件组 eventId 集合
 let LAST_ARR = [];            // 最近一次筛选结果（分页/展开直接复用，避免重复筛选）
 let TOTAL_PAGES = 1;          // 当前总页数（goPage 钳制用）
@@ -427,6 +432,16 @@ function applyFilter() {
   if (state.sentiment) {
     // 缺失情感(null)按中性处理，避免筛选时把未标注笔记藏起来
     arr = arr.filter(n => (n._sentiment || "neu") === state.sentiment);
+  }
+  if (state.kw) {
+    // 关键词搜索：匹配「标题 + 正文」；多个词用空格分隔，需全部命中（AND），不区分大小写
+    const _terms = state.kw.toLowerCase().split(/\s+/).filter(Boolean);
+    if (_terms.length) {
+      arr = arr.filter(n => {
+        const _hay = ((n.title || "") + " " + (n.desc || "")).toLowerCase();
+        return _terms.every(t => _hay.indexOf(t) >= 0);
+      });
+    }
   }
   arr.sort((a, b) => {
     if (state.sort === "score") return liveTotal(b) - liveTotal(a);
@@ -696,9 +711,10 @@ if (_applyBtn) _applyBtn.addEventListener("click", () => {
 });
 var _resetBtn = document.getElementById("reset");
 if (_resetBtn) _resetBtn.addEventListener("click", () => {
-  state.start = null; state.end = null; state.days = 7; state.sort = "score"; state.dim = ""; state.plat = ""; state.brand = ""; state.sentiment = "";
+  state.start = null; state.end = null; state.days = 7; state.sort = "score"; state.dim = ""; state.plat = ""; state.brand = ""; state.sentiment = ""; state.kw = "";
   var _s = document.getElementById("start"); if (_s) _s.value = "";
   var _e = document.getElementById("end"); if (_e) _e.value = "";
+  var _k = document.getElementById("kw"); if (_k) _k.value = "";
   document.getElementById("sort").value = "score";
   document.getElementById("dim").value = "";
   document.getElementById("plat").value = "";
@@ -729,6 +745,22 @@ document.getElementById("sentiment").addEventListener("change", e => {
   state.sentiment = e.target.value;
   applyFilter();
 });
+// 关键词搜索：输入即筛（中文输入法合成期间不触发，避免用拼音串搜出空表）
+(function () {
+  const _kwEl = document.getElementById("kw");
+  let _composing = false;
+  _kwEl.addEventListener("compositionstart", () => { _composing = true; });
+  _kwEl.addEventListener("compositionend", () => {
+    _composing = false;
+    state.kw = _kwEl.value.trim();
+    applyFilter();
+  });
+  _kwEl.addEventListener("input", e => {
+    if (_composing) return;
+    state.kw = e.target.value.trim();
+    applyFilter();
+  });
+})();
 document.getElementById("pageSize").addEventListener("change", e => {
   const v = e.target.value;
   state.pageSize = v === "all" ? 0 : parseInt(v, 10);
