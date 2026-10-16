@@ -160,6 +160,7 @@
   .ins-top { background: var(--canvas); border: 1px solid var(--hairline); border-radius: var(--r-lg); padding: 4px; margin-bottom: var(--sp-lg); box-shadow: 0 1px 2px rgba(16,24,40,.04), 0 8px 24px -12px rgba(16,24,40,.08); }
   .ins-top .t3head { display: flex; align-items: center; gap: 9px; padding: 14px 16px 10px; }
   .ins-top .t3head h3 { font-family: "SF Pro Display", system-ui, sans-serif; font-size: 15px; font-weight: 700; color: var(--ink); }
+  .ins-top .t3head .t3-time { margin-left: auto; font-size: 12px; color: var(--ink-48); font-weight: 400; letter-spacing: -0.12px; white-space: nowrap; }
   .ins-top-items { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0; }
   .ins-top-item { border-top: 1px solid var(--divider); padding: 13px 16px; display: flex; gap: 13px; align-items: flex-start; }
   .ins-top-item .ti-num { flex: none; width: 22px; height: 22px; border-radius: 7px; background: var(--primary); color: #fff; font-size: 12.5px; font-weight: 700; display: grid; place-items: center; margin-top: 2px; }
@@ -325,7 +326,7 @@
 
   <div id="view-insights" class="tabview" style="display:none">
     <div id="insTopBox" class="ins-top" style="display:none">
-      <div class="t3head"><span>🔆</span><h3>今日最该看的 3 件事</h3></div>
+      <div class="t3head"><span>🔆</span><h3>今日最该看的 3 件事</h3><span class="t3-time" id="insTopTime"></span></div>
       <div class="ins-top-items" id="insTopItems"></div>
     </div>
     <div class="ins-grid">
@@ -962,6 +963,12 @@ function renderInsights() {
   var top3 = sortCards(daily.slice()).slice(0, 3);
   var topBox = document.getElementById("insTopBox");
   var topItems = document.getElementById("insTopItems");
+  // 洞察最后更新日期：取 insights.generatedAt（由洞察 Agent 写回时更新，表示洞察实际生成时间）
+  var topTimeEl = document.getElementById("insTopTime");
+  if (topTimeEl) {
+    var _ga = (INSIGHTS && INSIGHTS.generatedAt) || "";
+    topTimeEl.textContent = _ga ? ("洞察更新：" + _ga.slice(0, 16)) : "";
+  }
   if (top3.length && top3.some(c => (c.priority === 'P0' || c.priority === 'P1' || c.priority === 'P2'))) {
     topBox.style.display = '';
     topItems.innerHTML = top3.map(function(c, i) {
