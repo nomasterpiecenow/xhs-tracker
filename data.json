@@ -134530,7 +134530,11 @@
         "lastSeen": "2026-10-19",
         "why": "【判断】观察中——社会新闻型事件，不指向产品需求。\n【数据】近7天6条 / 前23天0条 · 动量：新涌现 · 首次出现 10-16。\n【为什么爆】96岁老人独自进藏的话题性；讨论焦点是故事本身，不是出行服务体验。",
         "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【观察条件】若后续出现「老年出行安全服务」产品需求信号，再升级评估。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "ev:官方回应__高铁座位排便",
@@ -134551,7 +134555,11 @@
         "lastSeen": "2026-10-19",
         "why": "【判断】观察中——行为事件，不指向产品需求。\n【数据】近 7 天 2 条 / 前 3 周 0 条 · 动量：新涌现 · 首次出现 10-15。\n【为什么爆】高铁座位排便的极端行为引发舆论谴责，属车厢文明问题。",
         "productImplication": "【迁移路径】车厢行为治理需乘务现场干预，12306 同样无法解决，无差异化窗口。\n【观察条件】属偶发事件，不跟进。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "ev:官方回应__男童坠入站台缝隙",
@@ -134570,9 +134578,13 @@
         ],
         "firstSeen": "2026-10-11",
         "lastSeen": "2026-10-19",
-        "why": "",
-        "productImplication": "",
-        "streakDays": 0
+        "why": "【判断】观察中——儿童站台安全事件，铁路端硬件设施问题，不直接对应OTA产品需求。\n【数据】近7天4条 / 前23天1条 · 动量：上升 · streakDays=0 首次持续出现。\n【为什么是现在】9月底至今累计4次类似事件，儿童站台安全在舆论端形成持续议题，但解决主体是铁路局与车站硬件改造，非OTA可介入。",
+        "productImplication": "【迁移路径】站台物理缝隙属车站基建，OTA无法介入；与现有能力无对应。\n【观察条件】若出现「带娃出行安全科普/一键求助」类用户内容需求，再升级评估。",
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V1"
       },
       {
         "key": "ev:官方回应__高铁免提通话",
@@ -134590,9 +134602,13 @@
         ],
         "firstSeen": "2026-10-14",
         "lastSeen": "2026-10-19",
-        "why": "",
-        "productImplication": "",
-        "streakDays": 0
+        "why": "【判断】观察中——车厢文明冲突事件，属公共行为治理，12306与铁路同样无产品化解决方案。\n【数据】近7天4条 / 前23天0条 · 动量：新涌现 · 首次出现 10-14。\n【为什么是现在】免提通话连续3起，叠加「女子高铁开免提通话」（2条）共6条，车厢噪音矛盾在Q4持续发酵，与 themes_registry.cabin_noise_and_children 子主题（heat=2）同源。",
+        "productImplication": "【迁移路径】静音车厢规则属12306既有能力，OTA无差异化窗口；不建议追起新做。\n【观察条件】若连续2周累积≥10条且衍生「一键反馈/换座请求」类产品诉求，再升级评估。",
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V1"
       },
       {
         "key": "ev:乘车提示__高铁沉浸式化妆",
@@ -134613,7 +134629,11 @@
         "lastSeen": "2026-10-19",
         "why": "【判断】观察中——与「演唱会妆容」同源，整体在退烧。\n【数据】近 7 天 1 条 / 前 3 周 8 条 · 动量：退烧。\n【为什么退烧】讨论焦点已从「高铁化妆」热点转移。",
         "productImplication": "【迁移路径】车厢美妆 / 生活方式内容依赖内容能力（未打通）。\n【观察条件】信号回升至连续出现 ≥ 3 天再评估。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "ev:官方回应__女子高铁开免提通话",
@@ -134629,9 +134649,13 @@
         ],
         "firstSeen": "2026-10-15",
         "lastSeen": "2026-10-19",
-        "why": "",
-        "productImplication": "",
-        "streakDays": 0
+        "why": "【判断】观察中——与 ev:官方回应__高铁免提通话 同源，属车厢文明冲突个案，非产品需求信号。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-15。\n【为什么是现在】与高铁免提通话（4条）合并构成6条噪音冲突信号，舆论持续但需求侧空白。",
+        "productImplication": "【迁移路径】同 ev:官方回应__高铁免提通话；车厢行为治理靠乘务现场，OTA无介入点。\n【观察条件】合并主题信号连续2周≥10条再评估。",
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V1"
       },
       {
         "key": "ev:高铁站__偶遇外国友人展示纪念品",
@@ -134647,9 +134671,13 @@
         ],
         "firstSeen": "2026-10-16",
         "lastSeen": "2026-10-19",
-        "why": "",
-        "productImplication": "",
-        "streakDays": 0
+        "why": "【判断】观察中——偶发社交内容，无明确产品需求指向。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-16。\n【为什么是现在】与 train_neighbor_blindbox 主题（heat=3）轻度关联，属旅途偶遇社交类内容的延伸形态，但热度极低。",
+        "productImplication": "【迁移路径】UGC社交/盲盒玩法属未打通的内容能力，不形成迁移路径。\n【观察条件】连续3天累积≥5条再评估。",
+        "streakDays": 0,
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V1"
       },
       {
         "key": "ev:乘车提示__靠窗看沿途风景",
@@ -134668,7 +134696,13 @@
         ],
         "firstSeen": "2026-08-03",
         "lastSeen": "2026-10-19",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】观察中——风景类生活方式内容，属未打通内容能力。\n【数据】近7天1条 / 前23天0条 · 动量：新涌现（实际为旧主题复现，firstSeen=08-03）· streakDays=0。\n【为什么是现在】单条信号无趋势意义，但与 slow_train_nostalgia（heat=2）、exquisite_train_lifestyle 同属车厢生活美学谱系。",
+        "productImplication": "【迁移路径】沿途风景/慢车内容依赖内容种草能力（未打通），不构成迁移路径。\n【观察条件】连续3天≥5条再评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V1"
       },
       {
         "key": "ev:乘车提示__高铁带娃出行",
@@ -134684,7 +134718,13 @@
         ],
         "firstSeen": "2026-08-11",
         "lastSeen": "2026-10-19",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】观察中——带娃出行场景内容，与 cabin_noise_and_children（heat=2）轻度关联，单条信号不构成趋势。\n【数据】近7天1条 / 前23天0条 · 动量：新涌现（firstSeen=08-11，断续）· streakDays=0。\n【为什么是现在】家庭出行场景在 themes_registry 已有较完整的关联网络（亲子车厢/静音车厢双选），但单条信号弱。",
+        "productImplication": "【迁移路径】亲子车厢筛选属 railway_accessible_and_service 子方向，对应 themes_registry.cabin_noise_and_children.implication「设亲子车厢与静音车厢双选项」——但当前业务阶段为萎缩期，不新增功能。\n【观察条件】连续3天≥5条再评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V1"
       },
       {
         "key": "ev:其他__列车长口误马上起飞",
@@ -134702,7 +134742,13 @@
         ],
         "firstSeen": "2026-08-12",
         "lastSeen": "2026-10-19",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】观察中——单条偶发搞笑内容，无产品需求指向。\n【数据】近7天1条 / 前23天2条 · 动量：退烧 · streakDays=0。\n【为什么是现在】退烧中信号，无新增证据，不形成趋势。",
+        "productImplication": "【迁移路径】无对应能力；不建议动作。\n【观察条件】连续3天≥3条再评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V1"
       },
       {
         "key": "th:railway_uncivilized_behavior",
@@ -134720,7 +134766,13 @@
         ],
         "firstSeen": "2026-10-19",
         "lastSeen": "2026-10-19",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】升级 P2——本期最强新增主题信号，对应 themes_registry.heat=6，与 cabin_uncivilized_behavior（heat=7）形成双轨，但解决主体是铁路局与现场治理，OTA仅能承接客诉分流。\n【数据】近7天6条 / 前23天0条 · 动量：新涌现 · 首次出现 10-19 · streakDays=0（首次出现，待观察）。\n【为什么是现在】不文明行为曝光连续3周活跃（10-16起累积多起），但 themes_registry.relations 指向「车内噪音一键反馈/座位异常事件求助」类能力——属客诉工单分流优化方向，与铁路局现场治理互补，不是新功能投入方向。",
+        "productImplication": "【建议动作】① 不新增不文明行为治理功能；② 客服工单系统复用既有「换座请求/座位异常事件」类目，做好分流即可；③ 监控是否衍生「女性一键举报」诉求（与 female_safety_and_space 关联），若有再升级。\n【验证】相关工单分流准确率 · 用户投诉解决时长。\n【边界】连续2周回落到≤3条 → 退回观察中；不新增功能。",
+        "priority": "P2",
+        "basedOnExistingCapability": true,
+        "roadmapAlignment": "无（客诉工单分流属既有能力，不在roadmap新立项）",
+        "valueUse": "V1"
       },
       {
         "key": "th:railway_rules_and_hacks",
@@ -134740,7 +134792,11 @@
         "lastSeen": "2026-10-19",
         "why": "【判断】维持 P1——高频需求、低频信号，退烧 ≠ 需求消失，直接对应季度硬仗。\n【数据】近 7 天 0 条 / 前 3 周 1 条 · 动量：退烧。\n【为什么是现在】12306 有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规 Agent 前端入口 1.14 上线，只差临门一脚。",
         "productImplication": "【建议动作】① 票规 Agent 入口按期 1.14 上线，不因信号退烧而延期；② 退改签 / 误车 / 换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续 4 周为 0 且无新增 → 降为观察中；能力不下线。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "P1",
+        "basedOnExistingCapability": true,
+        "roadmapAlignment": "AI Agent 三条线（票规Agent）",
+        "valueUse": "V2"
       },
       {
         "key": "th:railway_accessible_and_service",
@@ -134759,7 +134815,11 @@
         "lastSeen": "2026-10-19",
         "why": "【判断】升级 P1——本期最强新增信号在此，12306 不做，是我们的差异化窗口。\n【数据】近 7 天 2 条 / 前 3 周 0 条 · 动量：新涌现；子信号：女性专属包房 14 条、孕妇求助护送 5 条（均新涌现）。\n【为什么是现在】主题级证据虽少，但子信号活跃度明显抬升；12306 无特殊人群数字化服务（标签筛选、女性友好车厢），空白明确。",
         "productImplication": "【建议动作】① 选座界面增加「女性友好车厢 / 包房」筛选入口（第 26 迭代探索）；② 客服反馈增设特殊人群标签，实现分流处理；③ 待连续出现 ≥ 3 天后升级排期讨论。\n【验证】特殊人群筛选入口使用率 · 相关工单分流准确率。\n【边界】子信号连续 2 周回落 → 退回观察中。",
-        "streakDays": 0
+        "streakDays": 0,
+        "priority": "P1",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无（尚未排期，信号持续可纳入第26迭代探索）",
+        "valueUse": "V1"
       },
       {
         "key": "th:female_safety_and_space",
@@ -134774,7 +134834,13 @@
         ],
         "firstSeen": "2026-09-30",
         "lastSeen": "2026-10-19",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】维持 P1（继承 10-16 判断）——女性专属包房是 10-16 周期最强新增信号，本期虽 evidenceCount=2 退烧但主题级判断不变，因铁路端硬件能力（女性专属包房）已落地，需求侧持续。\n【数据】近7天0条（信号笔记）/ 前23天2条 · 动量：退烧 · streakDays=0。\n【为什么是现在】主题级信号退烧但未消失，themes_registry.female_safety_and_space.heat=2 与 railway_accessible_and_service 形成特殊人群服务双线，12306 仍无女性友好车厢筛选能力，差异化窗口仍开。",
+        "productImplication": "【建议动作】① 第26迭代探索「女性友好车厢/包房筛选」入口（继承10-16判断）；② 客服反馈增设特殊人群标签复用 railway_accessible_and_service 既有分流；③ 待连续出现≥3天后升级排期讨论（继承10-16边界）。\n【验证】特殊人群筛选入口使用率 · 相关工单分流准确率。\n【边界】子信号连续2周回落 → 退回观察中（继承10-16）。",
+        "priority": "P1",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "智慧票务深化-特殊人群服务（探索阶段）",
+        "valueUse": "V1"
       },
       {
         "key": "th:train_neighbor_blindbox",
@@ -134792,7 +134858,13 @@
         ],
         "firstSeen": "2026-09-04",
         "lastSeen": "2026-10-19",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】维持 P2——UGC社交玩法属未打通内容能力，但信号持续上升，与 themes_registry.heat=3 对应，需保持观察。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · streakDays=0。\n【为什么是现在】邻座盲盒话题自09-04持续出现，themes_registry.relations 指向「盲盒目的地/同行彩蛋轻玩法」——属未打通UGC内容能力，业务阶段=萎缩期不投入。",
+        "productImplication": "【建议动作】① 不新增UGC盲盒玩法功能；② 监控是否衍生「行程彩蛋/同行匹配」类付费需求信号；③ 连续2周累积≥10条再升级评估。\n【验证】UGC内容产出量 · 用户互动参与度（监控用）。\n【边界】连续2周回落到≤1条 → 退回观察中。",
+        "priority": "P2",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无（UGC内容能力未在当前roadmap立项）",
+        "valueUse": "V1"
       },
       {
         "key": "th:seat_space_boundary",
@@ -134809,12 +134881,16 @@
         ],
         "firstSeen": "2026-08-17",
         "lastSeen": "2026-10-19",
-        "why": "",
-        "productImplication": "",
-        "streakDays": 0
+        "why": "【判断】维持 P2——占座/换座类冲突信号稳定，themes_registry.seat_space_boundary.heat=2 与 railway_uncivilized_behavior、railway_rules_and_hacks 形成三角关联，指向「换座请求在线协商」与「座位权益说明卡片」——前者属未打通，后者属既有能力可承接。\n【数据】近7天1条 / 前23天1条 · 动量：稳定 · streakDays=0。\n【为什么是现在】稳定信号，无新增，但 themes_registry.relations 明确指向「订单详情页加入座位权益说明卡片」——是低成本可落地的差异化动作。",
+        "productImplication": "【建议动作】① 订单详情页/选座页加入「座位权益说明」卡片（既有能力，低成本）；② 监控是否衍生「换座在线协商」类付费需求信号再评估。\n【验证】座位权益说明卡片点击率 · 相关客服咨询量变化。\n【边界】连续2周为0 → 降为观察中；座位权益说明卡片不下线。",
+        "streakDays": 0,
+        "priority": "P2",
+        "basedOnExistingCapability": true,
+        "roadmapAlignment": "智慧票务深化-选座体验优化（低成本承接）",
+        "valueUse": "V1"
       }
     ],
-    "generatedAt": "2026-10-16 09:00:02",
+    "generatedAt": "2026-10-19 20:30:00",
     "history": [
       {
         "date": "2026-08-13",
