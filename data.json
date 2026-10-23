@@ -139970,7 +139970,13 @@
         ],
         "firstSeen": "2026-08-03",
         "lastSeen": "2026-10-23",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】观察中——票务规则咨询类，非产品需求。\n【数据】近7天1条 / 前23天1条 · 动量：稳定 · 首次出现 08-03。\n【为什么关注】学生票资质核验属12306既有规则，OTA提供代购但核验主体不变，属常规咨询类内容。",
+        "productImplication": "【迁移路径】学生票规则说明与核验引导属12306既有能力；OTA侧可在购票流程做规则提示，但无差异化空间。\n【不做的理由】不触及新的能力缺口，也不对应roadmap立项。\n【观察条件】若学生票核验痛点集中出现（如资质审核失败率高、投诉集中）再评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无",
+        "valueUse": "V2"
       },
       {
         "key": "ev:乘车提示__高铁带娃出行",
@@ -140010,7 +140016,13 @@
         ],
         "firstSeen": "2026-10-19",
         "lastSeen": "2026-10-23",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】观察中——行为治理，OTA无差异化窗口。\n【数据】近7天6条 / 前23天0条 · 动量：退烧 · 首次出现 10-19。\n【为什么关注】不文明行为曝光热度高，但讨论焦点在行为谴责而非出行服务体验；治理主体是铁路局与现场乘务。",
+        "productImplication": "【迁移路径】客诉工单分流（换座请求/座位异常求助）属既有能力可承接，不需新功能。\n【不做的理由】行为治理非OTA可控；12306同样无法产品化解决，无差异化窗口。\n【观察条件】若衍生「一键反馈/行为举报」类产品化诉求再升级评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": true,
+        "roadmapAlignment": "无（客诉工单分流属既有能力，不在roadmap新立项）",
+        "valueUse": "V1"
       },
       {
         "key": "th:seat_space_boundary",
