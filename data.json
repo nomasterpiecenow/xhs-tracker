@@ -139945,7 +139945,13 @@
         ],
         "firstSeen": "2026-10-22",
         "lastSeen": "2026-10-23",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
+        "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3"
       },
       {
         "key": "ev:学生票新规__初中生高铁学生票",
@@ -139980,7 +139986,13 @@
         ],
         "firstSeen": "2026-08-11",
         "lastSeen": "2026-10-19",
-        "streakDays": 1
+        "streakDays": 1,
+        "why": "【判断】观察中——场景内容，单条弱信号。\n【数据】近7天1条 / 前23天0条 · 动量：新涌现 · 连续1天。\n【为什么关注】带娃出行场景内容持续存在，与 themes_registry.cabin_noise_and_children 同源，但单条信号无趋势意义。",
+        "productImplication": "【迁移路径】亲子车厢/连排座位筛选属「无障碍与特殊人群服务」子方向，对应第26迭代探索方向。\n【不做的理由】单条弱信号，业务阶段=萎缩期不投入。\n【观察条件】连续3天累积≥5条再评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无（信号持续可纳入第26迭代探索）",
+        "valueUse": "V2"
       },
       {
         "key": "th:railway_uncivilized_behavior",
@@ -140060,7 +140072,13 @@
         ],
         "firstSeen": "2026-09-17",
         "lastSeen": "2026-10-23",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】观察中（0 证据，降权）——方向对，但当前无活跃信号。\n【数据】近7天0条 / 前23天0条 · 动量：信号休眠。\n【为什么值得跟踪】12306不做首乘教学，是功能空白；首乘用户正是新客核心来源，与增长战略同向。",
+        "productImplication": "【建议动作】本周期不动工；仅在小程序回流项目中预留「首乘指引」子模块位，待开学季/春运信号回升再评估排期。\n【验证（提前定义）】开学/春运期首乘内容搜索量 · 小程序回流转化。\n【边界】连续2个开学季/春运窗口均无信号 → 关闭跟踪。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "增长 & 新客（小程序回流）",
+        "valueUse": "V3"
       },
       {
         "key": "th:female_safety_and_space",
@@ -140075,7 +140093,13 @@
         ],
         "firstSeen": "2026-09-30",
         "lastSeen": "2026-10-23",
-        "streakDays": 0
+        "streakDays": 0,
+        "why": "【判断】观察中——本期信号退烧，此前「女性专属包房」是强新增信号。\n【数据】近7天2条 / 前23天0条 · 动量：退烧。\n【为什么关注】与「无障碍设施与服务体验」高度关联（同属特殊人群服务），12306仍无女性友好车厢筛选能力，差异化窗口未关闭，但本期无新增证据。",
+        "productImplication": "【迁移路径】选座界面「女性友好车厢/包房」筛选入口（第26迭代探索），与无障碍主题合并推进，不单独立项。\n【不做的理由】本期退烧且无新增证据，避免重复排期。\n【观察条件】子信号（女性专属包房）连续2周回升 → 升级 P1 评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无（尚未排期，信号持续可纳入第26迭代探索）",
+        "valueUse": "V1"
       },
       {
         "key": "th:railway_accessible_and_service",
@@ -140102,7 +140126,7 @@
         "streakDays": 0
       }
     ],
-    "generatedAt": "2026-10-22 20:30:00",
+    "generatedAt": "2026-10-23 15:48:20",
     "history": [
       {
         "date": "2026-08-13",
