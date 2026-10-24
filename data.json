@@ -10348,8 +10348,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "3defbaa9a9e3",
-      "eventTitle": "省钱路线换乘攻略",
-      "eventId": null
+      "eventTitle": "带娃坐高铁遛娃行李箱",
+      "eventId": "其他__带娃坐高铁遛娃行李箱",
+      "_eventId": "其他__带娃坐高铁遛娃行李箱"
     },
     "6a697426000000000f03e2a3": {
       "noteId": "6a697426000000000f03e2a3",
@@ -10394,8 +10395,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "426f7f47594c",
-      "eventTitle": "省钱路线换乘攻略",
-      "eventId": null
+      "eventTitle": "带娃旅行好物",
+      "eventId": "其他__带娃旅行好物",
+      "_eventId": "其他__带娃旅行好物"
     },
     "6a5b4b83000000000f007327": {
       "noteId": "6a5b4b83000000000f007327",
@@ -23875,7 +23877,9 @@
       ],
       "_relevant": true,
       "_sig": "d86429243bf7",
-      "eventId": null
+      "eventId": "其他__高铁站兄弟互买丑衣服",
+      "_eventId": "其他__高铁站兄弟互买丑衣服",
+      "eventTitle": "高铁站兄弟互买丑衣服"
     },
     "douyin:7663840133070314609": {
       "noteId": "douyin:7663840133070314609",
@@ -29218,7 +29222,9 @@
       ],
       "_relevant": true,
       "_sig": "951a75ec0bf9",
-      "eventId": null
+      "eventId": "其他__高铁站兄弟互买丑衣服",
+      "_eventId": "其他__高铁站兄弟互买丑衣服",
+      "eventTitle": "高铁站兄弟互买丑衣服"
     },
     "douyin:7673101883942312291": {
       "noteId": "douyin:7673101883942312291",
@@ -39139,7 +39145,9 @@
       ],
       "_relevant": true,
       "_sig": "4819478179bb",
-      "eventId": null
+      "eventId": "其他__河南省运会开幕式绿皮火车",
+      "_eventId": "其他__河南省运会开幕式绿皮火车",
+      "eventTitle": "河南省运会开幕式绿皮火车"
     },
     "douyin:7675170175661908467": {
       "noteId": "douyin:7675170175661908467",
@@ -67292,7 +67300,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "a60f0e5262ef",
-      "eventId": null
+      "eventId": "其他__老外测评中国咖啡",
+      "_eventId": "其他__老外测评中国咖啡",
+      "eventTitle": "老外测评中国咖啡"
     },
     "6a7dc5c3000000003400e304": {
       "noteId": "6a7dc5c3000000003400e304",
@@ -67337,7 +67347,9 @@
         "车厢异味"
       ],
       "_sig": "092dd9d7293c",
-      "eventId": null
+      "eventId": "其他__清迈小火车",
+      "_eventId": "其他__清迈小火车",
+      "eventTitle": "清迈小火车"
     },
     "6a914f9d000000001f01ed0d": {
       "noteId": "6a914f9d000000001f01ed0d",
@@ -70982,7 +70994,9 @@
       "_sentiment": "neg",
       "_pains": [],
       "_sig": "0c91ecfec6aa",
-      "eventId": null
+      "eventId": "其他__高铁感慨母亲离世",
+      "_eventId": "其他__高铁感慨母亲离世",
+      "eventTitle": "高铁感慨母亲离世"
     },
     "douyin:7681589814369586442": {
       "noteId": "douyin:7681589814369586442",
@@ -71596,7 +71610,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "7aa0ffbd49b4",
-      "eventId": null
+      "eventId": "票务新规__去哪儿退款",
+      "_eventId": "票务新规__去哪儿退款",
+      "eventTitle": "去哪儿退款"
     },
     "douyin:7681947542452787363": {
       "noteId": "douyin:7681947542452787363",
@@ -72776,11 +72792,13 @@
           "noteId": "douyin:7682635320915185573"
         }
       ],
-      "eventId": null,
+      "eventId": "乘车提示__高铁诺言感慨",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "4d60eade4db8"
+      "_sig": "4d60eade4db8",
+      "_eventId": "乘车提示__高铁诺言感慨",
+      "eventTitle": "高铁诺言感慨"
     },
     "douyin:7683154414685923249": {
       "noteId": "douyin:7683154414685923249",
@@ -72820,11 +72838,13 @@
           "noteId": "douyin:7683154414685923249"
         }
       ],
-      "eventId": null,
+      "eventId": "其他__少帅下高铁",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "f9791f957dba"
+      "_sig": "f9791f957dba",
+      "_eventId": "其他__少帅下高铁",
+      "eventTitle": "少帅下高铁"
     },
     "douyin:7683203807144152354": {
       "noteId": "douyin:7683203807144152354",
@@ -72911,11 +72931,13 @@
           "noteId": "douyin:7681555541025508608"
         }
       ],
-      "eventId": null,
+      "eventId": "其他__铁道游击队电视剧",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "ca0784764298"
+      "_sig": "ca0784764298",
+      "_eventId": "其他__铁道游击队电视剧",
+      "eventTitle": "铁道游击队电视剧"
     },
     "douyin:7681981990421164900": {
       "noteId": "douyin:7681981990421164900",
@@ -72955,11 +72977,13 @@
           "noteId": "douyin:7681981990421164900"
         }
       ],
-      "eventId": null,
+      "eventId": "其他__道路火车通行",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "76c4c507ee21"
+      "_sig": "76c4c507ee21",
+      "_eventId": "其他__道路火车通行",
+      "eventTitle": "道路火车通行"
     },
     "douyin:7679777594078608986": {
       "noteId": "douyin:7679777594078608986",
@@ -72999,11 +73023,13 @@
           "noteId": "douyin:7679777594078608986"
         }
       ],
-      "eventId": null,
+      "eventId": "其他__列车惊魂剧",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "6be5c64fadbd"
+      "_sig": "6be5c64fadbd",
+      "_eventId": "其他__列车惊魂剧",
+      "eventTitle": "列车惊魂剧"
     },
     "douyin:7673898873622153651": {
       "noteId": "douyin:7673898873622153651",
@@ -73183,11 +73209,13 @@
           "noteId": "douyin:7681922837146606729"
         }
       ],
-      "eventId": null,
+      "eventId": "乘车提示__高铁古筝",
       "_relevant": true,
       "_sentiment": "neu",
       "_pains": [],
-      "_sig": "9d6ed9908450"
+      "_sig": "9d6ed9908450",
+      "_eventId": "乘车提示__高铁古筝",
+      "eventTitle": "高铁古筝"
     },
     "6a8a6967000000002902438a": {
       "noteId": "6a8a6967000000002902438a",
@@ -74679,8 +74707,9 @@
         "赶不上车"
       ],
       "_sig": "823c7c962f8d",
-      "eventTitle": "五一高铁抢票",
-      "eventId": null
+      "eventTitle": "候补无票晚霞感慨",
+      "eventId": "其他__候补无票晚霞感慨",
+      "_eventId": "其他__候补无票晚霞感慨"
     },
     "douyin:7684169781552909619": {
       "noteId": "douyin:7684169781552909619",
@@ -75380,8 +75409,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "2204b207d57f",
-      "eventTitle": "姥爷追高铁送外孙女",
-      "eventId": null
+      "eventTitle": "火车亲情回忆",
+      "eventId": "其他__火车亲情回忆",
+      "_eventId": "其他__火车亲情回忆"
     },
     "douyin:7684505399487171880": {
       "noteId": "douyin:7684505399487171880",
@@ -75468,13 +75498,15 @@
           "noteId": "douyin:7684606782160854415"
         }
       ],
-      "eventId": null,
+      "eventId": "其他__火车站异样眼光",
       "_relevant": true,
       "_sentiment": "neg",
       "_pains": [
         "被人异样看待"
       ],
-      "_sig": "60705951fe1f"
+      "_sig": "60705951fe1f",
+      "_eventId": "其他__火车站异样眼光",
+      "eventTitle": "火车站异样眼光"
     },
     "douyin:7684995431117768569": {
       "noteId": "douyin:7684995431117768569",
@@ -75972,11 +76004,13 @@
           "noteId": "douyin:7685641669706513842"
         }
       ],
-      "eventId": null,
+      "eventId": "其他__铁路科普领奖",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "7e899237ac62"
+      "_sig": "7e899237ac62",
+      "_eventId": "其他__铁路科普领奖",
+      "eventTitle": "铁路科普领奖"
     },
     "douyin:7684877381731484794": {
       "noteId": "douyin:7684877381731484794",
@@ -76016,11 +76050,13 @@
           "noteId": "douyin:7684877381731484794"
         }
       ],
-      "eventId": null,
+      "eventId": "其他__高铁偶遇敬一丹",
       "_relevant": true,
       "_sentiment": "pos",
       "_pains": [],
-      "_sig": "897d301a0221"
+      "_sig": "897d301a0221",
+      "_eventId": "其他__高铁偶遇敬一丹",
+      "eventTitle": "高铁偶遇敬一丹"
     },
     "douyin:7674953078865946703": {
       "noteId": "douyin:7674953078865946703",
@@ -78431,7 +78467,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "4f5db8c7cf9e",
-      "eventId": null
+      "eventId": "其他__流浪猫车厢",
+      "_eventId": "其他__流浪猫车厢",
+      "eventTitle": "流浪猫车厢"
     },
     "douyin:7684143184305245480": {
       "noteId": "douyin:7684143184305245480",
@@ -78571,7 +78609,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "b88680893917",
-      "eventId": null
+      "eventId": "乘车提示__绿皮火车弹唱",
+      "_eventId": "乘车提示__绿皮火车弹唱",
+      "eventTitle": "绿皮火车弹唱"
     },
     "douyin:7683838006562440847": {
       "noteId": "douyin:7683838006562440847",
@@ -78618,7 +78658,9 @@
         "设施落后"
       ],
       "_sig": "ab9e953d0817",
-      "eventId": null
+      "eventId": "其他__台湾火车",
+      "_eventId": "其他__台湾火车",
+      "eventTitle": "台湾火车"
     },
     "douyin:7684065523063081380": {
       "noteId": "douyin:7684065523063081380",
@@ -78850,7 +78892,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "65bddc88ae8e",
-      "eventId": null
+      "eventId": "其他__车站各怀心事",
+      "_eventId": "其他__车站各怀心事",
+      "eventTitle": "车站各怀心事"
     },
     "douyin:7682732967763905833": {
       "noteId": "douyin:7682732967763905833",
@@ -78943,7 +78987,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "8e446b0fbbee",
-      "eventId": null
+      "eventId": "其他__高德避雷指南",
+      "_eventId": "其他__高德避雷指南",
+      "eventTitle": "高德避雷指南"
     },
     "douyin:7679748502934539526": {
       "noteId": "douyin:7679748502934539526",
@@ -79271,7 +79317,9 @@
         "换乘折腾"
       ],
       "_sig": "64f487678b8f",
-      "eventId": null
+      "eventId": "其他__顺风车省钱教程",
+      "_eventId": "其他__顺风车省钱教程",
+      "eventTitle": "顺风车省钱教程"
     },
     "6a327df1000000000702891e": {
       "noteId": "6a327df1000000000702891e",
@@ -79314,7 +79362,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "cc4759eef5cc",
-      "eventId": null
+      "eventId": "其他__香港万宁保健品",
+      "_eventId": "其他__香港万宁保健品",
+      "eventTitle": "香港万宁保健品"
     },
     "6aa28cc1000000000d024930": {
       "noteId": "6aa28cc1000000000d024930",
@@ -79358,7 +79408,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "db3b9ce7f1e0",
-      "eventId": null
+      "eventId": "其他__义乌旅游攻略",
+      "_eventId": "其他__义乌旅游攻略",
+      "eventTitle": "义乌旅游攻略"
     },
     "6a8ed0ee000000002102589b": {
       "noteId": "6a8ed0ee000000002102589b",
@@ -79401,7 +79453,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "7a5668b8521e",
-      "eventId": null
+      "eventId": "其他__槟城旅游攻略",
+      "_eventId": "其他__槟城旅游攻略",
+      "eventTitle": "槟城旅游攻略"
     },
     "6a8ba98a0000000035027f9e": {
       "noteId": "6a8ba98a0000000035027f9e",
@@ -79449,7 +79503,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "00e826063c2e",
-      "eventId": null
+      "eventId": "其他__早教百宝箱",
+      "_eventId": "其他__早教百宝箱",
+      "eventTitle": "早教百宝箱"
     },
     "6aa8fd66000000000b001f49": {
       "noteId": "6aa8fd66000000000b001f49",
@@ -92819,8 +92875,8 @@
       "collectedCount": "5000+",
       "commentsCount": "474",
       "sharedCount": "244",
-      "totalScore": 13.4,
-      "relevanceScore": 9.9,
+      "totalScore": 7.46,
+      "relevanceScore": 3.96,
       "popularityScore": 2.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -103589,8 +103645,8 @@
       "collectedCount": "2937",
       "commentsCount": "250",
       "sharedCount": "696",
-      "totalScore": 13.16,
-      "relevanceScore": 9.66,
+      "totalScore": 7.36,
+      "relevanceScore": 3.86,
       "popularityScore": 2.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -106878,8 +106934,8 @@
       "collectedCount": "2257",
       "commentsCount": "1325",
       "sharedCount": "300",
-      "totalScore": 13.18,
-      "relevanceScore": 9.68,
+      "totalScore": 7.37,
+      "relevanceScore": 3.87,
       "popularityScore": 2.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -110157,8 +110213,8 @@
       "collectedCount": "563",
       "commentsCount": "663",
       "sharedCount": "5000+",
-      "totalScore": 12.02,
-      "relevanceScore": 9.52,
+      "totalScore": 6.31,
+      "relevanceScore": 3.81,
       "popularityScore": 1.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -110202,8 +110258,8 @@
       "collectedCount": "798",
       "commentsCount": "17",
       "sharedCount": "66",
-      "totalScore": 12.5,
-      "relevanceScore": 9.5,
+      "totalScore": 6.8,
+      "relevanceScore": 3.8,
       "popularityScore": 2.0,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -110600,8 +110656,8 @@
       "collectedCount": "1150",
       "commentsCount": "899",
       "sharedCount": "1832",
-      "totalScore": 13.8,
-      "relevanceScore": 9.8,
+      "totalScore": 7.92,
+      "relevanceScore": 3.92,
       "popularityScore": 3.0,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -110785,8 +110841,8 @@
       "collectedCount": "1031",
       "commentsCount": "136",
       "sharedCount": "41",
-      "totalScore": 12.59,
-      "relevanceScore": 9.59,
+      "totalScore": 6.84,
+      "relevanceScore": 3.84,
       "popularityScore": 2.0,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -110873,8 +110929,8 @@
       "collectedCount": "5000+",
       "commentsCount": "37",
       "sharedCount": "260",
-      "totalScore": 12.58,
-      "relevanceScore": 9.58,
+      "totalScore": 6.83,
+      "relevanceScore": 3.83,
       "popularityScore": 2.0,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -111674,7 +111730,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "7f926eeb32eb",
-      "eventId": null
+      "eventId": "乘车提示__高铁偶遇神秘男子cos",
+      "_eventId": "乘车提示__高铁偶遇神秘男子cos",
+      "eventTitle": "高铁偶遇神秘男子cos"
     },
     "6abe2934000000001b02362c": {
       "noteId": "6abe2934000000001b02362c",
@@ -117066,8 +117124,8 @@
       "collectedCount": "751",
       "commentsCount": "67",
       "sharedCount": "217",
-      "totalScore": 12.05,
-      "relevanceScore": 9.55,
+      "totalScore": 6.32,
+      "relevanceScore": 3.82,
       "popularityScore": 1.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -117291,8 +117349,8 @@
       "collectedCount": "2798",
       "commentsCount": "265",
       "sharedCount": "132",
-      "totalScore": 13.05,
-      "relevanceScore": 9.55,
+      "totalScore": 7.32,
+      "relevanceScore": 3.82,
       "popularityScore": 2.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -118544,8 +118602,8 @@
       "collectedCount": "169",
       "commentsCount": "148",
       "sharedCount": "96",
-      "totalScore": 12.02,
-      "relevanceScore": 9.52,
+      "totalScore": 6.31,
+      "relevanceScore": 3.81,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -119764,7 +119822,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "51a1666c92cc",
-      "eventId": null
+      "eventId": "其他__英国旅行购物火车",
+      "_eventId": "其他__英国旅行购物火车",
+      "eventTitle": "英国旅行购物火车"
     },
     "6ab4c3510000000015004082": {
       "noteId": "6ab4c3510000000015004082",
@@ -123910,8 +123970,8 @@
       "collectedCount": "220",
       "commentsCount": "527",
       "sharedCount": "150",
-      "totalScore": 12.07,
-      "relevanceScore": 9.57,
+      "totalScore": 6.33,
+      "relevanceScore": 3.83,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -124225,8 +124285,8 @@
       "collectedCount": "190",
       "commentsCount": "89",
       "sharedCount": "14",
-      "totalScore": 12.72,
-      "relevanceScore": 9.72,
+      "totalScore": 6.89,
+      "relevanceScore": 3.89,
       "popularityScore": 1.5,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -125228,7 +125288,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "8181e31f5eff",
-      "eventId": null
+      "eventId": "乘车提示__地铁屏蔽门翻越",
+      "_eventId": "乘车提示__地铁屏蔽门翻越",
+      "eventTitle": "地铁屏蔽门翻越"
     },
     "douyin:7695348894402480576": {
       "noteId": "douyin:7695348894402480576",
@@ -125389,8 +125451,8 @@
       "collectedCount": "522",
       "commentsCount": "20",
       "sharedCount": "71",
-      "totalScore": 12.26,
-      "relevanceScore": 9.76,
+      "totalScore": 6.4,
+      "relevanceScore": 3.9,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -125414,7 +125476,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "a2c273c7860d",
-      "eventId": null
+      "eventId": "高铁科普__双层车厢",
+      "_eventId": "高铁科普__双层车厢",
+      "eventTitle": "双层车厢"
     },
     "6ac7a061000000001500d20a": {
       "noteId": "6ac7a061000000001500d20a",
@@ -125475,8 +125539,8 @@
       "collectedCount": "1873",
       "commentsCount": "1736",
       "sharedCount": "1w+",
-      "totalScore": 13.62,
-      "relevanceScore": 9.62,
+      "totalScore": 7.85,
+      "relevanceScore": 3.85,
       "popularityScore": 2.5,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -125503,7 +125567,9 @@
         "高铁钱谁赔"
       ],
       "_sig": "b0ca62ca8e1d",
-      "eventId": null
+      "eventId": "停运__列车停运信息",
+      "_eventId": "停运__列车停运信息",
+      "eventTitle": "列车停运信息"
     },
     "6acd73fb00000000150082b7": {
       "noteId": "6acd73fb00000000150082b7",
@@ -126398,8 +126464,8 @@
       "collectedCount": "794",
       "commentsCount": "196",
       "sharedCount": "2473",
-      "totalScore": 12.02,
-      "relevanceScore": 9.52,
+      "totalScore": 6.31,
+      "relevanceScore": 3.81,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -127689,7 +127755,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "9a5357698c84",
-      "eventId": null
+      "eventId": "票务新规__机票退改签",
+      "_eventId": "票务新规__机票退改签",
+      "eventTitle": "机票退改签"
     },
     "6ad04479000000001c00e5e4": {
       "noteId": "6ad04479000000001c00e5e4",
@@ -127707,8 +127775,8 @@
       "collectedCount": "1w+",
       "commentsCount": "3662",
       "sharedCount": "4w+",
-      "totalScore": 13.99,
-      "relevanceScore": 9.49,
+      "totalScore": 8.3,
+      "relevanceScore": 3.8,
       "popularityScore": 3.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -127752,8 +127820,8 @@
       "collectedCount": "25",
       "commentsCount": "23",
       "sharedCount": "94",
-      "totalScore": 12.09,
-      "relevanceScore": 9.59,
+      "totalScore": 6.34,
+      "relevanceScore": 3.84,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -127797,8 +127865,8 @@
       "collectedCount": "1120",
       "commentsCount": "151",
       "sharedCount": "64",
-      "totalScore": 12.62,
-      "relevanceScore": 9.62,
+      "totalScore": 6.85,
+      "relevanceScore": 3.85,
       "popularityScore": 1.5,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -127991,8 +128059,8 @@
       "collectedCount": "592",
       "commentsCount": "266",
       "sharedCount": "2343",
-      "totalScore": 13.12,
-      "relevanceScore": 9.62,
+      "totalScore": 7.35,
+      "relevanceScore": 3.85,
       "popularityScore": 2.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -128318,8 +128386,8 @@
       "collectedCount": "876",
       "commentsCount": "75",
       "sharedCount": "567",
-      "totalScore": 12.0,
-      "relevanceScore": 10.0,
+      "totalScore": 6.0,
+      "relevanceScore": 4.0,
       "popularityScore": 1.0,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -129262,8 +129330,8 @@
       "collectedCount": "515",
       "commentsCount": "115",
       "sharedCount": "70",
-      "totalScore": 12.22,
-      "relevanceScore": 9.72,
+      "totalScore": 6.39,
+      "relevanceScore": 3.89,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -129307,8 +129375,8 @@
       "collectedCount": "963",
       "commentsCount": "667",
       "sharedCount": "4281",
-      "totalScore": 12.93,
-      "relevanceScore": 9.43,
+      "totalScore": 7.27,
+      "relevanceScore": 3.77,
       "popularityScore": 2.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -129556,7 +129624,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "ca9f9f681881",
-      "eventId": null
+      "eventId": "其他__北京老人组团坐火车看洛阳博物馆",
+      "_eventId": "其他__北京老人组团坐火车看洛阳博物馆",
+      "eventTitle": "北京老人组团坐火车看洛阳博物馆"
     },
     "douyin:7696710283330424079": {
       "noteId": "douyin:7696710283330424079",
@@ -129647,7 +129717,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "2bfe66b6696a",
-      "eventId": null
+      "eventId": "高铁科普__老挝高铁",
+      "_eventId": "高铁科普__老挝高铁",
+      "eventTitle": "老挝高铁"
     },
     "douyin:7687077420280696074": {
       "noteId": "douyin:7687077420280696074",
@@ -130271,8 +130343,8 @@
       "collectedCount": "3744",
       "commentsCount": "1410",
       "sharedCount": "1w+",
-      "totalScore": 14.55,
-      "relevanceScore": 9.55,
+      "totalScore": 8.82,
+      "relevanceScore": 3.82,
       "popularityScore": 3.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -130317,8 +130389,8 @@
       "collectedCount": "1779",
       "commentsCount": "500",
       "sharedCount": "848",
-      "totalScore": 14.1,
-      "relevanceScore": 9.6,
+      "totalScore": 8.34,
+      "relevanceScore": 3.84,
       "popularityScore": 2.5,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -130360,8 +130432,8 @@
       "collectedCount": "27",
       "commentsCount": "591",
       "sharedCount": "--",
-      "totalScore": 12.99,
-      "relevanceScore": 9.99,
+      "totalScore": 7.0,
+      "relevanceScore": 4.0,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -131179,8 +131251,8 @@
       "collectedCount": "113",
       "commentsCount": "42",
       "sharedCount": "20",
-      "totalScore": 12.86,
-      "relevanceScore": 9.86,
+      "totalScore": 6.94,
+      "relevanceScore": 3.94,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -134729,8 +134801,8 @@
       "collectedCount": "478",
       "commentsCount": "322",
       "sharedCount": "401",
-      "totalScore": 12.75,
-      "relevanceScore": 9.75,
+      "totalScore": 6.9,
+      "relevanceScore": 3.9,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -134772,8 +134844,8 @@
       "collectedCount": "141",
       "commentsCount": "166",
       "sharedCount": "50",
-      "totalScore": 12.67,
-      "relevanceScore": 9.67,
+      "totalScore": 6.87,
+      "relevanceScore": 3.87,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -134815,8 +134887,8 @@
       "collectedCount": "186",
       "commentsCount": "691",
       "sharedCount": "127",
-      "totalScore": 12.57,
-      "relevanceScore": 9.57,
+      "totalScore": 6.83,
+      "relevanceScore": 3.83,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -134912,8 +134984,8 @@
       "collectedCount": "236",
       "commentsCount": "68",
       "sharedCount": "570",
-      "totalScore": 12.44,
-      "relevanceScore": 9.44,
+      "totalScore": 6.78,
+      "relevanceScore": 3.78,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -134957,8 +135029,8 @@
       "collectedCount": "28",
       "commentsCount": "13",
       "sharedCount": "14",
-      "totalScore": 12.41,
-      "relevanceScore": 9.41,
+      "totalScore": 6.76,
+      "relevanceScore": 3.76,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -135002,8 +135074,8 @@
       "collectedCount": "1174",
       "commentsCount": "69",
       "sharedCount": "1399",
-      "totalScore": 12.23,
-      "relevanceScore": 9.73,
+      "totalScore": 6.39,
+      "relevanceScore": 3.89,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -135045,8 +135117,8 @@
       "collectedCount": "1714",
       "commentsCount": "1267",
       "sharedCount": "4145",
-      "totalScore": 14.17,
-      "relevanceScore": 9.67,
+      "totalScore": 8.37,
+      "relevanceScore": 3.87,
       "popularityScore": 2.5,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -135090,8 +135162,8 @@
       "collectedCount": "2584",
       "commentsCount": "140",
       "sharedCount": "1223",
-      "totalScore": 13.25,
-      "relevanceScore": 9.75,
+      "totalScore": 7.4,
+      "relevanceScore": 3.9,
       "popularityScore": 2.5,
       "recencyScore": 1.0,
       "matchedKeywords": [
@@ -135133,8 +135205,8 @@
       "collectedCount": "243",
       "commentsCount": "373",
       "sharedCount": "513",
-      "totalScore": 12.75,
-      "relevanceScore": 9.75,
+      "totalScore": 6.9,
+      "relevanceScore": 3.9,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -135178,8 +135250,8 @@
       "collectedCount": "940",
       "commentsCount": "97",
       "sharedCount": "--",
-      "totalScore": 12.72,
-      "relevanceScore": 9.72,
+      "totalScore": 6.89,
+      "relevanceScore": 3.89,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -135264,8 +135336,8 @@
       "collectedCount": "756",
       "commentsCount": "2",
       "sharedCount": "26",
-      "totalScore": 12.65,
-      "relevanceScore": 9.65,
+      "totalScore": 6.86,
+      "relevanceScore": 3.86,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -135663,7 +135735,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "776307fb8f32",
-      "eventId": null
+      "eventId": "票务新规__国铁车次编排调整",
+      "_eventId": "票务新规__国铁车次编排调整",
+      "eventTitle": "国铁车次编排调整"
     },
     "douyin:7698304931711359345": {
       "noteId": "douyin:7698304931711359345",
@@ -135754,7 +135828,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "bba0c0c0eea9",
-      "eventId": null
+      "eventId": "高铁科普__G6001京广高铁",
+      "_eventId": "高铁科普__G6001京广高铁",
+      "eventTitle": "G6001京广高铁"
     },
     "douyin:7697863969746259219": {
       "noteId": "douyin:7697863969746259219",
@@ -136338,7 +136414,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "192dab3707ed",
-      "eventId": null
+      "eventId": "绿皮火车__春运高铁",
+      "_eventId": "绿皮火车__春运高铁",
+      "eventTitle": "春运高铁"
     },
     "douyin:7698332188064137082": {
       "noteId": "douyin:7698332188064137082",
@@ -136846,7 +136924,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "3efac40e1665",
-      "eventId": null
+      "eventId": "票务新规__1元公益慢火车",
+      "_eventId": "票务新规__1元公益慢火车",
+      "eventTitle": "1元公益慢火车"
     },
     "douyin:7696802246423905786": {
       "noteId": "douyin:7696802246423905786",
@@ -137279,8 +137359,8 @@
       "collectedCount": "89",
       "commentsCount": "20",
       "sharedCount": "75",
-      "totalScore": 12.77,
-      "relevanceScore": 9.77,
+      "totalScore": 6.91,
+      "relevanceScore": 3.91,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -137322,8 +137402,8 @@
       "collectedCount": "712",
       "commentsCount": "138",
       "sharedCount": "523",
-      "totalScore": 12.5,
-      "relevanceScore": 10.0,
+      "totalScore": 6.5,
+      "relevanceScore": 4.0,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -137365,8 +137445,8 @@
       "collectedCount": "112",
       "commentsCount": "76",
       "sharedCount": "59",
-      "totalScore": 12.44,
-      "relevanceScore": 9.44,
+      "totalScore": 6.78,
+      "relevanceScore": 3.78,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -137390,7 +137470,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "b9d5bfcdeb04",
-      "eventId": null
+      "eventId": "绿皮火车__绿皮火车跑生意",
+      "_eventId": "绿皮火车__绿皮火车跑生意",
+      "eventTitle": "绿皮火车跑生意"
     },
     "6acca11e000000001403842a": {
       "noteId": "6acca11e000000001403842a",
@@ -137408,8 +137490,8 @@
       "collectedCount": "107",
       "commentsCount": "39",
       "sharedCount": "92",
-      "totalScore": 12.14,
-      "relevanceScore": 9.64,
+      "totalScore": 6.36,
+      "relevanceScore": 3.86,
       "popularityScore": 1.0,
       "recencyScore": 1.5,
       "matchedKeywords": [
@@ -137451,8 +137533,8 @@
       "collectedCount": "1879",
       "commentsCount": "57",
       "sharedCount": "85",
-      "totalScore": 13.34,
-      "relevanceScore": 9.84,
+      "totalScore": 7.44,
+      "relevanceScore": 3.94,
       "popularityScore": 1.5,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -137564,7 +137646,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "82a132d3872d",
-      "eventId": null
+      "eventId": "乘车提示__高铁新手售货员小哥",
+      "_eventId": "乘车提示__高铁新手售货员小哥",
+      "eventTitle": "高铁新手售货员小哥"
     },
     "6ad5c6440000000027014574": {
       "noteId": "6ad5c6440000000027014574",
@@ -137626,8 +137710,8 @@
       "collectedCount": "423",
       "commentsCount": "19",
       "sharedCount": "11",
-      "totalScore": 12.78,
-      "relevanceScore": 9.78,
+      "totalScore": 6.91,
+      "relevanceScore": 3.91,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -137669,8 +137753,8 @@
       "collectedCount": "195",
       "commentsCount": "30",
       "sharedCount": "9",
-      "totalScore": 12.67,
-      "relevanceScore": 9.67,
+      "totalScore": 6.87,
+      "relevanceScore": 3.87,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -137712,8 +137796,8 @@
       "collectedCount": "372",
       "commentsCount": "122",
       "sharedCount": "9",
-      "totalScore": 12.65,
-      "relevanceScore": 9.65,
+      "totalScore": 6.86,
+      "relevanceScore": 3.86,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -137755,8 +137839,8 @@
       "collectedCount": "153",
       "commentsCount": "35",
       "sharedCount": "37",
-      "totalScore": 12.62,
-      "relevanceScore": 9.62,
+      "totalScore": 6.85,
+      "relevanceScore": 3.85,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -138463,7 +138547,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "4d01a50dfd70",
-      "eventId": null
+      "eventId": "学生票新规__初中生高铁学生票",
+      "_eventId": "学生票新规__初中生高铁学生票",
+      "eventTitle": "初中生高铁学生票"
     },
     "douyin:7698971689203661504": {
       "noteId": "douyin:7698971689203661504",
@@ -138622,8 +138708,8 @@
       "collectedCount": "4166",
       "commentsCount": "133",
       "sharedCount": "801",
-      "totalScore": 13.62,
-      "relevanceScore": 9.62,
+      "totalScore": 7.85,
+      "relevanceScore": 3.85,
       "popularityScore": 2.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -138665,8 +138751,8 @@
       "collectedCount": "210",
       "commentsCount": "231",
       "sharedCount": "72",
-      "totalScore": 12.71,
-      "relevanceScore": 9.71,
+      "totalScore": 6.88,
+      "relevanceScore": 3.88,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -138708,8 +138794,8 @@
       "collectedCount": "829",
       "commentsCount": "205",
       "sharedCount": "114",
-      "totalScore": 12.68,
-      "relevanceScore": 9.68,
+      "totalScore": 6.87,
+      "relevanceScore": 3.87,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -138798,8 +138884,8 @@
       "collectedCount": "198",
       "commentsCount": "56",
       "sharedCount": "212",
-      "totalScore": 12.65,
-      "relevanceScore": 9.65,
+      "totalScore": 6.86,
+      "relevanceScore": 3.86,
       "popularityScore": 1.0,
       "recencyScore": 2.0,
       "matchedKeywords": [
@@ -138823,7 +138909,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "5acd4b44e34b",
-      "eventId": null
+      "eventId": "其他__114岁老人独自坐高铁",
+      "_eventId": "其他__114岁老人独自坐高铁",
+      "eventTitle": "114岁老人独自坐高铁"
     },
     "6ac3eb61000000001303eb9d": {
       "noteId": "6ac3eb61000000001303eb9d",
@@ -139764,2165 +139852,6 @@
       "_sig": "33ec67991459",
       "eventId": null
     },
-    "6ac9b269000000001802a977": {
-      "noteId": "6ac9b269000000001802a977",
-      "platform": "xhs",
-      "title": "小火车轨道竟然还能这样p图！",
-      "desc": "yc@坏话#蛋仔派对#蛋仔奇思妙想计划",
-      "authorNickname": "远墨",
-      "authorId": "5b51b471e8ac2b3f6b9c6ec2",
-      "authorFans": "51w+",
-      "createTime": "2026-10-10 11:35:05",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac9b269000000001802a977",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5b51b471e8ac2b3f6b9c6ec2",
-      "interactiveCount": "8w+",
-      "likedCount": "6w+",
-      "collectedCount": "1w+",
-      "commentsCount": "740",
-      "sharedCount": "5000+",
-      "totalScore": 14.05,
-      "relevanceScore": 9.55,
-      "popularityScore": 3.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "远墨",
-          "noteId": "6ac9b269000000001802a977"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "6a8c7c31e3a8"
-    },
-    "6ad33a3c000000001b0202d0": {
-      "noteId": "6ad33a3c000000001b0202d0",
-      "platform": "xhs",
-      "title": "男子误触高压线，坠落后又遭火车碾压！",
-      "desc": "【达尔文奖】男子爬上桥顶误触高压线，掉下后又遭火车碾压！#热点 #搞笑 #达尔文奖",
-      "authorNickname": "人类观察员",
-      "authorId": "62f1a54d000000001f006e89",
-      "authorFans": "5000+",
-      "createTime": "2026-10-17 17:05:00",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad33a3c000000001b0202d0",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/62f1a54d000000001f006e89",
-      "interactiveCount": "1w+",
-      "likedCount": "1w+",
-      "collectedCount": "1038",
-      "commentsCount": "319",
-      "sharedCount": "488",
-      "totalScore": 13.55,
-      "relevanceScore": 9.55,
-      "popularityScore": 2.0,
-      "recencyScore": 2.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "人类观察员",
-          "noteId": "6ad33a3c000000001b0202d0"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "b21f876be434"
-    },
-    "6ad89de8000000002a03074c": {
-      "noteId": "6ad89de8000000002a03074c",
-      "platform": "xhs",
-      "title": "火车头神秘弹刀点位",
-      "desc": "#蛋仔派对 #蛋仔奇思妙想计划 #蛋仔一蛋暴富 #蛋仔逃出惊魂夜 #蛋仔派对逃出惊魂夜 #好视频扶持计划",
-      "authorNickname": "一包水泥",
-      "authorId": "6065bbdb0000000001008058",
-      "authorFans": "39w+",
-      "createTime": "2026-10-21 19:11:36",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad89de8000000002a03074c",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6065bbdb0000000001008058",
-      "interactiveCount": "1w+",
-      "likedCount": "1w+",
-      "collectedCount": "2270",
-      "commentsCount": "201",
-      "sharedCount": "973",
-      "totalScore": 13.54,
-      "relevanceScore": 9.54,
-      "popularityScore": 2.0,
-      "recencyScore": 2.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "一包水泥",
-          "noteId": "6ad89de8000000002a03074c"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "ab0f832e2be7"
-    },
-    "6ad3272c000000001402ca23": {
-      "noteId": "6ad3272c000000001402ca23",
-      "platform": "xhs",
-      "title": "蛋仔派对：价值40许愿币的无敌小火车！",
-      "desc": "到底怎么让他停下来呢？#蛋仔派对 #蛋仔奇思妙想计划 #蛋仔一蛋暴富 #蛋仔小剧场 #游戏日常 #搞笑视频 #蛋仔女孩 #蛋仔实况 #蛋仔日常",
-      "authorNickname": "麻辣毛蛋儿",
-      "authorId": "64216d3f0000000012011f15",
-      "authorFans": "441w+",
-      "createTime": "2026-10-18 10:00:55",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad3272c000000001402ca23",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/64216d3f0000000012011f15",
-      "interactiveCount": "1w+",
-      "likedCount": "1w+",
-      "collectedCount": "2618",
-      "commentsCount": "1116",
-      "sharedCount": "130",
-      "totalScore": 13.48,
-      "relevanceScore": 9.48,
-      "popularityScore": 2.0,
-      "recencyScore": 2.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "麻辣毛蛋儿",
-          "noteId": "6ad3272c000000001402ca23"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "1449d26cf1f5"
-    },
-    "6aca07d6000000001c02cdb0": {
-      "noteId": "6aca07d6000000001c02cdb0",
-      "platform": "xhs",
-      "title": "蛋仔派对：玩保安队的小火车，不烧心~",
-      "desc": "#蛋仔派对 #蛋仔一蛋暴富 #蛋仔奇思妙想计划 #蛋仔小剧场",
-      "authorNickname": "游小浪Game",
-      "authorId": "601aa2290000000001007c96",
-      "authorFans": "334w+",
-      "createTime": "2026-10-10 17:39:34",
-      "noteLink": "https://www.xiaohongshu.com/explore/6aca07d6000000001c02cdb0",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/601aa2290000000001007c96",
-      "interactiveCount": "1w+",
-      "likedCount": "5000+",
-      "collectedCount": "5000+",
-      "commentsCount": "387",
-      "sharedCount": "228",
-      "totalScore": 12.96,
-      "relevanceScore": 9.46,
-      "popularityScore": 2.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "游小浪Game",
-          "noteId": "6aca07d6000000001c02cdb0"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "4d6e0678a227"
-    },
-    "6ad864fc000000002c02267f": {
-      "noteId": "6ad864fc000000002c02267f",
-      "platform": "xhs",
-      "title": "诡秘这火车坐着不烧心啊",
-      "desc": "#火车",
-      "authorNickname": "东瓜娱乐V",
-      "authorId": "681ad258000000000a03ce10",
-      "authorFans": "40",
-      "createTime": "2026-10-21 15:08:44",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad864fc000000002c02267f",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/681ad258000000000a03ce10",
-      "interactiveCount": "1261",
-      "likedCount": "1024",
-      "collectedCount": "229",
-      "commentsCount": "8",
-      "sharedCount": "367",
-      "totalScore": 12.85,
-      "relevanceScore": 9.85,
-      "popularityScore": 1.0,
-      "recencyScore": 2.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "东瓜娱乐V",
-          "noteId": "6ad864fc000000002c02267f"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "0ce6791823f3"
-    },
-    "6abe10d0000000000a027503": {
-      "noteId": "6abe10d0000000000a027503",
-      "platform": "xhs",
-      "title": "用乐高还原真实的火车事故！",
-      "desc": "#好视频扶持计划 #模拟火车事故 #乐高火车 #积木搭建 #事故还原",
-      "authorNickname": "有趣砖块",
-      "authorId": "5d5fa7d7000000000100172b",
-      "authorFans": "29w+",
-      "createTime": "2026-10-02 11:00:40",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abe10d0000000000a027503",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5d5fa7d7000000000100172b",
-      "interactiveCount": "1w+",
-      "likedCount": "5000+",
-      "collectedCount": "5000+",
-      "commentsCount": "462",
-      "sharedCount": "251",
-      "totalScore": 12.63,
-      "relevanceScore": 9.63,
-      "popularityScore": 2.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "有趣砖块",
-          "noteId": "6abe10d0000000000a027503"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "45db480f606e"
-    },
-    "6ab79490000000001a021846": {
-      "noteId": "6ab79490000000001a021846",
-      "platform": "xhs",
-      "title": "火车站信息差牵制点位！",
-      "desc": "火车站信息差牵制点位！\n#蛋仔派对 #蛋仔奇思妙想计划 #蛋仔开学学蛋语 #蛋仔逃出惊魂夜 #蛋仔派对逃出惊魂夜 #好视频扶持计划",
-      "authorNickname": "一包水泥",
-      "authorId": "6065bbdb0000000001008058",
-      "authorFans": "39w+",
-      "createTime": "2026-09-26 17:46:57",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab79490000000001a021846",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6065bbdb0000000001008058",
-      "interactiveCount": "1w+",
-      "likedCount": "5000+",
-      "collectedCount": "2251",
-      "commentsCount": "245",
-      "sharedCount": "362",
-      "totalScore": 12.61,
-      "relevanceScore": 9.61,
-      "popularityScore": 2.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "一包水泥",
-          "noteId": "6ab79490000000001a021846"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "f617f9bd0b2e"
-    },
-    "6ac23194000000001800499f": {
-      "noteId": "6ac23194000000001800499f",
-      "platform": "xhs",
-      "title": "反三小火车来咯",
-      "desc": "#v斐 #刘枭 #时光代理人 #国漫 #kiatjuddai #ooc致歉 #cos",
-      "authorNickname": "是小华诶",
-      "authorId": "5c3c7bf40000000007036d8f",
-      "authorFans": "23w+",
-      "createTime": "2026-10-04 18:59:32",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac23194000000001800499f",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5c3c7bf40000000007036d8f",
-      "interactiveCount": "1w+",
-      "likedCount": "1w+",
-      "collectedCount": "1957",
-      "commentsCount": "333",
-      "sharedCount": "249",
-      "totalScore": 12.57,
-      "relevanceScore": 9.57,
-      "popularityScore": 2.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "是小华诶",
-          "noteId": "6ac23194000000001800499f"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "980eeeb3bb45"
-    },
-    "6ad9b9c3000000002c035804": {
-      "noteId": "6ad9b9c3000000002c035804",
-      "platform": "xhs",
-      "title": "应急火车站阴间点位",
-      "desc": "#三角洲行动 #小猿搜题 #学习辅导用小猿 #作业难题就用小猿搜题 #三角洲行动红薯窝 #我的二洲年记忆 #好视频扶持计划 #三角洲行动REDLAND",
-      "authorNickname": "蛙哥玩三角洲",
-      "authorId": "62acbfeb000000001b02a83e",
-      "authorFans": "5w+",
-      "createTime": "2026-10-22 17:35:26",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad9b9c3000000002c035804",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/62acbfeb000000001b02a83e",
-      "interactiveCount": "1690",
-      "likedCount": "888",
-      "collectedCount": "791",
-      "commentsCount": "11",
-      "sharedCount": "38",
-      "totalScore": 12.54,
-      "relevanceScore": 9.54,
-      "popularityScore": 1.0,
-      "recencyScore": 2.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "蛙哥玩三角洲",
-          "noteId": "6ad9b9c3000000002c035804"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "6ac5251ae1e6"
-    },
-    "6abe7518000000000a023a2e": {
-      "noteId": "6abe7518000000000a023a2e",
-      "platform": "xhs",
-      "title": "方蓝小火车密语落地成真❗️眼科医师方益炯",
-      "desc": "时隔一年，这是爱情最好的模样❤️#心动的信号 #徐如蓝 #方益炯 #恋综 #爱情#综艺",
-      "authorNickname": "Kunnnnnxxx",
-      "authorId": "62cf8643000000000303c16a",
-      "authorFans": "3933",
-      "createTime": "2026-10-01 22:58:32",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abe7518000000000a023a2e",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/62cf8643000000000303c16a",
-      "interactiveCount": "1w+",
-      "likedCount": "5000+",
-      "collectedCount": "462",
-      "commentsCount": "279",
-      "sharedCount": "92",
-      "totalScore": 12.46,
-      "relevanceScore": 9.46,
-      "popularityScore": 2.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "Kunnnnnxxx",
-          "noteId": "6abe7518000000000a023a2e"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "93cc373ca8fe"
-    },
-    "6aca44e5000000001b02fd80": {
-      "noteId": "6aca44e5000000001b02fd80",
-      "platform": "xhs",
-      "title": "你们拥有小火车了吗？",
-      "desc": "#蛋仔派对 #蛋仔奇思妙想计划 #蛋仔小剧场 #蛋仔地图推荐 #蛋仔一蛋暴富",
-      "authorNickname": "蓝胖",
-      "authorId": "65081b440000000012006eaa",
-      "authorFans": "54w+",
-      "createTime": "2026-10-11 08:00:49",
-      "noteLink": "https://www.xiaohongshu.com/explore/6aca44e5000000001b02fd80",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/65081b440000000012006eaa",
-      "interactiveCount": "1815",
-      "likedCount": "1041",
-      "collectedCount": "690",
-      "commentsCount": "84",
-      "sharedCount": "25",
-      "totalScore": 12.13,
-      "relevanceScore": 9.63,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "蓝胖",
-          "noteId": "6aca44e5000000001b02fd80"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "5f4b6b5ff6f4"
-    },
-    "6ab63dfd0000000014039304": {
-      "noteId": "6ab63dfd0000000014039304",
-      "platform": "xhs",
-      "title": "AS小火车开起来咯～",
-      "desc": "#异形舞台 #alienstage #KiatJudDai #cos #私设 ooc致歉 新企划即将上线——大家敬请期待～",
-      "authorNickname": "十Mi十",
-      "authorId": "5f476f6a0000000001007609",
-      "authorFans": "8w+",
-      "createTime": "2026-09-25 17:25:17",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab63dfd0000000014039304",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5f476f6a0000000001007609",
-      "interactiveCount": "5000+",
-      "likedCount": "5000+",
-      "collectedCount": "547",
-      "commentsCount": "172",
-      "sharedCount": "94",
-      "totalScore": 12.1,
-      "relevanceScore": 9.6,
-      "popularityScore": 1.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "十Mi十",
-          "noteId": "6ab63dfd0000000014039304"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "9c60f95c9e65"
-    },
-    "6acca24f000000000a022c06": {
-      "noteId": "6acca24f000000000a022c06",
-      "platform": "xhs",
-      "title": "如果把火车换成飞机……",
-      "desc": "#WeeklyPick #科普",
-      "authorNickname": "",
-      "authorId": "67e36fe3000000000d00acba",
-      "authorFans": "4512",
-      "createTime": "2026-10-12 19:07:02",
-      "noteLink": "https://www.xiaohongshu.com/explore/6acca24f000000000a022c06",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/67e36fe3000000000d00acba",
-      "interactiveCount": "2396",
-      "likedCount": "1497",
-      "collectedCount": "892",
-      "commentsCount": "7",
-      "sharedCount": "9",
-      "totalScore": 12.07,
-      "relevanceScore": 9.57,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "",
-          "noteId": "6acca24f000000000a022c06"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "dc2ea9f21cec"
-    },
-    "6acac87c000000001b030554": {
-      "noteId": "6acac87c000000001b030554",
-      "platform": "xhs",
-      "title": "乘坐乐高火车驶过两座桥梁，环绕泳池！",
-      "desc": "#好视频扶持计划 #乐高火车 #乐高城市 #沉浸式 #解压 #助眠 #乐高火车第一视角  #把秋天织进生活",
-      "authorNickname": "有趣砖块",
-      "authorId": "5d5fa7d7000000000100172b",
-      "authorFans": "29w+",
-      "createTime": "2026-10-11 11:00:42",
-      "noteLink": "https://www.xiaohongshu.com/explore/6acac87c000000001b030554",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5d5fa7d7000000000100172b",
-      "interactiveCount": "4784",
-      "likedCount": "3064",
-      "collectedCount": "1662",
-      "commentsCount": "58",
-      "sharedCount": "176",
-      "totalScore": 12.06,
-      "relevanceScore": 9.56,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "有趣砖块",
-          "noteId": "6acac87c000000001b030554"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "a5a8f5f1b3b8"
-    },
-    "6ab9bbfd000000000200f511": {
-      "noteId": "6ab9bbfd000000000200f511",
-      "platform": "xhs",
-      "title": "【GRRRLS meme背景】开小火车one by one（？",
-      "desc": "#meme #meme背景 #fyp #音乐 #grrrls",
-      "authorNickname": "Kixxer_TP",
-      "authorId": "681357fe000000000e01337b",
-      "authorFans": "1w+",
-      "createTime": "2026-09-28 08:59:41",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab9bbfd000000000200f511",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/681357fe000000000e01337b",
-      "interactiveCount": "5000+",
-      "likedCount": "5000+",
-      "collectedCount": "2386",
-      "commentsCount": "45",
-      "sharedCount": "280",
-      "totalScore": 12.05,
-      "relevanceScore": 9.55,
-      "popularityScore": 1.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "Kixxer_TP",
-          "noteId": "6ab9bbfd000000000200f511"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "7e714dc1533c"
-    },
-    "6ac7774d0000000015001684": {
-      "noteId": "6ac7774d0000000015001684",
-      "platform": "xhs",
-      "title": "嘟嘟 薇斯纳小火车 出发啰",
-      "desc": "#原神至冬 #原神#薇斯纳",
-      "authorNickname": "殷秋染",
-      "authorId": "6472c754000000001001f891",
-      "authorFans": "5w+",
-      "createTime": "2026-10-08 18:58:21",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac7774d0000000015001684",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6472c754000000001001f891",
-      "interactiveCount": "5000+",
-      "likedCount": "5000+",
-      "collectedCount": "1375",
-      "commentsCount": "92",
-      "sharedCount": "277",
-      "totalScore": 12.04,
-      "relevanceScore": 9.54,
-      "popularityScore": 1.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "火车"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "殷秋染",
-          "noteId": "6ac7774d0000000015001684"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "d324a06c58c9"
-    },
-    "6ad9fefa000000002a011b5c": {
-      "noteId": "6ad9fefa000000002a011b5c",
-      "platform": "xhs",
-      "title": "避坑！分享我花4679元从携程国际买的教训",
-      "desc": "建议大家使用携程国际版Trip.com购买国际机票千万慎重！\n否则损失个几千块就像呼吸一样容易[捂脸R]\n我已就该订单向 12315 和新加坡消费者协会投诉（为什么还有新加坡呢，因为这家公司注册在新加坡！）\n目前看来携程国际的受害者不止我一个，多数人耗费了大量时间精力也无法挽回损失，提前给大家避坑了！\n#避坑 #维护消费者权益 #携程 #携程国际版 #旅游不踩坑 #TripFlex",
-      "authorNickname": "斑马酱锵锵锵",
-      "authorId": "5accbf6ce8ac2b333f70ca32",
-      "authorFans": "14w+",
-      "createTime": "2026-10-22 20:18:02",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad9fefa000000002a011b5c",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5accbf6ce8ac2b333f70ca32",
-      "interactiveCount": "3062",
-      "likedCount": "2638",
-      "collectedCount": "200",
-      "commentsCount": "224",
-      "sharedCount": "296",
-      "totalScore": 13.0,
-      "relevanceScore": 10.0,
-      "popularityScore": 1.0,
-      "recencyScore": 2.0,
-      "matchedKeywords": [
-        "携程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "斑马酱锵锵锵",
-          "noteId": "6ad9fefa000000002a011b5c"
-        }
-      ],
-      "_brand": "携程",
-      "_relevant": false,
-      "_sentiment": "neg",
-      "_pains": [
-        "机票退款难",
-        "损失大"
-      ],
-      "_sig": "69db2f70c28d"
-    },
-    "6abcc90e000000001c01c44f": {
-      "noteId": "6abcc90e000000001c01c44f",
-      "platform": "xhs",
-      "title": "✈️国庆出发！携程x绿联出行礼包免费送！🎁",
-      "desc": "假期已上线📣\n收到好朋友 @绿联蓝牙耳机  的出行邀约！\n这次带着绿联X8，一起奔赴下一站远方🌏\n\t\n携程机票负责带你去远方[飞机R]\nX8负责让沿途一路有好声音🎶\n和朋友一起参与【机票拼团】🙋‍\n4人出发至高省410💰！\n一起出发就是旅行的BGM～\n\t\n🎁国庆出行好礼来啦！\n@携程机票  350r礼品卡*1\n@绿联蓝牙耳机  绿联X8蓝牙耳机*1\n🐽➕👍➕⭐➕💬分享你最喜欢的旅行BGM🎶~\n🕐开奖时间：10.30\n随机揪1位宝子送出「出行礼包」🎁\n\t\n这个假期，\n想去哪里，就出发去哪里！✈️\n\t\n#机票优惠  #机票怎么买便宜  #旅行新选择 \n#绿联X8   #绿联蓝牙耳机   #带绿联X8去旅行   #野生体验家howto ",
-      "authorNickname": "携程机票",
-      "authorId": "613849880000000002027255",
-      "authorFans": "23w+",
-      "createTime": "2026-10-01 09:01:21",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abcc90e000000001c01c44f",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/613849880000000002027255",
-      "interactiveCount": "1974",
-      "likedCount": "558",
-      "collectedCount": "552",
-      "commentsCount": "864",
-      "sharedCount": "121",
-      "totalScore": 11.8,
-      "relevanceScore": 9.8,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "携程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "携程机票",
-          "noteId": "6abcc90e000000001c01c44f"
-        }
-      ],
-      "_brand": "携程",
-      "_relevant": false,
-      "_sentiment": "pos",
-      "_pains": [],
-      "_sig": "dd8771b4b946"
-    },
-    "6abb43a5000000001c00ead4": {
-      "noteId": "6abb43a5000000001c00ead4",
-      "platform": "xhs",
-      "title": "人在YOYO痛站抽盒的天！心愿款你总算来了…",
-      "desc": "#旅游出行逛名创 #携程 #名创优品 #世界是个巨大的YO乐园 #名创新5A景区\n#大人也要玩玩具 #二次元 #我的盲盒分享 #YOYO #weeklypick",
-      "authorNickname": "是一颗红毛丹哇",
-      "authorId": "6243a7f7000000001000c3ee",
-      "authorFans": "12w+",
-      "createTime": "2026-09-29 12:50:45",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abb43a5000000001c00ead4",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6243a7f7000000001000c3ee",
-      "interactiveCount": "1136",
-      "likedCount": "664",
-      "collectedCount": "467",
-      "commentsCount": "5",
-      "sharedCount": "9",
-      "totalScore": 6.35,
-      "relevanceScore": 4.35,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "携程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "是一颗红毛丹哇",
-          "noteId": "6abb43a5000000001c00ead4"
-        }
-      ],
-      "_brand": "携程",
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "e419a6e7632d"
-    },
-    "6ab4d730000000001501401b": {
-      "noteId": "6ab4d730000000001501401b",
-      "platform": "xhs",
-      "title": "坐上南航YOYO主题航班！",
-      "desc": "被满机舱的YOYO狠狠治愈的一次飞行\n世界是个巨大的YO乐园\n#旅游出行逛名创#携程#名创优品#世界是个巨大的YO乐园#YOYO#盲盒开箱#旅行好物howto",
-      "authorNickname": "xulingchanggg",
-      "authorId": "5e12d95f0000000001009137",
-      "authorFans": "15w+",
-      "createTime": "2026-09-24 16:30:07",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab4d730000000001501401b",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5e12d95f0000000001009137",
-      "interactiveCount": "3600",
-      "likedCount": "3042",
-      "collectedCount": "545",
-      "commentsCount": "13",
-      "sharedCount": "41",
-      "totalScore": 6.34,
-      "relevanceScore": 4.34,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "携程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "xulingchanggg",
-          "noteId": "6ab4d730000000001501401b"
-        }
-      ],
-      "_brand": "携程",
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "58004c0acd48"
-    },
-    "6acccb7b000000001a021e4d": {
-      "noteId": "6acccb7b000000001a021e4d",
-      "platform": "xhs",
-      "title": "鸿蒙智行26年9月销量明细",
-      "desc": "说实话，18款车37490台的销量，比较尴尬了，溢价没有起到效果，并且销量持续下跌，后续看看如何进行改革吧（ps:电动轿跑真的是受众还是太小了[捂脸R]）#汽车销量 #鸿蒙智行 #问界#尊界#智界 #享界",
-      "authorNickname": "我画一条龙",
-      "authorId": "65adbe14000000000d01fe0f",
-      "authorFans": "66",
-      "createTime": "2026-10-12 19:58:51",
-      "noteLink": "https://www.xiaohongshu.com/explore/6acccb7b000000001a021e4d",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/65adbe14000000000d01fe0f",
-      "interactiveCount": "1192",
-      "likedCount": "276",
-      "collectedCount": "54",
-      "commentsCount": "862",
-      "sharedCount": "206",
-      "totalScore": 12.36,
-      "relevanceScore": 9.86,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "智行"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "我画一条龙",
-          "noteId": "6acccb7b000000001a021e4d"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "93e9328a29f7"
-    },
-    "6acf2321000000001403931a": {
-      "noteId": "6acf2321000000001403931a",
-      "platform": "xhs",
-      "title": "鸿蒙智行：刹车检测是江淮做的",
-      "desc": "10 月 13 日，尊界 V800 制动踏板检测报告曝光后，相关话题持续处在舆论风口。针对这份文件，鸿蒙智行与江淮汽车给出了差异明显的回应。\n\t\n鸿蒙智行向财闻记者说明，本次检测由江淮汽车委托开展，对应的检测情况说明，是面向用户发布的资料。而媒体联系江淮汽车负责对外对接的部门核实此事，对方仅简单回复三个字：不清楚。\n\t\n查阅中国汽研档案信息可以确认，这份检测的委托主体正是安徽江淮汽车集团股份有限公司，江淮内部相关人士也证实，这份文件就是舆论热议的那份《检测情况说明》。从委托关系上来说，鸿蒙智行的表述属实，制动踏板相关制造归属江淮，本次检测也是江淮方面主动委托。\n\t\n但事件矛盾点，并不在于是谁发起的检测。尊界 V800 作为国产高端旗舰车型，上市宣传的核心卖点就是华为深度参与整车项目。发布会由华为主导举办，鸿蒙座舱、乾崑智驾等核心系统均来自华为，余承东也亲自站台推介。很多消费者选择这款车，本质上也是冲着华为这套技术体系而来。\n\t\n中国汽研随后也补充了重要提示：检测结果仅针对车企送检的样品、样车，不能对车企后续下线的量产车辆品质做担保。企业送检不同于市场随机抽检，检测机构只对送检样品负责，这是行业通用规则，这一点本身并无争议。\n\t\n纵观整件事的各方表态，大家似乎都在回避最核心的问题：量产实车上的制动踏板，为什么能够被人力踩踏断裂？舆论不应该纠缠测试时施加的力度大小，踏板发生断裂的真实原因，才是消费者真正关心的核心。消费者想知道量产车零部件的可靠性，而目前的回应，都没有直面这个关键疑问。\n#互联网大厂 #智能化驾驶 #汽车 #自动驾驶技术 #华为 #鸿蒙智行 #江淮",
-      "authorNickname": "科技芯方向",
-      "authorId": "5f9aa6e000000000010025d3",
-      "authorFans": "15w+",
-      "createTime": "2026-10-14 14:37:21",
-      "noteLink": "https://www.xiaohongshu.com/explore/6acf2321000000001403931a",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5f9aa6e000000000010025d3",
-      "interactiveCount": "1564",
-      "likedCount": "927",
-      "collectedCount": "140",
-      "commentsCount": "497",
-      "sharedCount": "1573",
-      "totalScore": 12.35,
-      "relevanceScore": 9.85,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "智行"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "科技芯方向",
-          "noteId": "6acf2321000000001403931a"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "30e6103f8a53"
-    },
-    "6ab6b98f000000001500830e": {
-      "noteId": "6ab6b98f000000001500830e",
-      "platform": "xhs",
-      "title": "鸿蒙智行五界全亏",
-      "desc": "鸿蒙智行五界全亏#汽车 #鸿蒙 #华为 #赛力斯 #财经",
-      "authorNickname": "周俊巍频道",
-      "authorId": "65e83ae2000000000500a2f7",
-      "authorFans": "2w+",
-      "createTime": "2026-09-26 12:38:32",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab6b98f000000001500830e",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/65e83ae2000000000500a2f7",
-      "interactiveCount": "1031",
-      "likedCount": "505",
-      "collectedCount": "188",
-      "commentsCount": "347",
-      "sharedCount": "149",
-      "totalScore": 12.0,
-      "relevanceScore": 10.0,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "智行"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "周俊巍频道",
-          "noteId": "6ab6b98f000000001500830e"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "bfb293b910cb"
-    },
-    "6ac74aa0000000001403a3c7": {
-      "noteId": "6ac74aa0000000001403a3c7",
-      "platform": "xhs",
-      "title": "我的智行拍档！",
-      "desc": "#车知识分享计划  #好车分享 #出行新方式#尚界Z7  #尚界Z7T  #尚界Z7谁看谁尚头",
-      "authorNickname": "Nemo说科技",
-      "authorId": "5f8507800000000001008ef3",
-      "authorFans": "57w+",
-      "createTime": "2026-10-08 15:47:45",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac74aa0000000001403a3c7",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5f8507800000000001008ef3",
-      "interactiveCount": "2802",
-      "likedCount": "1715",
-      "collectedCount": "1010",
-      "commentsCount": "77",
-      "sharedCount": "1",
-      "totalScore": 11.99,
-      "relevanceScore": 9.99,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "智行"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "Nemo说科技",
-          "noteId": "6ac74aa0000000001403a3c7"
-        }
-      ],
-      "_relevant": false,
-      "_sentiment": "neu",
-      "_pains": [],
-      "_sig": "19c678baf9b7"
-    },
-    "6ac74b71000000000a0270fb": {
-      "noteId": "6ac74b71000000000a0270fb",
-      "platform": "xhs",
-      "title": "关于尊界V800刹车断裂，鸿蒙智行史诗级回复",
-      "desc": "值得载入史册\n#尊界V800 #鸿蒙智行",
-      "authorNickname": "杰哥车生活",
-      "authorId": "6802403800000000080157b1",
-      "authorFans": "3w+",
-      "createTime": "2026-10-08 15:51:13",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac74b71000000000a0270fb",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6802403800000000080157b1",
-      "interactiveCount": "1241",
-      "likedCount": "407",
-      "collectedCount": "70",
-      "commentsCount": "764",
-      "sharedCount": "458",
-      "totalScore": 11.77,
-      "relevanceScore": 9.77,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "智行"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "杰哥车生活",
-          "noteId": "6ac74b71000000000a0270fb"
-        }
-      ]
-    },
-    "6abcba970000000015008c4f": {
-      "noteId": "6abcba970000000015008c4f",
-      "platform": "xhs",
-      "title": "鸿蒙智行老韭菜谈谈新车智界RX怎么样?",
-      "desc": "今天放假约了秋季健诊，顺便试驾智界RX，直观感受到这台轿跑SUV兼顾舒适与驾趣。底盘由AMG大师调校，搭载双腔空悬与CDC减振，路面细碎颠簸轻松过滤，过弯时悬架自动收紧，车身侧倾很小，转向精准跟手，完全不像一台大尺寸SUV。电门输出线性平顺，加速爆发力充足却很好掌控。华为乾崑智驾表现亮眼，复杂路况能从容应对，提前预判路况，大幅减轻驾驶负担。智能环抱座椅会随弯道自动充气支撑，牢牢贴合身体。既能城市通勤安稳代步，跑山又能感受操控乐趣，智能与底盘实力双在线，是一台真正“为驾驶而生”的纯电座驾。\n来自#鸿蒙智行 #鸿蒙智能汽车 #鸿蒙智行App #智界RX #智界精英驾驶体验营",
-      "authorNickname": "胖绿柒（鸿蒙车友互关互赞）",
-      "authorId": "5a1a31094eacab581619d793",
-      "authorFans": "64",
-      "createTime": "2026-09-30 15:30:31",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abcba970000000015008c4f",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5a1a31094eacab581619d793",
-      "interactiveCount": "1002",
-      "likedCount": "91",
-      "collectedCount": "51",
-      "commentsCount": "860",
-      "sharedCount": "18",
-      "totalScore": 11.76,
-      "relevanceScore": 9.76,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "智行"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "胖绿柒（鸿蒙车友互关互赞）",
-          "noteId": "6abcba970000000015008c4f"
-        }
-      ]
-    },
-    "6ac74c250000000015011477": {
-      "noteId": "6ac74c250000000015011477",
-      "platform": "xhs",
-      "title": "尊界V800被指刹车时踏板断裂，鸿蒙智行回应",
-      "desc": "10月8日，自媒体账号“懂车大侦探”指出百万豪车尊界V800汽车，出现刹车踏板断裂现象。\n\t\n澎湃新闻记者以消费者的身份联系鸿蒙智行，对方表示表示尚未接到涉刹车踏板的相关反馈，车辆交付周期正常。（澎湃新闻·锋线视频）\n\t\n#尊界V800 #鸿蒙智行 #汽车#尊界汽车 #汽车圈观察者  @热点薯",
-      "authorNickname": "澎湃新闻",
-      "authorId": "6235c2f50000000010009b58",
-      "authorFans": "86w+",
-      "createTime": "2026-10-08 15:54:13",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac74c250000000015011477",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6235c2f50000000010009b58",
-      "interactiveCount": "4240",
-      "likedCount": "3272",
-      "collectedCount": "505",
-      "commentsCount": "463",
-      "sharedCount": "5000+",
-      "totalScore": 11.74,
-      "relevanceScore": 9.74,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "智行"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "澎湃新闻",
-          "noteId": "6ac74c250000000015011477"
-        }
-      ]
-    },
-    "6ac7df6b000000001403908c": {
-      "noteId": "6ac7df6b000000001403908c",
-      "platform": "xhs",
-      "title": "尊界V800刹车事件，我作为鸿蒙智行车主想说",
-      "desc": "#尊界 #尊界V800 #懂车帝 #刹车 #鸿蒙智行 #徐真真",
-      "authorNickname": "徐真真_2REAL",
-      "authorId": "5bbc413c18d7e3000165dd9a",
-      "authorFans": "1w+",
-      "createTime": "2026-10-09 02:22:35",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac7df6b000000001403908c",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5bbc413c18d7e3000165dd9a",
-      "interactiveCount": "1513",
-      "likedCount": "855",
-      "collectedCount": "65",
-      "commentsCount": "593",
-      "sharedCount": "121",
-      "totalScore": 11.72,
-      "relevanceScore": 9.22,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "智行"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "徐真真_2REAL",
-          "noteId": "6ac7df6b000000001403908c"
-        }
-      ]
-    },
-    "6ab644fe000000001403bf63": {
-      "noteId": "6ab644fe000000001403bf63",
-      "platform": "xhs",
-      "title": "让我们享福的事情你们顺手就做了",
-      "desc": "#飞猪 #飞猪会员 #88vip#学生#幸福#快乐#娱乐#旅游#城市#旅行",
-      "authorNickname": "摸娱小师妹",
-      "authorId": "678f7dc7000000000d00bd91",
-      "authorFans": "13w+",
-      "createTime": "2026-09-25 18:44:41",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab644fe000000001403bf63",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/678f7dc7000000000d00bd91",
-      "interactiveCount": "1w+",
-      "likedCount": "1w+",
-      "collectedCount": "804",
-      "commentsCount": "141",
-      "sharedCount": "187",
-      "totalScore": 7.98,
-      "relevanceScore": 4.98,
-      "popularityScore": 2.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "摸娱小师妹",
-          "noteId": "6ab644fe000000001403bf63"
-        }
-      ]
-    },
-    "6ab8cab70000000014003670": {
-      "noteId": "6ab8cab70000000014003670",
-      "platform": "xhs",
-      "title": "“大学里立人设有多重要…”",
-      "desc": "“大学里立人设有多重要…”\n#飞猪 #88vip#结局亮了 #剧情 #真实改编 #内容过于真实 #大学 #寝室",
-      "authorNickname": "大小眼媛",
-      "authorId": "60e30f1c00000000200247e7",
-      "authorFans": "25w+",
-      "createTime": "2026-09-27 17:31:50",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab8cab70000000014003670",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/60e30f1c00000000200247e7",
-      "interactiveCount": "1w+",
-      "likedCount": "1w+",
-      "collectedCount": "1255",
-      "commentsCount": "46",
-      "sharedCount": "43",
-      "totalScore": 7.89,
-      "relevanceScore": 4.89,
-      "popularityScore": 2.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "大小眼媛",
-          "noteId": "6ab8cab70000000014003670"
-        }
-      ]
-    },
-    "6ab63a50000000001501769a": {
-      "noteId": "6ab63a50000000001501769a",
-      "platform": "xhs",
-      "title": "我就说开团秒跟是有用的吧",
-      "desc": "#飞猪#旅游#机票#万万没想到 #爱你老己 #出行攻略 #国庆旅游howto",
-      "authorNickname": "松果营销号",
-      "authorId": "6822def6000000000d00b183",
-      "authorFans": "11w+",
-      "createTime": "2026-09-25 17:55:38",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab63a50000000001501769a",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6822def6000000000d00b183",
-      "interactiveCount": "1w+",
-      "likedCount": "1w+",
-      "collectedCount": "497",
-      "commentsCount": "91",
-      "sharedCount": "52",
-      "totalScore": 7.89,
-      "relevanceScore": 4.89,
-      "popularityScore": 2.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "松果营销号",
-          "noteId": "6ab63a50000000001501769a"
-        }
-      ]
-    },
-    "6abb7029000000001801a7a0": {
-      "noteId": "6abb7029000000001801a7a0",
-      "platform": "xhs",
-      "title": "至此，每个景点都迎来了属于自己的落地签",
-      "desc": "#落地签 #旅行 #旅行兴趣班 #学习 #国庆旅行 #飞猪 #万万没想到 #离谱",
-      "authorNickname": "小花营销号",
-      "authorId": "5cbc11a90000000017015894",
-      "authorFans": "5w+",
-      "createTime": "2026-09-29 17:39:37",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abb7029000000001801a7a0",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5cbc11a90000000017015894",
-      "interactiveCount": "5000+",
-      "likedCount": "5000+",
-      "collectedCount": "1573",
-      "commentsCount": "54",
-      "sharedCount": "302",
-      "totalScore": 7.39,
-      "relevanceScore": 4.89,
-      "popularityScore": 1.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "小花营销号",
-          "noteId": "6abb7029000000001801a7a0"
-        }
-      ]
-    },
-    "6ac86dfa000000001c00d295": {
-      "noteId": "6ac86dfa000000001c00d295",
-      "platform": "xhs",
-      "title": "虽然这是千问办公的广但真能让你无痛返工。。",
-      "desc": "#青岛人精神状态 #抽象 #一人分饰多角 #内容过于真实 #国庆假期#千问办公 #订房送算力 #躺赚TOKEN #飞猪 #复工",
-      "authorNickname": "悦不悦",
-      "authorId": "5e6866db0000000001006177",
-      "authorFans": "3w+",
-      "createTime": "2026-10-09 13:34:23",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac86dfa000000001c00d295",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5e6866db0000000001006177",
-      "interactiveCount": "1134",
-      "likedCount": "1012",
-      "collectedCount": "112",
-      "commentsCount": "10",
-      "sharedCount": "8",
-      "totalScore": 7.37,
-      "relevanceScore": 4.87,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "悦不悦",
-          "noteId": "6ac86dfa000000001c00d295"
-        }
-      ]
-    },
-    "6ac8ff84000000001403988a": {
-      "noteId": "6ac8ff84000000001403988a",
-      "platform": "xhs",
-      "title": "出去玩送token的风吹到了酒店界！",
-      "desc": "时隔七天回到工位，打开电脑瞬间失忆😵‍💫\n完全想不起来自己是什么领域的专家\n桌面躺满《论文最终版》《论文最终版（1）》《论文 - 真的最终版》\n随手点开文件，半截句子卡在那里：“后续需要进一步分析……”\n分析啥？谁分析？假期前的我到底挖到了什么结论？\n人回到工位了，脑子还赖在酒店床上没起来🥱\n不过这次出游，特意给返工的自己留了个外挂✨\n十一在飞猪订活动指定国内酒店，离店 7 天内，能领 1 个月价值 98 元千问办公会员！\n出去玩还能领到 AI token，这波羊毛太惊喜\n可选酒店超多，万豪、希尔顿、亚朵、华住这些常见品牌基本都覆盖\n住完一趟，酒店订单直接兑换一张 AI 算力卡✅\n领取步骤超简单👇\n飞猪右下角【我的】→卡券找到千问办公会员兑换券\n打开千问办公 - 设置，输入兑换码就能激活\n算是我的第一笔 “睡后收入” 了😂\n靠千问快速找回科研思路！把三个版本论文全部丢进去，一键比对各版差异，锁定最新终稿，还帮我梳理后续待做任务，完美接上假期中断的工作。\n本来返工焦虑直接减半，这个福利真的戳到科研人、打工人的心坎里！\n假期玩尽兴，返工还有 AI 帮手，太香了～\n\t\n#千问 #飞猪 #算力 #token #AI #千问办公  #打工人羊毛  #千问办公 #订房送算力 #躺赚TOKEN",
-      "authorNickname": "超A酸奶-读博版",
-      "authorId": "65d4b726000000000d025f67",
-      "authorFans": "2w+",
-      "createTime": "2026-10-10 09:04:56",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac8ff84000000001403988a",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/65d4b726000000000d025f67",
-      "interactiveCount": "1132",
-      "likedCount": "1039",
-      "collectedCount": "85",
-      "commentsCount": "8",
-      "sharedCount": "4",
-      "totalScore": 7.26,
-      "relevanceScore": 4.76,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "超A酸奶-读博版",
-          "noteId": "6ac8ff84000000001403988a"
-        }
-      ]
-    },
-    "6ab9e301000000001c00e5db": {
-      "noteId": "6ab9e301000000001c00e5db",
-      "platform": "xhs",
-      "title": "以为四国已经很美了，直到来到这里🌊",
-      "desc": "四国不只有遍路巡礼和山间寺庙\n还有一个更小众、更深邃的目的地：德岛\n它不是一座小岛，而是四国东侧的一个县，也是连接本州与四国的玄关\n从大阪/神户坐高速巴士约2小时\n就能进入这个漩涡、峡谷与阿波舞的故乡\n世界三大漩涡在鸣门海峡昼夜翻腾\n深山峡谷间藏着用藤蔓编织的千年奇桥\n还能在绝壁之下泡一场与世隔绝的温泉\n-\n【用6个地方，解锁德岛的6张面孔】\n🎨 大冢国际美术馆\n世界第一座陶板名画美术馆，把欧洲上千幅名画原尺寸搬到了鸣门。从西斯廷天顶到莫奈睡莲，全长4公里的展线，像一场永不落幕的西方艺术巡礼。陶板色彩能保存两千年，随手一拍都是艺术大片。\n🌊 鸣门漩涡\n濑户内海与纪伊水道的水位差，在这里撕出直径超20米的巨大漩涡。你可以乘船贴近那翻涌的轰鸣，或在大桥下45米高的玻璃步道俯瞰——脚下海水咆哮旋转，仿佛整个海洋都在呼吸。\n🌉 祖谷藤蔓桥\n一座用野生白口藤编成的吊桥，横跨祖谷溪谷，离水面14米。每走一步桥身都在晃动，脚底缝隙间能看见清澈激流——胆小的人会腿软，但四国山野的苍翠尽收眼底，值了。\n🏞️ 大步危·小步危\n吉野川用两亿年切出的V字峡谷，岩壁如削，溪水碧蓝。乘一艘游览船缓缓漂进峡谷深处，两岸奇岩扑面而来，水声风声鸟鸣交织，像走进一部古老的地质史诗。\n♨️ 祖谷温泉\n藏在200米绝壁之下的秘汤，必须搭乘缆车贴着峭壁下降才能抵达。泉质温润，没有硫磺味，耳边只有溪流与风声。晨雾里泡汤，整个人都被山间的宁静融化——这是德岛最治愈的瞬间。\n💃 阿波舞会馆\n德岛灵魂之舞全年都在这里上演。看舞者踩着节奏、挥着斗笠，在舞台上热烈翻腾，你会忍不住跟着拍手。看完还可以乘缆车上眉山，俯瞰整座德岛市的温柔夜色。\n-\n【德岛旅游tips】\n🚗 祖谷秘境公共交通稀少，强烈建议租车自驾\n🌿春夏秋冬各有各的美——春天樱花烂漫，夏天溪谷翠绿，秋天红叶层叠，冬天雪景静谧\n🌀 鸣门漩涡受潮汐影响，出发前一定查好当天大潮时间\n📸 藤蔓桥和温泉都适合清晨去，人少、光线好、氛围绝佳\n#德岛 #四国旅行 #日本小众旅行 #德岛旅游 #祖谷溪谷 #鸣门漩涡 #阿波舞 #日本秘境#飞猪#飞猪旅行",
-      "authorNickname": "飞行圆",
-      "authorId": "5c8f24c60000000016007e47",
-      "authorFans": "7w+",
-      "createTime": "2026-10-08 14:31:54",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab9e301000000001c00e5db",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5c8f24c60000000016007e47",
-      "interactiveCount": "5000+",
-      "likedCount": "2805",
-      "collectedCount": "2188",
-      "commentsCount": "223",
-      "sharedCount": "1362",
-      "totalScore": 7.16,
-      "relevanceScore": 4.66,
-      "popularityScore": 1.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "飞行圆",
-          "noteId": "6ab9e301000000001c00e5db"
-        }
-      ]
-    },
-    "6abb50120000000014032521": {
-      "noteId": "6abb50120000000014032521",
-      "platform": "xhs",
-      "title": "这个假期就这么玩！",
-      "desc": "飞猪帮你挑国庆目的地~#飞猪#国庆#假期#旅游攻略#旅行",
-      "authorNickname": "话匣子小羊",
-      "authorId": "654da851000000000403979a",
-      "authorFans": "14w+",
-      "createTime": "2026-09-29 16:15:17",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abb50120000000014032521",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/654da851000000000403979a",
-      "interactiveCount": "1230",
-      "likedCount": "1100",
-      "collectedCount": "116",
-      "commentsCount": "14",
-      "sharedCount": "18",
-      "totalScore": 6.98,
-      "relevanceScore": 4.98,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "话匣子小羊",
-          "noteId": "6abb50120000000014032521"
-        }
-      ]
-    },
-    "6ab78d1f00000000180051d9": {
-      "noteId": "6ab78d1f00000000180051d9",
-      "platform": "xhs",
-      "title": "只有经常旅游的人才知道这些技巧的含金量",
-      "desc": "#假期 #旅行 #万万没想到 #机票 #飞猪  #国庆假期 #旅行攻略 #旅行技巧",
-      "authorNickname": "游娱小螃蟹",
-      "authorId": "67a330bf000000000e01d0ed",
-      "authorFans": "4w+",
-      "createTime": "2026-09-26 18:27:28",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab78d1f00000000180051d9",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/67a330bf000000000e01d0ed",
-      "interactiveCount": "1801",
-      "likedCount": "1423",
-      "collectedCount": "373",
-      "commentsCount": "5",
-      "sharedCount": "22",
-      "totalScore": 6.93,
-      "relevanceScore": 4.93,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "游娱小螃蟹",
-          "noteId": "6ab78d1f00000000180051d9"
-        }
-      ]
-    },
-    "6abe8b9b000000001c00d7e5": {
-      "noteId": "6abe8b9b000000001c00d7e5",
-      "platform": "xhs",
-      "title": "杭州2日游攻略｜住酒店顺便赚token",
-      "desc": "#千问办公#订房送算力#躺赚TOKEN#飞猪#杭州旅游 #杭州美食#西湖攻略 #穷游攻略",
-      "authorNickname": "宋肘击💪",
-      "authorId": "5fdc7ce60000000001008f7f",
-      "authorFans": "14w+",
-      "createTime": "2026-10-02 13:16:47",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abe8b9b000000001c00d7e5",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5fdc7ce60000000001008f7f",
-      "interactiveCount": "1685",
-      "likedCount": "1062",
-      "collectedCount": "604",
-      "commentsCount": "19",
-      "sharedCount": "94",
-      "totalScore": 6.89,
-      "relevanceScore": 4.89,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "飞猪"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "宋肘击💪",
-          "noteId": "6abe8b9b000000001c00d7e5"
-        }
-      ]
-    },
-    "6aca09fa000000001500cb50": {
-      "noteId": "6aca09fa000000001500cb50",
-      "platform": "xhs",
-      "title": "四川和北京就这样互相交换景点吧",
-      "desc": "#四川 #四川文旅 #北京文旅 #娱乐 #同程订酒店满五送一 #超级星城同赴星程 #100个旅游宝城挖掘计划",
-      "authorNickname": "同程四川好玩攻略",
-      "authorId": "686cdb2b000000001d015d8c",
-      "authorFans": "1w+",
-      "createTime": "2026-10-10 17:48:42",
-      "noteLink": "https://www.xiaohongshu.com/explore/6aca09fa000000001500cb50",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/686cdb2b000000001d015d8c",
-      "interactiveCount": "3w+",
-      "likedCount": "2w+",
-      "collectedCount": "3259",
-      "commentsCount": "2685",
-      "sharedCount": "4204",
-      "totalScore": 9.66,
-      "relevanceScore": 5.66,
-      "popularityScore": 2.5,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程四川好玩攻略",
-          "noteId": "6aca09fa000000001500cb50"
-        }
-      ]
-    },
-    "6ac71de3000000001402c4fb": {
-      "noteId": "6ac71de3000000001402c4fb",
-      "platform": "xhs",
-      "title": "嘌呤最高的人，潮汕人！#广东  #潮汕  #嘌呤  #鲍鱼  #同程订酒店满五送一",
-      "desc": "嘌呤最高的人，潮汕人！#广东  #潮汕  #嘌呤  #鲍鱼  #同程订酒店满五送一",
-      "authorNickname": "同程广东好玩攻略",
-      "authorId": "686cd839000000001d009345",
-      "authorFans": "5000+",
-      "createTime": "2026-10-08 17:40:04",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac71de3000000001402c4fb",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/686cd839000000001d009345",
-      "interactiveCount": "2w+",
-      "likedCount": "1w+",
-      "collectedCount": "2910",
-      "commentsCount": "576",
-      "sharedCount": "1w+",
-      "totalScore": 9.5,
-      "relevanceScore": 6.0,
-      "popularityScore": 2.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程广东好玩攻略",
-          "noteId": "6ac71de3000000001402c4fb"
-        }
-      ]
-    },
-    "6ac369000000000015006550": {
-      "noteId": "6ac369000000000015006550",
-      "platform": "xhs",
-      "title": "江苏朋友快来证实这是不是真的？#江苏  #大学生  #放学  #回家  #同程订酒店满五送一",
-      "desc": "江苏朋友快来证实这是不是真的？#江苏  #大学生  #放学  #回家  #同程订酒店满五送一",
-      "authorNickname": "同程江苏好玩攻略",
-      "authorId": "687f3da6000000001b019dd6",
-      "authorFans": "1w+",
-      "createTime": "2026-10-05 17:08:16",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac369000000000015006550",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/687f3da6000000001b019dd6",
-      "interactiveCount": "2w+",
-      "likedCount": "1w+",
-      "collectedCount": "1322",
-      "commentsCount": "5000+",
-      "sharedCount": "1479",
-      "totalScore": 9.41,
-      "relevanceScore": 5.91,
-      "popularityScore": 2.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程江苏好玩攻略",
-          "noteId": "6ac369000000000015006550"
-        }
-      ]
-    },
-    "6ac2c69b00000000180074b2": {
-      "noteId": "6ac2c69b00000000180074b2",
-      "platform": "xhs",
-      "title": "上海英语简直太变态了！！!",
-      "desc": "上海英语简直太变态了！！!#上海 #英语 #高考 #学生 #同程订酒店满五送一  #超级星城同赴星程 #英语听力 #学习英语 #新概念英语",
-      "authorNickname": "同程魔都好玩攻略",
-      "authorId": "687f3bad000000001b023de6",
-      "authorFans": "1w+",
-      "createTime": "2026-10-07 10:00:45",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac2c69b00000000180074b2",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/687f3bad000000001b023de6",
-      "interactiveCount": "3w+",
-      "likedCount": "2w+",
-      "collectedCount": "4713",
-      "commentsCount": "2697",
-      "sharedCount": "1607",
-      "totalScore": 9.16,
-      "relevanceScore": 5.66,
-      "popularityScore": 2.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程魔都好玩攻略",
-          "noteId": "6ac2c69b00000000180074b2"
-        }
-      ]
-    },
-    "6ac14ddb000000000b0066cf": {
-      "noteId": "6ac14ddb000000000b0066cf",
-      "platform": "xhs",
-      "title": "上海人民请保持口腔干燥。",
-      "desc": "上海人民请保持口腔干燥。#上海  #下饭 #美食 #超级星城同赴星程 #同程订酒店满五送一#上海推荐官 #上海旅游攻略 #万万没想到 #就好这一口热乎的 #吃一口就是人间美味",
-      "authorNickname": "同程魔都好玩攻略",
-      "authorId": "687f3bad000000001b023de6",
-      "authorFans": "1w+",
-      "createTime": "2026-10-04 10:01:10",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac14ddb000000000b0066cf",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/687f3bad000000001b023de6",
-      "interactiveCount": "3w+",
-      "likedCount": "2w+",
-      "collectedCount": "1891",
-      "commentsCount": "4115",
-      "sharedCount": "5000+",
-      "totalScore": 8.9,
-      "relevanceScore": 5.4,
-      "popularityScore": 2.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程魔都好玩攻略",
-          "noteId": "6ac14ddb000000000b0066cf"
-        }
-      ]
-    },
-    "6ad6d2e60000000031000f69": {
-      "noteId": "6ad6d2e60000000031000f69",
-      "platform": "xhs",
-      "title": "不整虚的！阿程揪1️⃣位送小米照片打印机",
-      "desc": "阿程带着小米照片打印机来营业了📷\n不是让你打印登机牌哈，是打印旅行美照那种快乐～\n\t\n评💬论区喊出：你的梦中目的地🌍\n阿程揪1️⃣位宠粉送🎁\n许愿池已开，开始你的表演✨\n\t\n#同程国际机票  #好事发生  #宠粉  #宠粉活动  #福利  #同程国际机票宠粉月  #照片打印机  #小米照片打印机",
-      "authorNickname": "同程国际机票",
-      "authorId": "602282e00000000001001753",
-      "authorFans": "11w+",
-      "createTime": "2026-10-20 10:33:10",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad6d2e60000000031000f69",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/602282e00000000001001753",
-      "interactiveCount": "1741",
-      "likedCount": "580",
-      "collectedCount": "483",
-      "commentsCount": "678",
-      "sharedCount": "61",
-      "totalScore": 8.76,
-      "relevanceScore": 5.76,
-      "popularityScore": 1.0,
-      "recencyScore": 2.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程国际机票",
-          "noteId": "6ad6d2e60000000031000f69"
-        }
-      ]
-    },
-    "6ad5f36b000000002f03bc25": {
-      "noteId": "6ad5f36b000000002f03bc25",
-      "platform": "xhs",
-      "title": "秋天宠粉，阿程主打一个不烧心🎁",
-      "desc": "秋天不贴秋膘，等于白过🍂\n阿程来宠粉，直接送空气炸锅！\n机票可以慢慢选，秋膘必须先贴上\n薯条鸡翅一锅出，人还没出国，胃先环游世界😌\n\t\n评💬论区聊聊：你贴秋膘第1️⃣口想炫啥？ 阿程看看谁更会吃👀\n\t\n#同程国际机票  #好事发生  #宠粉  #宠粉活动  #福利  #同程国际机票宠粉月  #空气炸锅  #电烤箱",
-      "authorNickname": "同程国际机票",
-      "authorId": "602282e00000000001001753",
-      "authorFans": "11w+",
-      "createTime": "2026-10-19 18:39:39",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad5f36b000000002f03bc25",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/602282e00000000001001753",
-      "interactiveCount": "2160",
-      "likedCount": "709",
-      "collectedCount": "671",
-      "commentsCount": "780",
-      "sharedCount": "60",
-      "totalScore": 8.68,
-      "relevanceScore": 5.68,
-      "popularityScore": 1.0,
-      "recencyScore": 2.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程国际机票",
-          "noteId": "6ad5f36b000000002f03bc25"
-        }
-      ]
-    },
-    "6abcd1e5000000001203a6ca": {
-      "noteId": "6abcd1e5000000001203a6ca",
-      "platform": "xhs",
-      "title": "天津人你们有自己的霍格沃兹怎么不早说",
-      "desc": "#天津旅游 #霍格沃兹 #天津 #中华石园 #同程订酒店满五送一 #叫我城市玩家 #城堡",
-      "authorNickname": "天津好玩攻略",
-      "authorId": "6859096e000000001b01a787",
-      "authorFans": "4116",
-      "createTime": "2026-10-07 19:00:38",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abcd1e5000000001203a6ca",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6859096e000000001b01a787",
-      "interactiveCount": "5000+",
-      "likedCount": "4684",
-      "collectedCount": "3252",
-      "commentsCount": "393",
-      "sharedCount": "3798",
-      "totalScore": 8.4,
-      "relevanceScore": 5.9,
-      "popularityScore": 1.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "天津好玩攻略",
-          "noteId": "6abcd1e5000000001203a6ca"
-        }
-      ]
-    },
-    "6ace125900000000150133a0": {
-      "noteId": "6ace125900000000150133a0",
-      "platform": "xhs",
-      "title": "真送！秋天第1️⃣台烤箱阿程包了",
-      "desc": "秋天第1️⃣台烤箱，阿程送了🍂\n不是画饼，是真烤箱\n能烤红薯、烤板栗、烤蛋挞，烤一切美味的那种~\n\t\n评💬论区许愿，秋天烤点啥~\n阿程揪1️⃣位，免🆓费送烤箱\n\t\n#同程国际机票  #好事发生  #宠粉  #宠粉活动  #同程国际机票宠粉月  #烤箱  #烤箱美食",
-      "authorNickname": "同程国际机票",
-      "authorId": "602282e00000000001001753",
-      "authorFans": "11w+",
-      "createTime": "2026-10-13 19:13:29",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ace125900000000150133a0",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/602282e00000000001001753",
-      "interactiveCount": "2828",
-      "likedCount": "907",
-      "collectedCount": "866",
-      "commentsCount": "1055",
-      "sharedCount": "58",
-      "totalScore": 8.39,
-      "relevanceScore": 5.89,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程国际机票",
-          "noteId": "6ace125900000000150133a0"
-        }
-      ]
-    },
-    "6abe3bc1000000000202bfd2": {
-      "noteId": "6abe3bc1000000000202bfd2",
-      "platform": "xhs",
-      "title": "上海小孩放假不可能三角 独自→支持→出省",
-      "desc": "上海小孩放假不可能三角 独自→支持→出省\n先斩不奏，发现了挨骂，没发现下次继续~#上海 #放假 #上海小孩 #娱乐评论大赏  #内容过于真实 #同程订酒店满五送一  #超级星城同赴星程#十一假期  #打开假期思路",
-      "authorNickname": "同程魔都好玩攻略",
-      "authorId": "687f3bad000000001b023de6",
-      "authorFans": "1w+",
-      "createTime": "2026-10-01 18:53:53",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abe3bc1000000000202bfd2",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/687f3bad000000001b023de6",
-      "interactiveCount": "1w+",
-      "likedCount": "5000+",
-      "collectedCount": "1359",
-      "commentsCount": "973",
-      "sharedCount": "1160",
-      "totalScore": 8.33,
-      "relevanceScore": 5.33,
-      "popularityScore": 2.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程魔都好玩攻略",
-          "noteId": "6abe3bc1000000000202bfd2"
-        }
-      ]
-    },
-    "6acf2774000000001a032812": {
-      "noteId": "6acf2774000000001a032812",
-      "platform": "xhs",
-      "title": "阿程免费送拍立得啦，下一站你飞哪？✈️",
-      "desc": "不画饼，不套路，真送一台拍立得\n国际机票阿程都帮你盯了，落地美照也必须安排上\n\t\n评💬论区留下“下一站飞____？\n阿程揪1位幸运鹅，拍立得包邮到家✈️\n没中别急，阿程下次还宠\n\t\n#同程国际机票  #好事发生  #宠粉  #宠粉活动  #福利  #同程国际机票宠粉月  #富士相机  #拍立得",
-      "authorNickname": "同程国际机票",
-      "authorId": "602282e00000000001001753",
-      "authorFans": "11w+",
-      "createTime": "2026-10-14 14:55:48",
-      "noteLink": "https://www.xiaohongshu.com/explore/6acf2774000000001a032812",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/602282e00000000001001753",
-      "interactiveCount": "4022",
-      "likedCount": "1261",
-      "collectedCount": "1197",
-      "commentsCount": "1564",
-      "sharedCount": "85",
-      "totalScore": 8.26,
-      "relevanceScore": 5.76,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程国际机票",
-          "noteId": "6acf2774000000001a032812"
-        }
-      ]
-    },
-    "6ac73404000000001402fe79": {
-      "noteId": "6ac73404000000001402fe79",
-      "platform": "xhs",
-      "title": "新一轮宠粉开启！阿程送箱让你错峰出境🧳",
-      "desc": "国庆挤完，机票也“冷静”了😌\n现在错峰飞出国：人少、价香、拍照不用抢机位\n阿程宠粉，直接送行李箱🧳\n评💬论区一起来讨论：“秋天zui想飞哪”，揪1️⃣位送！\n拎新箱，错峰出发✈️\n\t\n#同程国际机票  #好事发生  #宠粉  #宠粉活动 #同程国际机票宠粉月  #行李箱测评howto  #前开盖行李箱 #出行必备  #WeeklyPick",
-      "authorNickname": "同程国际机票",
-      "authorId": "602282e00000000001001753",
-      "authorFans": "11w+",
-      "createTime": "2026-10-09 16:12:00",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac73404000000001402fe79",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/602282e00000000001001753",
-      "interactiveCount": "4333",
-      "likedCount": "1384",
-      "collectedCount": "1322",
-      "commentsCount": "1627",
-      "sharedCount": "85",
-      "totalScore": 8.23,
-      "relevanceScore": 5.73,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程国际机票",
-          "noteId": "6ac73404000000001402fe79"
-        }
-      ]
-    },
-    "6ad5d2030000000027021232": {
-      "noteId": "6ad5d2030000000027021232",
-      "platform": "xhs",
-      "title": "一起来拼半条被子🔥抽大疆Pocket4等好礼",
-      "desc": "长征路上\n先辈剪下半条御寒的被子\n是为了让老百姓过上好日子\n\t\n今天\n我们拼出完整的一条\n是想告诉先辈：这盛世，如您所愿\n\t\n让我们跟着经济日报\n一起来拼半条被子\n并留下给长征先辈们的想说的话\n\t\n为感谢大家的温暖参与\n同程旅行专属宠粉抽奖来袭🎁\n\t\n💥终极大奖✖️1️⃣：大疆Pocket4口袋相机\n💥暖心奖✖️🔟：100元京东实体卡\n\t\n📌 参与方式\n1️⃣ 置顶找到活动参与入口\n2️⃣ ❤️➕⭐️本篇笔记➕关🐷@同程旅行\n3️⃣ 在这里留下一句你想对先辈们说的话\n\t\n📅开奖时间：2026年10月30日  14:00\n🎉 中奖后请在三天内小窗信息，逾期视为自动放弃！\n\t\n长征路上留下的半条被子，等到了今天\n我们把它补完整了，也希望你的一起～\n\t\n#一起来拼被子 #一代人有一代人的长征 #红星照耀中国 #长征胜利90周年 #长征精神 #半条被子 #宠粉福利 #抽奖 #大疆pocket4 #抽奖活动",
-      "authorNickname": "同程旅行",
-      "authorId": "5fd1f141000000000101ce11",
-      "authorFans": "33w+",
-      "createTime": "2026-10-19 16:17:07",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad5d2030000000027021232",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5fd1f141000000000101ce11",
-      "interactiveCount": "2185",
-      "likedCount": "710",
-      "collectedCount": "578",
-      "commentsCount": "897",
-      "sharedCount": "94",
-      "totalScore": 7.81,
-      "relevanceScore": 4.81,
-      "popularityScore": 1.0,
-      "recencyScore": 2.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程旅行",
-          "noteId": "6ad5d2030000000027021232"
-        }
-      ]
-    },
-    "6ac3671b000000001a024554": {
-      "noteId": "6ac3671b000000001a024554",
-      "platform": "xhs",
-      "title": "什么？外地人根本不知道金桔油是什么？#广东  #金桔油  #肉卷  #蚝烙  #同程订酒店满五送一",
-      "desc": "什么？外地人根本不知道金桔油是什么？#广东  #金桔油  #肉卷  #蚝烙  #同程订酒店满五送一",
-      "authorNickname": "同程广东好玩攻略",
-      "authorId": "686cd839000000001d009345",
-      "authorFans": "5000+",
-      "createTime": "2026-10-05 17:00:11",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac3671b000000001a024554",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/686cd839000000001d009345",
-      "interactiveCount": "3548",
-      "likedCount": "2244",
-      "collectedCount": "1200",
-      "commentsCount": "104",
-      "sharedCount": "370",
-      "totalScore": 7.77,
-      "relevanceScore": 5.77,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程广东好玩攻略",
-          "noteId": "6ac3671b000000001a024554"
-        }
-      ]
-    },
-    "6acb0f490000000018005673": {
-      "noteId": "6acb0f490000000018005673",
-      "platform": "xhs",
-      "title": "✨旅途松弛好物｜抽全套出行装备礼盒",
-      "desc": "📢旅行党集合！\n一套搞定出行 + 轻放松的礼盒来啦🥳\n同程旅行松弛礼盒，适配周末短途出游！\n\t\n▫️多功能旅行托特包｜随身行李轻松收纳\n▫️无绳跳绳｜入住酒店也能随时轻运动\n▫️瑜伽拉力带｜赶路久坐，拉伸舒缓肩颈\n▫️便携按摩梳｜旅途奔波，随时舒缓头皮\n\t\n🎁参与方式\n✅做@同程旅行 的粉丝er～\n✅在这条笔记下面🩷➕⭐️➕💬留言：你的下一站旅行目的地\n\t\n⏳开奖时间：2026年10月27日 11:30\n揪1️⃣位幸运粉丝送出整套松弛礼盒！\n愿你在出游路上，也能保持松弛自在🌙\n\t\n#旅游万粉扶持计划 #出游必备 #向轻松出发 #出行好物 #出行好装备 #旅游 #宠粉福利 #旅行必备 #抽奖 #旅游好物",
-      "authorNickname": "同程旅行",
-      "authorId": "5fd1f141000000000101ce11",
-      "authorFans": "33w+",
-      "createTime": "2026-10-11 12:23:37",
-      "noteLink": "https://www.xiaohongshu.com/explore/6acb0f490000000018005673",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5fd1f141000000000101ce11",
-      "interactiveCount": "2180",
-      "likedCount": "637",
-      "collectedCount": "623",
-      "commentsCount": "920",
-      "sharedCount": "58",
-      "totalScore": 7.77,
-      "relevanceScore": 5.27,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程旅行",
-          "noteId": "6acb0f490000000018005673"
-        }
-      ]
-    },
-    "6aba02dd0000000015010e82": {
-      "noteId": "6aba02dd0000000015010e82",
-      "platform": "xhs",
-      "title": "国庆出国玩先别做攻略了，来拿拍立得！",
-      "desc": "国庆假期即将开始，阿程的宠粉DNA又动啦~\n国际机票你随便看，拍立得相机我来送\n拍照不用等修图，现场出片更快乐\n\t\n评论区聊聊：这个国庆，你最想飞哪个国家？\n阿程揪1⃣️位小可爱送拍立得相机📷\n\t\n#同程国际机票  #好事发生  #宠粉  #宠粉活动  #福利  #同程国际机票宠粉月  #富士相机  #拍立得  #富士拍立得",
-      "authorNickname": "同程国际机票",
-      "authorId": "602282e00000000001001753",
-      "authorFans": "11w+",
-      "createTime": "2026-09-28 14:02:05",
-      "noteLink": "https://www.xiaohongshu.com/explore/6aba02dd0000000015010e82",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/602282e00000000001001753",
-      "interactiveCount": "4782",
-      "likedCount": "1516",
-      "collectedCount": "1404",
-      "commentsCount": "1862",
-      "sharedCount": "91",
-      "totalScore": 7.72,
-      "relevanceScore": 5.72,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程国际机票",
-          "noteId": "6aba02dd0000000015010e82"
-        }
-      ]
-    },
-    "6ac0f73c000000001500a528": {
-      "noteId": "6ac0f73c000000001500a528",
-      "platform": "xhs",
-      "title": "求求了这个视频千万别传出省啊！",
-      "desc": "这个视频应该还没传出省吧！#上海 #上海方言 #娱乐评论大赏  #超级星城同赴星程  #同程订酒店满五送一 #上海推荐官 #上海旅游攻略 #万万没想到",
-      "authorNickname": "同程魔都好玩攻略",
-      "authorId": "687f3bad000000001b023de6",
-      "authorFans": "1w+",
-      "createTime": "2026-10-03 20:38:20",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac0f73c000000001500a528",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/687f3bad000000001b023de6",
-      "interactiveCount": "2853",
-      "likedCount": "1990",
-      "collectedCount": "455",
-      "commentsCount": "408",
-      "sharedCount": "1572",
-      "totalScore": 7.57,
-      "relevanceScore": 5.57,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程魔都好玩攻略",
-          "noteId": "6ac0f73c000000001500a528"
-        }
-      ]
-    },
-    "6abf91d0000000001802c496": {
-      "noteId": "6abf91d0000000001802c496",
-      "platform": "xhs",
-      "title": "我最想要的东西——310",
-      "desc": "我最想要的东西——310\n上海生活千金不换！#上海 #生活 #上海人 #超级星城同赴星程  #同程订酒店满五送一 #爱上海的十万个理由 #上海推荐官 #娱乐评论大赏 #上海旅游攻略 #我想要的生活",
-      "authorNickname": "同程魔都好玩攻略",
-      "authorId": "687f3bad000000001b023de6",
-      "authorFans": "1w+",
-      "createTime": "2026-10-02 19:13:20",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abf91d0000000001802c496",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/687f3bad000000001b023de6",
-      "interactiveCount": "2133",
-      "likedCount": "647",
-      "collectedCount": "92",
-      "commentsCount": "1394",
-      "sharedCount": "123",
-      "totalScore": 7.34,
-      "relevanceScore": 5.34,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "同程"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "同程魔都好玩攻略",
-          "noteId": "6abf91d0000000001802c496"
-        }
-      ]
-    },
     "6abf43b1000000001b0236e7": {
       "noteId": "6abf43b1000000001b0236e7",
       "platform": "xhs",
@@ -141946,7 +139875,9 @@
       "matchedKeywords": [
         "同程"
       ],
-      "dimensions": [],
+      "dimensions": [
+        "场景灵感"
+      ],
       "firstSeen": "2026-10-24 09:06:15",
       "lastSeen": "2026-10-24 09:06:15",
       "crawlCount": 1,
@@ -141957,7 +139888,13 @@
           "author": "同程旅行",
           "noteId": "6abf43b1000000001b0236e7"
         }
-      ]
+      ],
+      "_brand": "同程",
+      "_relevant": true,
+      "_sentiment": "pos",
+      "_pains": [],
+      "_sig": "6d0e42b53406",
+      "eventId": null
     },
     "6abbb08a000000000a023ee6": {
       "noteId": "6abbb08a000000000a023ee6",
@@ -141982,7 +139919,11 @@
       "matchedKeywords": [
         "同程"
       ],
-      "dimensions": [],
+      "dimensions": [
+        "购票抢票",
+        "出行服务",
+        "竞品品牌"
+      ],
       "firstSeen": "2026-10-24 09:06:15",
       "lastSeen": "2026-10-24 09:06:15",
       "crawlCount": 1,
@@ -141993,864 +139934,16 @@
           "author": "大锅盖er",
           "noteId": "6abbb08a000000000a023ee6"
         }
-      ]
-    },
-    "6ab8ccef000000001b02dd26": {
-      "noteId": "6ab8ccef000000001b02dd26",
-      "platform": "xhs",
-      "title": "【素材分享】爸爸去哪儿了",
-      "desc": "（rm：J Q）#剪辑素材 #素材分享 #剪辑 #素材",
-      "authorNickname": "困了就碎",
-      "authorId": "68777c1f000000001e03ba61",
-      "authorFans": "2w+",
-      "createTime": "2026-09-27 15:59:43",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab8ccef000000001b02dd26",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/68777c1f000000001e03ba61",
-      "interactiveCount": "2w+",
-      "likedCount": "1w+",
-      "collectedCount": "5000+",
-      "commentsCount": "175",
-      "sharedCount": "742",
-      "totalScore": 13.29,
-      "relevanceScore": 9.79,
-      "popularityScore": 2.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
       ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "困了就碎",
-          "noteId": "6ab8ccef000000001b02dd26"
-        }
-      ]
-    },
-    "6ac48caf000000001303f61d": {
-      "noteId": "6ac48caf000000001303f61d",
-      "platform": "xhs",
-      "title": "重要的不是去哪儿，是和谁～",
-      "desc": "#心动的信号",
-      "authorNickname": "梁人方",
-      "authorId": "581889d75e87e75b3b4dbcb7",
-      "authorFans": "9w+",
-      "createTime": "2026-10-06 13:52:47",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac48caf000000001303f61d",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/581889d75e87e75b3b4dbcb7",
-      "interactiveCount": "2w+",
-      "likedCount": "1w+",
-      "collectedCount": "324",
-      "commentsCount": "873",
-      "sharedCount": "412",
-      "totalScore": 13.25,
-      "relevanceScore": 9.75,
-      "popularityScore": 2.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "梁人方",
-          "noteId": "6ac48caf000000001303f61d"
-        }
-      ]
-    },
-    "6ad1293a000000001c01c4d2": {
-      "noteId": "6ad1293a000000001c01c4d2",
-      "platform": "xhs",
-      "title": "全麻那三个小时，你去哪儿了？",
-      "desc": "全麻那三个小时，你去哪儿了？\n做过全麻的人都知道：一闭眼，三个小时就没了。180 年前的今天，一场手术里，惨叫没有来——世界麻醉日，讲讲那三个小时，和替你醒着的人。\n#世界麻醉日 #麻醉医生 #科普",
-      "authorNickname": "起司核桃",
-      "authorId": "646b8a030000000029015d1c",
-      "authorFans": "82",
-      "createTime": "2026-10-16 07:00:35",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ad1293a000000001c01c4d2",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/646b8a030000000029015d1c",
-      "interactiveCount": "1w+",
-      "likedCount": "1w+",
-      "collectedCount": "4207",
-      "commentsCount": "865",
-      "sharedCount": "2448",
-      "totalScore": 13.21,
-      "relevanceScore": 9.71,
-      "popularityScore": 2.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "起司核桃",
-          "noteId": "6ad1293a000000001c01c4d2"
-        }
-      ]
-    },
-    "6abcca6c0000000015005ae1": {
-      "noteId": "6abcca6c0000000015005ae1",
-      "platform": "xhs",
-      "title": "招财去哪儿了？那些数字又是什么意思...",
-      "desc": "#萌宠出道计划 #招财猫 #猫咪 #猫咪日常",
-      "authorNickname": "招财是只猫",
-      "authorId": "62272a530000000021023ba1",
-      "authorFans": "178w+",
-      "createTime": "2026-10-03 10:30:19",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abcca6c0000000015005ae1",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/62272a530000000021023ba1",
-      "interactiveCount": "3w+",
-      "likedCount": "2w+",
-      "collectedCount": "1w+",
-      "commentsCount": "1788",
-      "sharedCount": "274",
-      "totalScore": 13.13,
-      "relevanceScore": 9.63,
-      "popularityScore": 2.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "招财是只猫",
-          "noteId": "6abcca6c0000000015005ae1"
-        }
-      ]
-    },
-    "6abf91b6000000001c00ea1b": {
-      "noteId": "6abf91b6000000001c00ea1b",
-      "platform": "xhs",
-      "title": "国庆快乐！！准备去哪儿玩！？",
-      "desc": "国庆快乐！！准备去哪儿玩！？\n#寻找小红书插画大神#和朋友一起发现在地风味 #霸王茶姬区域限定 #国庆#国庆旅游#国庆旅游howto #时尚#创意#次元少女#好视频扶持计划 @视频薯@视频薯@画画薯",
-      "authorNickname": "一口甜柠",
-      "authorId": "61ae0d140000000010009619",
-      "authorFans": "42w+",
-      "createTime": "2026-10-02 19:29:06",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abf91b6000000001c00ea1b",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/61ae0d140000000010009619",
-      "interactiveCount": "1w+",
-      "likedCount": "1w+",
-      "collectedCount": "1074",
-      "commentsCount": "66",
-      "sharedCount": "77",
-      "totalScore": 12.85,
-      "relevanceScore": 9.85,
-      "popularityScore": 2.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "一口甜柠",
-          "noteId": "6abf91b6000000001c00ea1b"
-        }
-      ]
-    },
-    "6ab779e3000000001802a292": {
-      "noteId": "6ab779e3000000001802a292",
-      "platform": "xhs",
-      "title": "王俊凯问你 去哪儿",
-      "desc": "王俊凯问你 去哪儿\n先把《无人乐园》学会 再去看王俊凯演唱会📢\n#王俊凯 #王俊凯演唱会 #王俊凯当潮汐漫溢巡回演唱会 #无人乐园",
-      "authorNickname": "DARKSTAR王俊凯暗星站",
-      "authorId": "5c76af4d0000000011024a03",
-      "authorFans": "26w+",
-      "createTime": "2026-09-26 15:53:07",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab779e3000000001802a292",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5c76af4d0000000011024a03",
-      "interactiveCount": "5000+",
-      "likedCount": "5000+",
-      "collectedCount": "460",
-      "commentsCount": "129",
-      "sharedCount": "65",
-      "totalScore": 12.35,
-      "relevanceScore": 9.85,
-      "popularityScore": 1.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "DARKSTAR王俊凯暗星站",
-          "noteId": "6ab779e3000000001802a292"
-        }
-      ]
-    },
-    "6aba00c2000000001303f8d9": {
-      "noteId": "6aba00c2000000001303f8d9",
-      "platform": "xhs",
-      "title": "浩天到底去哪儿了？",
-      "desc": "#结局总是让人意想不到 #剧情反转再反转 #恋爱日记",
-      "authorNickname": "恋爱日记",
-      "authorId": "6a97dcc30000000013030801",
-      "authorFans": "547",
-      "createTime": "2026-09-28 15:53:00",
-      "noteLink": "https://www.xiaohongshu.com/explore/6aba00c2000000001303f8d9",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6a97dcc30000000013030801",
-      "interactiveCount": "5000+",
-      "likedCount": "5000+",
-      "collectedCount": "3295",
-      "commentsCount": "68",
-      "sharedCount": "22",
-      "totalScore": 12.29,
-      "relevanceScore": 9.79,
-      "popularityScore": 1.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "恋爱日记",
-          "noteId": "6aba00c2000000001303f8d9"
-        }
-      ]
-    },
-    "6ac9ad9f000000000b004a8f": {
-      "noteId": "6ac9ad9f000000000b004a8f",
-      "platform": "xhs",
-      "title": "招商银行的高文杰你去哪儿了",
-      "desc": "最喜欢的还是招商银行，虽然没有什么钱，但是对比中行，建行，邮政，工商来说，还是招商更亲切一些……\n话说我的客户经理高文杰你去哪儿了？\n现在这个好像人机姐妹😭\n#客户经理 #招商银行 #重庆招商银行",
-      "authorNickname": "落日不加班",
-      "authorId": "58f026106a6a6944c45fa28d",
-      "authorFans": "126",
-      "createTime": "2026-10-10 11:14:39",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac9ad9f000000000b004a8f",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/58f026106a6a6944c45fa28d",
-      "interactiveCount": "2071",
-      "likedCount": "1241",
-      "collectedCount": "226",
-      "commentsCount": "604",
-      "sharedCount": "1428",
-      "totalScore": 12.18,
-      "relevanceScore": 9.68,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "落日不加班",
-          "noteId": "6ac9ad9f000000000b004a8f"
-        }
-      ]
-    },
-    "6acb0a08000000001301bfeb": {
-      "noteId": "6acb0a08000000001301bfeb",
-      "platform": "xhs",
-      "title": "老爷子这是带大猫去哪儿洗澡呀？",
-      "desc": "胡同扫街随手拍，偶遇几只大猫。老张带你逛北京，看大猫。\n被巨猫治愈了 · 第13期\n#AI治愈  #巨猫  #吸猫  #小猫可以治愈一切   #猫咪治愈系",
-      "authorNickname": "老张自学笔记",
-      "authorId": "6006a924000000000101e642",
-      "authorFans": "1072",
-      "createTime": "2026-10-11 12:01:12",
-      "noteLink": "https://www.xiaohongshu.com/explore/6acb0a08000000001301bfeb",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6006a924000000000101e642",
-      "interactiveCount": "2298",
-      "likedCount": "2057",
-      "collectedCount": "173",
-      "commentsCount": "68",
-      "sharedCount": "421",
-      "totalScore": 12.16,
-      "relevanceScore": 9.66,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "老张自学笔记",
-          "noteId": "6acb0a08000000001301bfeb"
-        }
-      ]
-    },
-    "6acc5427000000001803aeb1": {
-      "noteId": "6acc5427000000001803aeb1",
-      "platform": "xhs",
-      "title": "本周北京赏秋去哪儿？29处实况已更新",
-      "desc": "图2：是本周可去的地方整体情况\n图3~14：是各地实况，变色进度及大概特点\n其中图3：\n延庆永新堡村-红枫林 是目前特别火的，也很红了\n老舍纪念馆-柿子，陆续可观赏了，本周末会爆火\n\t\n图4~5：白蜡，本周可观赏了，五四大街、三里屯西五街、清华东路等\n图6：银杏，还要等两周，中山、故宫、角楼、清华二校门、地铁、奥森南园\n\t\n图7：奥森北园，赏秋看花最火地方，菊花+粉黛等\n\t\n图8~11：郊区五彩林本周可去了，喇叭沟、百瑞谷、秋林铺、濂泉响谷、慕田峪、八达岭、百望山、雁栖湖西山步道\n\t\n图12~13：周边品种，菊花、稻田\n\t\n图14：粉黛乱子草，除了奥森，北小河也不错\n坡峰岭黄栌，还早着；\n\t\nPS.群里每天会有人更新实况；此外，我会一周汇总归纳2~3天，更新到文档和小红书里。\n#北京赏秋 #北京秋景 #北京赏秋去哪儿 #北京秋色 #北京银杏 #北京白蜡 #冷三岁 #北京冷三岁 #北京赏秋冷三岁 #北京秋天 ",
-      "authorNickname": "冷三岁",
-      "authorId": "6287dd75000000002102b7b9",
-      "authorFans": "18w+",
-      "createTime": "2026-10-12 11:29:43",
-      "noteLink": "https://www.xiaohongshu.com/explore/6acc5427000000001803aeb1",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6287dd75000000002102b7b9",
-      "interactiveCount": "4211",
-      "likedCount": "2045",
-      "collectedCount": "2022",
-      "commentsCount": "144",
-      "sharedCount": "1913",
-      "totalScore": 12.16,
-      "relevanceScore": 9.66,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "冷三岁",
-          "noteId": "6acc5427000000001803aeb1"
-        }
-      ]
-    },
-    "6ac9e77700000000180071aa": {
-      "noteId": "6ac9e77700000000180071aa",
-      "platform": "xhs",
-      "title": "萌娃变硬汉！《爸爸去哪儿》的小诺一16岁了",
-      "desc": "10月10日，刘烨妻子晒出诺一正面照，庆祝其16岁生日。\n\t\n当年那个一头卷发、天真可爱的混血小男孩，不知不觉长成挺拔、帅气的少年。\n\t\n妈妈安娜透露，诺一现在学会潜水，还当上音乐剧主唱。她写下寄语，希望诺一继续好好长大，好好往大人的方向走。\n\t\n如今诺一身高超 180cm，和当年《爸爸去哪儿》里软萌的小宝贝模样反差巨大。时间荏苒，当年看《爸爸去哪儿》的观众，你现在多大了……\n#爸爸去哪儿 #诺一 #社会 #帅气 #娱乐 #热点 @热点薯",
-      "authorNickname": "九派新闻",
-      "authorId": "6444d090000000001002822f",
-      "authorFans": "26w+",
-      "createTime": "2026-10-10 15:21:27",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac9e77700000000180071aa",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/6444d090000000001002822f",
-      "interactiveCount": "1692",
-      "likedCount": "1510",
-      "collectedCount": "97",
-      "commentsCount": "85",
-      "sharedCount": "312",
-      "totalScore": 12.1,
-      "relevanceScore": 9.6,
-      "popularityScore": 1.0,
-      "recencyScore": 1.5,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "九派新闻",
-          "noteId": "6ac9e77700000000180071aa"
-        }
-      ]
-    },
-    "6ac30be20000000002010524": {
-      "noteId": "6ac30be20000000002010524",
-      "platform": "xhs",
-      "title": "去哪儿了？",
-      "desc": "去哪儿了？\n#梓渝  #极速小鱼  #zp  #zy  #郑朋  #爱上帅哥就像呼吸一样简单  #梓渝游点意思  #梓渝演唱会  #梓渝音乐节 ",
-      "authorNickname": "Randi-",
-      "authorId": "5ca1574700000000100160a2",
-      "authorFans": "3117",
-      "createTime": "2026-10-05 10:30:58",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac30be20000000002010524",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5ca1574700000000100160a2",
-      "interactiveCount": "1161",
-      "likedCount": "1100",
-      "collectedCount": "36",
-      "commentsCount": "25",
-      "sharedCount": "17",
-      "totalScore": 12.0,
-      "relevanceScore": 10.0,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "Randi-",
-          "noteId": "6ac30be20000000002010524"
-        }
-      ]
-    },
-    "6ac51665000000001303ce70": {
-      "noteId": "6ac51665000000001303ce70",
-      "platform": "xhs",
-      "title": "你去哪儿了？",
-      "desc": "👃👃 👃👃 👃👃 👃👃💨 👃👃 👃👃 👃👃 👃👃 👃👃 👃👃💨\n#发射小人 #我家宠物好可爱 #狗狗 #狗 #狗狗日常 #小狗 #养狗 #养狗经验分享",
-      "authorNickname": "发射小人",
-      "authorId": "5f3907580000000001000671",
-      "authorFans": "8w+",
-      "createTime": "2026-10-06 23:40:21",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac51665000000001303ce70",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5f3907580000000001000671",
-      "interactiveCount": "1876",
-      "likedCount": "1632",
-      "collectedCount": "172",
-      "commentsCount": "72",
-      "sharedCount": "913",
-      "totalScore": 11.89,
-      "relevanceScore": 9.89,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "发射小人",
-          "noteId": "6ac51665000000001303ce70"
-        }
-      ]
-    },
-    "6abe245d000000001303ef67": {
-      "noteId": "6abe245d000000001303ef67",
-      "platform": "xhs",
-      "title": "你们国庆去哪儿玩啦",
-      "desc": "#和朋友旅行嘴角无法向下 #travel #闺蜜 #十一假期开始啦 @一只烤全羊 @雪姨的朋友圈",
-      "authorNickname": "雪姨和佳阳",
-      "authorId": "5a420772e8ac2b10ee7611e3",
-      "authorFans": "95w+",
-      "createTime": "2026-10-01 17:14:05",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abe245d000000001303ef67",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5a420772e8ac2b10ee7611e3",
-      "interactiveCount": "1691",
-      "likedCount": "1568",
-      "collectedCount": "53",
-      "commentsCount": "70",
-      "sharedCount": "6",
-      "totalScore": 11.79,
-      "relevanceScore": 9.79,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "雪姨和佳阳",
-          "noteId": "6abe245d000000001303ef67"
-        }
-      ]
-    },
-    "6ab60a21000000001500b9a7": {
-      "noteId": "6ab60a21000000001500b9a7",
-      "platform": "xhs",
-      "title": "国庆去哪儿玩🤔香港海洋公园走起",
-      "desc": "难得的假期，可以和我的宝贝好好享受一下幸福时光✌️彤学们的国庆假期都准备去哪儿玩呀？#明星不止AB面 #李若彤小红书直播 #香港旅游 #国庆假期",
-      "authorNickname": "李若彤",
-      "authorId": "5cc196d20000000010026328",
-      "authorFans": "383w+",
-      "createTime": "2026-09-28 18:00:14",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab60a21000000001500b9a7",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5cc196d20000000010026328",
-      "interactiveCount": "1693",
-      "likedCount": "1495",
-      "collectedCount": "135",
-      "commentsCount": "63",
-      "sharedCount": "57",
-      "totalScore": 11.71,
-      "relevanceScore": 9.71,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "李若彤",
-          "noteId": "6ab60a21000000001500b9a7"
-        }
-      ]
-    },
-    "6ac75d940000000018005873": {
-      "noteId": "6ac75d940000000018005873",
-      "platform": "xhs",
-      "title": "【极恶老大同人】地狱版爸爸去哪儿？",
-      "desc": "#极恶老大 #同人漫画 #比利兹斯托拉斯",
-      "authorNickname": "咸鱼酱",
-      "authorId": "5d945c7d000000000100865c",
-      "authorFans": "8w+",
-      "createTime": "2026-10-08 17:08:36",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac75d940000000018005873",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5d945c7d000000000100865c",
-      "interactiveCount": "1162",
-      "likedCount": "998",
-      "collectedCount": "145",
-      "commentsCount": "19",
-      "sharedCount": "23",
-      "totalScore": 11.69,
-      "relevanceScore": 9.69,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "咸鱼酱",
-          "noteId": "6ac75d940000000018005873"
-        }
-      ]
-    },
-    "6abcc936000000001501552a": {
-      "noteId": "6abcc936000000001501552a",
-      "platform": "xhs",
-      "title": "全网都在教妈妈育儿，爸爸去哪儿了",
-      "desc": "#父母课堂 #亲子关系",
-      "authorNickname": "沈奕斐教授(家有两娃）",
-      "authorId": "672c1981000000001d02d7c4",
-      "authorFans": "18w+",
-      "createTime": "2026-09-30 16:32:54",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abcc936000000001501552a",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/672c1981000000001d02d7c4",
-      "interactiveCount": "2364",
-      "likedCount": "1550",
-      "collectedCount": "760",
-      "commentsCount": "54",
-      "sharedCount": "577",
-      "totalScore": 11.69,
-      "relevanceScore": 9.69,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "沈奕斐教授(家有两娃）",
-          "noteId": "6abcc936000000001501552a"
-        }
-      ]
-    },
-    "6ac582f3000000000201332c": {
-      "noteId": "6ac582f3000000000201332c",
-      "platform": "xhs",
-      "title": "由赢家来决定蜜月旅行去哪儿玩👏",
-      "desc": "#野兽先生挑战\n#野兽先生",
-      "authorNickname": "野兽先生",
-      "authorId": "69d1128c000000003402d30c",
-      "authorFans": "5w+",
-      "createTime": "2026-10-07 07:23:31",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ac582f3000000000201332c",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/69d1128c000000003402d30c",
-      "interactiveCount": "2800",
-      "likedCount": "2185",
-      "collectedCount": "551",
-      "commentsCount": "64",
-      "sharedCount": "9",
-      "totalScore": 11.66,
-      "relevanceScore": 9.66,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "野兽先生",
-          "noteId": "6ac582f3000000000201332c"
-        }
-      ]
-    },
-    "6abcc3f4000000000202aa21": {
-      "noteId": "6abcc3f4000000000202aa21",
-      "platform": "xhs",
-      "title": "国庆去哪儿玩 | 浦东美术馆！白天看展夜晚游",
-      "desc": "上海双节国庆宝藏打卡地被我挖到了✨\n浦东美术馆这次直接馆内馆外双联动，白天看重磅大展，晚上逛商代主题游园灯会，一天安排得满满当当啦！\n\t\n🏛【馆内 | 一票看4展】\n香奈儿le19M展已重磅启幕，三大篇章聚焦法式高级手工工艺，一针一线都是中法美学的碰撞~注意提前到le19m小_程_序预约，并同时买浦美门票哦\n同期还有「乔治 · 莫兰迪：独白」特展，约200件展品、140余件原作，低饱和色调看着就特别治愈，是不可错过的展览！\n中央展厅的巨型鲸鱼装置也一定要去拍拍，座头鲸悬游在这片空间里，搭配光影和音效，仿佛置身神秘深海中\n4F是美普绘少儿作品展，充满着小朋友们奇思妙想的童趣创作，不仅有专属儿童休息区，还有可自己DIY的“大地之眼”公教空间，好逛又好玩。一张门票解锁四大展览。\n\t\n此外，国庆期间馆内还有轻音乐团演出和莫兰迪艺术工坊，都不额外收费，逛累了坐下来听一段，或者亲手做个瓶罐摆件，真的很放松惬意~\n文创也有特惠，馆内文创商店任意消费就能get限定卢浮宫陶瓷杯垫，包包、毛绒挂件越囤划算，更有满赠好礼！\n\t\n🏮【馆外 | 艺趣大邑商游园会】\n浦美x安阳殷墟博物馆特别呈现的殷商主题“艺趣大邑商”游园会，9.25正式开启，现在去正好赶上!\n✅甲骨文、殷商文物化身10+创意萌趣灯组，分“天之境、地之境、人之境”三重意境，夜晚亮灯时就像一步步走进三千年前的殷商世界，奇妙又浪漫~\n✅NPC游园互动，收集贝壳道具，玩投壶、甲骨灯谜等五大游戏，兑换限定文创，还能抽门票大奖！\n✅还有玄鸟舞国风快闪演出，舞者藏在人群里，沉浸式感受殷商文化\n灯会开放：9.25-11.15 每日19:00-22:00\n游园互动场次：10.4-10.7/10.16-18 每日18:00-21:00\n\t\n最最最重要的是，馆外活动均不收费，性价比拉满～\n白天沉浸艺术，夜晚赴一场千年殷商灯会，看展游园一次搞定，国庆来上海一定要安排浦东美术馆呀!\n\t\n#浦东美术馆 上海看展 #上海国庆去哪玩 #艺趣大邑商 #上海灯会 #莫兰迪展 #香奈儿le19M#上海双节打卡 #上海免费游园会 #陆家嘴夜景",
-      "authorNickname": "Mia1.0",
-      "authorId": "5de7101d0000000001006103",
-      "authorFans": "11w+",
-      "createTime": "2026-09-30 18:41:41",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abcc3f4000000000202aa21",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5de7101d0000000001006103",
-      "interactiveCount": "1999",
-      "likedCount": "1156",
-      "collectedCount": "819",
-      "commentsCount": "24",
-      "sharedCount": "10",
-      "totalScore": 11.58,
-      "relevanceScore": 9.58,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "Mia1.0",
-          "noteId": "6abcc3f4000000000202aa21"
-        }
-      ]
-    },
-    "6abfc4350000000014039727": {
-      "noteId": "6abfc4350000000014039727",
-      "platform": "xhs",
-      "title": "上海国庆不知道去哪儿,来宝山滨江走一趟!",
-      "desc": "这次刚好赶上国庆嘉年华，原本只是想来江边逛逛，结果一路走下来发现，这里的假期安排还挺丰富。\n\t\n最喜欢的还是长滩艺术集里的「与浪之间」浪花市集。\n\t\n10.2-10.6每天14:00-20:00，沿着滨江公园一路逛过去，美食、手作、文创、萌宠都有，边吹江风边慢慢逛，特别适合这种不想把假期安排得太满的状态。\n\t\n还有「逐浪计划」的NPC互动打卡，走着走着就会遇到一些有意思的小惊喜。\n江边的艺术装置也很好拍，随便走走、拍拍照，氛围感就有了。\n\t\n而且接下来几天宝山滨江还有不少活动。\n\t\n10.4-10.5下午14:30，世界F1H2O摩托艇锦标赛中国上海大奖赛将在上海长滩水域举行，喜欢速度感和水上运动的朋友可以去现场感受一下。\n\t\n10.3和10.6下午15:00-16:30，还有长滩音浪系列之罗小罗户外公益音乐会，坐在江边听听歌，感觉很适合国庆的松弛感。\n\t\n如果对人文历史感兴趣，10.5还可以去上海淞沪抗战纪念馆参加「百年烽途」红色研学活动。\n\t\n另外，「缤纷宝山·国庆嘉年华」消费券活动一直持续到10.7，整个宝山区都可以逛逛。\n\t\n所以这次来宝山滨江最大的感受就是：\n不用特意赶行程，也不用跑很远。\n吹吹江风、逛逛市集、看看赛事，晚上再慢慢走回去。\n\t\n国庆剩下这几天，给自己安排一点“松弛感”吧。\n不出上海，也能把假期过得很丰富。\n\t\n#上海国庆去哪儿 #宝山滨江 #上海长滩 #浪花市集 #与浪之间 #缤纷宝山国庆嘉年华 #上海国庆游玩 #上海citywalk #上海周末去哪儿",
-      "authorNickname": "MINIzhuqiqi",
-      "authorId": "5928522582ec394ede2c576a",
-      "authorFans": "9w+",
-      "createTime": "2026-10-02 22:48:21",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abfc4350000000014039727",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5928522582ec394ede2c576a",
-      "interactiveCount": "1405",
-      "likedCount": "829",
-      "collectedCount": "534",
-      "commentsCount": "42",
-      "sharedCount": "36",
-      "totalScore": 11.57,
-      "relevanceScore": 9.57,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "MINIzhuqiqi",
-          "noteId": "6abfc4350000000014039727"
-        }
-      ]
-    },
-    "6aba7996000000000a023216": {
-      "noteId": "6aba7996000000000a023216",
-      "platform": "xhs",
-      "title": "火鸡面还是太权威了#vlog十亿流量扶持计划 #火鸡面 #国庆去哪儿玩 #大福食",
-      "desc": "火鸡面还是太权威了#vlog十亿流量扶持计划#火鸡面#国庆去哪儿玩#大福食堂#芝士",
-      "authorNickname": "大福食堂金融岛",
-      "authorId": "693a55cf000000003702ea5b",
-      "authorFans": "5000+",
-      "createTime": "2026-09-28 22:28:38",
-      "noteLink": "https://www.xiaohongshu.com/explore/6aba7996000000000a023216",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/693a55cf000000003702ea5b",
-      "interactiveCount": "3388",
-      "likedCount": "3027",
-      "collectedCount": "315",
-      "commentsCount": "46",
-      "sharedCount": "159",
-      "totalScore": 11.52,
-      "relevanceScore": 9.52,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "大福食堂金融岛",
-          "noteId": "6aba7996000000000a023216"
-        }
-      ]
-    },
-    "6ab8cbd5000000001a0224ef": {
-      "noteId": "6ab8cbd5000000001a0224ef",
-      "platform": "xhs",
-      "title": "去 哪儿来这么多规矩！ 宝贝的N次方",
-      "desc": "20260926 北京鸟巢 又一次难忘的共同回忆\n#周深 #周深演唱会 #看con计划 #双向奔赴",
-      "authorNickname": "ForCharlie｜周深图文站",
-      "authorId": "5fc1f667000000000101d007",
-      "authorFans": "17w+",
-      "createTime": "2026-09-27 15:55:01",
-      "noteLink": "https://www.xiaohongshu.com/explore/6ab8cbd5000000001a0224ef",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5fc1f667000000000101d007",
-      "interactiveCount": "2w+",
-      "likedCount": "1w+",
-      "collectedCount": "4594",
-      "commentsCount": "288",
-      "sharedCount": "882",
-      "totalScore": 8.39,
-      "relevanceScore": 4.89,
-      "popularityScore": 2.5,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "去哪儿"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "ForCharlie｜周深图文站",
-          "noteId": "6ab8cbd5000000001a0224ef"
-        }
-      ]
-    },
-    "6abeef4e00000000150106db": {
-      "noteId": "6abeef4e00000000150106db",
-      "platform": "xhs",
-      "title": "希望所有来长沙的姐妹都能刷到这条！！！",
-      "desc": "这两天长沙怎么这么冷啊！只有十几度😭😭😭冻哭了！后面来的一定多带点厚衣服啊！\n\t\n1️⃣橘子洲｜别搜【橘子洲】\n✅正确：地铁2号线橘子洲站2号口\n私家车、打车都不能上岛！坐地铁最方便，出站就是景区入口，观光小火车40r往返必买，雕像来回大概六公里，走路会累晕！\n\t\n2️⃣岳麓山｜别搜【岳麓山】\n✅懒人打卡：岳麓山南门（直达爱晚亭、岳麓书院，全程不需要爬山）\n✅想坐索道：岳麓山东门（登顶可以俯瞰长沙全城）【岳麓书院】成人40r、学生半价！\n\t\n3️⃣湖南省博｜别搜【湖南省博物馆】\n✅正确：湖南省博馆园融合中心\n地铁坐地铁6号线到「烈士公园南站」1A口出\n⚠️重点：周一闭馆（节假日除外）\n16:00停止入场、16:45闭馆！\n节假日提前5-7天抢票，没预约进不去！\n\t\n4️⃣长沙IFS｜别搜【IFS国金中心】\n✅正确：IFS7号门 7号门进门\n电梯直达7楼KAWS雕塑天台打卡\n\t\n5️⃣太平街｜别搜【太平街】\n✅正确：太平街解放西路入口\n避免导到街尾出口！这边和坡子街连在一起，小吃很集中～\n\t\n6️⃣文和友｜别搜【文和友】\n✅正确：直接导航海信广场2号门\n从海信商场内部电梯上楼 避开室外排队，拍照复古好看！\n\t\n7️⃣杜甫江阁｜别搜【杜甫江阁】\n✅正确：杜甫江阁正门（湘江中路地铁站）\n游玩路线可参考⬇️\n1.五一广场-杜甫江阁-恰同学广场\n2.杜甫江阁夜景-海信广场文和友-五一广场\n\t\n8️⃣潮宗街｜别搜【潮宗街】\n✅正确：潮宗街永清巷\n线路参考：永清巷（北入口）➡️三贵街➡️中山路➡️潮宗里➡️福庆街 全程逛下来大概2-3小时\n\t\n个人总结的一些避坑经验⚠️\n1、黄兴步行街、坡子街，遇到奇装异服找你合影的千万别答应！一张二三十，很坑。\n2、住宿没必要非住五一广场，往周边1‑2个地铁站也可以。想看湘江夜景就选湘江中路附近；预算有限可以考虑河西大学城或者火车站附近！\n3、茶颜悦色门店很多，不用盯着一家排队。除了茶颜，还可以试试古德墨柠、昼夜诗酒茶、果呀呀…\n4、步行街、太平老街里面的酸奶水果捞、捞汁小海鲜千万不要买！\n5、去IFS国金中心打卡点位：GM巨人脸、长沙大屏幕、Kaws雕塑。商场10点才开门，别去太早。\n7、不推荐在坡子街、步行街吃东西！想吃地道小吃可以去南门口、培元桥、麓山南路、荷花池！\n#长沙白天变黑夜 #长沙旅游 #长沙美食 #景点前方来报 #长沙旅游攻略 #景点前方来报",
-      "authorNickname": "特立独行的猪",
-      "authorId": "5a4c4ddde8ac2b786b4eb789",
-      "authorFans": "1w+",
-      "createTime": "2026-10-02 07:39:58",
-      "noteLink": "https://www.xiaohongshu.com/explore/6abeef4e00000000150106db",
-      "authorLink": "https://www.xiaohongshu.com/user/profile/5a4c4ddde8ac2b786b4eb789",
-      "interactiveCount": "1004",
-      "likedCount": "403",
-      "collectedCount": "522",
-      "commentsCount": "79",
-      "sharedCount": "155",
-      "totalScore": 6.62,
-      "relevanceScore": 4.62,
-      "popularityScore": 1.0,
-      "recencyScore": 1.0,
-      "matchedKeywords": [
-        "火车抢票"
-      ],
-      "dimensions": [],
-      "firstSeen": "2026-10-24 09:06:15",
-      "lastSeen": "2026-10-24 09:06:15",
-      "crawlCount": 1,
-      "dupCount": 1,
-      "sources": [
-        {
-          "platform": "xhs",
-          "author": "特立独行的猪",
-          "noteId": "6abeef4e00000000150106db"
-        }
-      ]
+      "_relevant": true,
+      "_sentiment": "pos",
+      "_pains": [],
+      "_sig": "fb1ec8fb339d",
+      "eventId": null
     }
   },
   "insights": {
     "daily": [
-      {
-        "key": "ev:其他__96岁老人独自坐火车进藏",
-        "theme": "96岁老人独自坐火车进藏",
-        "category": "event",
-        "sourceEventId": "其他__96岁老人独自坐火车进藏",
-        "evidenceCount": 4,
-        "momentum": "fading",
-        "momentumDelta": "近7天4 vs 前23天19",
-        "sampleNoteIds": [
-          "douyin:7696372055307233766",
-          "6ad04479000000001c00e5e4",
-          "6ad039e00000000018011fc0",
-          "douyin:7696787138754448683",
-          "douyin:7696772161989610802"
-        ],
-        "firstSeen": "2026-10-15",
-        "lastSeen": "2026-10-23",
-        "why": "【判断】维持观察中——社会新闻型事件，动量从新涌现转为上升，但不指向产品需求。\n【数据】近7天22条 / 前23天1条 · 动量：上升 · 首次出现 10-15 · streakDays=0。\n【为什么是现在】动量从 new→rising，近7天持续22条但前23天仅1条，说明话题在10-15集中爆发后仍有持续讨论。但讨论焦点是「96岁老人独自进藏」的故事性本身，而非出行服务体验或购票流程痛点。",
-        "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【不做的理由】①属社会新闻型事件，非出行服务需求；②核心用户（短途日常出行者）不与此画像重叠；③12306同样无相关产品化动作。\n【观察条件】若后续出现「老年出行安全服务」产品需求信号，再升级评估。",
-        "priority": "Observing",
-        "basedOnExistingCapability": false,
-        "roadmapAlignment": "无",
-        "valueUse": "V3",
-        "streakDays": 0
-      },
       {
         "key": "ev:票务新规__国铁车次编排调整",
         "theme": "国铁车次编排调整",
@@ -142858,13 +139951,13 @@
         "sourceEventId": "票务新规__国铁车次编排调整",
         "evidenceCount": 4,
         "momentum": "rising",
-        "momentumDelta": "近7天4 vs 前23天1",
+        "momentumDelta": "近7天4 vs 前23天2",
         "sampleNoteIds": [
           "douyin:7697316944340713210",
           "6acd04b9000000001a030289",
           "douyin:7697088223781102547",
           "douyin:7697637485338729152",
-          "douyin:7698966104642768137"
+          "douyin:7697469873208140250"
         ],
         "firstSeen": "2026-10-19",
         "lastSeen": "2026-10-23",
@@ -142874,29 +139967,52 @@
         "basedOnExistingCapability": true,
         "roadmapAlignment": "无",
         "valueUse": "V3",
+        "streakDays": 3
+      },
+      {
+        "key": "ev:其他__96岁老人独自坐火车进藏",
+        "theme": "96岁老人独自坐火车进藏",
+        "category": "event",
+        "sourceEventId": "其他__96岁老人独自坐火车进藏",
+        "evidenceCount": 3,
+        "momentum": "fading",
+        "momentumDelta": "近7天3 vs 前23天20",
+        "sampleNoteIds": [
+          "douyin:7696372055307233766",
+          "6ad04479000000001c00e5e4",
+          "6ad039e00000000018011fc0",
+          "douyin:7696787138754448683",
+          "douyin:7696772161989610802"
+        ],
+        "firstSeen": "2026-10-15",
+        "lastSeen": "2026-10-24",
+        "why": "【判断】维持观察中——社会新闻型事件，动量从新涌现转为上升，但不指向产品需求。\n【数据】近7天22条 / 前23天1条 · 动量：上升 · 首次出现 10-15 · streakDays=0。\n【为什么是现在】动量从 new→rising，近7天持续22条但前23天仅1条，说明话题在10-15集中爆发后仍有持续讨论。但讨论焦点是「96岁老人独自进藏」的故事性本身，而非出行服务体验或购票流程痛点。",
+        "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【不做的理由】①属社会新闻型事件，非出行服务需求；②核心用户（短途日常出行者）不与此画像重叠；③12306同样无相关产品化动作。\n【观察条件】若后续出现「老年出行安全服务」产品需求信号，再升级评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
         "streakDays": 0
       },
       {
-        "key": "ev:票务新规__12306敬字车次老年优惠",
-        "theme": "12306敬字车次老年优惠",
+        "key": "ev:乘车提示__高铁新手售货员小哥",
+        "theme": "高铁新手售货员小哥",
         "category": "event",
-        "sourceEventId": "票务新规__12306敬字车次老年优惠",
+        "sourceEventId": "乘车提示__高铁新手售货员小哥",
         "evidenceCount": 3,
-        "momentum": "fading",
-        "momentumDelta": "近7天3 vs 前23天6",
+        "momentum": "new",
+        "momentumDelta": "近7天3 vs 前23天0",
         "sampleNoteIds": [
-          "6ac176fd000000000200cbaf",
-          "douyin:7692427369361067307",
-          "douyin:7692288262287593599",
-          "douyin:7692651033817926948",
-          "douyin:7690162343099128427"
+          "douyin:7697410482948361499",
+          "douyin:7698013048342105371",
+          "6ad591c1000000002701ec73"
         ],
-        "firstSeen": "2026-10-08",
-        "lastSeen": "2026-10-23",
-        "why": "【判断】观察中——12306老年优惠票务政策，信号在退烧，12306已满足，无差异化窗口。\n【数据】近7天3条 / 前23天6条 · 动量：退烧 · 首次出现 10-08 · streakDays=0。\n【为什么是现在】12306推出「敬」字车次老年优惠，属12306既有特殊人群票务能力（A5已覆盖），携程通过接口对接可承接但无新增差异化。信号从6条降至3条，退烧趋势明确。",
-        "productImplication": "【迁移路径】特殊人群购票（A5）已成熟，12306有的特殊票种携程都有，老年优惠会通过接口同步，无差异化窗口。\n【不做的理由】①12306已满足老年优惠能力；②特殊人群票种通过接口对接，无新增产品动作；③信号退烧（3 vs 6），不具紧迫性。\n【观察条件】信号连续2周期为0→维持观察中；不降级。",
+        "firstSeen": "2026-10-18",
+        "lastSeen": "2026-10-24",
+        "why": "【判断】观察中——职业观察类内容，不指向用户出行需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-18 · streakDays=0。\n【为什么是现在】高铁售货员工作日常引发好奇，讨论焦点在职业体验而非购票或乘车服务。",
+        "productImplication": "【迁移路径】职业观察类内容与火车票业务无直接迁移路径；不涉及购票流程、选座、退改等任何已有能力。\n【不做的理由】内容属车厢生活观察，12306不做、携程也不应做，无差异化窗口。\n【观察条件】连续3天累积≥5条且衍生「车厢服务评价/乘务反馈」类产品诉求再评估。",
         "priority": "Observing",
-        "basedOnExistingCapability": true,
+        "basedOnExistingCapability": false,
         "roadmapAlignment": "无",
         "valueUse": "V3",
         "streakDays": 0
@@ -142922,29 +140038,57 @@
         "basedOnExistingCapability": true,
         "roadmapAlignment": "无",
         "valueUse": "V3",
-        "streakDays": 0
+        "streakDays": 3
       },
       {
-        "key": "ev:乘车提示__高铁新手售货员小哥",
-        "theme": "高铁新手售货员小哥",
+        "key": "ev:学生票新规__初中生高铁学生票",
+        "theme": "初中生高铁学生票",
         "category": "event",
-        "sourceEventId": "乘车提示__高铁新手售货员小哥",
+        "sourceEventId": "学生票新规__初中生高铁学生票",
         "evidenceCount": 2,
-        "momentum": "new",
-        "momentumDelta": "近7天2 vs 前23天0",
+        "momentum": "rising",
+        "momentumDelta": "近7天2 vs 前23天1",
         "sampleNoteIds": [
-          "douyin:7697410482948361499",
-          "douyin:7698013048342105371"
+          "6a5726af0000000008030398",
+          "6a574c27000000001101d37c",
+          "6a575b0e000000000f0297d0",
+          "6a584852000000002201b461",
+          "douyin:7660090281208359142"
         ],
-        "firstSeen": "2026-10-18",
+        "firstSeen": "2026-08-03",
         "lastSeen": "2026-10-23",
-        "why": "【判断】观察中——职业观察类内容，不指向用户出行需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-18 · streakDays=0。\n【为什么是现在】高铁售货员工作日常引发好奇，讨论焦点在职业体验而非购票或乘车服务。",
-        "productImplication": "【迁移路径】职业观察类内容与火车票业务无直接迁移路径；不涉及购票流程、选座、退改等任何已有能力。\n【不做的理由】内容属车厢生活观察，12306不做、携程也不应做，无差异化窗口。\n【观察条件】连续3天累积≥5条且衍生「车厢服务评价/乘务反馈」类产品诉求再评估。",
+        "why": "【判断】观察中——票务规则咨询类，非产品需求。\n【数据】近7天1条 / 前23天1条 · 动量：稳定 · 首次出现 08-03。\n【为什么关注】学生票资质核验属12306既有规则，OTA提供代购但核验主体不变，属常规咨询类内容。",
+        "productImplication": "【迁移路径】学生票规则说明与核验引导属12306既有能力；OTA侧可在购票流程做规则提示，但无差异化空间。\n【不做的理由】不触及新的能力缺口，也不对应roadmap立项。\n【观察条件】若学生票核验痛点集中出现（如资质审核失败率高、投诉集中）再评估。",
         "priority": "Observing",
-        "basedOnExistingCapability": false,
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无",
+        "valueUse": "V2",
+        "streakDays": 1
+      },
+      {
+        "key": "ev:票务新规__12306敬字车次老年优惠",
+        "theme": "12306敬字车次老年优惠",
+        "category": "event",
+        "sourceEventId": "票务新规__12306敬字车次老年优惠",
+        "evidenceCount": 2,
+        "momentum": "fading",
+        "momentumDelta": "近7天2 vs 前23天7",
+        "sampleNoteIds": [
+          "6ac176fd000000000200cbaf",
+          "douyin:7692427369361067307",
+          "douyin:7692288262287593599",
+          "douyin:7692651033817926948",
+          "douyin:7690162343099128427"
+        ],
+        "firstSeen": "2026-10-08",
+        "lastSeen": "2026-10-23",
+        "why": "【判断】观察中——12306老年优惠票务政策，信号在退烧，12306已满足，无差异化窗口。\n【数据】近7天3条 / 前23天6条 · 动量：退烧 · 首次出现 10-08 · streakDays=0。\n【为什么是现在】12306推出「敬」字车次老年优惠，属12306既有特殊人群票务能力（A5已覆盖），携程通过接口对接可承接但无新增差异化。信号从6条降至3条，退烧趋势明确。",
+        "productImplication": "【迁移路径】特殊人群购票（A5）已成熟，12306有的特殊票种携程都有，老年优惠会通过接口同步，无差异化窗口。\n【不做的理由】①12306已满足老年优惠能力；②特殊人群票种通过接口对接，无新增产品动作；③信号退烧（3 vs 6），不具紧迫性。\n【观察条件】信号连续2周期为0→维持观察中；不降级。",
+        "priority": "Observing",
+        "basedOnExistingCapability": true,
         "roadmapAlignment": "无",
         "valueUse": "V3",
-        "streakDays": 0
+        "streakDays": 3
       },
       {
         "key": "ev:乘车提示__96岁老人独自坐火车进藏",
@@ -142959,7 +140103,7 @@
           "6ad39fc70000000013018dd7"
         ],
         "firstSeen": "2026-10-20",
-        "lastSeen": "2026-10-23",
+        "lastSeen": "2026-10-24",
         "why": "【判断】观察中——首次出现，待观察。社会新闻型事件，与 ev:其他__96岁老人独自坐火车进藏 同源，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-20 · streakDays=0。\n【为什么是现在】96岁老人独自进藏故事的延伸讨论，焦点在故事性而非出行服务。",
         "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【不做的理由】①属社会新闻型事件，非出行服务需求；②与 ev:其他__96岁老人独自坐火车进藏 同源，无新增判断。\n【观察条件】若衍生「老年出行安全服务」产品需求信号再评估。",
         "priority": "Observing",
@@ -142981,7 +140125,7 @@
           "6ad589540000000029008ac4"
         ],
         "firstSeen": "2026-10-20",
-        "lastSeen": "2026-10-23",
+        "lastSeen": "2026-10-24",
         "why": "【判断】观察中——首次出现，待观察。职业观察类内容，不指向用户出行需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-20 · streakDays=0。\n【为什么是现在】高铁售货员心理建设引发好奇，讨论焦点在职业体验而非购票或乘车服务。与 ev:乘车提示__高铁新手售货员小哥 同源。",
         "productImplication": "【迁移路径】职业观察类内容与火车票业务无直接迁移路径；不涉及购票流程、选座、退改等任何已有能力。\n【不做的理由】①内容属车厢职业观察，12306不做、携程也不应做；②无差异化窗口。\n【观察条件】连续3天累积≥5条且衍生「车厢服务评价/乘务反馈」类产品诉求再评估。",
         "priority": "Observing",
@@ -143004,38 +140148,13 @@
         ],
         "firstSeen": "2026-10-22",
         "lastSeen": "2026-10-23",
-        "streakDays": 0,
         "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
         "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
         "priority": "Observing",
         "basedOnExistingCapability": false,
         "roadmapAlignment": "无",
-        "valueUse": "V3"
-      },
-      {
-        "key": "ev:学生票新规__初中生高铁学生票",
-        "theme": "初中生高铁学生票",
-        "category": "event",
-        "sourceEventId": "学生票新规__初中生高铁学生票",
-        "evidenceCount": 1,
-        "momentum": "stable",
-        "momentumDelta": "近7天1 vs 前23天1",
-        "sampleNoteIds": [
-          "6a5726af0000000008030398",
-          "6a574c27000000001101d37c",
-          "6a575b0e000000000f0297d0",
-          "6a584852000000002201b461",
-          "douyin:7660090281208359142"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-10-23",
-        "streakDays": 0,
-        "why": "【判断】观察中——票务规则咨询类，非产品需求。\n【数据】近7天1条 / 前23天1条 · 动量：稳定 · 首次出现 08-03。\n【为什么关注】学生票资质核验属12306既有规则，OTA提供代购但核验主体不变，属常规咨询类内容。",
-        "productImplication": "【迁移路径】学生票规则说明与核验引导属12306既有能力；OTA侧可在购票流程做规则提示，但无差异化空间。\n【不做的理由】不触及新的能力缺口，也不对应roadmap立项。\n【观察条件】若学生票核验痛点集中出现（如资质审核失败率高、投诉集中）再评估。",
-        "priority": "Observing",
-        "basedOnExistingCapability": "partial",
-        "roadmapAlignment": "无",
-        "valueUse": "V2"
+        "valueUse": "V3",
+        "streakDays": 1
       },
       {
         "key": "ev:乘车提示__高铁带娃出行",
@@ -143051,37 +140170,70 @@
         ],
         "firstSeen": "2026-08-11",
         "lastSeen": "2026-10-19",
-        "streakDays": 1,
         "why": "【判断】观察中——场景内容，单条弱信号。\n【数据】近7天1条 / 前23天0条 · 动量：新涌现 · 连续1天。\n【为什么关注】带娃出行场景内容持续存在，与 themes_registry.cabin_noise_and_children 同源，但单条信号无趋势意义。",
         "productImplication": "【迁移路径】亲子车厢/连排座位筛选属「无障碍与特殊人群服务」子方向，对应第26迭代探索方向。\n【不做的理由】单条弱信号，业务阶段=萎缩期不投入。\n【观察条件】连续3天累积≥5条再评估。",
         "priority": "Observing",
         "basedOnExistingCapability": "partial",
         "roadmapAlignment": "无（信号持续可纳入第26迭代探索）",
-        "valueUse": "V2"
+        "valueUse": "V2",
+        "streakDays": 1
       },
       {
-        "key": "th:railway_uncivilized_behavior",
+        "key": "th:railway_accessible_and_service",
+        "theme": "无障碍设施吐槽",
+        "category": "theme",
+        "evidenceCount": 0,
+        "momentum": "stable",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+        "sampleNoteIds": [
+          "6a7b34df000000002203141c",
+          "6a58e553000000000f014585",
+          "6a83166a0000000006005cd9"
+        ],
+        "firstSeen": "2026-09-16",
+        "lastSeen": "2026-10-24",
+        "why": "【判断】维持 P1——本期最强差异化信号在此，12306不做，是我们的差异化窗口。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3 · 首次出现 09-16。\n【为什么是现在】主题级证据持续上升；子信号（女性专属包房、孕妇求助护送）活跃度抬升；12306无特殊人群数字化服务（标签筛选、女性友好车厢），空白明确。",
+        "productImplication": "【建议动作】① 选座界面增加「女性友好车厢/包房」筛选入口（第26迭代探索）；② 客服反馈增设特殊人群标签，实现分流处理；③ 待连续出现≥3天后升级排期讨论。\n【验证】特殊人群筛选入口使用率 · 相关工单分流准确率。\n【边界】子信号连续2周回落→退回观察中。",
+        "priority": "P1",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无（尚未排期，信号持续可纳入第26迭代探索）",
+        "valueUse": "V1",
+        "streakDays": 0
+      },
+      {
+        "key": "th:cabin_uncivilized_behavior",
         "theme": "车厢不文明行为曝光",
         "category": "theme",
-        "evidenceCount": 6,
+        "evidenceCount": 3,
         "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天6",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天3",
         "sampleNoteIds": [
-          "6a801c5400000000050331d5",
+          "6a80bc2000000000050331d5",
           "6acf111b000000000b0054e3",
-          "6a5f71ca000000002201b9b9",
-          "6abce9b9000000000a025897",
-          "6a6c632f000000003302f99d"
+          "6acedccf000000001500202e",
+          "6acf9d26000000000200fab4",
+          "6a92d935000000001e016e7d"
         ],
-        "firstSeen": "2026-10-19",
-        "lastSeen": "2026-10-23",
-        "streakDays": 0,
-        "why": "【判断】观察中——行为治理，OTA无差异化窗口。\n【数据】近7天6条 / 前23天0条 · 动量：退烧 · 首次出现 10-19。\n【为什么关注】不文明行为曝光热度高，但讨论焦点在行为谴责而非出行服务体验；治理主体是铁路局与现场乘务。",
-        "productImplication": "【迁移路径】客诉工单分流（换座请求/座位异常求助）属既有能力可承接，不需新功能。\n【不做的理由】行为治理非OTA可控；12306同样无法产品化解决，无差异化窗口。\n【观察条件】若衍生「一键反馈/行为举报」类产品化诉求再升级评估。",
-        "priority": "Observing",
-        "basedOnExistingCapability": true,
-        "roadmapAlignment": "无（客诉工单分流属既有能力，不在roadmap新立项）",
-        "valueUse": "V1"
+        "firstSeen": "2026-10-16",
+        "lastSeen": "2026-10-24",
+        "streakDays": 0
+      },
+      {
+        "key": "th:cabin_noise_and_children",
+        "theme": "车厢噪音与带娃冲突",
+        "category": "theme",
+        "evidenceCount": 0,
+        "momentum": "stable",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+        "sampleNoteIds": [
+          "6a5f71ca000000002201b9b9",
+          "6a7bc96400000000250123c3",
+          "6a6c632f000000003302f99d",
+          "6a5e2a0a0000000004028647"
+        ],
+        "firstSeen": "2026-08-17",
+        "lastSeen": "2026-10-24",
+        "streakDays": 0
       },
       {
         "key": "th:seat_space_boundary",
@@ -143093,11 +140245,11 @@
         "sampleNoteIds": [
           "6a8a676300000000140268e6",
           "6a863a06000000002102266f",
-          "6a6589d3000000000301e957",
-          "6ac856ac000000001801baa4"
+          "6ac856ac000000001801baa4",
+          "6a6589d3000000000301e957"
         ],
         "firstSeen": "2026-08-17",
-        "lastSeen": "2026-10-23",
+        "lastSeen": "2026-10-24",
         "why": "【判断】维持 P2——占座/换座类冲突信号稳定，themes_registry.seat_space_boundary.heat=2 与 railway_uncivilized_behavior、railway_rules_and_hacks 形成三角关联，指向「换座请求在线协商」与「座位权益说明卡片」——前者属未打通，后者属既有能力可承接。\n【数据】近7天0条 / 前23天2条 · 动量：退烧 · streakDays=4。\n【为什么是现在】信号在退烧但底层矛盾持续存在，themes_registry.relations 明确指向「订单详情页加入座位权益说明卡片」——是低成本可落地的差异化动作。",
         "productImplication": "【建议动作】① 订单详情页/选座页加入「座位权益说明」卡片（既有能力，低成本）；② 监控是否衍生「换座在线协商」类付费需求信号再评估。\n【验证】座位权益说明卡片点击率 · 相关客服咨询量变化。\n【边界】连续2周为0→降为观察中；座位权益说明卡片不下线。",
         "priority": "P2",
@@ -143107,93 +140259,49 @@
         "streakDays": 0
       },
       {
+        "key": "th:female_safety_and_space",
+        "theme": "女性专属与出行焦虑",
+        "category": "theme",
+        "evidenceCount": 3,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+        "sampleNoteIds": [
+          "6ab4d8bc000000001402f50a",
+          "6ab538b9000000001c01cbaf",
+          "6acf111b000000000b0054e3"
+        ],
+        "firstSeen": "2026-09-30",
+        "lastSeen": "2026-10-24",
+        "why": "【判断】观察中——本期信号退烧，此前「女性专属包房」是强新增信号。\n【数据】近7天2条 / 前23天0条 · 动量：退烧。\n【为什么关注】与「无障碍设施与服务体验」高度关联（同属特殊人群服务），12306仍无女性友好车厢筛选能力，差异化窗口未关闭，但本期无新增证据。",
+        "productImplication": "【迁移路径】选座界面「女性友好车厢/包房」筛选入口（第26迭代探索），与无障碍主题合并推进，不单独立项。\n【不做的理由】本期退烧且无新增证据，避免重复排期。\n【观察条件】子信号（女性专属包房）连续2周回升 → 升级 P1 评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": "partial",
+        "roadmapAlignment": "无（尚未排期，信号持续可纳入第26迭代探索）",
+        "valueUse": "V1",
+        "streakDays": 0
+      },
+      {
         "key": "th:railway_rules_and_hacks",
         "theme": "票务规则与出行避坑",
         "category": "theme",
-        "evidenceCount": 3,
-        "momentum": "rising",
-        "momentumDelta": "信号笔记 近7天2 vs 前23天1",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天1",
         "sampleNoteIds": [
           "6a671b4c000000000301d591",
           "6a92d935000000001e016e7d",
-          "6ad20d3b000000001a03139c",
-          "6ad3233e0000000018029b88",
-          "6a63321d000000001101b7d6"
+          "6a63321d000000001101b7d6",
+          "6a4dec1f00000000220083f6",
+          "6ad20d3b000000001a03139c"
         ],
         "firstSeen": "2026-08-17",
-        "lastSeen": "2026-10-23",
+        "lastSeen": "2026-10-24",
         "why": "【判断】维持 P1——信号从退烧转为上升（fading→rising），印证规则避坑需求持续存在，直接对应季度硬仗。\n【数据】近7天2条 vs 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3。\n【为什么是现在】12306有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规Agent前端入口1.14上线，只差临门一脚。信号回升说明用户对规则解读的需求从未消失。",
         "productImplication": "【建议动作】① 票规Agent入口按期1.14上线，不因信号波动而延期；② 退改签/误车/换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续4周为0且无新增→降为观察中；能力不下线。",
         "priority": "P1",
         "basedOnExistingCapability": true,
         "roadmapAlignment": "AI Agent 三条线（票规Agent）",
         "valueUse": "V2",
-        "streakDays": 0
-      },
-      {
-        "key": "th:railway_youth_first_trip_guide",
-        "theme": "学生首乘高铁教学指南",
-        "category": "theme",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
-        "sampleNoteIds": [
-          "6a8eae1e0000000024006bf3",
-          "6a65a771000000000f007dad"
-        ],
-        "firstSeen": "2026-09-17",
-        "lastSeen": "2026-10-23",
-        "streakDays": 0,
-        "why": "【判断】观察中（0 证据，降权）——方向对，但当前无活跃信号。\n【数据】近7天0条 / 前23天0条 · 动量：信号休眠。\n【为什么值得跟踪】12306不做首乘教学，是功能空白；首乘用户正是新客核心来源，与增长战略同向。",
-        "productImplication": "【建议动作】本周期不动工；仅在小程序回流项目中预留「首乘指引」子模块位，待开学季/春运信号回升再评估排期。\n【验证（提前定义）】开学/春运期首乘内容搜索量 · 小程序回流转化。\n【边界】连续2个开学季/春运窗口均无信号 → 关闭跟踪。",
-        "priority": "Observing",
-        "basedOnExistingCapability": false,
-        "roadmapAlignment": "增长 & 新客（小程序回流）",
-        "valueUse": "V3"
-      },
-      {
-        "key": "th:female_safety_and_space",
-        "theme": "女性专属与出行焦虑",
-        "category": "theme",
-        "evidenceCount": 2,
-        "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天2",
-        "sampleNoteIds": [
-          "6ab538b9000000001c01cbaf",
-          "6acf111b000000000b0054e3"
-        ],
-        "firstSeen": "2026-09-30",
-        "lastSeen": "2026-10-23",
-        "streakDays": 0,
-        "why": "【判断】观察中——本期信号退烧，此前「女性专属包房」是强新增信号。\n【数据】近7天2条 / 前23天0条 · 动量：退烧。\n【为什么关注】与「无障碍设施与服务体验」高度关联（同属特殊人群服务），12306仍无女性友好车厢筛选能力，差异化窗口未关闭，但本期无新增证据。",
-        "productImplication": "【迁移路径】选座界面「女性友好车厢/包房」筛选入口（第26迭代探索），与无障碍主题合并推进，不单独立项。\n【不做的理由】本期退烧且无新增证据，避免重复排期。\n【观察条件】子信号（女性专属包房）连续2周回升 → 升级 P1 评估。",
-        "priority": "Observing",
-        "basedOnExistingCapability": "partial",
-        "roadmapAlignment": "无（尚未排期，信号持续可纳入第26迭代探索）",
-        "valueUse": "V1"
-      },
-      {
-        "key": "th:railway_accessible_and_service",
-        "theme": "无障碍设施与服务体验",
-        "category": "theme",
-        "evidenceCount": 2,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天1",
-        "sampleNoteIds": [
-          "6a7b34df000000002203141c",
-          "6a58e553000000000f014585",
-          "6a83166a0000000006005cd9",
-          "douyin:7698013048342105371",
-          "6acd73fb00000000150082b7"
-        ],
-        "firstSeen": "2026-09-16",
-        "lastSeen": "2026-10-23",
-        "why": "【判断】维持 P1——本期最强差异化信号在此，12306不做，是我们的差异化窗口。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3 · 首次出现 09-16。\n【为什么是现在】主题级证据持续上升；子信号（女性专属包房、孕妇求助护送）活跃度抬升；12306无特殊人群数字化服务（标签筛选、女性友好车厢），空白明确。",
-        "productImplication": "【建议动作】① 选座界面增加「女性友好车厢/包房」筛选入口（第26迭代探索）；② 客服反馈增设特殊人群标签，实现分流处理；③ 待连续出现≥3天后升级排期讨论。\n【验证】特殊人群筛选入口使用率 · 相关工单分流准确率。\n【边界】子信号连续2周回落→退回观察中。",
-        "priority": "P1",
-        "basedOnExistingCapability": "partial",
-        "roadmapAlignment": "无（尚未排期，信号持续可纳入第26迭代探索）",
-        "valueUse": "V1",
         "streakDays": 0
       }
     ],
@@ -159028,6 +156136,371 @@
             "streakDays": 0
           }
         ]
+      },
+      {
+        "date": "2026-10-24",
+        "cards": [
+          {
+            "key": "ev:票务新规__国铁车次编排调整",
+            "theme": "国铁车次编排调整",
+            "category": "event",
+            "sourceEventId": "票务新规__国铁车次编排调整",
+            "evidenceCount": 4,
+            "momentum": "rising",
+            "momentumDelta": "近7天4 vs 前23天2",
+            "sampleNoteIds": [
+              "douyin:7697316944340713210",
+              "6acd04b9000000001a030289",
+              "douyin:7697088223781102547",
+              "douyin:7697637485338729152",
+              "douyin:7697469873208140250"
+            ],
+            "firstSeen": "2026-10-19",
+            "lastSeen": "2026-10-23",
+            "why": "【判断】观察中——铁路运力调度调整，属底层运营事件，不构成产品差异化信号。\n【数据】近7天4条 / 前23天1条 · 动量：上升 · 首次出现 10-19 · streakDays=0。\n【为什么是现在】国铁车次编排调整涉及时刻表变化，用户关注的是自身车次是否受影响，讨论焦点在运营信息而非购票体验。正晚点查询与主动推送能力（A4）已成熟，可承接但无新增差异化。",
+            "productImplication": "【迁移路径】正晚点查询+主动推送已有（A4），车次编排变化通过既有数据接口自动同步，无需新增产品动作。\n【不做的理由】①运力调度是铁路局底层逻辑，携程无法干预；②时刻表更新通过既有接口同步，无需产品化；③12306同样只是数据发布方，无差异化窗口。\n【观察条件】若调整引发大面积误车/换乘投诉再评估应急服务。",
+            "priority": "Observing",
+            "basedOnExistingCapability": true,
+            "roadmapAlignment": "无",
+            "valueUse": "V3",
+            "streakDays": 3
+          },
+          {
+            "key": "ev:其他__96岁老人独自坐火车进藏",
+            "theme": "96岁老人独自坐火车进藏",
+            "category": "event",
+            "sourceEventId": "其他__96岁老人独自坐火车进藏",
+            "evidenceCount": 3,
+            "momentum": "fading",
+            "momentumDelta": "近7天3 vs 前23天20",
+            "sampleNoteIds": [
+              "douyin:7696372055307233766",
+              "6ad04479000000001c00e5e4",
+              "6ad039e00000000018011fc0",
+              "douyin:7696787138754448683",
+              "douyin:7696772161989610802"
+            ],
+            "firstSeen": "2026-10-15",
+            "lastSeen": "2026-10-24",
+            "why": "【判断】维持观察中——社会新闻型事件，动量从新涌现转为上升，但不指向产品需求。\n【数据】近7天22条 / 前23天1条 · 动量：上升 · 首次出现 10-15 · streakDays=0。\n【为什么是现在】动量从 new→rising，近7天持续22条但前23天仅1条，说明话题在10-15集中爆发后仍有持续讨论。但讨论焦点是「96岁老人独自进藏」的故事性本身，而非出行服务体验或购票流程痛点。",
+            "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【不做的理由】①属社会新闻型事件，非出行服务需求；②核心用户（短途日常出行者）不与此画像重叠；③12306同样无相关产品化动作。\n【观察条件】若后续出现「老年出行安全服务」产品需求信号，再升级评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": false,
+            "roadmapAlignment": "无",
+            "valueUse": "V3",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:乘车提示__高铁新手售货员小哥",
+            "theme": "高铁新手售货员小哥",
+            "category": "event",
+            "sourceEventId": "乘车提示__高铁新手售货员小哥",
+            "evidenceCount": 3,
+            "momentum": "new",
+            "momentumDelta": "近7天3 vs 前23天0",
+            "sampleNoteIds": [
+              "douyin:7697410482948361499",
+              "douyin:7698013048342105371",
+              "6ad591c1000000002701ec73"
+            ],
+            "firstSeen": "2026-10-18",
+            "lastSeen": "2026-10-24",
+            "why": "【判断】观察中——职业观察类内容，不指向用户出行需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-18 · streakDays=0。\n【为什么是现在】高铁售货员工作日常引发好奇，讨论焦点在职业体验而非购票或乘车服务。",
+            "productImplication": "【迁移路径】职业观察类内容与火车票业务无直接迁移路径；不涉及购票流程、选座、退改等任何已有能力。\n【不做的理由】内容属车厢生活观察，12306不做、携程也不应做，无差异化窗口。\n【观察条件】连续3天累积≥5条且衍生「车厢服务评价/乘务反馈」类产品诉求再评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": false,
+            "roadmapAlignment": "无",
+            "valueUse": "V3",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:票务新规__外籍客商车票改签",
+            "theme": "外籍客商车票改签",
+            "category": "event",
+            "sourceEventId": "票务新规__外籍客商车票改签",
+            "evidenceCount": 3,
+            "momentum": "new",
+            "momentumDelta": "近7天3 vs 前23天0",
+            "sampleNoteIds": [
+              "douyin:7697811082399845670",
+              "douyin:7697955480752114953",
+              "douyin:7697908439019736339"
+            ],
+            "firstSeen": "2026-10-19",
+            "lastSeen": "2026-10-23",
+            "why": "【判断】观察中——12306票务政策变更事件，属铁路底层规则调整，不指向OTA差异化机会。\n【数据】近7天3条 / 前23天0条 · 动量：新涌现 · 首次出现 10-19 · streakDays=1。\n【为什么是现在】外籍客商车票改签新政出台，讨论焦点在政策本身内容（改签范围/流程变化），而非购票渠道选择。非核心用户群（外籍客商），与短途日常出行者画像不重叠。",
+            "productImplication": "【迁移路径】退改签能力已成熟（A2），携程会跟随12306接口更新自动适配，无差异化窗口。\n【不做的理由】①12306政策变更，OTA只是接口跟随方；②目标用户（外籍客商）非核心用户群；③无差异化空间——12306先做、携程只能跟随。\n【观察条件】若衍生「外籍用户购票体验」类产品化诉求再评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": true,
+            "roadmapAlignment": "无",
+            "valueUse": "V3",
+            "streakDays": 3
+          },
+          {
+            "key": "ev:学生票新规__初中生高铁学生票",
+            "theme": "初中生高铁学生票",
+            "category": "event",
+            "sourceEventId": "学生票新规__初中生高铁学生票",
+            "evidenceCount": 2,
+            "momentum": "rising",
+            "momentumDelta": "近7天2 vs 前23天1",
+            "sampleNoteIds": [
+              "6a5726af0000000008030398",
+              "6a574c27000000001101d37c",
+              "6a575b0e000000000f0297d0",
+              "6a584852000000002201b461",
+              "douyin:7660090281208359142"
+            ],
+            "firstSeen": "2026-08-03",
+            "lastSeen": "2026-10-23",
+            "why": "【判断】观察中——票务规则咨询类，非产品需求。\n【数据】近7天1条 / 前23天1条 · 动量：稳定 · 首次出现 08-03。\n【为什么关注】学生票资质核验属12306既有规则，OTA提供代购但核验主体不变，属常规咨询类内容。",
+            "productImplication": "【迁移路径】学生票规则说明与核验引导属12306既有能力；OTA侧可在购票流程做规则提示，但无差异化空间。\n【不做的理由】不触及新的能力缺口，也不对应roadmap立项。\n【观察条件】若学生票核验痛点集中出现（如资质审核失败率高、投诉集中）再评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": "partial",
+            "roadmapAlignment": "无",
+            "valueUse": "V2",
+            "streakDays": 1
+          },
+          {
+            "key": "ev:票务新规__12306敬字车次老年优惠",
+            "theme": "12306敬字车次老年优惠",
+            "category": "event",
+            "sourceEventId": "票务新规__12306敬字车次老年优惠",
+            "evidenceCount": 2,
+            "momentum": "fading",
+            "momentumDelta": "近7天2 vs 前23天7",
+            "sampleNoteIds": [
+              "6ac176fd000000000200cbaf",
+              "douyin:7692427369361067307",
+              "douyin:7692288262287593599",
+              "douyin:7692651033817926948",
+              "douyin:7690162343099128427"
+            ],
+            "firstSeen": "2026-10-08",
+            "lastSeen": "2026-10-23",
+            "why": "【判断】观察中——12306老年优惠票务政策，信号在退烧，12306已满足，无差异化窗口。\n【数据】近7天3条 / 前23天6条 · 动量：退烧 · 首次出现 10-08 · streakDays=0。\n【为什么是现在】12306推出「敬」字车次老年优惠，属12306既有特殊人群票务能力（A5已覆盖），携程通过接口对接可承接但无新增差异化。信号从6条降至3条，退烧趋势明确。",
+            "productImplication": "【迁移路径】特殊人群购票（A5）已成熟，12306有的特殊票种携程都有，老年优惠会通过接口同步，无差异化窗口。\n【不做的理由】①12306已满足老年优惠能力；②特殊人群票种通过接口对接，无新增产品动作；③信号退烧（3 vs 6），不具紧迫性。\n【观察条件】信号连续2周期为0→维持观察中；不降级。",
+            "priority": "Observing",
+            "basedOnExistingCapability": true,
+            "roadmapAlignment": "无",
+            "valueUse": "V3",
+            "streakDays": 3
+          },
+          {
+            "key": "ev:乘车提示__96岁老人独自坐火车进藏",
+            "theme": "96岁老人独自坐火车进藏",
+            "category": "event",
+            "sourceEventId": "乘车提示__96岁老人独自坐火车进藏",
+            "evidenceCount": 2,
+            "momentum": "new",
+            "momentumDelta": "近7天2 vs 前23天0",
+            "sampleNoteIds": [
+              "6ad5e7fa000000001e035ce2",
+              "6ad39fc70000000013018dd7"
+            ],
+            "firstSeen": "2026-10-20",
+            "lastSeen": "2026-10-24",
+            "why": "【判断】观察中——首次出现，待观察。社会新闻型事件，与 ev:其他__96岁老人独自坐火车进藏 同源，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-20 · streakDays=0。\n【为什么是现在】96岁老人独自进藏故事的延伸讨论，焦点在故事性而非出行服务。",
+            "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【不做的理由】①属社会新闻型事件，非出行服务需求；②与 ev:其他__96岁老人独自坐火车进藏 同源，无新增判断。\n【观察条件】若衍生「老年出行安全服务」产品需求信号再评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": false,
+            "roadmapAlignment": "无",
+            "valueUse": "V3",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:乘车提示__高铁售货员心理建设",
+            "theme": "高铁售货员心理建设",
+            "category": "event",
+            "sourceEventId": "乘车提示__高铁售货员心理建设",
+            "evidenceCount": 2,
+            "momentum": "new",
+            "momentumDelta": "近7天2 vs 前23天0",
+            "sampleNoteIds": [
+              "6ad57b37000000002a02de15",
+              "6ad589540000000029008ac4"
+            ],
+            "firstSeen": "2026-10-20",
+            "lastSeen": "2026-10-24",
+            "why": "【判断】观察中——首次出现，待观察。职业观察类内容，不指向用户出行需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-20 · streakDays=0。\n【为什么是现在】高铁售货员心理建设引发好奇，讨论焦点在职业体验而非购票或乘车服务。与 ev:乘车提示__高铁新手售货员小哥 同源。",
+            "productImplication": "【迁移路径】职业观察类内容与火车票业务无直接迁移路径；不涉及购票流程、选座、退改等任何已有能力。\n【不做的理由】①内容属车厢职业观察，12306不做、携程也不应做；②无差异化窗口。\n【观察条件】连续3天累积≥5条且衍生「车厢服务评价/乘务反馈」类产品诉求再评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": false,
+            "roadmapAlignment": "无",
+            "valueUse": "V3",
+            "streakDays": 0
+          },
+          {
+            "key": "ev:其他__铁路吸烟诉讼驳回",
+            "theme": "铁路吸烟诉讼驳回",
+            "category": "event",
+            "sourceEventId": "其他__铁路吸烟诉讼驳回",
+            "evidenceCount": 2,
+            "momentum": "new",
+            "momentumDelta": "近7天2 vs 前23天0",
+            "sampleNoteIds": [
+              "6ad83ae00000000025020330",
+              "6ad8536e000000002b01d37f"
+            ],
+            "firstSeen": "2026-10-22",
+            "lastSeen": "2026-10-23",
+            "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
+            "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": false,
+            "roadmapAlignment": "无",
+            "valueUse": "V3",
+            "streakDays": 1
+          },
+          {
+            "key": "ev:乘车提示__高铁带娃出行",
+            "theme": "高铁带娃出行",
+            "category": "event",
+            "sourceEventId": "乘车提示__高铁带娃出行",
+            "evidenceCount": 1,
+            "momentum": "new",
+            "momentumDelta": "近7天1 vs 前23天0",
+            "sampleNoteIds": [
+              "douyin:7661835527667515310",
+              "douyin:7697824979480200527"
+            ],
+            "firstSeen": "2026-08-11",
+            "lastSeen": "2026-10-19",
+            "why": "【判断】观察中——场景内容，单条弱信号。\n【数据】近7天1条 / 前23天0条 · 动量：新涌现 · 连续1天。\n【为什么关注】带娃出行场景内容持续存在，与 themes_registry.cabin_noise_and_children 同源，但单条信号无趋势意义。",
+            "productImplication": "【迁移路径】亲子车厢/连排座位筛选属「无障碍与特殊人群服务」子方向，对应第26迭代探索方向。\n【不做的理由】单条弱信号，业务阶段=萎缩期不投入。\n【观察条件】连续3天累积≥5条再评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": "partial",
+            "roadmapAlignment": "无（信号持续可纳入第26迭代探索）",
+            "valueUse": "V2",
+            "streakDays": 1
+          },
+          {
+            "key": "th:railway_accessible_and_service",
+            "theme": "无障碍设施吐槽",
+            "category": "theme",
+            "evidenceCount": 0,
+            "momentum": "stable",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+            "sampleNoteIds": [
+              "6a7b34df000000002203141c",
+              "6a58e553000000000f014585",
+              "6a83166a0000000006005cd9"
+            ],
+            "firstSeen": "2026-09-16",
+            "lastSeen": "2026-10-24",
+            "why": "【判断】维持 P1——本期最强差异化信号在此，12306不做，是我们的差异化窗口。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3 · 首次出现 09-16。\n【为什么是现在】主题级证据持续上升；子信号（女性专属包房、孕妇求助护送）活跃度抬升；12306无特殊人群数字化服务（标签筛选、女性友好车厢），空白明确。",
+            "productImplication": "【建议动作】① 选座界面增加「女性友好车厢/包房」筛选入口（第26迭代探索）；② 客服反馈增设特殊人群标签，实现分流处理；③ 待连续出现≥3天后升级排期讨论。\n【验证】特殊人群筛选入口使用率 · 相关工单分流准确率。\n【边界】子信号连续2周回落→退回观察中。",
+            "priority": "P1",
+            "basedOnExistingCapability": "partial",
+            "roadmapAlignment": "无（尚未排期，信号持续可纳入第26迭代探索）",
+            "valueUse": "V1",
+            "streakDays": 0
+          },
+          {
+            "key": "th:cabin_uncivilized_behavior",
+            "theme": "车厢不文明行为曝光",
+            "category": "theme",
+            "evidenceCount": 3,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+            "sampleNoteIds": [
+              "6a80bc2000000000050331d5",
+              "6acf111b000000000b0054e3",
+              "6acedccf000000001500202e",
+              "6acf9d26000000000200fab4",
+              "6a92d935000000001e016e7d"
+            ],
+            "firstSeen": "2026-10-16",
+            "lastSeen": "2026-10-24",
+            "streakDays": 0
+          },
+          {
+            "key": "th:cabin_noise_and_children",
+            "theme": "车厢噪音与带娃冲突",
+            "category": "theme",
+            "evidenceCount": 0,
+            "momentum": "stable",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+            "sampleNoteIds": [
+              "6a5f71ca000000002201b9b9",
+              "6a7bc96400000000250123c3",
+              "6a6c632f000000003302f99d",
+              "6a5e2a0a0000000004028647"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-10-24",
+            "streakDays": 0
+          },
+          {
+            "key": "th:seat_space_boundary",
+            "theme": "座位空间边界与占座",
+            "category": "theme",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天1",
+            "sampleNoteIds": [
+              "6a8a676300000000140268e6",
+              "6a863a06000000002102266f",
+              "6ac856ac000000001801baa4",
+              "6a6589d3000000000301e957"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-10-24",
+            "why": "【判断】维持 P2——占座/换座类冲突信号稳定，themes_registry.seat_space_boundary.heat=2 与 railway_uncivilized_behavior、railway_rules_and_hacks 形成三角关联，指向「换座请求在线协商」与「座位权益说明卡片」——前者属未打通，后者属既有能力可承接。\n【数据】近7天0条 / 前23天2条 · 动量：退烧 · streakDays=4。\n【为什么是现在】信号在退烧但底层矛盾持续存在，themes_registry.relations 明确指向「订单详情页加入座位权益说明卡片」——是低成本可落地的差异化动作。",
+            "productImplication": "【建议动作】① 订单详情页/选座页加入「座位权益说明」卡片（既有能力，低成本）；② 监控是否衍生「换座在线协商」类付费需求信号再评估。\n【验证】座位权益说明卡片点击率 · 相关客服咨询量变化。\n【边界】连续2周为0→降为观察中；座位权益说明卡片不下线。",
+            "priority": "P2",
+            "basedOnExistingCapability": true,
+            "roadmapAlignment": "智慧票务深化-选座体验优化（低成本承接）",
+            "valueUse": "V1",
+            "streakDays": 0
+          },
+          {
+            "key": "th:female_safety_and_space",
+            "theme": "女性专属与出行焦虑",
+            "category": "theme",
+            "evidenceCount": 3,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天3",
+            "sampleNoteIds": [
+              "6ab4d8bc000000001402f50a",
+              "6ab538b9000000001c01cbaf",
+              "6acf111b000000000b0054e3"
+            ],
+            "firstSeen": "2026-09-30",
+            "lastSeen": "2026-10-24",
+            "why": "【判断】观察中——本期信号退烧，此前「女性专属包房」是强新增信号。\n【数据】近7天2条 / 前23天0条 · 动量：退烧。\n【为什么关注】与「无障碍设施与服务体验」高度关联（同属特殊人群服务），12306仍无女性友好车厢筛选能力，差异化窗口未关闭，但本期无新增证据。",
+            "productImplication": "【迁移路径】选座界面「女性友好车厢/包房」筛选入口（第26迭代探索），与无障碍主题合并推进，不单独立项。\n【不做的理由】本期退烧且无新增证据，避免重复排期。\n【观察条件】子信号（女性专属包房）连续2周回升 → 升级 P1 评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": "partial",
+            "roadmapAlignment": "无（尚未排期，信号持续可纳入第26迭代探索）",
+            "valueUse": "V1",
+            "streakDays": 0
+          },
+          {
+            "key": "th:railway_rules_and_hacks",
+            "theme": "票务规则与出行避坑",
+            "category": "theme",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天1",
+            "sampleNoteIds": [
+              "6a671b4c000000000301d591",
+              "6a92d935000000001e016e7d",
+              "6a63321d000000001101b7d6",
+              "6a4dec1f00000000220083f6",
+              "6ad20d3b000000001a03139c"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-10-24",
+            "why": "【判断】维持 P1——信号从退烧转为上升（fading→rising），印证规则避坑需求持续存在，直接对应季度硬仗。\n【数据】近7天2条 vs 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3。\n【为什么是现在】12306有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规Agent前端入口1.14上线，只差临门一脚。信号回升说明用户对规则解读的需求从未消失。",
+            "productImplication": "【建议动作】① 票规Agent入口按期1.14上线，不因信号波动而延期；② 退改签/误车/换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续4周为0且无新增→降为观察中；能力不下线。",
+            "priority": "P1",
+            "basedOnExistingCapability": true,
+            "roadmapAlignment": "AI Agent 三条线（票规Agent）",
+            "valueUse": "V2",
+            "streakDays": 0
+          }
+        ]
       }
     ],
     "themes_registry": {
@@ -159049,15 +156522,21 @@
       "cabin_noise_and_children": {
         "firstSeen": "2026-08-17",
         "theme": "车厢噪音与带娃冲突",
-        "description": "熊孩子最吵一集、免提通话、静音车厢仍有弹唱等噪音场景高频出现，用户对车厢声环境敏感度提升",
-        "lastSeen": "2026-10-22",
-        "heat": 2,
+        "description": "熊孩子吵闹、宝妈抱怨静音车厢不管死活，带娃群体与安静需求方持续对立。",
+        "lastSeen": "2026-10-24",
+        "heat": 0,
         "relations": [
           {
             "toThemeKey": "cabin_uncivilized_behavior",
             "toThemeName": "车厢不文明行为曝光",
-            "desc": "噪音投诉帖常被搬运进不文明曝光合集，二次放大传播",
-            "implication": "为静音车厢加购入口，把噪音痛点转化为付费点"
+            "desc": "带娃噪音视频易被贴上不文明标签放大冲突",
+            "implication": "购票页增加亲子/静音车厢偏好选择与提示"
+          },
+          {
+            "toThemeKey": "railway_youth_first_trip_guide",
+            "toThemeName": "学生首乘高铁教学指南",
+            "desc": "首乘者不知静音车厢规则易误入引发摩擦",
+            "implication": "首乘教学加入车厢类型说明与换座渠道"
           }
         ]
       },
@@ -159079,15 +156558,15 @@
       "seat_space_boundary": {
         "firstSeen": "2026-08-17",
         "theme": "座位空间边界与占座",
-        "description": "围绕买多张票放零食占座、艺人占座、换座礼仪等讨论，涉及座位使用权、换座礼貌方式与占座争议的舆论回应。",
-        "lastSeen": "2026-10-23",
+        "description": "零食占座、艺人占座、换座礼仪等案例集中讨论座位的使用权边界与协商方式。",
+        "lastSeen": "2026-10-24",
         "heat": 1,
         "relations": [
           {
             "toThemeKey": "railway_uncivilized_behavior",
             "toThemeName": "车厢不文明行为曝光",
-            "desc": "占座争议被归入不文明行为大类，引发官方回应与舆论发酵。",
-            "implication": "占座规则可在购票页前置说明，减少现场冲突。"
+            "desc": "占座争议经社媒发酵成公共素质事件",
+            "implication": "官方回应模板化，减少舆情误读扩散"
           }
         ]
       },
@@ -159115,15 +156594,21 @@
       "railway_rules_and_hacks": {
         "firstSeen": "2026-08-17",
         "theme": "票务规则与出行避坑",
-        "description": "涵盖坐过站免费返程、隐藏福利、12306宝藏功能、车次编号改革、带娃儿童票、卧铺选座、火车等红灯原因等票务冷知识与避坑攻略。",
-        "lastSeen": "2026-10-23",
-        "heat": 3,
+        "description": "坐过站免费返程、0元商务座、12306隐藏功能、车次号段改革等实用信息与冷知识热传。",
+        "lastSeen": "2026-10-24",
+        "heat": 1,
         "relations": [
           {
             "toThemeKey": "railway_youth_first_trip_guide",
             "toThemeName": "学生首乘高铁教学指南",
-            "desc": "冷知识攻略与首乘教学互补，共同降低新手购票与乘车门槛。",
-            "implication": "将隐藏福利与规则说明整合进官方新手引导页。"
+            "desc": "冷知识帖承担了部分首乘教学功能",
+            "implication": "官方将隐藏福利整合进新手引导页"
+          },
+          {
+            "toThemeKey": "railway_safety_and_incident",
+            "toThemeName": "列车安全事件与应急科普",
+            "desc": "保命暗语类科普与规则避坑常被混读",
+            "implication": "区分'规则福利'与'安全应急'两个信息层级"
           }
         ]
       },
@@ -159174,16 +156659,16 @@
       },
       "railway_accessible_and_service": {
         "firstSeen": "2026-09-16",
-        "theme": "无障碍设施与服务体验",
-        "description": "持续跟踪枢纽与车站无障碍改造是否达标，聚焦残疾人、适老化设施缺陷，以及乘务与售货员等一线服务体验。",
-        "lastSeen": "2026-10-23",
-        "heat": 2,
+        "theme": "无障碍设施吐槽",
+        "description": "旅客实地拍摄交通枢纽与列车无障碍设施不达标，点名窗口单位改造后仍不合规，呼吁改进。",
+        "lastSeen": "2026-10-24",
+        "heat": 0,
         "relations": [
           {
-            "toThemeKey": "railway_rules_and_hacks",
-            "toThemeName": "票务规则与出行避坑",
-            "desc": "无障碍出行需提前查设施可用性，与购票避坑信息联动。",
-            "implication": "购票流程可标注站点无障碍状态供提前规划。"
+            "toThemeKey": "railway_youth_first_trip_guide",
+            "toThemeName": "学生首乘高铁教学指南",
+            "desc": "无障碍断点让首乘者更依赖图文攻略自救",
+            "implication": "攻略中嵌入无障碍/求助点标注，降低首乘焦虑"
           }
         ]
       },
@@ -159205,36 +156690,42 @@
       "female_safety_and_space": {
         "firstSeen": "2026-09-30",
         "theme": "女性专属与出行焦虑",
-        "description": "聚焦女性专属包房、卧铺安全、被骚扰等出行焦虑，呼吁女性友好设施与安全保障，引发广泛支持讨论。",
-        "lastSeen": "2026-10-23",
-        "heat": 2,
+        "description": "绿皮车女性专属包房可免费预约获赞，女性对私密安全空间诉求强烈。",
+        "lastSeen": "2026-10-24",
+        "heat": 3,
         "relations": [
           {
-            "toThemeKey": "railway_uncivilized_behavior",
+            "toThemeKey": "cabin_uncivilized_behavior",
             "toThemeName": "车厢不文明行为曝光",
-            "desc": "尿湿女生鞋等事件强化女性对邻座安全的焦虑与发声。",
-            "implication": "卧铺购票可增加女性同格选项与安全求助入口。"
+            "desc": "夜间骚扰/失范事件强化女性专属房需求",
+            "implication": "卧铺购票提供同性包厢偏好与预约提醒"
+          },
+          {
+            "toThemeKey": "railway_rules_and_hacks",
+            "toThemeName": "票务规则与出行避坑",
+            "desc": "用户不知可免费预约，需规则科普",
+            "implication": "12306首页加女性包房预约入口与说明"
           }
         ]
       },
       "cabin_uncivilized_behavior": {
         "firstSeen": "2026-10-16",
         "theme": "车厢不文明行为曝光",
-        "description": "座位排便、免提大声通话、零食占座、艺人占座等负面事件被反复曝光与官方通报，评论区高度聚焦素质与追责",
-        "lastSeen": "2026-10-22",
-        "heat": 6,
+        "description": "免提通话、脱裤排便、尿湿他人、零食占座等失范行为被拍下传播，引发对素质与管理的讨论。",
+        "lastSeen": "2026-10-24",
+        "heat": 3,
         "relations": [
-          {
-            "toThemeKey": "seat_space_boundary",
-            "toThemeName": "座位空间边界与占座",
-            "desc": "零食占座、艺人占座等事件本质是座位边界争夺，被并入不文明曝光",
-            "implication": "在占座争议帖中挂接座位规则说明卡，减少争议升级"
-          },
           {
             "toThemeKey": "cabin_noise_and_children",
             "toThemeName": "车厢噪音与带娃冲突",
-            "desc": "免提通话、熊孩子吵闹同属素质话题，常在同一曝光流中被合并讨论",
-            "implication": "把噪音投诉入口前置到行程页，缩短用户求助路径"
+            "desc": "外放与喧哗类曝光与带娃噪音争议互相点燃",
+            "implication": "提供一键报噪/报不文明入口，联动乘务到场"
+          },
+          {
+            "toThemeKey": "seat_space_boundary",
+            "toThemeName": "座位空间边界与占座",
+            "desc": "零食占座、越界行为属同一空间争夺叙事",
+            "implication": "订单页提示可用行李/占位规则，减少现场争执"
           }
         ]
       },
