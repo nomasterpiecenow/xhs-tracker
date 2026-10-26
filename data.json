@@ -1,6 +1,6 @@
 {
   "keyword": "功能热点 31 + 场景灵感 14",
-  "lastCrawledAt": "2026-10-26 14:15:52",
+  "lastCrawledAt": "2026-10-26 14:25:18",
   "notes": {
     "6a671b4c000000000301d591": {
       "noteId": "6a671b4c000000000301d591",
@@ -10453,8 +10453,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "094ed9a22c8a",
-      "eventTitle": "带娃坐高铁",
-      "eventId": null
+      "eventTitle": "陪读妈妈带娃坐高铁",
+      "eventId": "乘车提示__陪读妈妈带娃坐高铁",
+      "_eventId": "乘车提示__陪读妈妈带娃坐高铁"
     },
     "6a572dbc000000001702ca9e": {
       "noteId": "6a572dbc000000001702ca9e",
@@ -14831,7 +14832,9 @@
       ],
       "_relevant": true,
       "_sig": "d765ef2bdd5b",
-      "eventId": null
+      "eventId": "官方回应__高铁破例等候9分钟",
+      "_eventId": "官方回应__高铁破例等候9分钟",
+      "eventTitle": "高铁破例等候9分钟"
     },
     "douyin:7670101418762250094": {
       "noteId": "douyin:7670101418762250094",
@@ -61552,8 +61555,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "786608cc8828",
-      "eventTitle": "高铁上馋小宝宝",
-      "eventId": null
+      "eventTitle": "高铁馋小宝宝",
+      "eventId": "乘车提示__高铁馋小宝宝",
+      "_eventId": "乘车提示__高铁馋小宝宝"
     },
     "6a91118a000000001e015d99": {
       "noteId": "6a91118a000000001e015d99",
@@ -110579,7 +110583,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "d324be3a0dda",
-      "eventId": null
+      "eventId": "其他__火车社牛小姐姐蛋糕",
+      "_eventId": "其他__火车社牛小姐姐蛋糕",
+      "eventTitle": "火车社牛小姐姐蛋糕"
     },
     "6abe3384000000001500fcc0": {
       "noteId": "6abe3384000000001500fcc0",
@@ -110896,7 +110902,9 @@
         "社死尴尬"
       ],
       "_sig": "cebf82286263",
-      "eventId": null
+      "eventId": "乘车提示__高铁1A座位误会",
+      "_eventId": "乘车提示__高铁1A座位误会",
+      "eventTitle": "高铁1A座位误会"
     },
     "6ac3640e000000001801a094": {
       "noteId": "6ac3640e000000001801a094",
@@ -110939,7 +110947,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "45d5d42f1cfc",
-      "eventId": null
+      "eventId": "乘车提示__高铁看图猜词游戏",
+      "_eventId": "乘车提示__高铁看图猜词游戏",
+      "eventTitle": "高铁看图猜词游戏"
     },
     "6ac09527000000001402f125": {
       "noteId": "6ac09527000000001402f125",
@@ -111169,7 +111179,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "e4950bfd5a4b",
-      "eventId": null
+      "eventId": "乘车提示__高铁DIY手机壳",
+      "_eventId": "乘车提示__高铁DIY手机壳",
+      "eventTitle": "高铁DIY手机壳"
     },
     "6abf6ed3000000001800744e": {
       "noteId": "6abf6ed3000000001800744e",
@@ -111848,7 +111860,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "3133b5e4cbc2",
-      "eventId": null
+      "eventId": "乘车提示__高铁发型教程",
+      "_eventId": "乘车提示__高铁发型教程",
+      "eventTitle": "高铁发型教程"
     },
     "6abf8862000000000100a2ac": {
       "noteId": "6abf8862000000000100a2ac",
@@ -111985,7 +111999,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "986817553d83",
-      "eventId": null
+      "eventId": "其他__港铁迪士尼联名打卡",
+      "_eventId": "其他__港铁迪士尼联名打卡",
+      "eventTitle": "港铁迪士尼联名打卡"
     },
     "6abb373a000000001a025103": {
       "noteId": "6abb373a000000001a025103",
@@ -112028,7 +112044,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "6d4704bbaf73",
-      "eventId": null
+      "eventId": "其他__香港一日拍照攻略",
+      "_eventId": "其他__香港一日拍照攻略",
+      "eventTitle": "香港一日拍照攻略"
     },
     "6abdcf0a000000001303f598": {
       "noteId": "6abdcf0a000000001303f598",
@@ -112071,7 +112089,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "15f308a76308",
-      "eventId": null
+      "eventId": "其他__元朗YOHO购物攻略",
+      "_eventId": "其他__元朗YOHO购物攻略",
+      "eventTitle": "元朗YOHO购物攻略"
     },
     "6aa375a40000000027008844": {
       "noteId": "6aa375a40000000027008844",
@@ -112114,7 +112134,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "7677c2d6a8fa",
-      "eventId": null
+      "eventId": "其他__香港沙田遛娃攻略",
+      "_eventId": "其他__香港沙田遛娃攻略",
+      "eventTitle": "香港沙田遛娃攻略"
     },
     "6ac176fd000000000200cbaf": {
       "noteId": "6ac176fd000000000200cbaf",
@@ -112388,7 +112410,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "fc48b588d015",
-      "eventId": null
+      "eventId": "其他__早教百宝箱",
+      "_eventId": "其他__早教百宝箱",
+      "eventTitle": "早教百宝箱"
     },
     "6ab3ce5d000000001802e1cd": {
       "noteId": "6ab3ce5d000000001802e1cd",
@@ -112431,7 +112455,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "510d3f9d9453",
-      "eventId": null
+      "eventId": "其他__成都东郊记忆citywalk",
+      "_eventId": "其他__成都东郊记忆citywalk",
+      "eventTitle": "成都东郊记忆citywalk"
     },
     "6ab0e03f000000003101f016": {
       "noteId": "6ab0e03f000000003101f016",
@@ -112475,7 +112501,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "9be6279e7193",
-      "eventId": null
+      "eventId": "其他__京郊静之湖遛娃",
+      "_eventId": "其他__京郊静之湖遛娃",
+      "eventTitle": "京郊静之湖遛娃"
     },
     "6abb7f6c000000000a01c817": {
       "noteId": "6abb7f6c000000000a01c817",
@@ -112518,7 +112546,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "5a8be73c7af5",
-      "eventId": null
+      "eventId": "其他__安吉古城遗址公园反向旅游",
+      "_eventId": "其他__安吉古城遗址公园反向旅游",
+      "eventTitle": "安吉古城遗址公园反向旅游"
     },
     "6abc72a70000000018010f33": {
       "noteId": "6abc72a70000000018010f33",
@@ -112561,7 +112591,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "5b3ba3de8023",
-      "eventId": null
+      "eventId": "其他__安吉古城遗址公园反向旅游",
+      "_eventId": "其他__安吉古城遗址公园反向旅游",
+      "eventTitle": "安吉古城遗址公园反向旅游"
     },
     "6ab49b4e0000000014039deb": {
       "noteId": "6ab49b4e0000000014039deb",
@@ -112604,7 +112636,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "b157f74b71cb",
-      "eventId": null
+      "eventId": "其他__下渚湖湿地公园",
+      "_eventId": "其他__下渚湖湿地公园",
+      "eventTitle": "下渚湖湿地公园"
     },
     "6ab3a57e00000000150041ef": {
       "noteId": "6ab3a57e00000000150041ef",
@@ -112647,7 +112681,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "2e24d9bec6cd",
-      "eventId": null
+      "eventId": "其他__下渚湖湿地公园",
+      "_eventId": "其他__下渚湖湿地公园",
+      "eventTitle": "下渚湖湿地公园"
     },
     "6aa877420000000027014d91": {
       "noteId": "6aa877420000000027014d91",
@@ -112690,7 +112726,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "06a0b8c989e2",
-      "eventId": null
+      "eventId": "其他__前滩亲子骑行",
+      "_eventId": "其他__前滩亲子骑行",
+      "eventTitle": "前滩亲子骑行"
     },
     "6abca9a60000000014002974": {
       "noteId": "6abca9a60000000014002974",
@@ -112829,7 +112867,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "8eea3a402902",
-      "eventId": null
+      "eventId": "其他__天津东疆港海贝乐园",
+      "_eventId": "其他__天津东疆港海贝乐园",
+      "eventTitle": "天津东疆港海贝乐园"
     },
     "douyin:7693071910423031971": {
       "noteId": "douyin:7693071910423031971",
@@ -119684,7 +119724,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "04174933fa49",
-      "eventId": null
+      "eventId": "其他__宜兴窑湖小镇旅游攻略",
+      "_eventId": "其他__宜兴窑湖小镇旅游攻略",
+      "eventTitle": "宜兴窑湖小镇旅游攻略"
     },
     "6aa7a18e000000002a024c9b": {
       "noteId": "6aa7a18e000000002a024c9b",
@@ -119727,7 +119769,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "ed2ca1f50395",
-      "eventId": null
+      "eventId": "其他__宜兴窑湖小镇旅游攻略",
+      "_eventId": "其他__宜兴窑湖小镇旅游攻略",
+      "eventTitle": "宜兴窑湖小镇旅游攻略"
     },
     "6ac1c87c0000000015000dcb": {
       "noteId": "6ac1c87c0000000015000dcb",
@@ -119770,7 +119814,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "e9a30afe60d9",
-      "eventId": null
+      "eventId": "其他__宜兴窑湖小镇旅游攻略",
+      "_eventId": "其他__宜兴窑湖小镇旅游攻略",
+      "eventTitle": "宜兴窑湖小镇旅游攻略"
     },
     "6ac1c25400000000180106e8": {
       "noteId": "6ac1c25400000000180106e8",
@@ -119813,7 +119859,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "0c82dd139c64",
-      "eventId": null
+      "eventId": "其他__宜兴窑湖小镇旅游攻略",
+      "_eventId": "其他__宜兴窑湖小镇旅游攻略",
+      "eventTitle": "宜兴窑湖小镇旅游攻略"
     },
     "6ac0adc20000000014038c47": {
       "noteId": "6ac0adc20000000014038c47",
@@ -125600,7 +125648,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "2b0d81f48f15",
-      "eventId": null
+      "eventId": "其他__汉口火车站梦核",
+      "_eventId": "其他__汉口火车站梦核",
+      "eventTitle": "汉口火车站梦核"
     },
     "6ac98fde000000000202b452": {
       "noteId": "6ac98fde000000000202b452",
@@ -126954,7 +127004,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "92faf4d6a370",
-      "eventId": null
+      "eventId": "其他__九皇山羌俗旅游",
+      "_eventId": "其他__九皇山羌俗旅游",
+      "eventTitle": "九皇山羌俗旅游"
     },
     "douyin:7696075800180706611": {
       "noteId": "douyin:7696075800180706611",
@@ -130313,7 +130365,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "442431a0db05",
-      "eventId": null
+      "eventId": "高铁科普__火车待避信号",
+      "_eventId": "高铁科普__火车待避信号",
+      "eventTitle": "火车待避信号"
     },
     "6ad18f30000000001b022732": {
       "noteId": "6ad18f30000000001b022732",
@@ -138608,7 +138662,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "57d09ed5fe26",
-      "eventId": null
+      "eventId": "票务新规__12306苹果抽成疑问",
+      "_eventId": "票务新规__12306苹果抽成疑问",
+      "eventTitle": "12306苹果抽成疑问"
     },
     "douyin:7698656645747985705": {
       "noteId": "douyin:7698656645747985705",
@@ -139210,7 +139266,9 @@
         "铺位紧邻吸烟处"
       ],
       "_sig": "648817eddd08",
-      "eventId": null
+      "eventId": "其他__铁路吸烟诉讼驳回",
+      "_eventId": "其他__铁路吸烟诉讼驳回",
+      "eventTitle": "铁路吸烟诉讼驳回"
     },
     "6ac7507d000000001c00c3c5": {
       "noteId": "6ac7507d000000001c00c3c5",
@@ -139703,7 +139761,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "042688eab21d",
-      "eventId": null
+      "eventId": "加开专列__肖战南京演唱会",
+      "_eventId": "加开专列__肖战南京演唱会",
+      "eventTitle": "肖战南京演唱会"
     },
     "douyin:7699262249789699430": {
       "noteId": "douyin:7699262249789699430",
@@ -139795,9 +139855,7 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "6ee5015f4651",
-      "eventId": "陈楚生演唱会__夜间返程列车增开",
-      "_eventId": "陈楚生演唱会__夜间返程列车增开",
-      "eventTitle": "夜间返程列车增开"
+      "eventId": null
     },
     "douyin:7698962071114845491": {
       "noteId": "douyin:7698962071114845491",
@@ -139979,7 +140037,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "838e8fbd2023",
-      "eventId": null
+      "eventId": "官方回应__西安东站女生改签",
+      "_eventId": "官方回应__西安东站女生改签",
+      "eventTitle": "西安东站女生改签"
     },
     "douyin:7699078933131693366": {
       "noteId": "douyin:7699078933131693366",
@@ -140652,9 +140712,9 @@
       "_sentiment": "pos",
       "_pains": [],
       "_sig": "34407a82f015",
-      "eventId": "陈楚生演唱会__夜间返程列车增开",
-      "_eventId": "陈楚生演唱会__夜间返程列车增开",
-      "eventTitle": "夜间返程列车增开"
+      "eventId": "加开专列__肖战南京演唱会",
+      "_eventId": "加开专列__肖战南京演唱会",
+      "eventTitle": "肖战南京演唱会"
     },
     "6ad9fefa000000002a011b5c": {
       "noteId": "6ad9fefa000000002a011b5c",
@@ -142295,7 +142355,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "2fb4113cc7a9",
-      "eventId": null
+      "eventId": "乘车提示__今日份松弛感辣妹穿搭",
+      "_eventId": "乘车提示__今日份松弛感辣妹穿搭",
+      "eventTitle": "今日份松弛感辣妹穿搭"
     },
     "douyin:7699412007711280399": {
       "noteId": "douyin:7699412007711280399",
@@ -142739,7 +142801,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "8b64668d4b2a",
-      "eventId": null
+      "eventId": "高铁科普__内燃机车不淘汰",
+      "_eventId": "高铁科普__内燃机车不淘汰",
+      "eventTitle": "内燃机车不淘汰"
     },
     "douyin:7699878903808134410": {
       "noteId": "douyin:7699878903808134410",
@@ -142874,7 +142938,9 @@
       "_sentiment": "neu",
       "_pains": [],
       "_sig": "677d6c8501fe",
-      "eventId": null
+      "eventId": "绿皮火车__车站到发实拍",
+      "_eventId": "绿皮火车__车站到发实拍",
+      "eventTitle": "车站到发实拍"
     },
     "douyin:7700319407389964105": {
       "noteId": "douyin:7700319407389964105",
@@ -143333,7 +143399,9 @@
         "舒适度差"
       ],
       "_sig": "e12697b05d5c",
-      "eventId": null
+      "eventId": "绿皮火车__硬座过夜体验",
+      "_eventId": "绿皮火车__硬座过夜体验",
+      "eventTitle": "硬座过夜体验"
     },
     "douyin:7698566451293311720": {
       "noteId": "douyin:7698566451293311720",
@@ -143662,7 +143730,30 @@
         ],
         "firstSeen": "2026-10-20",
         "lastSeen": "2026-10-26",
-        "streakDays": 0
+        "streakDays": 1
+      },
+      {
+        "key": "ev:其他__铁路吸烟诉讼驳回",
+        "theme": "铁路吸烟诉讼驳回",
+        "category": "event",
+        "sourceEventId": "其他__铁路吸烟诉讼驳回",
+        "evidenceCount": 3,
+        "momentum": "new",
+        "momentumDelta": "近7天3 vs 前23天0",
+        "sampleNoteIds": [
+          "6ad83ae00000000025020330",
+          "6ad8536e000000002b01d37f",
+          "6ad8d1c00000000024036d15"
+        ],
+        "firstSeen": "2026-10-22",
+        "lastSeen": "2026-10-26",
+        "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
+        "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
+        "priority": "Observing",
+        "basedOnExistingCapability": false,
+        "roadmapAlignment": "无",
+        "valueUse": "V3",
+        "streakDays": 1
       },
       {
         "key": "ev:学生票新规__初中生高铁学生票",
@@ -143690,23 +143781,6 @@
         "streakDays": 1
       },
       {
-        "key": "ev:陈楚生演唱会__夜间返程列车增开",
-        "theme": "夜间返程列车增开",
-        "category": "event",
-        "sourceEventId": "陈楚生演唱会__夜间返程列车增开",
-        "evidenceCount": 2,
-        "momentum": "new",
-        "momentumDelta": "近7天2 vs 前23天0",
-        "sampleNoteIds": [
-          "douyin:7663470540796455537",
-          "douyin:7698786402120518953",
-          "6ad88d260000000031025941"
-        ],
-        "firstSeen": "2026-08-03",
-        "lastSeen": "2026-10-26",
-        "streakDays": 1
-      },
-      {
         "key": "ev:乘车提示__高铁翻包日记",
         "theme": "高铁翻包日记",
         "category": "event",
@@ -143723,7 +143797,7 @@
         ],
         "firstSeen": "2026-08-24",
         "lastSeen": "2026-10-26",
-        "streakDays": 0
+        "streakDays": 1
       },
       {
         "key": "ev:乘车提示__高铁售货员心理建设",
@@ -143748,28 +143822,6 @@
         "streakDays": 1
       },
       {
-        "key": "ev:其他__铁路吸烟诉讼驳回",
-        "theme": "铁路吸烟诉讼驳回",
-        "category": "event",
-        "sourceEventId": "其他__铁路吸烟诉讼驳回",
-        "evidenceCount": 2,
-        "momentum": "new",
-        "momentumDelta": "近7天2 vs 前23天0",
-        "sampleNoteIds": [
-          "6ad83ae00000000025020330",
-          "6ad8536e000000002b01d37f"
-        ],
-        "firstSeen": "2026-10-22",
-        "lastSeen": "2026-10-26",
-        "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
-        "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
-        "priority": "Observing",
-        "basedOnExistingCapability": false,
-        "roadmapAlignment": "无",
-        "valueUse": "V3",
-        "streakDays": 1
-      },
-      {
         "key": "ev:乘车提示__女子错过检票跪求放行",
         "theme": "女子错过检票跪求放行",
         "category": "event",
@@ -143786,6 +143838,22 @@
         "streakDays": 1
       },
       {
+        "key": "ev:加开专列__肖战南京演唱会",
+        "theme": "肖战南京演唱会",
+        "category": "event",
+        "sourceEventId": "加开专列__肖战南京演唱会",
+        "evidenceCount": 2,
+        "momentum": "new",
+        "momentumDelta": "近7天2 vs 前23天0",
+        "sampleNoteIds": [
+          "douyin:7699117324774788378",
+          "6ad88d260000000031025941"
+        ],
+        "firstSeen": "2026-10-23",
+        "lastSeen": "2026-10-26",
+        "streakDays": 0
+      },
+      {
         "key": "ev:票务新规__特快列车恢复开行",
         "theme": "特快列车恢复开行",
         "category": "event",
@@ -143799,19 +143867,20 @@
         ],
         "firstSeen": "2026-10-23",
         "lastSeen": "2026-10-26",
-        "streakDays": 0
+        "streakDays": 1
       },
       {
         "key": "th:railway_accessible_and_service",
         "theme": "无障碍设施吐槽",
         "category": "theme",
-        "evidenceCount": 0,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天1",
         "sampleNoteIds": [
           "6a7b34df000000002203141c",
           "6a58e553000000000f014585",
-          "6a83166a0000000006005cd9"
+          "6a8eae1e0000000024006bf3",
+          "6aca2716000000001500fe6c"
         ],
         "firstSeen": "2026-09-16",
         "lastSeen": "2026-10-26",
@@ -143829,16 +143898,40 @@
         "category": "theme",
         "evidenceCount": 5,
         "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天4",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天5",
         "sampleNoteIds": [
           "6acf111b000000000b0054e3",
           "6a5f71ca000000002201b9b9",
           "6acf9d26000000000200fab4",
-          "6acedccf000000001500202e",
-          "6ad03fe700000000180103a8"
+          "6ad03fe700000000180103a8",
+          "6acedccf000000001500202e"
         ],
         "firstSeen": "2026-10-16",
         "lastSeen": "2026-10-26",
+        "streakDays": 1
+      },
+      {
+        "key": "th:railway_rules_and_hacks",
+        "theme": "票务规则与出行避坑",
+        "category": "theme",
+        "evidenceCount": 5,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天2 vs 前23天3",
+        "sampleNoteIds": [
+          "6a74058600000000060071bd",
+          "6a671b4c000000000301d591",
+          "6abce9b9000000000a025897",
+          "6a92d935000000001e016e7d",
+          "6ad9fefa000000002a011b5c"
+        ],
+        "firstSeen": "2026-08-17",
+        "lastSeen": "2026-10-26",
+        "why": "【判断】维持 P1——信号从退烧转为上升（fading→rising），印证规则避坑需求持续存在，直接对应季度硬仗。\n【数据】近7天2条 vs 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3。\n【为什么是现在】12306有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规Agent前端入口1.14上线，只差临门一脚。信号回升说明用户对规则解读的需求从未消失。",
+        "productImplication": "【建议动作】① 票规Agent入口按期1.14上线，不因信号波动而延期；② 退改签/误车/换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续4周为0且无新增→降为观察中；能力不下线。",
+        "priority": "P1",
+        "basedOnExistingCapability": true,
+        "roadmapAlignment": "AI Agent 三条线（票规Agent）",
+        "valueUse": "V2",
         "streakDays": 1
       },
       {
@@ -143865,17 +143958,33 @@
         "streakDays": 1
       },
       {
+        "key": "th:railway_youth_first_trip_guide",
+        "theme": "学生首乘高铁教学指南",
+        "category": "theme",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天1",
+        "sampleNoteIds": [
+          "6a8eae1e0000000024006bf3",
+          "6a92d935000000001e016e7d",
+          "6aca2716000000001500fe6c"
+        ],
+        "firstSeen": "2026-09-17",
+        "lastSeen": "2026-10-26",
+        "streakDays": 0
+      },
+      {
         "key": "th:female_safety_and_space",
         "theme": "女性专属与出行焦虑",
         "category": "theme",
-        "evidenceCount": 2,
-        "momentum": "stable",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天1",
+        "evidenceCount": 1,
+        "momentum": "fading",
+        "momentumDelta": "信号笔记 近7天0 vs 前23天1",
         "sampleNoteIds": [
           "6ab4d8bc000000001402f50a",
           "6ab538b9000000001c01cbaf",
-          "6acf111b000000000b0054e3",
-          "6ad9fefa000000002a011b5c"
+          "6a671b4c000000000301d591",
+          "6acf111b000000000b0054e3"
         ],
         "firstSeen": "2026-09-30",
         "lastSeen": "2026-10-26",
@@ -143888,30 +143997,6 @@
         "streakDays": 1
       },
       {
-        "key": "th:railway_rules_and_hacks",
-        "theme": "票务规则与出行避坑",
-        "category": "theme",
-        "evidenceCount": 3,
-        "momentum": "fading",
-        "momentumDelta": "信号笔记 近7天1 vs 前23天2",
-        "sampleNoteIds": [
-          "6a671b4c000000000301d591",
-          "6a92d935000000001e016e7d",
-          "6a63321d000000001101b7d6",
-          "6a4dec1f00000000220083f6",
-          "6a67082a000000000f02af62"
-        ],
-        "firstSeen": "2026-08-17",
-        "lastSeen": "2026-10-26",
-        "why": "【判断】维持 P1——信号从退烧转为上升（fading→rising），印证规则避坑需求持续存在，直接对应季度硬仗。\n【数据】近7天2条 vs 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3。\n【为什么是现在】12306有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规Agent前端入口1.14上线，只差临门一脚。信号回升说明用户对规则解读的需求从未消失。",
-        "productImplication": "【建议动作】① 票规Agent入口按期1.14上线，不因信号波动而延期；② 退改签/误车/换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续4周为0且无新增→降为观察中；能力不下线。",
-        "priority": "P1",
-        "basedOnExistingCapability": true,
-        "roadmapAlignment": "AI Agent 三条线（票规Agent）",
-        "valueUse": "V2",
-        "streakDays": 1
-      },
-      {
         "key": "th:exquisite_train_lifestyle",
         "theme": "高铁精致生活与好物分享",
         "category": "theme",
@@ -143919,9 +144004,9 @@
         "momentum": "fading",
         "momentumDelta": "信号笔记 近7天0 vs 前23天1",
         "sampleNoteIds": [
+          "6a60bd87000000000301db0a",
           "6a5d8f8e000000000e037b4a",
           "6a5611690000000011015762",
-          "6a60bd87000000000301db0a",
           "6ac234ca000000001203f53e",
           "6a5e2a0a0000000004028647"
         ],
@@ -143930,8 +144015,8 @@
         "streakDays": 1
       },
       {
-        "key": "th:train_neighbor_blindbox",
-        "theme": "高铁邻座盲盒与偶遇",
+        "key": "th:train_time_killing_hacks",
+        "theme": "旅途解闷与整活",
         "category": "theme",
         "evidenceCount": 1,
         "momentum": "fading",
@@ -143940,11 +144025,11 @@
           "6a5ddd97000000000401e51b",
           "6ac62fae000000000a02177f",
           "6a886a18000000003003f82b",
-          "6a57b89d0000000021021836"
+          "6a633b5e000000001c00f8f8"
         ],
-        "firstSeen": "2026-09-04",
+        "firstSeen": "2026-09-10",
         "lastSeen": "2026-10-26",
-        "streakDays": 1
+        "streakDays": 0
       }
     ],
     "generatedAt": "2026-10-23 15:48:20",
@@ -160201,7 +160286,30 @@
             ],
             "firstSeen": "2026-10-20",
             "lastSeen": "2026-10-26",
-            "streakDays": 0
+            "streakDays": 1
+          },
+          {
+            "key": "ev:其他__铁路吸烟诉讼驳回",
+            "theme": "铁路吸烟诉讼驳回",
+            "category": "event",
+            "sourceEventId": "其他__铁路吸烟诉讼驳回",
+            "evidenceCount": 3,
+            "momentum": "new",
+            "momentumDelta": "近7天3 vs 前23天0",
+            "sampleNoteIds": [
+              "6ad83ae00000000025020330",
+              "6ad8536e000000002b01d37f",
+              "6ad8d1c00000000024036d15"
+            ],
+            "firstSeen": "2026-10-22",
+            "lastSeen": "2026-10-26",
+            "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
+            "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
+            "priority": "Observing",
+            "basedOnExistingCapability": false,
+            "roadmapAlignment": "无",
+            "valueUse": "V3",
+            "streakDays": 1
           },
           {
             "key": "ev:学生票新规__初中生高铁学生票",
@@ -160229,23 +160337,6 @@
             "streakDays": 1
           },
           {
-            "key": "ev:陈楚生演唱会__夜间返程列车增开",
-            "theme": "夜间返程列车增开",
-            "category": "event",
-            "sourceEventId": "陈楚生演唱会__夜间返程列车增开",
-            "evidenceCount": 2,
-            "momentum": "new",
-            "momentumDelta": "近7天2 vs 前23天0",
-            "sampleNoteIds": [
-              "douyin:7663470540796455537",
-              "douyin:7698786402120518953",
-              "6ad88d260000000031025941"
-            ],
-            "firstSeen": "2026-08-03",
-            "lastSeen": "2026-10-26",
-            "streakDays": 1
-          },
-          {
             "key": "ev:乘车提示__高铁翻包日记",
             "theme": "高铁翻包日记",
             "category": "event",
@@ -160262,7 +160353,7 @@
             ],
             "firstSeen": "2026-08-24",
             "lastSeen": "2026-10-26",
-            "streakDays": 0
+            "streakDays": 1
           },
           {
             "key": "ev:乘车提示__高铁售货员心理建设",
@@ -160287,28 +160378,6 @@
             "streakDays": 1
           },
           {
-            "key": "ev:其他__铁路吸烟诉讼驳回",
-            "theme": "铁路吸烟诉讼驳回",
-            "category": "event",
-            "sourceEventId": "其他__铁路吸烟诉讼驳回",
-            "evidenceCount": 2,
-            "momentum": "new",
-            "momentumDelta": "近7天2 vs 前23天0",
-            "sampleNoteIds": [
-              "6ad83ae00000000025020330",
-              "6ad8536e000000002b01d37f"
-            ],
-            "firstSeen": "2026-10-22",
-            "lastSeen": "2026-10-26",
-            "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
-            "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
-            "priority": "Observing",
-            "basedOnExistingCapability": false,
-            "roadmapAlignment": "无",
-            "valueUse": "V3",
-            "streakDays": 1
-          },
-          {
             "key": "ev:乘车提示__女子错过检票跪求放行",
             "theme": "女子错过检票跪求放行",
             "category": "event",
@@ -160325,6 +160394,22 @@
             "streakDays": 1
           },
           {
+            "key": "ev:加开专列__肖战南京演唱会",
+            "theme": "肖战南京演唱会",
+            "category": "event",
+            "sourceEventId": "加开专列__肖战南京演唱会",
+            "evidenceCount": 2,
+            "momentum": "new",
+            "momentumDelta": "近7天2 vs 前23天0",
+            "sampleNoteIds": [
+              "douyin:7699117324774788378",
+              "6ad88d260000000031025941"
+            ],
+            "firstSeen": "2026-10-23",
+            "lastSeen": "2026-10-26",
+            "streakDays": 0
+          },
+          {
             "key": "ev:票务新规__特快列车恢复开行",
             "theme": "特快列车恢复开行",
             "category": "event",
@@ -160338,19 +160423,20 @@
             ],
             "firstSeen": "2026-10-23",
             "lastSeen": "2026-10-26",
-            "streakDays": 0
+            "streakDays": 1
           },
           {
             "key": "th:railway_accessible_and_service",
             "theme": "无障碍设施吐槽",
             "category": "theme",
-            "evidenceCount": 0,
-            "momentum": "stable",
-            "momentumDelta": "信号笔记 近7天0 vs 前23天0",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天1",
             "sampleNoteIds": [
               "6a7b34df000000002203141c",
               "6a58e553000000000f014585",
-              "6a83166a0000000006005cd9"
+              "6a8eae1e0000000024006bf3",
+              "6aca2716000000001500fe6c"
             ],
             "firstSeen": "2026-09-16",
             "lastSeen": "2026-10-26",
@@ -160368,16 +160454,40 @@
             "category": "theme",
             "evidenceCount": 5,
             "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天1 vs 前23天4",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天5",
             "sampleNoteIds": [
               "6acf111b000000000b0054e3",
               "6a5f71ca000000002201b9b9",
               "6acf9d26000000000200fab4",
-              "6acedccf000000001500202e",
-              "6ad03fe700000000180103a8"
+              "6ad03fe700000000180103a8",
+              "6acedccf000000001500202e"
             ],
             "firstSeen": "2026-10-16",
             "lastSeen": "2026-10-26",
+            "streakDays": 1
+          },
+          {
+            "key": "th:railway_rules_and_hacks",
+            "theme": "票务规则与出行避坑",
+            "category": "theme",
+            "evidenceCount": 5,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天2 vs 前23天3",
+            "sampleNoteIds": [
+              "6a74058600000000060071bd",
+              "6a671b4c000000000301d591",
+              "6abce9b9000000000a025897",
+              "6a92d935000000001e016e7d",
+              "6ad9fefa000000002a011b5c"
+            ],
+            "firstSeen": "2026-08-17",
+            "lastSeen": "2026-10-26",
+            "why": "【判断】维持 P1——信号从退烧转为上升（fading→rising），印证规则避坑需求持续存在，直接对应季度硬仗。\n【数据】近7天2条 vs 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3。\n【为什么是现在】12306有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规Agent前端入口1.14上线，只差临门一脚。信号回升说明用户对规则解读的需求从未消失。",
+            "productImplication": "【建议动作】① 票规Agent入口按期1.14上线，不因信号波动而延期；② 退改签/误车/换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续4周为0且无新增→降为观察中；能力不下线。",
+            "priority": "P1",
+            "basedOnExistingCapability": true,
+            "roadmapAlignment": "AI Agent 三条线（票规Agent）",
+            "valueUse": "V2",
             "streakDays": 1
           },
           {
@@ -160404,17 +160514,33 @@
             "streakDays": 1
           },
           {
+            "key": "th:railway_youth_first_trip_guide",
+            "theme": "学生首乘高铁教学指南",
+            "category": "theme",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天1",
+            "sampleNoteIds": [
+              "6a8eae1e0000000024006bf3",
+              "6a92d935000000001e016e7d",
+              "6aca2716000000001500fe6c"
+            ],
+            "firstSeen": "2026-09-17",
+            "lastSeen": "2026-10-26",
+            "streakDays": 0
+          },
+          {
             "key": "th:female_safety_and_space",
             "theme": "女性专属与出行焦虑",
             "category": "theme",
-            "evidenceCount": 2,
-            "momentum": "stable",
-            "momentumDelta": "信号笔记 近7天1 vs 前23天1",
+            "evidenceCount": 1,
+            "momentum": "fading",
+            "momentumDelta": "信号笔记 近7天0 vs 前23天1",
             "sampleNoteIds": [
               "6ab4d8bc000000001402f50a",
               "6ab538b9000000001c01cbaf",
-              "6acf111b000000000b0054e3",
-              "6ad9fefa000000002a011b5c"
+              "6a671b4c000000000301d591",
+              "6acf111b000000000b0054e3"
             ],
             "firstSeen": "2026-09-30",
             "lastSeen": "2026-10-26",
@@ -160427,30 +160553,6 @@
             "streakDays": 1
           },
           {
-            "key": "th:railway_rules_and_hacks",
-            "theme": "票务规则与出行避坑",
-            "category": "theme",
-            "evidenceCount": 3,
-            "momentum": "fading",
-            "momentumDelta": "信号笔记 近7天1 vs 前23天2",
-            "sampleNoteIds": [
-              "6a671b4c000000000301d591",
-              "6a92d935000000001e016e7d",
-              "6a63321d000000001101b7d6",
-              "6a4dec1f00000000220083f6",
-              "6a67082a000000000f02af62"
-            ],
-            "firstSeen": "2026-08-17",
-            "lastSeen": "2026-10-26",
-            "why": "【判断】维持 P1——信号从退烧转为上升（fading→rising），印证规则避坑需求持续存在，直接对应季度硬仗。\n【数据】近7天2条 vs 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3。\n【为什么是现在】12306有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规Agent前端入口1.14上线，只差临门一脚。信号回升说明用户对规则解读的需求从未消失。",
-            "productImplication": "【建议动作】① 票规Agent入口按期1.14上线，不因信号波动而延期；② 退改签/误车/换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续4周为0且无新增→降为观察中；能力不下线。",
-            "priority": "P1",
-            "basedOnExistingCapability": true,
-            "roadmapAlignment": "AI Agent 三条线（票规Agent）",
-            "valueUse": "V2",
-            "streakDays": 1
-          },
-          {
             "key": "th:exquisite_train_lifestyle",
             "theme": "高铁精致生活与好物分享",
             "category": "theme",
@@ -160458,9 +160560,9 @@
             "momentum": "fading",
             "momentumDelta": "信号笔记 近7天0 vs 前23天1",
             "sampleNoteIds": [
+              "6a60bd87000000000301db0a",
               "6a5d8f8e000000000e037b4a",
               "6a5611690000000011015762",
-              "6a60bd87000000000301db0a",
               "6ac234ca000000001203f53e",
               "6a5e2a0a0000000004028647"
             ],
@@ -160469,8 +160571,8 @@
             "streakDays": 1
           },
           {
-            "key": "th:train_neighbor_blindbox",
-            "theme": "高铁邻座盲盒与偶遇",
+            "key": "th:train_time_killing_hacks",
+            "theme": "旅途解闷与整活",
             "category": "theme",
             "evidenceCount": 1,
             "momentum": "fading",
@@ -160479,11 +160581,11 @@
               "6a5ddd97000000000401e51b",
               "6ac62fae000000000a02177f",
               "6a886a18000000003003f82b",
-              "6a57b89d0000000021021836"
+              "6a633b5e000000001c00f8f8"
             ],
-            "firstSeen": "2026-09-04",
+            "firstSeen": "2026-09-10",
             "lastSeen": "2026-10-26",
-            "streakDays": 1
+            "streakDays": 0
           }
         ]
       }
@@ -160537,51 +160639,45 @@
       "seat_space_boundary": {
         "firstSeen": "2026-08-17",
         "theme": "座位空间边界与占座",
-        "description": "零食占座、艺人蒙面占座、换座礼貌范式等讨论集中爆发，12306与主办方相继回应，边界感与协商规则成为焦点。",
+        "description": "零食占三座、艺人占座、换座礼貌争议等座位归属与空间边界冲突，当事人及官方先后发声。",
         "lastSeen": "2026-10-26",
         "heat": 1,
         "relations": [
           {
-            "toThemeKey": "railway_rules_and_hacks",
-            "toThemeName": "票务规则与出行避坑",
-            "desc": "占座争议常引出“买多张票是否合规”的票务规则追问，官方回应成科普素材",
-            "implication": "可在购票页预设“多票占座”规则说明与换座请求模板"
+            "toThemeKey": "cabin_uncivilized_behavior",
+            "toThemeName": "车厢不文明行为曝光",
+            "desc": "占座方一旦拒绝沟通即被拍成不文明视频扩散",
+            "implication": "提供换座扫码协商功能，把冲突前置化解"
           }
         ]
       },
       "exquisite_train_lifestyle": {
         "firstSeen": "2026-08-17",
         "theme": "高铁精致生活与好物分享",
-        "description": "高铁吃播、巨大面条、3小时狂吃、订外卖到站送餐、前置镜头自拍等，把车厢变成生活方式与美食内容的生产场景。",
+        "description": "高铁订外卖、极限吃播、巨大面条、盒饭问价、前置变天使等把车厢当作生活方式与内容创作场景的分享。",
         "lastSeen": "2026-10-26",
         "heat": 1,
         "relations": [
           {
             "toThemeKey": "train_time_killing_hacks",
             "toThemeName": "旅途解闷与整活",
-            "desc": "吃播与自拍整活共同解决长途无聊，内容形态互相借用",
-            "implication": "可在行程页推荐“到站外卖+解闷内容”组合服务"
+            "desc": "吃东西和自拍本是解闷手段，被包装成精致生活内容后反向带动点餐消费",
+            "implication": "点餐入口可与旅途时长和内容场景联动推荐"
           }
         ]
       },
       "railway_rules_and_hacks": {
         "firstSeen": "2026-08-17",
         "theme": "票务规则与出行避坑",
-        "description": "坐过站免费返回、0元商务座、12306隐藏功能、儿童票省钱、车次号段改革、火车等红灯、第三方购票踩坑等内容，构成持续的信息差科普流。",
+        "description": "12306隐藏功能、坐过站免费返程、车次号段改革、儿童票省钱、打火机安检、高铁站台禁烟索赔等规则科普与避坑讨论。",
         "lastSeen": "2026-10-26",
-        "heat": 3,
+        "heat": 5,
         "relations": [
           {
             "toThemeKey": "railway_youth_first_trip_guide",
             "toThemeName": "学生首乘高铁教学指南",
-            "desc": "隐藏福利与省钱攻略正是学生首乘最缺的信息，二者阅读人群高度重合",
-            "implication": "首乘指南可嵌入“坐过站怎么办”“儿童/学生优惠”实操卡片"
-          },
-          {
-            "toThemeKey": "railway_safety_and_incident",
-            "toThemeName": "列车安全事件与应急科普",
-            "desc": "打火机为何能进站、车次停运等疑问与规则科普交叉，旅客在安检处追问",
-            "implication": "安检禁限品说明可前置到购票与值机提醒"
+            "desc": "坐过站免费返、隐藏福利等冷知识正是首乘学生最缺的信息",
+            "implication": "首乘模式应内嵌规则卡片而非依赖用户自行搜索"
           }
         ]
       },
@@ -160618,87 +160714,81 @@
       "train_time_killing_hacks": {
         "firstSeen": "2026-09-10",
         "theme": "旅途解闷与整活",
-        "description": "高铁站随机买票盲盒旅行、沉浸式吃东西、包整辆高铁研学、高铁变天使自拍等把长途行程做成内容整活。",
-        "lastSeen": "2026-10-18",
-        "heat": 2,
+        "description": "高铁站随机买票盲盒旅行、车厢整活拍摄等用未知目的地和即兴玩法填满旅途时间的创作。",
+        "lastSeen": "2026-10-26",
+        "heat": 1,
         "relations": [
           {
-            "toThemeKey": "exquisite_train_lifestyle",
-            "toThemeName": "高铁精致生活与好物分享",
-            "desc": "整活内容常依赖美妆、零食等好物作为素材",
-            "implication": "可设行程内话题模板引导用户产出UGC"
+            "toThemeKey": "train_neighbor_blindbox",
+            "toThemeName": "高铁邻座盲盒与偶遇",
+            "desc": "盲盒旅行与邻座盲盒共享同一套『未知即惊喜』叙事",
+            "implication": "可做目的地盲盒与同车社交的组合玩法"
           }
         ]
       },
       "railway_accessible_and_service": {
         "firstSeen": "2026-09-16",
         "theme": "无障碍设施吐槽",
-        "description": "旅客实拍北京枢纽、地下交通枢纽等场所，指出即便经过改造，无障碍环境仍不达规范，与“亚洲最大”等宣传形成落差，服务细节被反复质疑。",
+        "description": "旅客实地探访高铁站/枢纽的无障碍改造效果，指出虽有改造但仍不达规范，质疑窗口单位为何迟迟不改。",
         "lastSeen": "2026-10-26",
-        "heat": 0,
+        "heat": 1,
         "relations": [
           {
-            "toThemeKey": "female_safety_and_space",
-            "toThemeName": "女性专属与出行焦虑",
-            "desc": "无障碍缺失案例多为女性旅客首发曝光，强化其对独自出行的安全焦虑",
-            "implication": "可将无障碍反馈入口与女性出行安全提示合并，降低上报门槛"
+            "toThemeKey": "railway_rules_and_hacks",
+            "toThemeName": "票务规则与出行避坑",
+            "desc": "无障碍指引标识缺失导致首乘旅客和轮椅用户找不到通道，只能上网发帖求助",
+            "implication": "站内导航应把无障碍路径与首乘流程合并为可视化引导"
           }
         ]
       },
       "railway_youth_first_trip_guide": {
         "firstSeen": "2026-09-17",
         "theme": "学生首乘高铁教学指南",
-        "description": "第一次坐高铁全流程教学、儿童票省钱攻略、研学包车等面向学生/家庭的出行入门内容。",
+        "description": "面向准大学生和第一次坐高铁人群的全流程图文教程，覆盖进站、检票、找座、下车等步骤。",
         "lastSeen": "2026-10-26",
-        "heat": 0,
+        "heat": 1,
         "relations": [
           {
             "toThemeKey": "railway_rules_and_hacks",
             "toThemeName": "票务规则与出行避坑",
-            "desc": "首乘指南常引用购票冷知识与避坑规则作为进阶内容。",
-            "implication": "可在教学流程末尾嵌入规则冷知识卡片提升留存。"
+            "desc": "教程内容大量引用票务冷知识，形成依赖UGC而非官方的信息链",
+            "implication": "官方可把首乘教程做成可分享卡片抢占信息入口"
           }
         ]
       },
       "female_safety_and_space": {
         "firstSeen": "2026-09-30",
         "theme": "女性专属与出行焦虑",
-        "description": "绿皮火车女性专属包房可免费预约上线获大量支持，同时女性旅客被尿湿鞋、遭占座等事件并行，安全与专属空间诉求强烈。",
+        "description": "绿皮火车推出可预约的女性专属包房获高赞，叠加女生坐过站、卫生安全等话题，反映女性旅客对安全边界的诉求。",
         "lastSeen": "2026-10-26",
-        "heat": 2,
+        "heat": 1,
         "relations": [
           {
-            "toThemeKey": "female_safety_and_space",
-            "toThemeName": "女性专属与出行焦虑",
-            "desc": "专属包房好评与骚扰个案同框，说明女性需要可预期的安全空间而非事后投诉",
-            "implication": "卧铺购票页可增加“女性包房”预约入口与余量提醒"
-          },
-          {
-            "toThemeKey": "railway_rules_and_hacks",
-            "toThemeName": "票务规则与出行避坑",
-            "desc": "女性专属包房“上车后预约、不加价”规则需被讲清，否则易生误解",
-            "implication": "把预约规则做成购票流程内的卡片提示"
+            "toThemeKey": "seat_space_boundary",
+            "toThemeName": "座位空间边界与占座",
+            "desc": "女性包房与座位边界诉求同源，都是对私人空间的防御性需求",
+            "implication": "卧铺预订可开放同性别包厢选择并清晰标注"
           }
         ]
       },
       "cabin_uncivilized_behavior": {
         "firstSeen": "2026-10-16",
         "theme": "车厢不文明行为曝光",
-        "description": "脱裤排便、排尿湿鞋、免提长电话、零食占座、熊孩子吵闹等极端个案被拍成视频并登上官方通报，构成社媒对车厢素质的高频讨论。",
+        "description": "脱裤排便、深夜尿湿他人鞋、免提大声通话、熊孩子吵闹、低素质乘客等车厢失序事件被拍下曝光并引发公愤。",
         "lastSeen": "2026-10-26",
         "heat": 5,
         "relations": [
           {
             "toThemeKey": "cabin_noise_and_children",
             "toThemeName": "车厢噪音与带娃冲突",
-            "desc": "免提通话、熊孩子吵闹被视为同类不文明，二者共享“劝不劝”的矛盾场景",
-            "implication": "可做一键静音车厢/投诉入口，把噪音与行为投诉合并分类"
+            "desc": "成人失序与儿童吵闹在静音车厢叠加，宝妈与普通乘客互相指责",
+            "implication": "静音车厢应支持一键匿名举报并联动乘务到场处理"
           },
           {
-            "toThemeKey": "seat_space_boundary",
-            "toThemeName": "座位空间边界与占座",
-            "desc": "零食占三座、艺人占座等事件直接把不文明行为转为座位资源纠纷",
-            "implication": "占座举报可绑定座位号，联动乘务到场处置"
+            "toThemeKey": "railway_safety_and_incident",
+            "toThemeName": "列车安全事件与应急科普",
+            "desc": "车厢排便、尿液污损等卫生事件若处理不当会升级为安全投诉",
+            "implication": "应提供车厢清洁一键呼叫与事件工单留痕"
           }
         ]
       },
@@ -166516,23 +166606,572 @@
             ]
           }
         ]
+      },
+      {
+        "generatedAt": "2026-10-26",
+        "summary": "本周36条信号中10条指向票务规则与老年/外籍服务调整，9条涉及车厢文明与空间边界争议，8条为乘务趣味内容与带娃/化妆等出行场景，信号整体呈服务细节与规则解读双热点，产品可强化适老、无障碍与文明引导。",
+        "items": [
+          {
+            "key": "th:railway_accessible_and_service",
+            "theme": "无障碍设施吐槽",
+            "category": "theme",
+            "mentions": 7,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "【判断】维持 P1——本期最强差异化信号在此，12306不做，是我们的差异化窗口。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3 · 首次出现 09-16。\n【为什么是现在】主题级证据持续上升；子信号（女性专属包房、孕妇求助护送）活跃度抬升；12306无特殊人群数字化服务（标签筛选、女性友好车厢），空白明确。",
+            "productImplication": "【建议动作】① 选座界面增加「女性友好车厢/包房」筛选入口（第26迭代探索）；② 客服反馈增设特殊人群标签，实现分流处理；③ 待连续出现≥3天后升级排期讨论。\n【验证】特殊人群筛选入口使用率 · 相关工单分流准确率。\n【边界】子信号连续2周回落→退回观察中。",
+            "relations": [],
+            "overview": "无障碍设施吐槽持续但热度回落，反映重点旅客服务仍存痛点。"
+          },
+          {
+            "key": "th:railway_rules_and_hacks",
+            "theme": "票务规则与出行避坑",
+            "category": "theme",
+            "mentions": 7,
+            "latestMomentum": "fading",
+            "evidenceCount": 5,
+            "why": "【判断】维持 P1——信号从退烧转为上升（fading→rising），印证规则避坑需求持续存在，直接对应季度硬仗。\n【数据】近7天2条 vs 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3。\n【为什么是现在】12306有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规Agent前端入口1.14上线，只差临门一脚。信号回升说明用户对规则解读的需求从未消失。",
+            "productImplication": "【建议动作】① 票规Agent入口按期1.14上线，不因信号波动而延期；② 退改签/误车/换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续4周为0且无新增→降为观察中；能力不下线。",
+            "relations": [],
+            "overview": "票务规则与避坑讨论降温，但仍是本周高频规则类话题。"
+          },
+          {
+            "key": "th:seat_space_boundary",
+            "theme": "座位空间边界与占座",
+            "category": "theme",
+            "mentions": 7,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "【判断】维持 P2——占座/换座类冲突信号稳定，themes_registry.seat_space_boundary.heat=2 与 railway_uncivilized_behavior、railway_rules_and_hacks 形成三角关联，指向「换座请求在线协商」与「座位权益说明卡片」——前者属未打通，后者属既有能力可承接。\n【数据】近7天0条 / 前23天2条 · 动量：退烧 · streakDays=4。\n【为什么是现在】信号在退烧但底层矛盾持续存在，themes_registry.relations 明确指向「订单详情页加入座位权益说明卡片」——是低成本可落地的差异化动作。",
+            "productImplication": "【建议动作】① 订单详情页/选座页加入「座位权益说明」卡片（既有能力，低成本）；② 监控是否衍生「换座在线协商」类付费需求信号再评估。\n【验证】座位权益说明卡片点击率 · 相关客服咨询量变化。\n【边界】连续2周为0→降为观察中；座位权益说明卡片不下线。",
+            "relations": [],
+            "overview": "座位空间与占座争议热度下降，仍是车厢冲突核心议题。"
+          },
+          {
+            "key": "ev:其他__96岁老人独自坐火车进藏",
+            "theme": "96岁老人独自坐火车进藏",
+            "category": "event",
+            "mentions": 6,
+            "latestMomentum": "fading",
+            "evidenceCount": 3,
+            "why": "【判断】维持观察中——社会新闻型事件，动量从新涌现转为上升，但不指向产品需求。\n【数据】近7天22条 / 前23天1条 · 动量：上升 · 首次出现 10-15 · streakDays=0。\n【为什么是现在】动量从 new→rising，近7天持续22条但前23天仅1条，说明话题在10-15集中爆发后仍有持续讨论。但讨论焦点是「96岁老人独自进藏」的故事性本身，而非出行服务体验或购票流程痛点。",
+            "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【不做的理由】①属社会新闻型事件，非出行服务需求；②核心用户（短途日常出行者）不与此画像重叠；③12306同样无相关产品化动作。\n【观察条件】若后续出现「老年出行安全服务」产品需求信号，再升级评估。",
+            "relations": [],
+            "overview": "96岁老人独自进藏事件热度回落，适老服务讨论延续。"
+          },
+          {
+            "key": "ev:乘车提示__高铁售货员心理建设",
+            "theme": "高铁售货员心理建设",
+            "category": "event",
+            "mentions": 5,
+            "latestMomentum": "new",
+            "evidenceCount": 2,
+            "why": "【判断】观察中——首次出现，待观察。职业观察类内容，不指向用户出行需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-20 · streakDays=0。\n【为什么是现在】高铁售货员心理建设引发好奇，讨论焦点在职业体验而非购票或乘车服务。与 ev:乘车提示__高铁新手售货员小哥 同源。",
+            "productImplication": "【迁移路径】职业观察类内容与火车票业务无直接迁移路径；不涉及购票流程、选座、退改等任何已有能力。\n【不做的理由】①内容属车厢职业观察，12306不做、携程也不应做；②无差异化窗口。\n【观察条件】连续3天累积≥5条且衍生「车厢服务评价/乘务反馈」类产品诉求再评估。",
+            "relations": [],
+            "overview": "高铁售货员心理建设新话题，趣味展现乘务日常。"
+          },
+          {
+            "key": "th:cabin_uncivilized_behavior",
+            "theme": "车厢不文明行为曝光",
+            "category": "theme",
+            "mentions": 5,
+            "latestMomentum": "fading",
+            "evidenceCount": 5,
+            "why": "【判断】观察中——车厢不文明行为曝光，属公共行为治理，OTA无差异化窗口。\n【数据】近7天5条 vs 前23天1条 · 动量：上升 · streakDays=1 · evidenceCount=6 · 首次出现 10-16。\n【为什么是现在】座位排便（22条）、免提通话（4+2条）等极端行为集中爆发，舆论热度高但讨论焦点在行为谴责而非出行服务体验。与 cabin_noise_and_children 主题同源。",
+            "productImplication": "【迁移路径】车厢行为治理需乘务现场干预，12306与携程同样无法产品化解决，无差异化窗口。\n【不做的理由】行为曝光类内容不触及任何已有能力，也不对应roadmap；12306也不做此类功能。属舆论事件而非产品需求。\n【观察条件】若衍生「一键反馈/换座请求/行为举报」类产品化诉求再升级评估。",
+            "relations": [],
+            "overview": "车厢不文明行为曝光热度下降，舆论关注点分散。"
+          },
+          {
+            "key": "ev:乘车提示__高铁新手售货员小哥",
+            "theme": "高铁新手售货员小哥",
+            "category": "event",
+            "mentions": 5,
+            "latestMomentum": "new",
+            "evidenceCount": 3,
+            "why": "【判断】观察中——职业观察类内容，不指向用户出行需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-18 · streakDays=0。\n【为什么是现在】高铁售货员工作日常引发好奇，讨论焦点在职业体验而非购票或乘车服务。",
+            "productImplication": "【迁移路径】职业观察类内容与火车票业务无直接迁移路径；不涉及购票流程、选座、退改等任何已有能力。\n【不做的理由】内容属车厢生活观察，12306不做、携程也不应做，无差异化窗口。\n【观察条件】连续3天累积≥5条且衍生「车厢服务评价/乘务反馈」类产品诉求再评估。",
+            "relations": [],
+            "overview": "新手售货员小哥新话题，乘务趣味内容获关注。"
+          },
+          {
+            "key": "ev:乘车提示__96岁老人独自坐火车进藏",
+            "theme": "96岁老人独自坐火车进藏",
+            "category": "event",
+            "mentions": 4,
+            "latestMomentum": "rising",
+            "evidenceCount": 3,
+            "why": "【判断】观察中——首次出现，待观察。社会新闻型事件，与 ev:其他__96岁老人独自坐火车进藏 同源，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-20 · streakDays=0。\n【为什么是现在】96岁老人独自进藏故事的延伸讨论，焦点在故事性而非出行服务。",
+            "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【不做的理由】①属社会新闻型事件，非出行服务需求；②与 ev:其他__96岁老人独自坐火车进藏 同源，无新增判断。\n【观察条件】若衍生「老年出行安全服务」产品需求信号再评估。",
+            "relations": [],
+            "overview": "96岁老人独自进藏话题回升，重点旅客服务受关注。"
+          },
+          {
+            "key": "th:female_safety_and_space",
+            "theme": "女性专属与出行焦虑",
+            "category": "theme",
+            "mentions": 4,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "【判断】观察中——本期信号退烧，此前「女性专属包房」是强新增信号。\n【数据】近7天2条 / 前23天0条 · 动量：退烧。\n【为什么关注】与「无障碍设施与服务体验」高度关联（同属特殊人群服务），12306仍无女性友好车厢筛选能力，差异化窗口未关闭，但本期无新增证据。",
+            "productImplication": "【迁移路径】选座界面「女性友好车厢/包房」筛选入口（第26迭代探索），与无障碍主题合并推进，不单独立项。\n【不做的理由】本期退烧且无新增证据，避免重复排期。\n【观察条件】子信号（女性专属包房）连续2周回升 → 升级 P1 评估。",
+            "relations": [],
+            "overview": "女性专属与出行焦虑讨论降温，安全空间诉求仍在。"
+          },
+          {
+            "key": "th:exquisite_train_lifestyle",
+            "theme": "高铁精致生活与好物分享",
+            "category": "theme",
+            "mentions": 4,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "【判断】观察中——高铁精致生活与好物分享，属内容种草类，携程C1内容能力未打通，信号在退烧。\n【数据】近7天0条 / 前23天2条 · 动量：退烧 · streakDays=1 · evidenceCount=2 · 首次出现 08-17。\n【为什么是现在】信号持续退烧，与高铁沉浸式化妆同源，属车厢生活美学谱系但无趋势意义。",
+            "productImplication": "【迁移路径】好物分享/精致生活内容依赖内容种草能力（C1未打通），不构成迁移路径。\n【不做的理由】①内容能力未在当前roadmap立项；②业务阶段=萎缩期不投入UGC内容；③信号退烧无紧迫性。\n【观察条件】连续3天累积≥5条再评估。",
+            "relations": [],
+            "overview": "高铁精致生活好物分享热度回落，内容趋于日常。"
+          },
+          {
+            "key": "ev:票务新规__国铁车次编排调整",
+            "theme": "国铁车次编排调整",
+            "category": "event",
+            "mentions": 4,
+            "latestMomentum": "rising",
+            "evidenceCount": 4,
+            "why": "【判断】观察中——铁路运力调度调整，属底层运营事件，不构成产品差异化信号。\n【数据】近7天4条 / 前23天1条 · 动量：上升 · 首次出现 10-19 · streakDays=0。\n【为什么是现在】国铁车次编排调整涉及时刻表变化，用户关注的是自身车次是否受影响，讨论焦点在运营信息而非购票体验。正晚点查询与主动推送能力（A4）已成熟，可承接但无新增差异化。",
+            "productImplication": "【迁移路径】正晚点查询+主动推送已有（A4），车次编排变化通过既有数据接口自动同步，无需新增产品动作。\n【不做的理由】①运力调度是铁路局底层逻辑，携程无法干预；②时刻表更新通过既有接口同步，无需产品化；③12306同样只是数据发布方，无差异化窗口。\n【观察条件】若调整引发大面积误车/换乘投诉再评估应急服务。",
+            "relations": [],
+            "overview": "国铁车次编排调整话题升温，旅客关注出行影响。"
+          },
+          {
+            "key": "ev:票务新规__外籍客商车票改签",
+            "theme": "外籍客商车票改签",
+            "category": "event",
+            "mentions": 4,
+            "latestMomentum": "new",
+            "evidenceCount": 3,
+            "why": "【判断】观察中——12306票务政策变更事件，属铁路底层规则调整，不指向OTA差异化机会。\n【数据】近7天3条 / 前23天0条 · 动量：新涌现 · 首次出现 10-19 · streakDays=1。\n【为什么是现在】外籍客商车票改签新政出台，讨论焦点在政策本身内容（改签范围/流程变化），而非购票渠道选择。非核心用户群（外籍客商），与短途日常出行者画像不重叠。",
+            "productImplication": "【迁移路径】退改签能力已成熟（A2），携程会跟随12306接口更新自动适配，无差异化窗口。\n【不做的理由】①12306政策变更，OTA只是接口跟随方；②目标用户（外籍客商）非核心用户群；③无差异化空间——12306先做、携程只能跟随。\n【观察条件】若衍生「外籍用户购票体验」类产品化诉求再评估。",
+            "relations": [],
+            "overview": "外籍客商车票改签新规出现，涉外服务规则受关注。"
+          },
+          {
+            "key": "ev:票务新规__12306敬字车次老年优惠",
+            "theme": "12306敬字车次老年优惠",
+            "category": "event",
+            "mentions": 4,
+            "latestMomentum": "fading",
+            "evidenceCount": 2,
+            "why": "【判断】观察中——12306老年优惠票务政策，信号在退烧，12306已满足，无差异化窗口。\n【数据】近7天3条 / 前23天6条 · 动量：退烧 · 首次出现 10-08 · streakDays=0。\n【为什么是现在】12306推出「敬」字车次老年优惠，属12306既有特殊人群票务能力（A5已覆盖），携程通过接口对接可承接但无新增差异化。信号从6条降至3条，退烧趋势明确。",
+            "productImplication": "【迁移路径】特殊人群购票（A5）已成熟，12306有的特殊票种携程都有，老年优惠会通过接口同步，无差异化窗口。\n【不做的理由】①12306已满足老年优惠能力；②特殊人群票种通过接口对接，无新增产品动作；③信号退烧（3 vs 6），不具紧迫性。\n【观察条件】信号连续2周期为0→维持观察中；不降级。",
+            "relations": [],
+            "overview": "敬字车次老年优惠讨论降温，适老票务仍受关注。"
+          },
+          {
+            "key": "th:cabin_noise_and_children",
+            "theme": "车厢噪音与带娃冲突",
+            "category": "theme",
+            "mentions": 4,
+            "latestMomentum": "stable",
+            "evidenceCount": 0,
+            "why": "【判断】观察中——12306已上线静音车厢功能，差异化窗口已关闭。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · streakDays=1 · evidenceCount=2 · 首次出现 08-17。\n【为什么是现在】车厢噪音矛盾在Q4持续发酵（叠加免提通话5条），但12306已有静音车厢能力，携程选座也接了但受代售点约束，无新增差异化空间。",
+            "productImplication": "【迁移路径】静音车厢选座有但受代售点约束（B1短板）；12306已上线静音车厢——差异化窗口已关闭。\n【不做的理由】①12306已满足静音车厢能力；②选座受代售点物理约束；③themes_registry建议的「噪音一键反馈」涉及乘务调度非携程可控。\n【观察条件】连续2周期信号回升且衍生新产品诉求再评估。",
+            "relations": [],
+            "overview": "车厢噪音与带娃冲突热度稳定，持续困扰部分旅客。"
+          },
+          {
+            "key": "ev:官方回应__高铁座位排便",
+            "theme": "高铁座位排便",
+            "category": "event",
+            "mentions": 4,
+            "latestMomentum": "stable",
+            "evidenceCount": 13,
+            "why": "【判断】观察中——极端行为事件，不指向产品需求。\n【数据】近7天23条 / 前23天0条 · 动量：新涌现 · 首次出现 10-15 · streakDays=0。\n【为什么爆】高铁座位排便的极端行为引发舆论谴责，属车厢文明问题，讨论焦点在行为本身而非出行服务。",
+            "productImplication": "【迁移路径】车厢行为治理需乘务现场干预，12306 同样无法解决，OTA无差异化窗口。\n【观察条件】属偶发事件，不跟进。",
+            "relations": [],
+            "overview": "高铁座位排便官方回应热度稳定，文明出行讨论延续。"
+          },
+          {
+            "key": "ev:乘车提示__高铁沉浸式化妆",
+            "theme": "高铁沉浸式化妆",
+            "category": "event",
+            "mentions": 4,
+            "latestMomentum": "fading",
+            "evidenceCount": 2,
+            "why": "【判断】观察中——与「演唱会妆容」同源，整体在退烧。\n【数据】近7天3条 / 前23天8条 · 动量：退烧 · streakDays=0。\n【为什么退烧】讨论焦点已从「高铁化妆」热点转移。",
+            "productImplication": "【迁移路径】车厢美妆/生活方式内容依赖内容能力（C1未打通），不构成迁移路径。\n【观察条件】信号回升至连续出现≥3天再评估。",
+            "relations": [],
+            "overview": "高铁沉浸式化妆话题降温，出行场景内容趋平。"
+          },
+          {
+            "key": "ev:高铁站__偶遇外国友人展示纪念品",
+            "theme": "偶遇外国友人展示纪念品",
+            "category": "event",
+            "mentions": 4,
+            "latestMomentum": "new",
+            "evidenceCount": 2,
+            "why": "【判断】观察中——偶发社交内容，无明确产品需求指向。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-16 · streakDays=0。\n【为什么是现在】与 train_neighbor_blindbox 主题（heat=3）轻度关联，属旅途偶遇社交类内容的延伸形态，但热度极低。",
+            "productImplication": "【迁移路径】UGC社交/盲盒玩法属未打通的内容能力（C1），不形成迁移路径。\n【观察条件】连续3天累积≥5条再评估。",
+            "relations": [],
+            "overview": "高铁站偶遇外国友人展示纪念品新话题，涉外互动受关注。"
+          },
+          {
+            "key": "th:train_neighbor_blindbox",
+            "theme": "高铁邻座盲盒与偶遇",
+            "category": "theme",
+            "mentions": 4,
+            "latestMomentum": "rising",
+            "evidenceCount": 3,
+            "why": "【判断】维持 P2——UGC社交玩法属未打通内容能力，但信号持续上升，与 themes_registry.heat=3 对应，需保持观察。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · streakDays=2 · evidenceCount=3 · 首次出现 09-04。\n【为什么是现在】邻座盲盒话题自09-04持续出现，themes_registry.relations 指向「盲盒目的地/同行彩蛋轻玩法」——属未打通UGC内容能力，业务阶段=萎缩期不投入。",
+            "productImplication": "【建议动作】① 不新增UGC盲盒玩法功能；② 监控是否衍生「行程彩蛋/同行匹配」类付费需求信号；③ 连续2周累积≥10条再升级评估。\n【验证】UGC内容产出量 · 用户互动参与度（监控用）。\n【边界】连续2周回落到≤1条→退回观察中。",
+            "relations": [],
+            "overview": "高铁邻座盲盒与偶遇话题升温，社交化内容潜力显现。"
+          },
+          {
+            "key": "ev:其他__铁路吸烟诉讼驳回",
+            "theme": "铁路吸烟诉讼驳回",
+            "category": "event",
+            "mentions": 3,
+            "latestMomentum": "new",
+            "evidenceCount": 3,
+            "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
+            "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
+            "relations": [],
+            "overview": "铁路吸烟诉讼驳回新话题，禁烟规则讨论出现。"
+          },
+          {
+            "key": "ev:学生票新规__初中生高铁学生票",
+            "theme": "初中生高铁学生票",
+            "category": "event",
+            "mentions": 3,
+            "latestMomentum": "stable",
+            "evidenceCount": 2,
+            "why": "【判断】观察中——票务规则咨询类，非产品需求。\n【数据】近7天1条 / 前23天1条 · 动量：稳定 · 首次出现 08-03。\n【为什么关注】学生票资质核验属12306既有规则，OTA提供代购但核验主体不变，属常规咨询类内容。",
+            "productImplication": "【迁移路径】学生票规则说明与核验引导属12306既有能力；OTA侧可在购票流程做规则提示，但无差异化空间。\n【不做的理由】不触及新的能力缺口，也不对应roadmap立项。\n【观察条件】若学生票核验痛点集中出现（如资质审核失败率高、投诉集中）再评估。",
+            "relations": [],
+            "overview": "初中生高铁学生票话题稳定，学生票规则受关注。"
+          },
+          {
+            "key": "ev:乘车提示__高铁带娃出行",
+            "theme": "高铁带娃出行",
+            "category": "event",
+            "mentions": 3,
+            "latestMomentum": "new",
+            "evidenceCount": 1,
+            "why": "【判断】观察中——场景内容，单条弱信号。\n【数据】近7天1条 / 前23天0条 · 动量：新涌现 · 连续1天。\n【为什么关注】带娃出行场景内容持续存在，与 themes_registry.cabin_noise_and_children 同源，但单条信号无趋势意义。",
+            "productImplication": "【迁移路径】亲子车厢/连排座位筛选属「无障碍与特殊人群服务」子方向，对应第26迭代探索方向。\n【不做的理由】单条弱信号，业务阶段=萎缩期不投入。\n【观察条件】连续3天累积≥5条再评估。",
+            "relations": [],
+            "overview": "高铁带娃出行新话题，亲子出行提示需求上升。"
+          },
+          {
+            "key": "ev:官方回应__高铁免提通话",
+            "theme": "高铁免提通话",
+            "category": "event",
+            "mentions": 3,
+            "latestMomentum": "rising",
+            "evidenceCount": 3,
+            "why": "【判断】观察中——车厢文明冲突事件，属公共行为治理，12306与铁路同样无产品化解决方案。\n【数据】近7天4条 / 前23天0条 · 动量：新涌现 · 首次出现 10-14 · streakDays=0。\n【为什么是现在】免提通话连续出现，叠加「女子高铁开免提通话」（2条）共6条，车厢噪音矛盾在Q4持续发酵，与 themes_registry.cabin_noise_and_children 子主题同源。",
+            "productImplication": "【迁移路径】静音车厢规则属12306既有能力，OTA无差异化窗口；不建议追起新做。\n【观察条件】若连续2周累积≥10条且衍生「一键反馈/换座请求」类产品诉求，再升级评估。",
+            "relations": [],
+            "overview": "高铁免提通话官方回应升温，车厢噪音治理受关注。"
+          },
+          {
+            "key": "ev:官方回应__女子高铁开免提通话",
+            "theme": "女子高铁开免提通话",
+            "category": "event",
+            "mentions": 3,
+            "latestMomentum": "new",
+            "evidenceCount": 2,
+            "why": "【判断】观察中——与 ev:官方回应__高铁免提通话 同源，属车厢文明冲突个案，非产品需求信号。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-15 · streakDays=0。\n【为什么是现在】与高铁免提通话（4条）合并构成6条噪音冲突信号，舆论持续但需求侧空白。",
+            "productImplication": "【迁移路径】同 ev:官方回应__高铁免提通话；车厢行为治理靠乘务现场，OTA无介入点。\n【观察条件】合并主题信号连续2周≥10条再评估。",
+            "relations": [],
+            "overview": "女子高铁开免提通话新话题，不文明通话引讨论。"
+          },
+          {
+            "key": "th:railway_youth_first_trip_guide",
+            "theme": "学生首乘高铁教学指南",
+            "category": "theme",
+            "mentions": 2,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "【判断】观察中（0 证据，降权至末位）——方向对，但当前无活跃信号，月度复盘即可。\n【数据】近 7 天 0 条 / 前 3 周 0 条 · 动量：信号休眠。\n【为什么值得跟踪】12306 不做首乘教学，是功能空白；首乘用户正是新客核心来源，与增长战略同向。",
+            "productImplication": "【建议动作】本周期不动工；仅在小程序回流项目中预留「首乘指引」子模块位，待开学季 / 春运信号回升再评估排期。\n【验证（提前定义）】开学 / 春运期首乘内容搜索量 · 小程序回流转化。\n【边界】连续 2 个开学季 / 春运窗口均无信号 → 关闭跟踪。",
+            "relations": [],
+            "overview": "学生首乘高铁教学指南热度回落，首乘内容需求平稳。"
+          },
+          {
+            "key": "th:railway_uncivilized_behavior",
+            "theme": "车厢不文明行为曝光",
+            "category": "theme",
+            "mentions": 2,
+            "latestMomentum": "fading",
+            "evidenceCount": 6,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "车厢不文明行为曝光另一话题降温，讨论分散。"
+          },
+          {
+            "key": "ev:乘车提示__靠窗看沿途风景",
+            "theme": "靠窗看沿途风景",
+            "category": "event",
+            "mentions": 2,
+            "latestMomentum": "new",
+            "evidenceCount": 1,
+            "why": "【判断】观察中——风景类生活方式内容，属未打通内容能力。\n【数据】近7天1条 / 前23天0条 · 动量：新涌现（实际为旧主题复现，firstSeen=08-03）· streakDays=0。\n【为什么是现在】单条信号无趋势意义，但与 slow_train_nostalgia（heat=2）、exquisite_train_lifestyle 同属车厢生活美学谱系。",
+            "productImplication": "【迁移路径】沿途风景/慢车内容依赖内容种草能力（未打通），不构成迁移路径。\n【观察条件】连续3天≥5条再评估。",
+            "relations": [],
+            "overview": "靠窗看沿途风景新话题，旅途体验内容出现。"
+          },
+          {
+            "key": "ev:乘车提示__火车黄豆放屁尴尬",
+            "theme": "火车黄豆放屁尴尬",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 14,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "火车黄豆放屁尴尬新话题，趣味尴尬场景引轻度关注。"
+          },
+          {
+            "key": "ev:其他__武汉男子还清欠款坐绿皮火车",
+            "theme": "武汉男子还清欠款坐绿皮火车",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 9,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "武汉男子还清欠款坐绿皮火车新话题，情感叙事受关注。"
+          },
+          {
+            "key": "ev:乘车提示__高铁翻包日记",
+            "theme": "高铁翻包日记",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "fading",
+            "evidenceCount": 2,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "高铁翻包日记话题降温，好物分享热度回落。"
+          },
+          {
+            "key": "ev:乘车提示__女子错过检票跪求放行",
+            "theme": "女子错过检票跪求放行",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 2,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "女子错过检票跪求放行新话题，检票规则引讨论。"
+          },
+          {
+            "key": "ev:加开专列__肖战南京演唱会",
+            "theme": "肖战南京演唱会",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 2,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "肖战南京演唱会加开专列新话题，粉丝出行需求显现。"
+          },
+          {
+            "key": "ev:票务新规__特快列车恢复开行",
+            "theme": "特快列车恢复开行",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 2,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "特快列车恢复开行新话题，运力调整受关注。"
+          },
+          {
+            "key": "th:train_time_killing_hacks",
+            "theme": "旅途解闷与整活",
+            "category": "theme",
+            "mentions": 1,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "主题：高铁旅途解闷与抽象整活，记录吃播、巨大面条、自拍变天使等旅途娱乐内容。\n关注理由：12306不做旅途内容推荐——是功能空白区。携程C1内容能力存在但未打通到火车票场景，themes_registry建议『车厢内容可挂载外卖/零食购买入口做场景转化』。",
+            "productImplication": "①不触及已有能力：携程行程服务中无旅途内容/餐饮推荐模块，C1内容能力未打通。\n②无roadmap对应项（内容嵌入购票尚未排期）。\n③动作建议：方向是C1差异化金矿的核心场景——在行程详情页嵌入『按剩余时长推荐内容/餐饮』是12306完全不做的事，一旦内容能力打通可承接社媒流量转化。待信号持续回升后升级P1评估，优先与C1内容打通项目同步推进。",
+            "relations": [],
+            "overview": "旅途解闷与整活话题降温，内容热度走低。"
+          },
+          {
+            "key": "ev:乘车提示__高铁和朋友玩游戏",
+            "theme": "高铁和朋友玩游戏",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "new",
+            "evidenceCount": 1,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "高铁和朋友玩游戏新话题，旅途娱乐内容出现。"
+          },
+          {
+            "key": "ev:官方回应__男童坠入站台缝隙",
+            "theme": "男童坠入站台缝隙",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "rising",
+            "evidenceCount": 4,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "男童坠入站台缝隙官方回应升温，站台安全受关注。"
+          },
+          {
+            "key": "ev:其他__列车长口误马上起飞",
+            "theme": "列车长口误马上起飞",
+            "category": "event",
+            "mentions": 1,
+            "latestMomentum": "fading",
+            "evidenceCount": 1,
+            "why": "",
+            "productImplication": "",
+            "relations": [],
+            "overview": "列车长口误马上起飞话题降温，趣味片段热度回落。"
+          }
+        ],
+        "mainlines": [
+          {
+            "name": "票务规则与适老服务",
+            "meaning": "车次编排、老年优惠、学生票及外籍改签等规则变化需清晰传达",
+            "keys": [
+              "th:railway_rules_and_hacks",
+              "ev:票务新规__国铁车次编排调整",
+              "ev:票务新规__外籍客商车票改签",
+              "ev:票务新规__12306敬字车次老年优惠",
+              "ev:学生票新规__初中生高铁学生票",
+              "ev:票务新规__特快列车恢复开行"
+            ]
+          },
+          {
+            "name": "车厢文明与空间边界",
+            "meaning": "占座、噪音、不文明行为及女性安全等空间冲突需引导与规则支撑",
+            "keys": [
+              "th:seat_space_boundary",
+              "th:cabin_uncivilized_behavior",
+              "th:railway_uncivilized_behavior",
+              "th:cabin_noise_and_children",
+              "th:female_safety_and_space",
+              "ev:官方回应__高铁座位排便",
+              "ev:官方回应__高铁免提通话",
+              "ev:官方回应__女子高铁开免提通话"
+            ]
+          },
+          {
+            "name": "无障碍与重点旅客",
+            "meaning": "无障碍设施吐槽与高龄老人独自出行反映重点旅客服务缺口",
+            "keys": [
+              "th:railway_accessible_and_service",
+              "ev:其他__96岁老人独自坐火车进藏",
+              "ev:乘车提示__96岁老人独自坐火车进藏",
+              "ev:官方回应__男童坠入站台缝隙"
+            ]
+          },
+          {
+            "name": "旅途趣味与出行场景",
+            "meaning": "售货员整活、邻座盲盒、化妆带娃等场景可转化为内容运营素材",
+            "keys": [
+              "ev:乘车提示__高铁售货员心理建设",
+              "ev:乘车提示__高铁新手售货员小哥",
+              "th:exquisite_train_lifestyle",
+              "th:train_neighbor_blindbox",
+              "ev:乘车提示__高铁沉浸式化妆",
+              "ev:乘车提示__高铁带娃出行",
+              "th:railway_youth_first_trip_guide",
+              "th:train_time_killing_hacks",
+              "ev:乘车提示__靠窗看沿途风景",
+              "ev:乘车提示__高铁翻包日记",
+              "ev:乘车提示__高铁和朋友玩游戏",
+              "ev:高铁站__偶遇外国友人展示纪念品",
+              "ev:其他__列车长口误马上起飞",
+              "ev:乘车提示__火车黄豆放屁尴尬",
+              "ev:其他__武汉男子还清欠款坐绿皮火车",
+              "ev:乘车提示__女子错过检票跪求放行",
+              "ev:加开专列__肖战南京演唱会",
+              "ev:其他__铁路吸烟诉讼驳回"
+            ]
+          }
+        ],
+        "actions": [
+          {
+            "text": "针对老年优惠、学生票及外籍改签制作一图读懂与12306弹窗提示，减少规则误解。",
+            "basedOn": [
+              "ev:票务新规__12306敬字车次老年优惠",
+              "ev:学生票新规__初中生高铁学生票",
+              "ev:票务新规__外籍客商车票改签",
+              "th:railway_rules_and_hacks"
+            ]
+          },
+          {
+            "text": "在车厢屏显与广播增加占座、免提通话、儿童噪音的柔性提示，并公示处置流程。",
+            "basedOn": [
+              "th:seat_space_boundary",
+              "ev:官方回应__女子高铁开免提通话",
+              "th:cabin_noise_and_children",
+              "th:cabin_uncivilized_behavior"
+            ]
+          },
+          {
+            "text": "完善无障碍预约与重点旅客接力服务，站台加装防坠提示，回应高龄独自出行需求。",
+            "basedOn": [
+              "th:railway_accessible_and_service",
+              "ev:其他__96岁老人独自坐火车进藏",
+              "ev:官方回应__男童坠入站台缝隙"
+            ]
+          },
+          {
+            "text": "将售货员整活、邻座盲盒等趣味内容做成系列短视频，提升旅途场景好感度。",
+            "basedOn": [
+              "ev:乘车提示__高铁售货员心理建设",
+              "ev:乘车提示__高铁新手售货员小哥",
+              "th:train_neighbor_blindbox",
+              "th:exquisite_train_lifestyle"
+            ]
+          }
+        ]
       }
     ],
     "weekly": {
       "generatedAt": "2026-10-26",
-      "summary": "本周35条信号中，无障碍服务、座位空间边界、票务规则避坑等主题热度居前，约半数信号指向车厢文明与服务体验；96岁老人进藏、高铁售货员等温情事件形成正向传播，票务新规与官方回应类信号增多，整体舆情以出行体验细节为主。",
+      "summary": "本周36条信号中10条指向票务规则与老年/外籍服务调整，9条涉及车厢文明与空间边界争议，8条为乘务趣味内容与带娃/化妆等出行场景，信号整体呈服务细节与规则解读双热点，产品可强化适老、无障碍与文明引导。",
       "items": [
         {
           "key": "th:railway_accessible_and_service",
           "theme": "无障碍设施吐槽",
           "category": "theme",
           "mentions": 7,
-          "latestMomentum": "stable",
-          "evidenceCount": 0,
+          "latestMomentum": "fading",
+          "evidenceCount": 1,
           "why": "【判断】维持 P1——本期最强差异化信号在此，12306不做，是我们的差异化窗口。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3 · 首次出现 09-16。\n【为什么是现在】主题级证据持续上升；子信号（女性专属包房、孕妇求助护送）活跃度抬升；12306无特殊人群数字化服务（标签筛选、女性友好车厢），空白明确。",
           "productImplication": "【建议动作】① 选座界面增加「女性友好车厢/包房」筛选入口（第26迭代探索）；② 客服反馈增设特殊人群标签，实现分流处理；③ 待连续出现≥3天后升级排期讨论。\n【验证】特殊人群筛选入口使用率 · 相关工单分流准确率。\n【边界】子信号连续2周回落→退回观察中。",
           "relations": [],
-          "overview": "无障碍设施与服务吐槽本周7次提及，热度平稳。"
+          "overview": "无障碍设施吐槽持续但热度回落，反映重点旅客服务仍存痛点。"
+        },
+        {
+          "key": "th:railway_rules_and_hacks",
+          "theme": "票务规则与出行避坑",
+          "category": "theme",
+          "mentions": 7,
+          "latestMomentum": "fading",
+          "evidenceCount": 5,
+          "why": "【判断】维持 P1——信号从退烧转为上升（fading→rising），印证规则避坑需求持续存在，直接对应季度硬仗。\n【数据】近7天2条 vs 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3。\n【为什么是现在】12306有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规Agent前端入口1.14上线，只差临门一脚。信号回升说明用户对规则解读的需求从未消失。",
+          "productImplication": "【建议动作】① 票规Agent入口按期1.14上线，不因信号波动而延期；② 退改签/误车/换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续4周为0且无新增→降为观察中；能力不下线。",
+          "relations": [],
+          "overview": "票务规则与避坑讨论降温，但仍是本周高频规则类话题。"
         },
         {
           "key": "th:seat_space_boundary",
@@ -166544,19 +167183,7 @@
           "why": "【判断】维持 P2——占座/换座类冲突信号稳定，themes_registry.seat_space_boundary.heat=2 与 railway_uncivilized_behavior、railway_rules_and_hacks 形成三角关联，指向「换座请求在线协商」与「座位权益说明卡片」——前者属未打通，后者属既有能力可承接。\n【数据】近7天0条 / 前23天2条 · 动量：退烧 · streakDays=4。\n【为什么是现在】信号在退烧但底层矛盾持续存在，themes_registry.relations 明确指向「订单详情页加入座位权益说明卡片」——是低成本可落地的差异化动作。",
           "productImplication": "【建议动作】① 订单详情页/选座页加入「座位权益说明」卡片（既有能力，低成本）；② 监控是否衍生「换座在线协商」类付费需求信号再评估。\n【验证】座位权益说明卡片点击率 · 相关客服咨询量变化。\n【边界】连续2周为0→降为观察中；座位权益说明卡片不下线。",
           "relations": [],
-          "overview": "座位空间边界与占座讨论7次，热度回落。"
-        },
-        {
-          "key": "th:railway_rules_and_hacks",
-          "theme": "票务规则与出行避坑",
-          "category": "theme",
-          "mentions": 7,
-          "latestMomentum": "fading",
-          "evidenceCount": 3,
-          "why": "【判断】维持 P1——信号从退烧转为上升（fading→rising），印证规则避坑需求持续存在，直接对应季度硬仗。\n【数据】近7天2条 vs 前23天1条 · 动量：上升 · streakDays=13 · evidenceCount=3。\n【为什么是现在】12306有规则但不会「讲人话」，是仅剩的体验差异化窗口；退改线上闭环已成熟，票规Agent前端入口1.14上线，只差临门一脚。信号回升说明用户对规则解读的需求从未消失。",
-          "productImplication": "【建议动作】① 票规Agent入口按期1.14上线，不因信号波动而延期；② 退改签/误车/换乘等关键节点嵌入规则解释与风险提示；③ 冷知识按行程节点推送给首乘用户。\n【验证】入口点击率 · 规则页停留时长 · 相关客服咨询量变化。\n【边界】连续4周为0且无新增→降为观察中；能力不下线。",
-          "relations": [],
-          "overview": "票务规则与出行避坑内容7次提及，热度下降。"
+          "overview": "座位空间与占座争议热度下降，仍是车厢冲突核心议题。"
         },
         {
           "key": "ev:其他__96岁老人独自坐火车进藏",
@@ -166568,7 +167195,7 @@
           "why": "【判断】维持观察中——社会新闻型事件，动量从新涌现转为上升，但不指向产品需求。\n【数据】近7天22条 / 前23天1条 · 动量：上升 · 首次出现 10-15 · streakDays=0。\n【为什么是现在】动量从 new→rising，近7天持续22条但前23天仅1条，说明话题在10-15集中爆发后仍有持续讨论。但讨论焦点是「96岁老人独自进藏」的故事性本身，而非出行服务体验或购票流程痛点。",
           "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【不做的理由】①属社会新闻型事件，非出行服务需求；②核心用户（短途日常出行者）不与此画像重叠；③12306同样无相关产品化动作。\n【观察条件】若后续出现「老年出行安全服务」产品需求信号，再升级评估。",
           "relations": [],
-          "overview": "96岁老人独自坐火车进藏事件6次提及，热度回落。"
+          "overview": "96岁老人独自进藏事件热度回落，适老服务讨论延续。"
         },
         {
           "key": "ev:乘车提示__高铁售货员心理建设",
@@ -166580,7 +167207,7 @@
           "why": "【判断】观察中——首次出现，待观察。职业观察类内容，不指向用户出行需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-20 · streakDays=0。\n【为什么是现在】高铁售货员心理建设引发好奇，讨论焦点在职业体验而非购票或乘车服务。与 ev:乘车提示__高铁新手售货员小哥 同源。",
           "productImplication": "【迁移路径】职业观察类内容与火车票业务无直接迁移路径；不涉及购票流程、选座、退改等任何已有能力。\n【不做的理由】①内容属车厢职业观察，12306不做、携程也不应做；②无差异化窗口。\n【观察条件】连续3天累积≥5条且衍生「车厢服务评价/乘务反馈」类产品诉求再评估。",
           "relations": [],
-          "overview": "高铁售货员心理建设话题5次提及，属新增热点。"
+          "overview": "高铁售货员心理建设新话题，趣味展现乘务日常。"
         },
         {
           "key": "th:cabin_uncivilized_behavior",
@@ -166592,19 +167219,7 @@
           "why": "【判断】观察中——车厢不文明行为曝光，属公共行为治理，OTA无差异化窗口。\n【数据】近7天5条 vs 前23天1条 · 动量：上升 · streakDays=1 · evidenceCount=6 · 首次出现 10-16。\n【为什么是现在】座位排便（22条）、免提通话（4+2条）等极端行为集中爆发，舆论热度高但讨论焦点在行为谴责而非出行服务体验。与 cabin_noise_and_children 主题同源。",
           "productImplication": "【迁移路径】车厢行为治理需乘务现场干预，12306与携程同样无法产品化解决，无差异化窗口。\n【不做的理由】行为曝光类内容不触及任何已有能力，也不对应roadmap；12306也不做此类功能。属舆论事件而非产品需求。\n【观察条件】若衍生「一键反馈/换座请求/行为举报」类产品化诉求再升级评估。",
           "relations": [],
-          "overview": "车厢不文明行为曝光5次提及，热度下降。"
-        },
-        {
-          "key": "th:train_neighbor_blindbox",
-          "theme": "高铁邻座盲盒与偶遇",
-          "category": "theme",
-          "mentions": 5,
-          "latestMomentum": "fading",
-          "evidenceCount": 1,
-          "why": "【判断】维持 P2——UGC社交玩法属未打通内容能力，但信号持续上升，与 themes_registry.heat=3 对应，需保持观察。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · streakDays=2 · evidenceCount=3 · 首次出现 09-04。\n【为什么是现在】邻座盲盒话题自09-04持续出现，themes_registry.relations 指向「盲盒目的地/同行彩蛋轻玩法」——属未打通UGC内容能力，业务阶段=萎缩期不投入。",
-          "productImplication": "【建议动作】① 不新增UGC盲盒玩法功能；② 监控是否衍生「行程彩蛋/同行匹配」类付费需求信号；③ 连续2周累积≥10条再升级评估。\n【验证】UGC内容产出量 · 用户互动参与度（监控用）。\n【边界】连续2周回落到≤1条→退回观察中。",
-          "relations": [],
-          "overview": "高铁邻座盲盒偶遇话题5次提及，热度回落。"
+          "overview": "车厢不文明行为曝光热度下降，舆论关注点分散。"
         },
         {
           "key": "ev:乘车提示__高铁新手售货员小哥",
@@ -166616,7 +167231,7 @@
           "why": "【判断】观察中——职业观察类内容，不指向用户出行需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-18 · streakDays=0。\n【为什么是现在】高铁售货员工作日常引发好奇，讨论焦点在职业体验而非购票或乘车服务。",
           "productImplication": "【迁移路径】职业观察类内容与火车票业务无直接迁移路径；不涉及购票流程、选座、退改等任何已有能力。\n【不做的理由】内容属车厢生活观察，12306不做、携程也不应做，无差异化窗口。\n【观察条件】连续3天累积≥5条且衍生「车厢服务评价/乘务反馈」类产品诉求再评估。",
           "relations": [],
-          "overview": "高铁新手售货员小哥话题5次提及，新增热点。"
+          "overview": "新手售货员小哥新话题，乘务趣味内容获关注。"
         },
         {
           "key": "ev:乘车提示__96岁老人独自坐火车进藏",
@@ -166628,19 +167243,19 @@
           "why": "【判断】观察中——首次出现，待观察。社会新闻型事件，与 ev:其他__96岁老人独自坐火车进藏 同源，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-20 · streakDays=0。\n【为什么是现在】96岁老人独自进藏故事的延伸讨论，焦点在故事性而非出行服务。",
           "productImplication": "【迁移路径】与火车票业务无直接迁移路径；社会新闻热度不转化为渠道选择。\n【不做的理由】①属社会新闻型事件，非出行服务需求；②与 ev:其他__96岁老人独自坐火车进藏 同源，无新增判断。\n【观察条件】若衍生「老年出行安全服务」产品需求信号再评估。",
           "relations": [],
-          "overview": "96岁老人进藏乘车提示4次提及，热度上升。"
+          "overview": "96岁老人独自进藏话题回升，重点旅客服务受关注。"
         },
         {
           "key": "th:female_safety_and_space",
           "theme": "女性专属与出行焦虑",
           "category": "theme",
           "mentions": 4,
-          "latestMomentum": "stable",
-          "evidenceCount": 2,
+          "latestMomentum": "fading",
+          "evidenceCount": 1,
           "why": "【判断】观察中——本期信号退烧，此前「女性专属包房」是强新增信号。\n【数据】近7天2条 / 前23天0条 · 动量：退烧。\n【为什么关注】与「无障碍设施与服务体验」高度关联（同属特殊人群服务），12306仍无女性友好车厢筛选能力，差异化窗口未关闭，但本期无新增证据。",
           "productImplication": "【迁移路径】选座界面「女性友好车厢/包房」筛选入口（第26迭代探索），与无障碍主题合并推进，不单独立项。\n【不做的理由】本期退烧且无新增证据，避免重复排期。\n【观察条件】子信号（女性专属包房）连续2周回升 → 升级 P1 评估。",
           "relations": [],
-          "overview": "女性专属与出行焦虑话题4次提及，热度平稳。"
+          "overview": "女性专属与出行焦虑讨论降温，安全空间诉求仍在。"
         },
         {
           "key": "th:exquisite_train_lifestyle",
@@ -166652,7 +167267,7 @@
           "why": "【判断】观察中——高铁精致生活与好物分享，属内容种草类，携程C1内容能力未打通，信号在退烧。\n【数据】近7天0条 / 前23天2条 · 动量：退烧 · streakDays=1 · evidenceCount=2 · 首次出现 08-17。\n【为什么是现在】信号持续退烧，与高铁沉浸式化妆同源，属车厢生活美学谱系但无趋势意义。",
           "productImplication": "【迁移路径】好物分享/精致生活内容依赖内容种草能力（C1未打通），不构成迁移路径。\n【不做的理由】①内容能力未在当前roadmap立项；②业务阶段=萎缩期不投入UGC内容；③信号退烧无紧迫性。\n【观察条件】连续3天累积≥5条再评估。",
           "relations": [],
-          "overview": "高铁精致生活好物分享4次提及，热度下降。"
+          "overview": "高铁精致生活好物分享热度回落，内容趋于日常。"
         },
         {
           "key": "ev:票务新规__国铁车次编排调整",
@@ -166664,7 +167279,7 @@
           "why": "【判断】观察中——铁路运力调度调整，属底层运营事件，不构成产品差异化信号。\n【数据】近7天4条 / 前23天1条 · 动量：上升 · 首次出现 10-19 · streakDays=0。\n【为什么是现在】国铁车次编排调整涉及时刻表变化，用户关注的是自身车次是否受影响，讨论焦点在运营信息而非购票体验。正晚点查询与主动推送能力（A4）已成熟，可承接但无新增差异化。",
           "productImplication": "【迁移路径】正晚点查询+主动推送已有（A4），车次编排变化通过既有数据接口自动同步，无需新增产品动作。\n【不做的理由】①运力调度是铁路局底层逻辑，携程无法干预；②时刻表更新通过既有接口同步，无需产品化；③12306同样只是数据发布方，无差异化窗口。\n【观察条件】若调整引发大面积误车/换乘投诉再评估应急服务。",
           "relations": [],
-          "overview": "国铁车次编排调整新规4次提及，热度上升。"
+          "overview": "国铁车次编排调整话题升温，旅客关注出行影响。"
         },
         {
           "key": "ev:票务新规__外籍客商车票改签",
@@ -166676,7 +167291,7 @@
           "why": "【判断】观察中——12306票务政策变更事件，属铁路底层规则调整，不指向OTA差异化机会。\n【数据】近7天3条 / 前23天0条 · 动量：新涌现 · 首次出现 10-19 · streakDays=1。\n【为什么是现在】外籍客商车票改签新政出台，讨论焦点在政策本身内容（改签范围/流程变化），而非购票渠道选择。非核心用户群（外籍客商），与短途日常出行者画像不重叠。",
           "productImplication": "【迁移路径】退改签能力已成熟（A2），携程会跟随12306接口更新自动适配，无差异化窗口。\n【不做的理由】①12306政策变更，OTA只是接口跟随方；②目标用户（外籍客商）非核心用户群；③无差异化空间——12306先做、携程只能跟随。\n【观察条件】若衍生「外籍用户购票体验」类产品化诉求再评估。",
           "relations": [],
-          "overview": "外籍客商车票改签新规4次提及，新增热点。"
+          "overview": "外籍客商车票改签新规出现，涉外服务规则受关注。"
         },
         {
           "key": "ev:票务新规__12306敬字车次老年优惠",
@@ -166688,7 +167303,7 @@
           "why": "【判断】观察中——12306老年优惠票务政策，信号在退烧，12306已满足，无差异化窗口。\n【数据】近7天3条 / 前23天6条 · 动量：退烧 · 首次出现 10-08 · streakDays=0。\n【为什么是现在】12306推出「敬」字车次老年优惠，属12306既有特殊人群票务能力（A5已覆盖），携程通过接口对接可承接但无新增差异化。信号从6条降至3条，退烧趋势明确。",
           "productImplication": "【迁移路径】特殊人群购票（A5）已成熟，12306有的特殊票种携程都有，老年优惠会通过接口同步，无差异化窗口。\n【不做的理由】①12306已满足老年优惠能力；②特殊人群票种通过接口对接，无新增产品动作；③信号退烧（3 vs 6），不具紧迫性。\n【观察条件】信号连续2周期为0→维持观察中；不降级。",
           "relations": [],
-          "overview": "12306敬字车次老年优惠4次提及，热度回落。"
+          "overview": "敬字车次老年优惠讨论降温，适老票务仍受关注。"
         },
         {
           "key": "th:cabin_noise_and_children",
@@ -166700,7 +167315,7 @@
           "why": "【判断】观察中——12306已上线静音车厢功能，差异化窗口已关闭。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · streakDays=1 · evidenceCount=2 · 首次出现 08-17。\n【为什么是现在】车厢噪音矛盾在Q4持续发酵（叠加免提通话5条），但12306已有静音车厢能力，携程选座也接了但受代售点约束，无新增差异化空间。",
           "productImplication": "【迁移路径】静音车厢选座有但受代售点约束（B1短板）；12306已上线静音车厢——差异化窗口已关闭。\n【不做的理由】①12306已满足静音车厢能力；②选座受代售点物理约束；③themes_registry建议的「噪音一键反馈」涉及乘务调度非携程可控。\n【观察条件】连续2周期信号回升且衍生新产品诉求再评估。",
           "relations": [],
-          "overview": "车厢噪音与带娃冲突4次提及，热度平稳。"
+          "overview": "车厢噪音与带娃冲突热度稳定，持续困扰部分旅客。"
         },
         {
           "key": "ev:官方回应__高铁座位排便",
@@ -166712,7 +167327,7 @@
           "why": "【判断】观察中——极端行为事件，不指向产品需求。\n【数据】近7天23条 / 前23天0条 · 动量：新涌现 · 首次出现 10-15 · streakDays=0。\n【为什么爆】高铁座位排便的极端行为引发舆论谴责，属车厢文明问题，讨论焦点在行为本身而非出行服务。",
           "productImplication": "【迁移路径】车厢行为治理需乘务现场干预，12306 同样无法解决，OTA无差异化窗口。\n【观察条件】属偶发事件，不跟进。",
           "relations": [],
-          "overview": "高铁座位排便官方回应4次提及，热度平稳。"
+          "overview": "高铁座位排便官方回应热度稳定，文明出行讨论延续。"
         },
         {
           "key": "ev:乘车提示__高铁沉浸式化妆",
@@ -166724,7 +167339,7 @@
           "why": "【判断】观察中——与「演唱会妆容」同源，整体在退烧。\n【数据】近7天3条 / 前23天8条 · 动量：退烧 · streakDays=0。\n【为什么退烧】讨论焦点已从「高铁化妆」热点转移。",
           "productImplication": "【迁移路径】车厢美妆/生活方式内容依赖内容能力（C1未打通），不构成迁移路径。\n【观察条件】信号回升至连续出现≥3天再评估。",
           "relations": [],
-          "overview": "高铁沉浸式化妆内容4次提及，热度下降。"
+          "overview": "高铁沉浸式化妆话题降温，出行场景内容趋平。"
         },
         {
           "key": "ev:高铁站__偶遇外国友人展示纪念品",
@@ -166736,7 +167351,31 @@
           "why": "【判断】观察中——偶发社交内容，无明确产品需求指向。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-16 · streakDays=0。\n【为什么是现在】与 train_neighbor_blindbox 主题（heat=3）轻度关联，属旅途偶遇社交类内容的延伸形态，但热度极低。",
           "productImplication": "【迁移路径】UGC社交/盲盒玩法属未打通的内容能力（C1），不形成迁移路径。\n【观察条件】连续3天累积≥5条再评估。",
           "relations": [],
-          "overview": "高铁站偶遇外国友人展示纪念品4次提及，新增热点。"
+          "overview": "高铁站偶遇外国友人展示纪念品新话题，涉外互动受关注。"
+        },
+        {
+          "key": "th:train_neighbor_blindbox",
+          "theme": "高铁邻座盲盒与偶遇",
+          "category": "theme",
+          "mentions": 4,
+          "latestMomentum": "rising",
+          "evidenceCount": 3,
+          "why": "【判断】维持 P2——UGC社交玩法属未打通内容能力，但信号持续上升，与 themes_registry.heat=3 对应，需保持观察。\n【数据】近7天2条 / 前23天1条 · 动量：上升 · streakDays=2 · evidenceCount=3 · 首次出现 09-04。\n【为什么是现在】邻座盲盒话题自09-04持续出现，themes_registry.relations 指向「盲盒目的地/同行彩蛋轻玩法」——属未打通UGC内容能力，业务阶段=萎缩期不投入。",
+          "productImplication": "【建议动作】① 不新增UGC盲盒玩法功能；② 监控是否衍生「行程彩蛋/同行匹配」类付费需求信号；③ 连续2周累积≥10条再升级评估。\n【验证】UGC内容产出量 · 用户互动参与度（监控用）。\n【边界】连续2周回落到≤1条→退回观察中。",
+          "relations": [],
+          "overview": "高铁邻座盲盒与偶遇话题升温，社交化内容潜力显现。"
+        },
+        {
+          "key": "ev:其他__铁路吸烟诉讼驳回",
+          "theme": "铁路吸烟诉讼驳回",
+          "category": "event",
+          "mentions": 3,
+          "latestMomentum": "new",
+          "evidenceCount": 3,
+          "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
+          "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
+          "relations": [],
+          "overview": "铁路吸烟诉讼驳回新话题，禁烟规则讨论出现。"
         },
         {
           "key": "ev:学生票新规__初中生高铁学生票",
@@ -166748,19 +167387,7 @@
           "why": "【判断】观察中——票务规则咨询类，非产品需求。\n【数据】近7天1条 / 前23天1条 · 动量：稳定 · 首次出现 08-03。\n【为什么关注】学生票资质核验属12306既有规则，OTA提供代购但核验主体不变，属常规咨询类内容。",
           "productImplication": "【迁移路径】学生票规则说明与核验引导属12306既有能力；OTA侧可在购票流程做规则提示，但无差异化空间。\n【不做的理由】不触及新的能力缺口，也不对应roadmap立项。\n【观察条件】若学生票核验痛点集中出现（如资质审核失败率高、投诉集中）再评估。",
           "relations": [],
-          "overview": "初中生高铁学生票新规3次提及，热度平稳。"
-        },
-        {
-          "key": "ev:其他__铁路吸烟诉讼驳回",
-          "theme": "铁路吸烟诉讼驳回",
-          "category": "event",
-          "mentions": 3,
-          "latestMomentum": "new",
-          "evidenceCount": 2,
-          "why": "【判断】观察中——法律个案，不指向产品需求。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-23。\n【为什么爆】起诉高铁站台吸烟的相关诉讼被驳回，舆论聚焦执法边界与控烟条例落地，而非出行服务体验。",
-          "productImplication": "【迁移路径】站台/车厢吸烟治理属铁路执法与地方控烟条例范围，OTA无介入点。\n【不做的理由】不触及任何已有能力，也不对应roadmap；12306同样不做。\n【观察条件】若衍生「无烟车厢/禁烟座位筛选」类产品诉求再评估。",
-          "relations": [],
-          "overview": "铁路吸烟诉讼被驳回3次提及，新增热点。"
+          "overview": "初中生高铁学生票话题稳定，学生票规则受关注。"
         },
         {
           "key": "ev:乘车提示__高铁带娃出行",
@@ -166772,7 +167399,7 @@
           "why": "【判断】观察中——场景内容，单条弱信号。\n【数据】近7天1条 / 前23天0条 · 动量：新涌现 · 连续1天。\n【为什么关注】带娃出行场景内容持续存在，与 themes_registry.cabin_noise_and_children 同源，但单条信号无趋势意义。",
           "productImplication": "【迁移路径】亲子车厢/连排座位筛选属「无障碍与特殊人群服务」子方向，对应第26迭代探索方向。\n【不做的理由】单条弱信号，业务阶段=萎缩期不投入。\n【观察条件】连续3天累积≥5条再评估。",
           "relations": [],
-          "overview": "高铁带娃出行提示3次提及，新增热点。"
+          "overview": "高铁带娃出行新话题，亲子出行提示需求上升。"
         },
         {
           "key": "ev:官方回应__高铁免提通话",
@@ -166784,7 +167411,7 @@
           "why": "【判断】观察中——车厢文明冲突事件，属公共行为治理，12306与铁路同样无产品化解决方案。\n【数据】近7天4条 / 前23天0条 · 动量：新涌现 · 首次出现 10-14 · streakDays=0。\n【为什么是现在】免提通话连续出现，叠加「女子高铁开免提通话」（2条）共6条，车厢噪音矛盾在Q4持续发酵，与 themes_registry.cabin_noise_and_children 子主题同源。",
           "productImplication": "【迁移路径】静音车厢规则属12306既有能力，OTA无差异化窗口；不建议追起新做。\n【观察条件】若连续2周累积≥10条且衍生「一键反馈/换座请求」类产品诉求，再升级评估。",
           "relations": [],
-          "overview": "高铁免提通话官方回应3次提及，热度上升。"
+          "overview": "高铁免提通话官方回应升温，车厢噪音治理受关注。"
         },
         {
           "key": "ev:官方回应__女子高铁开免提通话",
@@ -166796,7 +167423,19 @@
           "why": "【判断】观察中——与 ev:官方回应__高铁免提通话 同源，属车厢文明冲突个案，非产品需求信号。\n【数据】近7天2条 / 前23天0条 · 动量：新涌现 · 首次出现 10-15 · streakDays=0。\n【为什么是现在】与高铁免提通话（4条）合并构成6条噪音冲突信号，舆论持续但需求侧空白。",
           "productImplication": "【迁移路径】同 ev:官方回应__高铁免提通话；车厢行为治理靠乘务现场，OTA无介入点。\n【观察条件】合并主题信号连续2周≥10条再评估。",
           "relations": [],
-          "overview": "女子高铁开免提通话事件3次提及，新增热点。"
+          "overview": "女子高铁开免提通话新话题，不文明通话引讨论。"
+        },
+        {
+          "key": "th:railway_youth_first_trip_guide",
+          "theme": "学生首乘高铁教学指南",
+          "category": "theme",
+          "mentions": 2,
+          "latestMomentum": "fading",
+          "evidenceCount": 1,
+          "why": "【判断】观察中（0 证据，降权至末位）——方向对，但当前无活跃信号，月度复盘即可。\n【数据】近 7 天 0 条 / 前 3 周 0 条 · 动量：信号休眠。\n【为什么值得跟踪】12306 不做首乘教学，是功能空白；首乘用户正是新客核心来源，与增长战略同向。",
+          "productImplication": "【建议动作】本周期不动工；仅在小程序回流项目中预留「首乘指引」子模块位，待开学季 / 春运信号回升再评估排期。\n【验证（提前定义）】开学 / 春运期首乘内容搜索量 · 小程序回流转化。\n【边界】连续 2 个开学季 / 春运窗口均无信号 → 关闭跟踪。",
+          "relations": [],
+          "overview": "学生首乘高铁教学指南热度回落，首乘内容需求平稳。"
         },
         {
           "key": "th:railway_uncivilized_behavior",
@@ -166808,7 +167447,7 @@
           "why": "",
           "productImplication": "",
           "relations": [],
-          "overview": "车厢不文明行为曝光2次提及，热度下降。"
+          "overview": "车厢不文明行为曝光另一话题降温，讨论分散。"
         },
         {
           "key": "ev:乘车提示__靠窗看沿途风景",
@@ -166820,7 +167459,7 @@
           "why": "【判断】观察中——风景类生活方式内容，属未打通内容能力。\n【数据】近7天1条 / 前23天0条 · 动量：新涌现（实际为旧主题复现，firstSeen=08-03）· streakDays=0。\n【为什么是现在】单条信号无趋势意义，但与 slow_train_nostalgia（heat=2）、exquisite_train_lifestyle 同属车厢生活美学谱系。",
           "productImplication": "【迁移路径】沿途风景/慢车内容依赖内容种草能力（未打通），不构成迁移路径。\n【观察条件】连续3天≥5条再评估。",
           "relations": [],
-          "overview": "靠窗看沿途风景乘车内容2次提及，新增热点。"
+          "overview": "靠窗看沿途风景新话题，旅途体验内容出现。"
         },
         {
           "key": "ev:乘车提示__火车黄豆放屁尴尬",
@@ -166832,7 +167471,7 @@
           "why": "",
           "productImplication": "",
           "relations": [],
-          "overview": "火车黄豆放屁尴尬内容1次提及，新增热点。"
+          "overview": "火车黄豆放屁尴尬新话题，趣味尴尬场景引轻度关注。"
         },
         {
           "key": "ev:其他__武汉男子还清欠款坐绿皮火车",
@@ -166844,19 +167483,7 @@
           "why": "",
           "productImplication": "",
           "relations": [],
-          "overview": "武汉男子还清欠款坐绿皮火车1次提及，新增热点。"
-        },
-        {
-          "key": "ev:陈楚生演唱会__夜间返程列车增开",
-          "theme": "夜间返程列车增开",
-          "category": "event",
-          "mentions": 1,
-          "latestMomentum": "new",
-          "evidenceCount": 2,
-          "why": "",
-          "productImplication": "",
-          "relations": [],
-          "overview": "陈楚生演唱会夜间返程列车增开1次提及，新增热点。"
+          "overview": "武汉男子还清欠款坐绿皮火车新话题，情感叙事受关注。"
         },
         {
           "key": "ev:乘车提示__高铁翻包日记",
@@ -166868,7 +167495,7 @@
           "why": "",
           "productImplication": "",
           "relations": [],
-          "overview": "高铁翻包日记内容1次提及，热度下降。"
+          "overview": "高铁翻包日记话题降温，好物分享热度回落。"
         },
         {
           "key": "ev:乘车提示__女子错过检票跪求放行",
@@ -166880,7 +167507,19 @@
           "why": "",
           "productImplication": "",
           "relations": [],
-          "overview": "女子错过检票跪求放行1次提及，新增热点。"
+          "overview": "女子错过检票跪求放行新话题，检票规则引讨论。"
+        },
+        {
+          "key": "ev:加开专列__肖战南京演唱会",
+          "theme": "肖战南京演唱会",
+          "category": "event",
+          "mentions": 1,
+          "latestMomentum": "new",
+          "evidenceCount": 2,
+          "why": "",
+          "productImplication": "",
+          "relations": [],
+          "overview": "肖战南京演唱会加开专列新话题，粉丝出行需求显现。"
         },
         {
           "key": "ev:票务新规__特快列车恢复开行",
@@ -166892,19 +167531,19 @@
           "why": "",
           "productImplication": "",
           "relations": [],
-          "overview": "特快列车恢复开行新规1次提及，新增热点。"
+          "overview": "特快列车恢复开行新话题，运力调整受关注。"
         },
         {
-          "key": "th:railway_youth_first_trip_guide",
-          "theme": "学生首乘高铁教学指南",
+          "key": "th:train_time_killing_hacks",
+          "theme": "旅途解闷与整活",
           "category": "theme",
           "mentions": 1,
-          "latestMomentum": "stable",
-          "evidenceCount": 0,
-          "why": "【判断】观察中（0 证据，降权至末位）——方向对，但当前无活跃信号，月度复盘即可。\n【数据】近 7 天 0 条 / 前 3 周 0 条 · 动量：信号休眠。\n【为什么值得跟踪】12306 不做首乘教学，是功能空白；首乘用户正是新客核心来源，与增长战略同向。",
-          "productImplication": "【建议动作】本周期不动工；仅在小程序回流项目中预留「首乘指引」子模块位，待开学季 / 春运信号回升再评估排期。\n【验证（提前定义）】开学 / 春运期首乘内容搜索量 · 小程序回流转化。\n【边界】连续 2 个开学季 / 春运窗口均无信号 → 关闭跟踪。",
+          "latestMomentum": "fading",
+          "evidenceCount": 1,
+          "why": "主题：高铁旅途解闷与抽象整活，记录吃播、巨大面条、自拍变天使等旅途娱乐内容。\n关注理由：12306不做旅途内容推荐——是功能空白区。携程C1内容能力存在但未打通到火车票场景，themes_registry建议『车厢内容可挂载外卖/零食购买入口做场景转化』。",
+          "productImplication": "①不触及已有能力：携程行程服务中无旅途内容/餐饮推荐模块，C1内容能力未打通。\n②无roadmap对应项（内容嵌入购票尚未排期）。\n③动作建议：方向是C1差异化金矿的核心场景——在行程详情页嵌入『按剩余时长推荐内容/餐饮』是12306完全不做的事，一旦内容能力打通可承接社媒流量转化。待信号持续回升后升级P1评估，优先与C1内容打通项目同步推进。",
           "relations": [],
-          "overview": "学生首乘高铁教学指南1次提及，热度平稳。"
+          "overview": "旅途解闷与整活话题降温，内容热度走低。"
         },
         {
           "key": "ev:乘车提示__高铁和朋友玩游戏",
@@ -166916,7 +167555,7 @@
           "why": "",
           "productImplication": "",
           "relations": [],
-          "overview": "高铁和朋友玩游戏内容1次提及，新增热点。"
+          "overview": "高铁和朋友玩游戏新话题，旅途娱乐内容出现。"
         },
         {
           "key": "ev:官方回应__男童坠入站台缝隙",
@@ -166928,7 +167567,7 @@
           "why": "",
           "productImplication": "",
           "relations": [],
-          "overview": "男童坠入站台缝隙官方回应1次提及，热度上升。"
+          "overview": "男童坠入站台缝隙官方回应升温，站台安全受关注。"
         },
         {
           "key": "ev:其他__列车长口误马上起飞",
@@ -166940,104 +167579,105 @@
           "why": "",
           "productImplication": "",
           "relations": [],
-          "overview": "列车长口误马上起飞1次提及，热度下降。"
+          "overview": "列车长口误马上起飞话题降温，趣味片段热度回落。"
         }
       ],
       "mainlines": [
         {
-          "name": "服务与无障碍体验",
-          "meaning": "老年、女性、无障碍等人群服务与乘车体验诉求集中，需优化重点旅客服务",
-          "keys": [
-            "th:railway_accessible_and_service",
-            "ev:其他__96岁老人独自坐火车进藏",
-            "ev:乘车提示__96岁老人独自坐火车进藏",
-            "th:female_safety_and_space",
-            "ev:票务新规__12306敬字车次老年优惠",
-            "th:railway_youth_first_trip_guide"
-          ]
-        },
-        {
-          "name": "车厢文明与空间秩序",
-          "meaning": "占座、噪音、不文明行为等空间秩序话题持续，影响乘车体验口碑",
-          "keys": [
-            "th:seat_space_boundary",
-            "th:cabin_uncivilized_behavior",
-            "th:railway_uncivilized_behavior",
-            "th:cabin_noise_and_children",
-            "ev:官方回应__高铁免提通话",
-            "ev:官方回应__女子高铁开免提通话",
-            "ev:官方回应__高铁座位排便"
-          ]
-        },
-        {
-          "name": "票务规则与出行指引",
-          "meaning": "车次编排、改签、学生票等规则变化需清晰传达，避坑类内容需求稳定",
+          "name": "票务规则与适老服务",
+          "meaning": "车次编排、老年优惠、学生票及外籍改签等规则变化需清晰传达",
           "keys": [
             "th:railway_rules_and_hacks",
             "ev:票务新规__国铁车次编排调整",
             "ev:票务新规__外籍客商车票改签",
+            "ev:票务新规__12306敬字车次老年优惠",
             "ev:学生票新规__初中生高铁学生票",
             "ev:票务新规__特快列车恢复开行"
           ]
         },
         {
-          "name": "乘车场景内容传播",
-          "meaning": "售货员、化妆、带娃等乘车日常易成社交热点，可作正向内容运营素材",
+          "name": "车厢文明与空间边界",
+          "meaning": "占座、噪音、不文明行为及女性安全等空间冲突需引导与规则支撑",
+          "keys": [
+            "th:seat_space_boundary",
+            "th:cabin_uncivilized_behavior",
+            "th:railway_uncivilized_behavior",
+            "th:cabin_noise_and_children",
+            "th:female_safety_and_space",
+            "ev:官方回应__高铁座位排便",
+            "ev:官方回应__高铁免提通话",
+            "ev:官方回应__女子高铁开免提通话"
+          ]
+        },
+        {
+          "name": "无障碍与重点旅客",
+          "meaning": "无障碍设施吐槽与高龄老人独自出行反映重点旅客服务缺口",
+          "keys": [
+            "th:railway_accessible_and_service",
+            "ev:其他__96岁老人独自坐火车进藏",
+            "ev:乘车提示__96岁老人独自坐火车进藏",
+            "ev:官方回应__男童坠入站台缝隙"
+          ]
+        },
+        {
+          "name": "旅途趣味与出行场景",
+          "meaning": "售货员整活、邻座盲盒、化妆带娃等场景可转化为内容运营素材",
           "keys": [
             "ev:乘车提示__高铁售货员心理建设",
             "ev:乘车提示__高铁新手售货员小哥",
-            "th:train_neighbor_blindbox",
             "th:exquisite_train_lifestyle",
+            "th:train_neighbor_blindbox",
             "ev:乘车提示__高铁沉浸式化妆",
-            "ev:高铁站__偶遇外国友人展示纪念品",
             "ev:乘车提示__高铁带娃出行",
+            "th:railway_youth_first_trip_guide",
+            "th:train_time_killing_hacks",
             "ev:乘车提示__靠窗看沿途风景",
-            "ev:乘车提示__火车黄豆放屁尴尬",
             "ev:乘车提示__高铁翻包日记",
             "ev:乘车提示__高铁和朋友玩游戏",
+            "ev:高铁站__偶遇外国友人展示纪念品",
             "ev:其他__列车长口误马上起飞",
-            "ev:陈楚生演唱会__夜间返程列车增开",
+            "ev:乘车提示__火车黄豆放屁尴尬",
             "ev:其他__武汉男子还清欠款坐绿皮火车",
             "ev:乘车提示__女子错过检票跪求放行",
-            "ev:官方回应__男童坠入站台缝隙",
+            "ev:加开专列__肖战南京演唱会",
             "ev:其他__铁路吸烟诉讼驳回"
           ]
         }
       ],
       "actions": [
         {
-          "text": "针对老年及无障碍旅客，强化重点旅客预约、专人引导与适老化服务宣传，借势正能量事件做服务口碑传播",
+          "text": "针对老年优惠、学生票及外籍改签制作一图读懂与12306弹窗提示，减少规则误解。",
+          "basedOn": [
+            "ev:票务新规__12306敬字车次老年优惠",
+            "ev:学生票新规__初中生高铁学生票",
+            "ev:票务新规__外籍客商车票改签",
+            "th:railway_rules_and_hacks"
+          ]
+        },
+        {
+          "text": "在车厢屏显与广播增加占座、免提通话、儿童噪音的柔性提示，并公示处置流程。",
+          "basedOn": [
+            "th:seat_space_boundary",
+            "ev:官方回应__女子高铁开免提通话",
+            "th:cabin_noise_and_children",
+            "th:cabin_uncivilized_behavior"
+          ]
+        },
+        {
+          "text": "完善无障碍预约与重点旅客接力服务，站台加装防坠提示，回应高龄独自出行需求。",
           "basedOn": [
             "th:railway_accessible_and_service",
             "ev:其他__96岁老人独自坐火车进藏",
-            "ev:票务新规__12306敬字车次老年优惠"
+            "ev:官方回应__男童坠入站台缝隙"
           ]
         },
         {
-          "text": "围绕占座、噪音、免提通话等高频争议，完善车厢文明提示与乘务干预话术，统一官方回应口径",
-          "basedOn": [
-            "th:seat_space_boundary",
-            "th:cabin_noise_and_children",
-            "ev:官方回应__高铁免提通话",
-            "ev:官方回应__女子高铁开免提通话"
-          ]
-        },
-        {
-          "text": "将车次编排、改签、学生票等新规做成图文避坑指南，在购票节点精准推送，降低误乘纠纷",
-          "basedOn": [
-            "th:railway_rules_and_hacks",
-            "ev:票务新规__国铁车次编排调整",
-            "ev:票务新规__外籍客商车票改签",
-            "ev:学生票新规__初中生高铁学生票"
-          ]
-        },
-        {
-          "text": "借售货员、带娃、邻座偶遇等轻内容策划乘车场景话题，放大正向UGC并联动夜间增开列车宣传",
+          "text": "将售货员整活、邻座盲盒等趣味内容做成系列短视频，提升旅途场景好感度。",
           "basedOn": [
             "ev:乘车提示__高铁售货员心理建设",
             "ev:乘车提示__高铁新手售货员小哥",
             "th:train_neighbor_blindbox",
-            "ev:陈楚生演唱会__夜间返程列车增开"
+            "th:exquisite_train_lifestyle"
           ]
         }
       ]
